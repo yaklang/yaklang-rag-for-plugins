@@ -1,0 +1,11 @@
+{
+  "app": "thinkcmf",
+  "reason": "",
+  "seo": "thinkcmf,write shell漏洞,插件,检测",
+  "seo_en": "thinkcmf,write shell vulnerability,plugin,detection",
+  "success": true,
+  "summary": "该插件用于检测thinkcmf系统是否存在write shell漏洞，通过构造特定的请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the thinkcmf system has a write shell vulnerability, by constructing specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999590,
+  "uuid": "f0b6df54-3536-4d6a-880e-4ce51bb1237a"
+}

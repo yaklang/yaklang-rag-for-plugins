@@ -1,0 +1,11 @@
+{
+  "app": "ThinkPHP",
+  "reason": "",
+  "seo": "ThinkPHP,漏洞检测,命令执行,RCE,被动扫描",
+  "seo_en": "ThinkPHP, vulnerability detection, command execution, RCE, passive scanning",
+  "success": true,
+  "summary": "该插件用于检测ThinkPHP框架中的远程代码执行（RCE）漏洞，通过发送特定payload来验证是否存在命令执行漏洞，并判断操作系统类型。",
+  "summary_en": "This plugin is used to detect Remote Code Execution (RCE) vulnerabilities in the ThinkPHP framework by sending specific payloads to verify the existence of command execution vulnerabilities and determine the operating system type.",
+  "updated_at": 1742999604,
+  "uuid": "09e1d6c4-4b4d-4a49-9b8c-ab45d31437dd"
+}

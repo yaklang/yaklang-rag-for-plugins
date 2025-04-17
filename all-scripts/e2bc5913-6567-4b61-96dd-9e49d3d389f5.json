@@ -1,0 +1,11 @@
+{
+  "app": "用友U8 Cloud",
+  "reason": "",
+  "seo": "用友U8 Cloud,SQL注入漏洞,复现,XVE-2024-4628",
+  "seo_en": "Yonyou U8 Cloud,SQL Injection Vulnerability,Reproduction,XVE-2024-4628",
+  "success": true,
+  "summary": "检测用友U8 Cloud MeasureQueryByToolAction是否存在SQL注入漏洞，通过构造特定请求并检测响应时间来判断漏洞是否存在",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in Yonyou U8 Cloud MeasureQueryByToolAction by constructing specific requests and checking the response time to determine if the vulnerability exists",
+  "updated_at": 1742999569,
+  "uuid": "e2bc5913-6567-4b61-96dd-9e49d3d389f5"
+}

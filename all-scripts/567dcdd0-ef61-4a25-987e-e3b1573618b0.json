@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Nuclei,批量扫描,漏洞检测,插件",
+  "seo_en": "Nuclei,batch scan,vulnerability detection,plugin",
+  "success": true,
+  "summary": "该插件使用Nuclei进行批量扫描，支持通过目标、标签、严重性等级等参数自定义扫描配置，检测目标中存在的安全漏洞。",
+  "summary_en": "This plugin performs batch scanning using Nuclei. It supports customizing scan configurations through parameters such as targets, tags, and severity levels to detect security vulnerabilities in the targets.",
+  "updated_at": 1742999593,
+  "uuid": "567dcdd0-ef61-4a25-987e-e3b1573618b0"
+}

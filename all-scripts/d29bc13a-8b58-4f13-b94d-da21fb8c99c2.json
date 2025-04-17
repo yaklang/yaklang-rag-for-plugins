@@ -1,0 +1,11 @@
+{
+  "app": "PowerPMS",
+  "reason": "",
+  "seo": "上海普华科技发展股份有限公司,PowerPMS,SQL注入漏洞",
+  "seo_en": "Shanghai PuHua Technology,PowerPMS,SQL Injection Vulnerability",
+  "success": true,
+  "summary": "检测上海普华科技发展股份有限公司的PowerPMS应用是否存在SQL注入漏洞，通过延时判断漏洞是否存在",
+  "summary_en": "Detect SQL injection vulnerabilities in PowerPMS application by Shanghai PuHua Technology. The vulnerability is identified using a delay-based method",
+  "updated_at": 1742999569,
+  "uuid": "d29bc13a-8b58-4f13-b94d-da21fb8c99c2"
+}

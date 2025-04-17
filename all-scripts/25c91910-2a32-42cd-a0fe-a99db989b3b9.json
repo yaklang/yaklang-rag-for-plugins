@@ -1,0 +1,11 @@
+{
+  "app": "Spring Cloud Gateway",
+  "reason": "",
+  "seo": "Spring Cloud Gateway,远程代码执行,漏洞利用,EXP",
+  "seo_en": "Spring Cloud Gateway, Remote Code Execution, Vulnerability Exploit, EXP",
+  "success": true,
+  "summary": "该插件针对Spring Cloud Gateway的远程代码执行漏洞进行利用，通过构造特定的HTTP请求来创建、确认和查询恶意路由，以实现命令执行。",
+  "summary_en": "This plugin exploits a Remote Code Execution vulnerability in Spring Cloud Gateway by constructing specific HTTP requests to create, confirm, and query malicious routes for command execution.",
+  "updated_at": 1742999587,
+  "uuid": "25c91910-2a32-42cd-a0fe-a99db989b3b9"
+}

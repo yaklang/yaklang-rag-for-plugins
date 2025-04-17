@@ -1,0 +1,11 @@
+{
+  "app": "赛蓝企业管理系统",
+  "reason": "",
+  "seo": "赛蓝企业管理系统,SQL注入漏洞,GetImportDetailJson",
+  "seo_en": "Chailiang Enterprise Management System,SQL injection vulnerability,GetImportDetailJson",
+  "success": true,
+  "summary": "检测赛蓝企业管理系统中GetImportDetailJson是否存在SQL注入漏洞",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in GetImportDetailJson of Chailiang Enterprise Management System",
+  "updated_at": 1742999569,
+  "uuid": "b9720e7c-126a-490a-bc96-381abce63551"
+}

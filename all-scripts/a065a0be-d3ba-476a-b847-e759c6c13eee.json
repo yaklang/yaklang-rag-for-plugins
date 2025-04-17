@@ -1,0 +1,11 @@
+{
+  "app": "泛微OA E-cology",
+  "reason": "",
+  "seo": "泛微OA,漏洞检测,远程命令执行,RCE,CNVD-2019-32204",
+  "seo_en": "E-cology, vulnerability detection, RCE, CNVD-2019-32204",
+  "success": true,
+  "summary": "该插件用于检测泛微OA E-cology系统中的CNVD-2019-32204远程命令执行漏洞，通过发送特定payload验证是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the CNVD-2019-32204 Remote Code Execution vulnerability in the E-cology system of Weaving OA. It verifies the existence of the vulnerability by sending specific payloads.",
+  "updated_at": 1742999593,
+  "uuid": "a065a0be-d3ba-476a-b847-e759c6c13eee"
+}

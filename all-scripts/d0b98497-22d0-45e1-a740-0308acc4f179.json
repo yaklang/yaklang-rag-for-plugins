@@ -1,0 +1,11 @@
+{
+  "app": "用友NC系统",
+  "reason": "",
+  "seo": "用友,UFIDA,NC系统,未授权访问,漏洞",
+  "seo_en": "Yonyou, UFIDA, NC system, unauthorized access, vulnerability",
+  "success": true,
+  "summary": "检测用友NC系统的ActionServlet未授权访问漏洞，攻击者可能通过该漏洞获取账户信息。",
+  "summary_en": "Detect the unauthorized access vulnerability of ActionServlet in Yonyou NC system. Attackers may exploit this vulnerability to obtain account information.",
+  "updated_at": 1742999581,
+  "uuid": "d0b98497-22d0-45e1-a740-0308acc4f179"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Zimbra Collaboration Suite",
+  "reason": "",
+  "seo": "Zimbra,XXE漏洞,CVE-2019-9670,配置文件读取",
+  "seo_en": "Zimbra,XXE vulnerability,CVE-2019-9670,configuration file read",
+  "success": true,
+  "summary": "检测Zimbra Collaboration Suite是否存在CVE-2019-9670 XXE漏洞，该漏洞可导致配置文件读取问题",
+  "summary_en": "Detect whether Zimbra Collaboration Suite has CVE-2019-9670 XXE vulnerability, which can lead to configuration file reading issues",
+  "updated_at": 1742999589,
+  "uuid": "3d7c6a78-6098-4676-b6d7-e01ba51b979e"
+}

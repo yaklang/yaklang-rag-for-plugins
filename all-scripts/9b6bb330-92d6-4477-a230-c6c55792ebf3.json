@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "HTTP测试服务器,插件,自定义编码解码,Webfuzzer",
+  "seo_en": "HTTP test server, plugin, custom encoding decoding, Webfuzzer",
+  "success": true,
+  "summary": "该插件用于搭建一个临时的HTTP测试服务器，存活时间为1分钟，主要用于查看Webfuzzer发送的报文内容，并支持自定义编码解码和字符串处理函数。",
+  "summary_en": "This plugin sets up a temporary HTTP test server that lasts for 1 minute, mainly used to inspect the messages sent by Webfuzzer, and supports custom encoding/decoding and string processing functions.",
+  "updated_at": 1742999569,
+  "uuid": "9b6bb330-92d6-4477-a230-c6c55792ebf3"
+}

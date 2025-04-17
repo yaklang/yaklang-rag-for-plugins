@@ -1,0 +1,11 @@
+{
+  "app": "ColdFusion",
+  "reason": "",
+  "seo": "coldfusion,cve-2010-2861,漏洞检测,文件包含",
+  "seo_en": "coldfusion,cve-2010-2861,vulnerability detection,file inclusion",
+  "success": true,
+  "summary": "该插件用于检测ColdFusion应用中是否存在CVE-2010-2861文件包含漏洞，通过发送特定payload并验证响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect the CVE-2010-2861 file inclusion vulnerability in ColdFusion applications by sending a specific payload and verifying the response content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999599,
+  "uuid": "c9e4740c-8668-4336-965c-375dc2af3cca"
+}

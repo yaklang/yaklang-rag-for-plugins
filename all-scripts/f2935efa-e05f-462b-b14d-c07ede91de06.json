@@ -1,0 +1,11 @@
+{
+  "app": "某众合百易信息技术资产管理运营系统",
+  "reason": "",
+  "seo": "某众合百易,comfileup.php,前台文件上传漏洞,资产管理运营系统",
+  "seo_en": "Zhonghe Baiyi,comfileup.php,front-end file upload vulnerability,asset management operation system",
+  "success": true,
+  "summary": "检测某众合百易信息技术资产管理运营系统是否存在comfileup.php前台文件上传漏洞",
+  "summary_en": "Detect whether the Zhonghe Baiyi Information Technology Asset Management Operation System has a front-end file upload vulnerability in comfileup.php",
+  "updated_at": 1742999573,
+  "uuid": "f2935efa-e05f-462b-b14d-c07ede91de06"
+}

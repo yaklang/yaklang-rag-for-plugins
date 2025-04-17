@@ -1,0 +1,11 @@
+{
+  "app": "openstack-nova",
+  "reason": "",
+  "seo": "openstack,nova,未可信站点,url重定向,开放重定向,漏洞",
+  "seo_en": "openstack,nova,untrusted sites,url redirection,open redirection,vulnerability",
+  "success": true,
+  "summary": "检测openstack-nova的console proxy（noVNC）是否存在开放重定向漏洞，该漏洞允许通过构造恶意URL重定向到任意站点。",
+  "summary_en": "Detect whether there is an open redirection vulnerability in the console proxy (noVNC) of openstack-nova. This vulnerability allows redirection to any site through a crafted malicious URL.",
+  "updated_at": 1742999592,
+  "uuid": "b6fac8c0-5ac5-4493-bb96-c44ea3e548fc"
+}

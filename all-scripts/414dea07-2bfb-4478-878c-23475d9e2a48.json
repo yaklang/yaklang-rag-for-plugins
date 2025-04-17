@@ -1,0 +1,11 @@
+{
+  "app": "GitLab",
+  "reason": "",
+  "seo": "GitLab,SSRF,Redis,RCE,CVE-2018-19571",
+  "seo_en": "GitLab,SSRF,Redis,RCE,CVE-2018-19571",
+  "success": true,
+  "summary": "该插件用于检测GitLab 11.4.7版本中的SSRF漏洞，该漏洞可能导致Redis远程代码执行（RCE），并利用CVE-2018-19571进行验证。",
+  "summary_en": "This plugin is used to detect an SSRF vulnerability in GitLab 11.4.7 that may lead to Redis Remote Code Execution (RCE), and it validates using CVE-2018-19571.",
+  "updated_at": 1742999596,
+  "uuid": "414dea07-2bfb-4478-878c-23475d9e2a48"
+}

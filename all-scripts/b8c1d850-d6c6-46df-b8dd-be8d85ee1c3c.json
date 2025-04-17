@@ -1,0 +1,11 @@
+{
+  "app": "PbootCMS",
+  "reason": "",
+  "seo": "PbootCMS,SQL注入漏洞,CVE-2018-16357,漏洞检测",
+  "seo_en": "PbootCMS,SQL injection vulnerability,CVE-2018-16357,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测PbootCMS是否存在CVE-2018-16357 SQL注入漏洞，通过发送特定payload并分析响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether PbootCMS has the CVE-2018-16357 SQL injection vulnerability by sending a specific payload and analyzing the response to confirm the existence of the vulnerability.",
+  "updated_at": 1742999592,
+  "uuid": "b8c1d850-d6c6-46df-b8dd-be8d85ee1c3c"
+}

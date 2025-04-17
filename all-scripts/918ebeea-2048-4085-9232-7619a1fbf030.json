@@ -1,0 +1,11 @@
+{
+  "app": "Resin",
+  "reason": "",
+  "seo": "Resin,漏洞,文件读取,在线检测",
+  "seo_en": "Resin,vulnerability,file read,online detection",
+  "success": true,
+  "summary": "该插件用于检测Resin服务器是否存在viewfile文件读取漏洞，通过发送特定请求判断服务器是否可被利用。",
+  "summary_en": "This plugin is used to detect whether the Resin server has the viewfile file read vulnerability, and determines whether the server can be exploited by sending specific requests.",
+  "updated_at": 1742999591,
+  "uuid": "918ebeea-2048-4085-9232-7619a1fbf030"
+}

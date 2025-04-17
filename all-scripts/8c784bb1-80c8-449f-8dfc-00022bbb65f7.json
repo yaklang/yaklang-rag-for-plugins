@@ -1,0 +1,11 @@
+{
+  "app": "Spring Cloud",
+  "reason": "",
+  "seo": "Spring Cloud,CVE-2022-22947,SpEL表达式注入,命令执行漏洞",
+  "seo_en": "Spring Cloud,CVE-2022-22947,SpEL expression injection,command execution vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Spring Cloud Gateway Actuator API是否存在SpEL表达式注入命令执行(CVE-2022-22947)漏洞，通过构造特定请求验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether there is a SpEL expression injection command execution (CVE-2022-22947) vulnerability in the Spring Cloud Gateway Actuator API. It verifies whether the target system is affected by constructing specific requests.",
+  "updated_at": 1742999602,
+  "uuid": "8c784bb1-80c8-449f-8dfc-00022bbb65f7"
+}

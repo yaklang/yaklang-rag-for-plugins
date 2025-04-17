@@ -1,0 +1,11 @@
+{
+  "app": "zzcms",
+  "reason": "",
+  "seo": "zzcms, zsmanage, sqli, 漏洞, 在线检测",
+  "seo_en": "zzcms, zsmanage, sqli, vulnerability, online detection",
+  "success": true,
+  "summary": "该插件用于检测zzcms系统中的zsmanage SQL注入漏洞，通过发送特定的HTTP请求来判断目标是否存在该漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the zsmanage of zzcms system by sending specific HTTP requests to determine if the target is vulnerable.",
+  "updated_at": 1742999588,
+  "uuid": "90550308-1db2-438b-a423-a84566b819f9"
+}

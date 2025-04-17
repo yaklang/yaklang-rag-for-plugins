@@ -1,0 +1,11 @@
+{
+  "app": "用友GRP A++Cloud 政府财务云",
+  "reason": "",
+  "seo": "用友GRP,SQL注入漏洞,政府财务云",
+  "seo_en": "Yonyou GRP,SQL Injection Vulnerability,Government Finance Cloud",
+  "success": true,
+  "summary": "检测用友GRP A++Cloud 政府财务云是否存在selectGlaDatasourcePreview SQL注入漏洞",
+  "summary_en": "Detect whether the Yonyou GRP A++Cloud Government Finance Cloud has a selectGlaDatasourcePreview SQL injection vulnerability",
+  "updated_at": 1742999571,
+  "uuid": "7be96c16-14ea-4847-8421-95a0c6d0c604"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "华为USG",
+  "reason": "",
+  "seo": "华为USG,指纹检测,默认口令,弱口令,安全网关",
+  "seo_en": "Huawei USG, fingerprint detection, default password, weak password, security gateway",
+  "success": true,
+  "summary": "检测华为USG设备的指纹信息和默认口令（admin/Admin@123），并判断是否存在弱口令风险以及可能的安全威胁。",
+  "summary_en": "Detect fingerprint information and default credentials (admin/Admin@123) for Huawei USG devices, and assess potential weak password risks and security threats.",
+  "updated_at": 1742999585,
+  "uuid": "cabbb04b-0b37-4750-a416-ceefa9880446"
+}

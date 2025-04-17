@@ -1,0 +1,11 @@
+{
+  "app": "三星 WLAN AP WEA453e",
+  "reason": "",
+  "seo": "三星, WLAN AP, WEA453e, 远程命令执行, 漏洞",
+  "seo_en": "Samsung, WLAN AP, WEA453e, Remote Command Execution, Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测三星 WLAN AP WEA453e 设备是否存在远程命令执行漏洞，通过发送特定请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect if the Samsung WLAN AP WEA453e device has a remote command execution vulnerability by sending specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999591,
+  "uuid": "b4e0d5e5-d93d-4c94-94ac-a798de068034"
+}

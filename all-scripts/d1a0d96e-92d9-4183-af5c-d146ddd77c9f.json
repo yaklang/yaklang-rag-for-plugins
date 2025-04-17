@@ -1,0 +1,11 @@
+{
+  "app": "FOG Project",
+  "reason": "",
+  "seo": "FOG Project,命令注入漏洞,安全检测,漏洞插件",
+  "seo_en": "FOG Project,Command Injection Vulnerability,Security Testing,Vulnerability Plugin",
+  "success": true,
+  "summary": "该插件用于检测FOG Project应用中是否存在命令注入漏洞，通过构造恶意请求触发漏洞并验证其存在性。",
+  "summary_en": "This plugin is used to detect command injection vulnerabilities in the FOG Project application by constructing malicious requests to trigger and verify the vulnerability.",
+  "updated_at": 1742999570,
+  "uuid": "d1a0d96e-92d9-4183-af5c-d146ddd77c9f"
+}

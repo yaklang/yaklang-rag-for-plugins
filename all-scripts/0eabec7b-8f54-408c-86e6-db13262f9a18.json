@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "PHP伪协议,文件包含漏洞,远程代码执行,信息泄露,系统文件访问,会话劫持",
+  "seo_en": "PHP pseudo-protocol,file inclusion vulnerability,remote code execution,information disclosure,system file access,session hijacking",
+  "success": true,
+  "summary": "该插件用于检测PHP应用中是否存在文件包含漏洞，利用PHP伪协议和base64编码特性，检查是否可以通过用户输入包含恶意文件或执行恶意代码。",
+  "summary_en": "This plugin is used to detect file inclusion vulnerabilities in PHP applications, leveraging PHP pseudo-protocols and base64 encoding features to check if malicious files can be included or malicious code can be executed through user input.",
+  "updated_at": 1740203645,
+  "uuid": "0eabec7b-8f54-408c-86e6-db13262f9a18"
+}

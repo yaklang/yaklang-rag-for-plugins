@@ -1,0 +1,11 @@
+{
+  "app": "rsync",
+  "reason": "",
+  "seo": "rsync未授权访问漏洞,信息窃取,权限许可和访问控制",
+  "seo_en": "rsync unauthorized access vulnerability,data theft,permission and access control",
+  "success": true,
+  "summary": "该插件用于检测rsync服务是否存在未授权访问漏洞，可能导致信息窃取等问题。",
+  "summary_en": "This plugin is used to detect whether the rsync service has an unauthorized access vulnerability, which may lead to data theft issues.",
+  "updated_at": 1742999585,
+  "uuid": "b120664f-686b-4694-864b-ed2ffb80bca3"
+}

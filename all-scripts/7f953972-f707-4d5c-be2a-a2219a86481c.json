@@ -1,0 +1,11 @@
+{
+  "app": "Mura CMS",
+  "reason": "",
+  "seo": "Mura CMS,SQL注入,高危漏洞,棉花糖,插件",
+  "seo_en": "Mura CMS,SQL Injection,High Risk Vulnerability,Plugin",
+  "success": true,
+  "summary": "检测Mura CMS是否存在SQL注入漏洞，该漏洞可能导致数据泄露或被恶意利用。",
+  "summary_en": "Detect SQL injection vulnerabilities in Mura CMS, which may lead to data breaches or malicious exploitation.",
+  "updated_at": 1742999579,
+  "uuid": "7f953972-f707-4d5c-be2a-a2219a86481c"
+}

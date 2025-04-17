@@ -1,0 +1,11 @@
+{
+  "app": "Apache Skywalking",
+  "reason": "",
+  "seo": "Apache Skywalking,SQL注入漏洞,8.3.0版本,漏洞检测",
+  "seo_en": "Apache Skywalking,SQL Injection Vulnerability,Version 8.3.0,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Apache Skywalking 8.3.0版本中存在的SQL注入漏洞，通过发送特定的POST请求来判断目标是否存在漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in Apache Skywalking version 8.3.0 by sending a specific POST request to determine if the target is vulnerable.",
+  "updated_at": 1742999599,
+  "uuid": "7e9201b8-1a8c-40f9-a615-d7181039f0af"
+}

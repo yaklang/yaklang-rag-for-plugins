@@ -1,0 +1,11 @@
+{
+  "app": "WordPress User Post Gallery - UPG Plugin",
+  "reason": "",
+  "seo": "CVE-2022-4060,WordPress,远程代码执行漏洞,RCE,插件漏洞检测",
+  "seo_en": "CVE-2022-4060,WordPress,Remote Code Execution,RCE,Plugin Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测WordPress User Post Gallery - UPG Plugin \u003c= 2.19版本是否存在远程代码执行（RCE）漏洞，通过发送特定请求判断目标系统是否受漏洞影响。",
+  "summary_en": "This plugin is used to detect whether the WordPress User Post Gallery - UPG Plugin \u003c= 2.19 version has a Remote Code Execution (RCE) vulnerability, and determines if the target system is affected by sending specific requests.",
+  "updated_at": 1742999586,
+  "uuid": "6f43cdda-5efa-4327-ac74-b970a8d59462"
+}

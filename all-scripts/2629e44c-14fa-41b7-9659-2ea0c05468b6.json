@@ -1,0 +1,11 @@
+{
+  "app": "FineReport",
+  "reason": "",
+  "seo": "FineReport, CNVD-2018-04757, 任意文件读取漏洞, 漏洞检测",
+  "seo_en": "FineReport, CNVD-2018-04757, Arbitrary File Read Vulnerability, Vulnerability Detection",
+  "success": true,
+  "summary": "检测FineReport 8.0是否存在CNVD-2018-04757任意文件读取漏洞",
+  "summary_en": "Detect whether FineReport 8.0 has the CNVD-2018-04757 arbitrary file read vulnerability",
+  "updated_at": 1742999599,
+  "uuid": "2629e44c-14fa-41b7-9659-2ea0c05468b6"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "VMware vCenter",
+  "reason": "",
+  "seo": "VMware, vCenter, CVE-2021-21972, 漏洞检测, 文件上传, 认证绕过",
+  "seo_en": "VMware, vCenter, CVE-2021-21972, vulnerability detection, file upload, authentication bypass",
+  "success": true,
+  "summary": "该插件用于检测VMware vCenter是否存在CVE-2021-21972漏洞，即任意文件上传（认证绕过）漏洞。",
+  "summary_en": "This plugin is used to detect whether VMware vCenter has the CVE-2021-21972 vulnerability, which allows arbitrary file upload (authentication bypass).",
+  "updated_at": 1742999602,
+  "uuid": "ca394063-25a7-4545-9e49-dd6ba0112bb2"
+}

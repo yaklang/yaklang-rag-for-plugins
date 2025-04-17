@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "pprof,异常分析,性能瓶颈,内存占用,CPU占用",
+  "seo_en": "pprof, anomaly analysis, performance bottleneck, memory usage, CPU usage",
+  "success": true,
+  "summary": "该插件用于检测程序中的性能瓶颈，例如异常的CPU和内存占用率，通过生成profile文件帮助开发者进行优化。",
+  "summary_en": "This plugin is used to detect performance bottlenecks in the program, such as abnormal CPU and memory usage, and helps developers optimize by generating profile files.",
+  "updated_at": 1742999580,
+  "uuid": "a96fd3c5-c2f4-43aa-8f77-3f898a478b12"
+}

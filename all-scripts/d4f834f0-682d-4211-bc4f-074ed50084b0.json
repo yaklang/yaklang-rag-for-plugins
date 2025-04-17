@@ -1,0 +1,11 @@
+{
+  "app": "用友U8 Cloud系统",
+  "reason": "",
+  "seo": "用友U8,云ERP,XXE漏洞,数据泄露,远控",
+  "seo_en": "Yonyou U8,Cloud ERP,XXE vulnerability,data leakage,remote control",
+  "success": true,
+  "summary": "检测用友U8 Cloud系统的XChangeServlet接口是否存在XXE漏洞，该漏洞可能导致服务器数据泄露和被远控",
+  "summary_en": "Detect XXE vulnerability in the XChangeServlet interface of Yonyou U8 Cloud system, which may lead to server data leakage and remote control",
+  "updated_at": 1742999575,
+  "uuid": "d4f834f0-682d-4211-bc4f-074ed50084b0"
+}

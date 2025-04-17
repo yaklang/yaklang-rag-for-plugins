@@ -1,0 +1,11 @@
+{
+  "app": "Docker",
+  "reason": "",
+  "seo": "Docker,CVE,合规检查,漏洞检测,安全审计",
+  "seo_en": "Docker,CVE,compliance check,vulnerability detection,security audit",
+  "success": true,
+  "summary": "该插件旨在对Docker相关的CVE漏洞进行合规性检查，检测多个版本中存在的安全问题，包括权限提升、代码执行、信息泄露等高危漏洞。",
+  "summary_en": "This plugin is designed to perform compliance checks on Docker-related CVE vulnerabilities, detecting security issues in multiple versions, including privilege escalation, code execution, information disclosure, and other high-risk vulnerabilities.",
+  "updated_at": 1742999585,
+  "uuid": "b8f059d4-77fa-488c-a0d9-ddf99f90b528"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "大华-智能物联综合管理平台",
+  "reason": "",
+  "seo": "大华,智能物联,远程命令执行,fastjson",
+  "seo_en": "Dahua,Smart IoT,RCE,fastjson",
+  "success": true,
+  "summary": "检测大华-智能物联综合管理平台是否存在基于fastjson的远程命令执行漏洞",
+  "summary_en": "Detect Remote Command Execution vulnerability based on fastjson in Dahua Smart IoT Management Platform",
+  "updated_at": 1742999581,
+  "uuid": "f765bb7a-1a82-4862-b77d-ae476f198080"
+}

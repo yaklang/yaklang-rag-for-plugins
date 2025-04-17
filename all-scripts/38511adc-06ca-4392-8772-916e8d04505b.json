@@ -1,0 +1,11 @@
+{
+  "app": "RockMongo",
+  "reason": "",
+  "seo": "rockmongo,默认密码漏洞,安全检测",
+  "seo_en": "rockmongo,default password vulnerability,security detection",
+  "success": true,
+  "summary": "该插件用于检测RockMongo是否存在默认用户名和密码（admin/admin）的漏洞，通过发送POST请求验证登录状态。如果返回302且重定向到特定页面，则说明存在漏洞。",
+  "summary_en": "This plugin is used to detect whether RockMongo has the default username and password (admin/admin) vulnerability by sending a POST request to verify the login status. If it returns 302 and redirects to a specific page, it indicates the presence of a vulnerability.",
+  "updated_at": 1742999591,
+  "uuid": "38511adc-06ca-4392-8772-916e8d04505b"
+}

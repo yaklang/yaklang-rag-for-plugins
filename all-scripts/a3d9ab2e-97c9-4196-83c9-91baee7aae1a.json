@@ -1,0 +1,11 @@
+{
+  "app": "NocoDB",
+  "reason": "",
+  "seo": "NocoDB,任意文件读取漏洞,CVE-2023-35843,文件读取,漏洞检测",
+  "seo_en": "NocoDB,Arbitrary File Read Vulnerability,CVE-2023-35843,File Reading,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测NocoDB应用是否存在CVE-2023-35843任意文件读取漏洞，通过构造特定请求尝试读取系统敏感文件（如/etc/passwd）以验证漏洞存在性。",
+  "summary_en": "This plugin is used to detect whether the NocoDB application has the CVE-2023-35843 arbitrary file read vulnerability. It constructs specific requests to attempt reading system sensitive files (such as /etc/passwd) to verify the existence of the vulnerability.",
+  "updated_at": 1742999583,
+  "uuid": "a3d9ab2e-97c9-4196-83c9-91baee7aae1a"
+}

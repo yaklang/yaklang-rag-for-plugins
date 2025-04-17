@@ -1,0 +1,11 @@
+{
+  "app": "SpiderFlow",
+  "reason": "",
+  "seo": "spiderflow,远程命令执行漏洞,插件,检测",
+  "seo_en": "spiderflow, remote command execute vulnerability, plugin, detection",
+  "success": true,
+  "summary": "该插件用于检测SpiderFlow应用是否存在远程命令执行漏洞，通过发送特定的POST请求并利用DNSLog验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the SpiderFlow application has a remote command execution vulnerability by sending a specific POST request and using DNSLog to verify the existence of the vulnerability.",
+  "updated_at": 1742999586,
+  "uuid": "5db2b0cc-6227-43dd-8a1b-c46f6393e04b"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "用友UFIDA-NC",
+  "reason": "",
+  "seo": "用友,UFIDA-NC,任意文件上传,漏洞检测",
+  "seo_en": "Yonyou,UFIDA-NC,Arbitrary File Upload,Vulnerability Detection",
+  "success": true,
+  "summary": "检测用友UFIDA-NC系统是否存在saveDoc.jspx任意文件上传漏洞，通过构造恶意请求验证漏洞是否存在。",
+  "summary_en": "Detect whether the Yonyou UFIDA-NC system has an arbitrary file upload vulnerability in saveDoc.jspx, and verify the existence of the vulnerability by constructing malicious requests.",
+  "updated_at": 1742999581,
+  "uuid": "11219e41-c28a-4175-a5f7-7670fb838c0c"
+}

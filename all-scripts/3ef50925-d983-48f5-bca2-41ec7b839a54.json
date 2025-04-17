@@ -1,0 +1,11 @@
+{
+  "app": "SeaCMS",
+  "reason": "",
+  "seo": "seacms,sql注入漏洞,在线检测",
+  "seo_en": "seacms,sql injection vulnerability,online detection",
+  "success": true,
+  "summary": "该插件用于检测SeaCMS是否存在SQL注入漏洞，通过构造特定的请求来判断目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether SeaCMS has SQL injection vulnerabilities by constructing specific requests to determine if the target system is affected.",
+  "updated_at": 1742999591,
+  "uuid": "3ef50925-d983-48f5-bca2-41ec7b839a54"
+}

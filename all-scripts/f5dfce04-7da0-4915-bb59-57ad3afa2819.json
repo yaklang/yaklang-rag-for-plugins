@@ -1,0 +1,11 @@
+{
+  "app": "TVT NVMS-1000",
+  "reason": "",
+  "seo": "TVT NVMS-1000,目录遍历,漏洞检测",
+  "seo_en": "TVT NVMS-1000,directory traversal,vulnerability detection",
+  "success": true,
+  "summary": "检测TVT NVMS-1000设备是否存在GET /..目录遍历漏洞，通过访问特定路径判断设备是否易受攻击",
+  "summary_en": "Detect whether the TVT NVMS-1000 device has GET /.. directory traversal vulnerability by accessing specific paths to determine if the device is vulnerable",
+  "updated_at": 1742999589,
+  "uuid": "f5dfce04-7da0-4915-bb59-57ad3afa2819"
+}

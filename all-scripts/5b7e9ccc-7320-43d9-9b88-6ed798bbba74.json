@@ -1,0 +1,11 @@
+{
+  "app": "用友时空KSOA",
+  "reason": "",
+  "seo": "用友时空KSOA,SQL注入漏洞,PreviewKPQT.jsp",
+  "seo_en": "Yonyou KSOA,SQL Injection Vulnerability,PreviewKPQT.jsp",
+  "success": true,
+  "summary": "检测用友时空KSOA的PreviewKPQT.jsp是否存在SQL注入漏洞，通过构造特定请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in PreviewKPQT.jsp of Yonyou KSOA by constructing specific requests and measuring response times.",
+  "updated_at": 1742999571,
+  "uuid": "5b7e9ccc-7320-43d9-9b88-6ed798bbba74"
+}

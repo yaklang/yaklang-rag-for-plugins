@@ -1,0 +1,11 @@
+{
+  "app": "深信服应用交付系统",
+  "reason": "",
+  "seo": "深信服,应用交付系统,远程命令执行漏洞,检测,安全测试",
+  "seo_en": "Sangfor,Application Delivery System,RCE vulnerability,detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测深信服应用交付系统是否存在/rep/login路径的远程命令执行漏洞，支持多线程批量检测和自定义shell功能。",
+  "summary_en": "This plugin is used to detect whether the Sangfor Application Delivery System has an RCE vulnerability in the /rep/login path. It supports multi-threaded batch detection and custom shell functionality.",
+  "updated_at": 1742999575,
+  "uuid": "7f644a6c-a495-48d9-9081-3508daf2d2b3"
+}

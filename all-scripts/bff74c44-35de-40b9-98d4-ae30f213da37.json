@@ -1,0 +1,11 @@
+{
+  "app": "用友ERP NC",
+  "reason": "",
+  "seo": "用友ERP,目录遍历漏洞,检测,插件",
+  "seo_en": "Yonyou ERP, directory traversal vulnerability, detection, plugin",
+  "success": true,
+  "summary": "该插件用于检测用友ERP NC系统是否存在目录遍历漏洞，通过发送特定payload请求并分析响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is a directory traversal vulnerability in the Yonyou ERP NC system. It confirms the existence of the vulnerability by sending specific payload requests and analyzing the response content.",
+  "updated_at": 1742999597,
+  "uuid": "bff74c44-35de-40b9-98d4-ae30f213da37"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "万户OA",
+  "reason": "",
+  "seo": "万户OA,文件上传漏洞,任意文件上传,漏洞检测",
+  "seo_en": "Wanhu OA,file upload vulnerability,arbitrary file upload,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测万户OA系统中fileUpload.controller是否存在任意文件上传漏洞，攻击者可能利用此漏洞上传恶意文件。",
+  "summary_en": "This plugin is used to detect whether the fileUpload.controller in Wanhu OA system has arbitrary file upload vulnerabilities, which attackers may exploit to upload malicious files.",
+  "updated_at": 1742999597,
+  "uuid": "2b281383-f898-44d9-b797-9c233f61dc4c"
+}

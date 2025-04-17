@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SQL注入,高危Header注入,X-Forwarded-For,Referer",
+  "seo_en": "SQL injection, high-risk header injection, X-Forwarded-For, Referer",
+  "success": true,
+  "summary": "该插件用于检测HTTP请求头中的高风险字段（如X-Forwarded-For、Referer）是否存在SQL注入漏洞，通过构造多种payload进行测试并报告风险。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in high-risk HTTP headers (such as X-Forwarded-For and Referer) by constructing various payloads for testing and reporting risks.",
+  "updated_at": 1744374146,
+  "uuid": "acfff85f-a6b1-464f-91ed-5ea3700db7a0"
+}

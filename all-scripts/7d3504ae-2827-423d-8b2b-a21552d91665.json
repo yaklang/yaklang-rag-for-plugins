@@ -1,0 +1,11 @@
+{
+  "app": "EasyCVR",
+  "reason": "",
+  "seo": "EasyCVR,敏感信息泄露,账号密码提取,漏洞检测",
+  "seo_en": "EasyCVR,sensitive information leakage,account password extraction,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测EasyCVR系统是否存在敏感信息泄露漏洞，通过构造特定请求获取用户账号和密码，评估系统安全性。",
+  "summary_en": "This plugin is used to detect whether the EasyCVR system has a sensitive information leakage vulnerability, obtaining user accounts and passwords through specific requests to evaluate system security.",
+  "updated_at": 1742999575,
+  "uuid": "7d3504ae-2827-423d-8b2b-a21552d91665"
+}

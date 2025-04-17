@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "取消标记流量,插件,流量处理,自定义编码解码",
+  "seo_en": "unmark traffic, plugin, traffic processing, custom encoding decoding",
+  "success": true,
+  "summary": "该插件用于取消被标记的流量，通过自定义编码解码和字符串处理函数实现对HTTP流量的标签清除和颜色移除操作。",
+  "summary_en": "This plugin is used to unmark the tagged traffic by custom encoding/decoding and string processing functions, clearing tags and removing color from HTTP flows.",
+  "updated_at": 1742999568,
+  "uuid": "bfe90dfb-efa4-491e-bc98-7c63c6d98aee"
+}

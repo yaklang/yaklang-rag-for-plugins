@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "重置 nuclei,Yaml PoC,数据库,更新",
+  "seo_en": "reset nuclei,Yaml PoC,database,update",
+  "success": true,
+  "summary": "该插件用于重置和更新 nuclei Yaml PoC 数据库，删除现有数据库并从指定目录重新加载模板。",
+  "summary_en": "This plugin is used to reset and update the nuclei Yaml PoC database by removing the existing database and reloading templates from a specified directory.",
+  "updated_at": 1742999604,
+  "uuid": "ffe7c33a-5578-41a6-99f7-b659728322b6"
+}

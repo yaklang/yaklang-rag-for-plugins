@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "无头浏览器,爬虫,模拟点击,表单填写,文件上传",
+  "seo_en": "headless browser,crawler,simulate click,form fill,file upload",
+  "success": true,
+  "summary": "该插件使用无头浏览器进行网页爬取，支持模拟点击、表单填写、文件上传等功能，并提供多种参数配置以控制爬虫行为。",
+  "summary_en": "This plugin uses a headless browser for web crawling, supporting simulate clicks, form filling, file uploading, and more, with various configurable parameters to control the crawler's behavior.",
+  "updated_at": 1742999583,
+  "uuid": "fc7c0e2b-2a24-4185-8df9-b78fddd8d147"
+}

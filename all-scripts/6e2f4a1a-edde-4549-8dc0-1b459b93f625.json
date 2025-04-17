@@ -1,0 +1,11 @@
+{
+  "app": "OpenStack Cinder",
+  "reason": "",
+  "seo": "OpenStack, Cinder, 漏洞检测, CVE, 合规检查",
+  "seo_en": "OpenStack, Cinder, vulnerability detection, CVE, compliance check",
+  "success": true,
+  "summary": "该插件用于检测OpenStack Cinder在2013年至2022年间的多个CVE漏洞，确保系统符合安全标准。",
+  "summary_en": "This plugin is used to detect multiple CVE vulnerabilities in OpenStack Cinder from 2013 to 2022, ensuring the system meets security standards.",
+  "updated_at": 1742999585,
+  "uuid": "6e2f4a1a-edde-4549-8dc0-1b459b93f625"
+}

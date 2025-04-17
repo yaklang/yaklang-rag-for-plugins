@@ -1,0 +1,11 @@
+{
+  "app": "智慧校园(安校易)管理系统",
+  "reason": "",
+  "seo": "智慧校园,安校易,任意文件上传,漏洞检测",
+  "seo_en": "Smart Campus, AnXiaoYi, arbitrary file upload, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测智慧校园(安校易)管理系统的任意文件上传漏洞，通过构造特定请求验证是否存在文件上传风险。",
+  "summary_en": "This plugin is used to detect arbitrary file upload vulnerabilities in the Smart Campus (AnXiaoYi) management system by constructing specific requests to verify the presence of file upload risks.",
+  "updated_at": 1742999569,
+  "uuid": "209be1a4-91e4-49e5-ae17-aaaff2fb30ac"
+}

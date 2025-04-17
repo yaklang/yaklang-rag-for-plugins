@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "多认证综合越权测试,online,相似度,Header,Cookie",
+  "seo_en": "Multiple authentication privilege escalation test, online, similarity, Header, Cookie",
+  "success": true,
+  "summary": "该插件用于设置多个认证信息（包括Header和Cookie）进行越权测试，并通过响应相似度分析结果，支持强制添加和分组关联的认证信息。",
+  "summary_en": "This plugin is used to set multiple authentication information (including Header and Cookie) for privilege escalation testing, and analyze the results through response similarity. It supports forced addition and grouped associated authentication information.",
+  "updated_at": 1740805053,
+  "uuid": "ca896750-bf75-4a67-ac6d-ba0e518c2845"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Java,Runtime,Exec,Payload,生成器,编码解码",
+  "seo_en": "Java,Runtime,Exec,Payload,Generator,Codec",
+  "success": true,
+  "summary": "该插件用于生成不同语言的命令执行Payload，支持多种编码方式和绕过技术，适用于测试命令执行漏洞。",
+  "summary_en": "This plugin is used to generate command execution payloads for different languages, supporting various encoding methods and bypass techniques, suitable for testing command execution vulnerabilities.",
+  "updated_at": 1742999604,
+  "uuid": "f0fd9e87-3116-49ad-8418-89f6ce392d59"
+}

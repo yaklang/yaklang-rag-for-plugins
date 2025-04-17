@@ -1,0 +1,11 @@
+{
+  "app": "weblogic",
+  "reason": "",
+  "seo": "weblogic,弱口令爆破,后台登录",
+  "seo_en": "weblogic,brute force,weak password,login",
+  "success": true,
+  "summary": "对WebLogic后台进行弱口令爆破检测，尝试使用常见用户名和密码组合登录。",
+  "summary_en": "Perform brute force attacks to detect weak passwords on the WebLogic console login by trying common username and password combinations.",
+  "updated_at": 1742999604,
+  "uuid": "f614898e-9ba8-45ba-9948-7dd9372399af"
+}

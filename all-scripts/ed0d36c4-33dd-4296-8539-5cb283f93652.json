@@ -1,0 +1,11 @@
+{
+  "app": "Lightdash BI管理系统",
+  "reason": "",
+  "seo": "Lightdash BI,任意文件读取漏洞,CVE-2023-35844,文件读取",
+  "seo_en": "Lightdash BI,Arbitrary File Read Vulnerability,CVE-2023-35844,File Reading",
+  "success": true,
+  "summary": "检测Lightdash BI管理系统是否存在CVE-2023-35844任意文件读取漏洞，通过尝试读取系统关键文件判断漏洞是否存在",
+  "summary_en": "Detect whether the Lightdash BI management system has the CVE-2023-35844 arbitrary file read vulnerability by attempting to read critical system files to determine if the vulnerability exists",
+  "updated_at": 1742999583,
+  "uuid": "ed0d36c4-33dd-4296-8539-5cb283f93652"
+}

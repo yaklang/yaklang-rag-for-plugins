@@ -1,0 +1,11 @@
+{
+  "app": "Ecshop",
+  "reason": "",
+  "seo": "ecshop,sql注入漏洞,检测,poc,用户名密码",
+  "seo_en": "ecshop,sql injection vulnerability,detection,poc,username,password",
+  "success": true,
+  "summary": "该插件用于检测Ecshop系统的collection_list功能是否存在SQL注入漏洞，通过构造特定的payload并登录系统进行验证。",
+  "summary_en": "This plugin is used to detect whether there is an SQL injection vulnerability in the collection_list function of the Ecshop system, and verifies it by constructing specific payloads and logging into the system.",
+  "updated_at": 1742999585,
+  "uuid": "4815dd2d-b933-4c7f-b623-8dded3d2eaa7"
+}

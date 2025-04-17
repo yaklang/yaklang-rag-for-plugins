@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "swagger,api泄露,敏感信息,未授权访问,插件",
+  "seo_en": "swagger,API leak,sensitive information,unauthorized access,plugin",
+  "success": true,
+  "summary": "该插件用于扫描Swagger API路径，检测是否存在Swagger UI泄露以及返回的JSON中是否包含敏感信息泄露。同时支持多个URL的异步扫描。",
+  "summary_en": "This plugin scans Swagger API paths to detect Swagger UI exposure and sensitive information leaks in the returned JSON. It also supports asynchronous scanning of multiple URLs.",
+  "updated_at": 1742999579,
+  "uuid": "b6105c52-ac17-4545-bd4f-21a475df751d"
+}

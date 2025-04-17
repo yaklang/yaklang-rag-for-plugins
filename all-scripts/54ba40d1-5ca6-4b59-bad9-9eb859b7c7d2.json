@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "MS08-067SMB,远程命令执行漏洞,CVE-2008-4250,漏洞检测",
+  "seo_en": "MS08-067SMB,RCE vulnerability,CVE-2008-4250,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测目标系统是否存在MS08-067 SMB远程命令执行漏洞（CVE-2008-4250），通过模拟攻击流程验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the target system has the MS08-067 SMB remote command execution vulnerability (CVE-2008-4250), and verifies the existence of the vulnerability by simulating the attack process.",
+  "updated_at": 1742999592,
+  "uuid": "54ba40d1-5ca6-4b59-bad9-9eb859b7c7d2"
+}

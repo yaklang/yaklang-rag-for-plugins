@@ -1,0 +1,11 @@
+{
+  "app": "hikvision",
+  "reason": "",
+  "seo": "海康威视,默认密码检测,漏洞扫描,指纹识别",
+  "seo_en": "Hikvision,default password detection,vulnerability scanning,fingerprint identification",
+  "success": true,
+  "summary": "该插件用于检测海康威视设备是否存在默认密码漏洞，并通过指纹识别确认目标设备。",
+  "summary_en": "This plugin is used to detect whether there is a default password vulnerability in Hikvision devices and confirm the target device through fingerprint identification.",
+  "updated_at": 1742999598,
+  "uuid": "7d707e8d-9f29-44b4-8099-f0e53884af23"
+}

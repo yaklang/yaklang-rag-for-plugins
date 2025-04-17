@@ -1,0 +1,11 @@
+{
+  "app": "宏景eHR系统",
+  "reason": "",
+  "seo": "宏景eHR,SQL注入,漏洞检测,信息安全",
+  "seo_en": "Hongjing eHR,SQL injection,vulnerability detection,information security",
+  "success": true,
+  "summary": "该插件用于检测宏景eHR系统的getSdutyTree接口是否存在SQL注入漏洞，通过发送特定构造的请求并匹配响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an SQL injection vulnerability in the getSdutyTree interface of Hongjing eHR system. It confirms the existence of the vulnerability by sending specially crafted requests and matching the response content.",
+  "updated_at": 1742999579,
+  "uuid": "ac3e545e-813b-4cc3-8b76-c1d2efffdfd7"
+}

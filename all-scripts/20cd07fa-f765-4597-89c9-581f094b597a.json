@@ -1,0 +1,11 @@
+{
+  "app": "海康威视综合安防管理平台",
+  "reason": "",
+  "seo": "海康威视,综合安防管理平台,licenseExpire,前台远程命令执行漏洞",
+  "seo_en": "Hikvision,Integrated Security Management Platform,licenseExpire,Remote Command Execution Vulnerability",
+  "success": true,
+  "summary": "检测海康威视综合安防管理平台是否存在licenseExpire前台远程命令执行漏洞",
+  "summary_en": "Detect whether the Hikvision Integrated Security Management Platform has a front-end remote command execution vulnerability in licenseExpire",
+  "updated_at": 1742999570,
+  "uuid": "20cd07fa-f765-4597-89c9-581f094b597a"
+}

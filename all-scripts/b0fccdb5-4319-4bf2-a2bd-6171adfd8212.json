@@ -1,0 +1,11 @@
+{
+  "app": "Alibaba Nacos",
+  "reason": "",
+  "seo": "阿里云,Nacos,弱口令,默认密码",
+  "seo_en": "Alibaba Cloud,Nacos,weak password,default credentials",
+  "success": true,
+  "summary": "检测 Alibaba Nacos 控制台是否存在默认弱口令 nacos/nacos，允许攻击者登录后台查看敏感信息",
+  "summary_en": "Detects whether the Alibaba Nacos console has the default weak credentials nacos/nacos, allowing attackers to log in and view sensitive information",
+  "updated_at": 1742999586,
+  "uuid": "b0fccdb5-4319-4bf2-a2bd-6171adfd8212"
+}

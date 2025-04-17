@@ -1,0 +1,11 @@
+{
+  "app": "奇智堡垒机",
+  "reason": "",
+  "seo": "奇智,堡垒机,未授权访问漏洞,安全检测",
+  "seo_en": "Qizhi,Fortress Aircraft,unauthorized access vulnerability,security detection",
+  "success": true,
+  "summary": "该插件用于检测奇智堡垒机是否存在未授权访问漏洞，通过发送特定请求判断目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the Qizhi Fortress Aircraft has an unauthorized access vulnerability by sending specific requests to determine if the target system is affected.",
+  "updated_at": 1742999591,
+  "uuid": "da78522d-0523-4c97-9cfc-3f2794f76359"
+}

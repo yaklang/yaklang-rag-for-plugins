@@ -1,0 +1,11 @@
+{
+  "app": "同享TXEHR V15人力管理管理平台",
+  "reason": "",
+  "seo": "同享TXEHR,任意文件上传漏洞,V15人力管理平台,hdlUploadFile",
+  "seo_en": "TXEHR, arbitrary file upload vulnerability, V15 HR management platform, hdlUploadFile",
+  "success": true,
+  "summary": "检测同享TXEHR V15人力管理管理平台中的hdlUploadFile是否存在任意文件上传漏洞",
+  "summary_en": "Detect whether the hdlUploadFile in TXEHR V15 HR Management Platform has an arbitrary file upload vulnerability",
+  "updated_at": 1742999569,
+  "uuid": "545c9c4a-3143-4a10-ae52-d969a1ebca45"
+}

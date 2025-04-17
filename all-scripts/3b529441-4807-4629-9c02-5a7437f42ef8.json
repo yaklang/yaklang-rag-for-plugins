@@ -1,0 +1,11 @@
+{
+  "app": "dlink",
+  "reason": "",
+  "seo": "dlink,漏洞检测,CVE-2020-25078,CVE-2020-9376,CVE-2019-17506,信息泄露,命令执行",
+  "seo_en": "dlink,vulnerability detection,CVE-2020-25078,CVE-2020-9376,CVE-2019-17506,information disclosure,command execution",
+  "success": true,
+  "summary": "该插件用于检测D-Link设备的多个漏洞，包括CVE-2020-25078、CVE-2020-9376、CVE-2019-17506、CVE-2019-16920等，涉及信息泄露和命令执行问题。",
+  "summary_en": "This plugin is used to detect multiple vulnerabilities in D-Link devices, including CVE-2020-25078, CVE-2020-9376, CVE-2019-17506, CVE-2019-16920, etc., which involve information disclosure and command execution issues.",
+  "updated_at": 1742999598,
+  "uuid": "3b529441-4807-4629-9c02-5a7437f42ef8"
+}

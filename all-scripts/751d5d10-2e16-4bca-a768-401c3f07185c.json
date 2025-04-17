@@ -1,0 +1,11 @@
+{
+  "app": "Ecshop",
+  "reason": "",
+  "seo": "ecshop,sql注入漏洞,高危,远程代码执行,RCE",
+  "seo_en": "ecshop,SQL injection vulnerability,high risk,remote code execution,RCE",
+  "success": true,
+  "summary": "该插件用于检测Ecshop系统中存在的sql注入漏洞，可能引发远程代码执行（RCE），属于高危漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the Ecshop system, which may lead to remote code execution (RCE), classified as a high-risk vulnerability.",
+  "updated_at": 1742999585,
+  "uuid": "751d5d10-2e16-4bca-a768-401c3f07185c"
+}

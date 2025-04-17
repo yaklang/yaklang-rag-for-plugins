@@ -1,0 +1,11 @@
+{
+  "app": "D-Link DSL-2888A",
+  "reason": "",
+  "seo": "D-Link,DSL-2888A,命令执行漏洞,CVE-2020-24580",
+  "seo_en": "D-Link,DSL-2888A,RCE,CVE-2020-24580",
+  "success": true,
+  "summary": "该插件用于检测D-Link DSL-2888A设备的CVE-2020-24580命令执行漏洞，通过发送特定请求判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the CVE-2020-24580 RCE vulnerability in D-Link DSL-2888A devices by sending specific requests to determine if the vulnerability exists.",
+  "updated_at": 1742999598,
+  "uuid": "29d5386f-7d3d-4075-9713-049a68255505"
+}

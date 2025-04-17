@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Swagger,YAML,生成数据包,API测试",
+  "seo_en": "Swagger,YAML,Generate Data Pack,API Testing",
+  "success": true,
+  "summary": "该插件用于生成基于Swagger YAML的HTTP请求数据包，以便测试和分析API接口。",
+  "summary_en": "This plugin generates HTTP request data packs based on Swagger YAML for testing and analyzing API endpoints.",
+  "updated_at": 1742999569,
+  "uuid": "f42f7473-3461-4712-81dd-e9838ffe80d3"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Spring安全检查,SQL注入检测,漏洞扫描",
+  "seo_en": "Spring Security Check,SQL Injection Detection,Vulnerability Scanning",
+  "success": true,
+  "summary": "该插件用于检测Spring Security的/j_spring_security_check端点是否存在SQL注入漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the /j_spring_security_check endpoint of Spring Security.",
+  "updated_at": 1742999579,
+  "uuid": "e68bd3f5-8c04-4148-81f5-0674843d45c4"
+}

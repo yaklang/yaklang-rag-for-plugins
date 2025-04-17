@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "社工字典生成器,域名,用户名,密码,爆破",
+  "seo_en": "Social Engineering Dictionary Generator,domain,username,password,brute force",
+  "success": true,
+  "summary": "根据目标域名生成可能的用户名和密码字典，用于减少爆破成本并提高效率",
+  "summary_en": "Generate possible username and password dictionaries based on the target domain to reduce brute force costs and improve efficiency",
+  "updated_at": 1742999595,
+  "uuid": "672205f6-28c7-4c6a-bcb7-08d9f0bec6a6"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Struts2",
+  "reason": "",
+  "seo": "Struts2,CVE-2017-9805,S2-052,远程代码执行漏洞,检测",
+  "seo_en": "Struts2,CVE-2017-9805,S2-052,RCE vulnerability,detection",
+  "success": true,
+  "summary": "该插件用于检测Struts2框架是否存在S2-052（CVE-2017-9805）远程代码执行漏洞，通过构造特定的POST请求来验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the Struts2 framework has the S2-052 (CVE-2017-9805) Remote Code Execution vulnerability by constructing a specific POST request to verify if the target system is affected.",
+  "updated_at": 1742999602,
+  "uuid": "a879b0cc-6f61-483b-827f-7cf242edc2cc"
+}

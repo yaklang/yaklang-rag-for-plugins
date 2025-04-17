@@ -1,0 +1,11 @@
+{
+  "app": "聚恒中台系统",
+  "reason": "",
+  "seo": "聚恒网络技术有限公司,聚恒中台系统,SQL注入,RCE漏洞",
+  "seo_en": "JuHeng Network Technology Co., Ltd., JuHeng Middleware System, SQL Injection, RCE Vulnerability",
+  "success": true,
+  "summary": "检测聚恒网络技术有限公司的聚恒中台系统是否存在data.ashx文件的SQL注入漏洞，该漏洞可能导致远程代码执行（RCE）。",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in the data.ashx file of JuHeng Middleware System by JuHeng Network Technology Co., Ltd., which may lead to Remote Code Execution (RCE).",
+  "updated_at": 1742999579,
+  "uuid": "219ad471-e374-4aa2-8774-532774c6f462"
+}

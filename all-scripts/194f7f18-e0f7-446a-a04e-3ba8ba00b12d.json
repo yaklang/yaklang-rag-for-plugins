@@ -1,0 +1,11 @@
+{
+  "app": "JBoss",
+  "reason": "",
+  "seo": "JBoss,漏洞检测,CVE-2017-7504,反序列化漏洞",
+  "seo_en": "JBoss,vulnerability detection,CVE-2017-7504,deserialization vulnerability",
+  "success": true,
+  "summary": "该插件用于检测JBoss 4.x JBossMQ JMS是否存在CVE-2017-7504反序列化漏洞，通过发送特定payload并验证DNS回显来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is a CVE-2017-7504 deserialization vulnerability in JBoss 4.x JBossMQ JMS. It confirms the existence of the vulnerability by sending a specific payload and verifying DNS callbacks.",
+  "updated_at": 1742999602,
+  "uuid": "194f7f18-e0f7-446a-a04e-3ba8ba00b12d"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "泛微OA",
+  "reason": "",
+  "seo": "泛微OA,SQL注入漏洞,FileDownloadLocation,漏洞检测",
+  "seo_en": "Ecology OA,SQL Injection Vulnerability,FileDownloadLocation,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测泛微OA系统中FileDownloadLocation接口是否存在SQL注入漏洞，通过发送特定请求并分析响应时间来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the FileDownloadLocation interface in Ecology OA system has SQL injection vulnerability. It judges the existence of the vulnerability by sending specific requests and analyzing the response time.",
+  "updated_at": 1742999568,
+  "uuid": "05b6dd4c-d187-45b5-914b-cdc1d3c0aac5"
+}

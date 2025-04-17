@@ -1,0 +1,11 @@
+{
+  "app": "Jenkins",
+  "reason": "",
+  "seo": "Jenkins,任意文件读取,CVE-2018-1999002,漏洞检测",
+  "seo_en": "Jenkins,Arbitrary File Read,CVE-2018-1999002,Vulnerability Detection",
+  "success": true,
+  "summary": "检测Jenkins是否存在CVE-2018-1999002任意文件读取漏洞",
+  "summary_en": "Detect whether Jenkins has CVE-2018-1999002 arbitrary file read vulnerability",
+  "updated_at": 1742999602,
+  "uuid": "38ec6c3d-94fe-4d46-ab34-fb4af3bcc36a"
+}

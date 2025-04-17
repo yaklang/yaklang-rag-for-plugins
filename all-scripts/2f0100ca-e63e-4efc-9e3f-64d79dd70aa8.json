@@ -1,0 +1,11 @@
+{
+  "app": "wordpress",
+  "reason": "",
+  "seo": "wordpress插件,User Meta,本地文件枚举漏洞,EXP",
+  "seo_en": "wordpress plugin,User Meta,local file enumeration vulnerability,EXP",
+  "success": true,
+  "summary": "该插件用于检测wordpress的User Meta插件是否存在本地文件枚举漏洞，通过发送特定请求来判断目标文件是否存在。",
+  "summary_en": "This plugin is used to detect whether the User Meta plugin of wordpress has local file enumeration vulnerability by sending specific requests to determine if the target file exists.",
+  "updated_at": 1742999587,
+  "uuid": "2f0100ca-e63e-4efc-9e3f-64d79dd70aa8"
+}

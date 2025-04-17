@@ -1,0 +1,11 @@
+{
+  "app": "大华-智慧园区综合管理平台",
+  "reason": "",
+  "seo": "大华,智慧园区,SQL注入,漏洞检测",
+  "seo_en": "Dahua,Smart Park,SQL Injection,Vulnerability Detection",
+  "success": true,
+  "summary": "检测大华-智慧园区综合管理平台中的wpms-getNewStaypointDetailQuery接口是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the wpms-getNewStaypointDetailQuery interface of Dahua Smart Park Integrated Management Platform",
+  "updated_at": 1742999580,
+  "uuid": "6cb0235d-7429-4cdf-b215-ed290f10ab4e"
+}

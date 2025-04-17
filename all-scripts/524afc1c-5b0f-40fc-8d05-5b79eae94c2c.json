@@ -1,0 +1,11 @@
+{
+  "app": "Apache SkyWalking",
+  "reason": "",
+  "seo": "Apache SkyWalking,CVE-2020-9483,漏洞检测,SQL注入,graphql",
+  "seo_en": "Apache SkyWalking,CVE-2020-9483,vulnerability detection,SQL injection,graphql",
+  "success": true,
+  "summary": "该插件用于检测Apache SkyWalking graphql接口是否存在CVE-2020-9483 SQL注入漏洞，通过发送特定构造的请求并分析响应结果来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Apache SkyWalking graphql interface has the CVE-2020-9483 SQL injection vulnerability. It confirms the existence of the vulnerability by sending specially crafted requests and analyzing the response results.",
+  "updated_at": 1742999593,
+  "uuid": "524afc1c-5b0f-40fc-8d05-5b79eae94c2c"
+}

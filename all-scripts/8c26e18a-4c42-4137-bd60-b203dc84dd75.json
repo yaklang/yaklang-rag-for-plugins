@@ -1,0 +1,11 @@
+{
+  "app": "泛微OA",
+  "reason": "",
+  "seo": "泛微OA,sysinterface,代码编辑,文件上传漏洞,漏洞检测",
+  "seo_en": "Weaver OA,sysinterface,code edit,file upload vulnerability,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测泛微OA系统中sysinterface/codeEdit.jsp页面是否存在文件上传漏洞，通过发送特定请求并检查响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the sysinterface/codeEdit.jsp page of the Weaver OA system has a file upload vulnerability, and confirms the existence of the vulnerability by sending specific requests and checking the response content.",
+  "updated_at": 1742999592,
+  "uuid": "8c26e18a-4c42-4137-bd60-b203dc84dd75"
+}

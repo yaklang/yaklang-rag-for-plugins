@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SQL注入,UNION注入,MD5函数,漏洞检测,数据库安全",
+  "seo_en": "SQL injection,UNION injection,MD5 function,vulnerability detection,database security",
+  "success": true,
+  "summary": "该插件通过使用UNION注入和MD5函数检测Web应用是否存在SQL注入漏洞，帮助识别潜在的安全风险。",
+  "summary_en": "This plugin detects SQL injection vulnerabilities in web applications by using UNION injection and MD5 functions to identify potential security risks.",
+  "updated_at": 1740203645,
+  "uuid": "cde00ab0-1e2e-4605-b2c1-6fd51b36845d"
+}

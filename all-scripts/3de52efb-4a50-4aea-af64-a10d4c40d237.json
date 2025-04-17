@@ -1,0 +1,11 @@
+{
+  "app": "方维团购系统",
+  "reason": "",
+  "seo": "方维团购,SQL注入漏洞,安全检测,漏洞扫描",
+  "seo_en": "Fangwei Group Buying,SQL Injection Vulnerability,Security Testing,Vulnerability Scanner",
+  "success": true,
+  "summary": "该插件用于检测方维团购系统V4.3版本中的SQL注入漏洞，通过发送特定payload验证是否存在漏洞并返回结果。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in Fangwei Group Buying System V4.3. It sends specific payloads to verify the existence of vulnerabilities and returns the results.",
+  "updated_at": 1742999597,
+  "uuid": "3de52efb-4a50-4aea-af64-a10d4c40d237"
+}

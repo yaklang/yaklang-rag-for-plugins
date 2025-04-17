@@ -1,0 +1,11 @@
+{
+  "app": "VMware vRealize Operations Manager",
+  "reason": "",
+  "seo": "VMware,SSRF,漏洞检测,服务器请求伪造,CVE-2021-21975",
+  "seo_en": "VMware,SSRF,vulnerability detection,server request forgery,CVE-2021-21975",
+  "success": true,
+  "summary": "该插件用于检测 VMware vRealize Operations Manager 中的 CVE-2021-21975 SSRF 漏洞，通过发送特定请求验证是否存在服务端请求伪造问题。",
+  "summary_en": "This plugin is used to detect the CVE-2021-21975 SSRF vulnerability in VMware vRealize Operations Manager by sending specific requests to verify the existence of server request forgery issues.",
+  "updated_at": 1742999589,
+  "uuid": "ae2a89a6-c3df-41e2-9d8a-6327c90e1094"
+}

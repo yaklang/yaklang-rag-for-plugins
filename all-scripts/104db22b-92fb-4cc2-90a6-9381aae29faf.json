@@ -1,0 +1,11 @@
+{
+  "app": "Axis2",
+  "reason": "",
+  "seo": "Axis2,漏洞检测,XSS漏洞,插件描述,登录后XSS漏洞",
+  "seo_en": "Axis2,vulnerability detection,XSS vulnerability,plugin description,post-login XSS vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Axis2 admin中是否存在登录后的XSS漏洞，通过构造特定请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an XSS vulnerability in Axis2 admin after login, by constructing specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "104db22b-92fb-4cc2-90a6-9381aae29faf"
+}

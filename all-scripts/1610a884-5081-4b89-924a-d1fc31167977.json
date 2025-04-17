@@ -1,0 +1,11 @@
+{
+  "app": "dedecms",
+  "reason": "",
+  "seo": "dedecms,漏洞检测,文件包含,carbuyaction.php",
+  "seo_en": "dedecms, vulnerability detection, file inclusion, carbuyaction.php",
+  "success": true,
+  "summary": "该插件用于检测dedecms系统中carbuyaction.php文件的文件包含漏洞，通过发送特定请求判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the file inclusion vulnerability in the carbuyaction.php file of the dedecms system, by sending specific requests to determine if the vulnerability exists.",
+  "updated_at": 1742999598,
+  "uuid": "1610a884-5081-4b89-924a-d1fc31167977"
+}

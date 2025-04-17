@@ -1,0 +1,11 @@
+{
+  "app": "用友 NC",
+  "reason": "",
+  "seo": "用友 NC,远程代码执行漏洞,XVE-2023-27151",
+  "seo_en": "Yonyou NC,RCE vulnerability,XVE-2023-27151",
+  "success": true,
+  "summary": "检测用友 NC 系统是否存在远程代码执行漏洞(XVE-2023-27151)，通过上传恶意 JSP 文件尝试路径穿越和代码执行",
+  "summary_en": "Detect the remote code execution vulnerability (XVE-2023-27151) in Yonyou NC system by attempting path traversal and code execution via malicious JSP file upload",
+  "updated_at": 1742999569,
+  "uuid": "426e4bd1-c41a-413f-8230-1722a5e18c45"
+}

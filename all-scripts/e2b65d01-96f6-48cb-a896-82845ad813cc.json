@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,漏洞检测,RCE,身份验证绕过,文件上传",
+  "seo_en": "Tongda OA,vulnerability detection,RCE,authentication bypass,file upload",
+  "success": true,
+  "summary": "该插件用于检测通达OA V11.6版本的远程代码执行（RCE）漏洞，包括身份验证绕过和文件上传漏洞。",
+  "summary_en": "This plugin is used to detect the Remote Code Execution (RCE) vulnerability in Tongda OA V11.6, including authentication bypass and file upload vulnerabilities.",
+  "updated_at": 1742999595,
+  "uuid": "e2b65d01-96f6-48cb-a896-82845ad813cc"
+}

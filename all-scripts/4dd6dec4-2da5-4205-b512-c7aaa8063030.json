@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "通用文件包含检测,漏洞扫描,文件包含漏洞",
+  "seo_en": "General File Inclusion Detection, Vulnerability Scanning, File Inclusion Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Web应用中的通用文件包含漏洞，通过发送特定payload并分析响应来判断是否存在文件包含漏洞",
+  "summary_en": "This plugin is used to detect general file inclusion vulnerabilities in web applications by sending specific payloads and analyzing the responses to determine if a file inclusion vulnerability exists",
+  "updated_at": 1742999592,
+  "uuid": "4dd6dec4-2da5-4205-b512-c7aaa8063030"
+}

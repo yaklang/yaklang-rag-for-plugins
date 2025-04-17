@@ -1,0 +1,11 @@
+{
+  "app": "海康威视SPON IP网络对讲广播系统",
+  "reason": "",
+  "seo": "海康威视,SPON,IP网络对讲广播系统,任意文件上传,漏洞检测",
+  "seo_en": "Hikvision,SPON,IP Network Intercom Broadcast System,Arbitrary File Upload,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测海康威视SPON IP网络对讲广播系统中的任意文件上传漏洞，通过上传测试文件并验证是否成功上传来确认漏洞存在。",
+  "summary_en": "This plugin is used to detect the arbitrary file upload vulnerability in Hikvision SPON IP Network Intercom Broadcast System by uploading a test file and verifying if the upload succeeds.",
+  "updated_at": 1742999577,
+  "uuid": "af4e8b81-99e7-42bb-bd9e-77c13e49a143"
+}

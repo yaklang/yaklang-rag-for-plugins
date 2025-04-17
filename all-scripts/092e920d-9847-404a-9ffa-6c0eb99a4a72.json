@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "web登录页面,用户名密码爆破,模拟点击,验证码识别",
+  "seo_en": "web login page, username password brute force, simulation click, captcha recognition",
+  "success": true,
+  "summary": "该插件用于对Web登录页面进行用户名和密码的暴力破解测试，支持自定义选择器、代理设置、验证码处理等功能。",
+  "summary_en": "This plugin is used for brute force testing of usernames and passwords on web login pages, with support for custom selectors, proxy settings, and captcha handling features.",
+  "updated_at": 1742999585,
+  "uuid": "092e920d-9847-404a-9ffa-6c0eb99a4a72"
+}

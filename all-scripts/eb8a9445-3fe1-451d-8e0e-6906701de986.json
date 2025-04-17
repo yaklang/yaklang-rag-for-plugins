@@ -1,0 +1,11 @@
+{
+  "app": "VMware vCenter",
+  "reason": "",
+  "seo": "VMware, vCenter, 任意文件读取, 漏洞检测",
+  "seo_en": "VMware, vCenter, Arbitrary File Read, Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测VMware vCenter是否存在任意文件读取漏洞，通过发送特定请求来验证是否能够成功读取目标系统上的敏感文件。",
+  "summary_en": "This plugin is used to detect whether VMware vCenter has an arbitrary file read vulnerability, by sending specific requests to verify if it can successfully read sensitive files on the target system.",
+  "updated_at": 1742999597,
+  "uuid": "eb8a9445-3fe1-451d-8e0e-6906701de986"
+}

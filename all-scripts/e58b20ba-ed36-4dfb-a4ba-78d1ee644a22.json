@@ -1,0 +1,11 @@
+{
+  "app": "喰星云·数字化餐饮服务系统",
+  "reason": "",
+  "seo": "喰星云,数字化餐饮服务系统,SQL注入漏洞,not_out_depot",
+  "seo_en": "Yakin,Digital Catering Service System,SQL Injection Vulnerability,not_out_depot",
+  "success": true,
+  "summary": "检测喰星云·数字化餐饮服务系统中的not_out_depot.php是否存在SQL注入漏洞，通过时间延迟判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in not_out_depot.php of Yakin Digital Catering Service System, determine the existence of vulnerabilities through time delay.",
+  "updated_at": 1742999570,
+  "uuid": "e58b20ba-ed36-4dfb-a4ba-78d1ee644a22"
+}

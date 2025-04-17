@@ -1,0 +1,11 @@
+{
+  "app": "致远OA系统",
+  "reason": "",
+  "seo": "致远OA,SQL注入漏洞,wooyun,2015",
+  "seo_en": "Seeyon OA,SQL injection vulnerability,wooyun,2015",
+  "success": true,
+  "summary": "该插件用于检测致远OA系统是否存在2015年wooyun平台上公开的SQL注入漏洞（编号：0108235），通过构造特定的URL请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Seeyon OA system has the SQL injection vulnerability disclosed on the wooyun platform in 2015 (ID: 0108235). It constructs specific URLs to verify the existence of the vulnerability.",
+  "updated_at": 1742999590,
+  "uuid": "fa776297-79d2-4258-aa39-74d8af2f4e1d"
+}

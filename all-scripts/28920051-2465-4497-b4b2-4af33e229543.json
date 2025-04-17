@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "MD5,解密,插件,yakit,hash",
+  "seo_en": "MD5, decryption, plugin, yakit, hash",
+  "success": true,
+  "summary": "该插件用于通过API调用在线解密MD5哈希值，支持在yakit中直接进行解密操作，避免来回切换工具。",
+  "summary_en": "This plugin is used to decrypt MD5 hashes via an online API call and supports direct decryption operations in yakit, eliminating the need to switch tools.",
+  "updated_at": 1742999575,
+  "uuid": "28920051-2465-4497-b4b2-4af33e229543"
+}

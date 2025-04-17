@@ -1,0 +1,11 @@
+{
+  "app": "飞企互联-FE企业运营管理平台",
+  "reason": "",
+  "seo": "飞企互联,FE企业运营管理平台,sql注入,漏洞检测",
+  "seo_en": "Flychery FE Enterprise Operation Management Platform,sql injection,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测飞企互联-FE企业运营管理平台中的publicData接口是否存在SQL注入漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the publicData interface of Flychery FE Enterprise Operation Management Platform.",
+  "updated_at": 1742999582,
+  "uuid": "ce2c2b19-9b7a-48e4-9e7b-b960dc8af37f"
+}

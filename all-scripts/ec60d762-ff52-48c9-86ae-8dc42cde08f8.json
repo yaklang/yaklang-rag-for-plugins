@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "插件,按行去重,字符串处理,编码解码",
+  "seo_en": "plugin,line deduplication,string processing,encoding decoding",
+  "success": true,
+  "summary": "该插件用于自定义编码解码和字符串处理，主要功能是对字符串按行去重。",
+  "summary_en": "This plugin is used for custom encoding/decoding and string processing, with the main function of deduplicating strings line by line.",
+  "updated_at": 1742999604,
+  "uuid": "ec60d762-ff52-48c9-86ae-8dc42cde08f8"
+}

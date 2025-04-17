@@ -1,0 +1,11 @@
+{
+  "app": "thinkphp",
+  "reason": "",
+  "seo": "nuclei,漏洞检测,thinkphp,插件,yak",
+  "seo_en": "nuclei,vulnerability detection,thinkphp,plugin,yak",
+  "success": true,
+  "summary": "该插件通过yak调用nuclei进行漏洞检测，针对thinkphp应用，使用前需导入nuclei yaml并更新到yakit中，输出yakit.info和risk信息。",
+  "summary_en": "This plugin uses yak to call nuclei for vulnerability detection, targeting the thinkphp application. Before use, you need to import nuclei yaml and update it to yakit, and output yakit.info and risk information.",
+  "updated_at": 1742999575,
+  "uuid": "00af9d3f-3b6f-42e3-8bdb-009469e19f0e"
+}

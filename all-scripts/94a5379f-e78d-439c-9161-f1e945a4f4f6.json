@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "HTTP Request,合并多个Cookie,插件",
+  "seo_en": "HTTP Request,merge multiple cookies,plugin",
+  "success": true,
+  "summary": "该插件用于合并HTTP请求中的多个Cookie，确保请求头中只包含一个合并后的Cookie字段。",
+  "summary_en": "This plugin is used to merge multiple cookies in an HTTP request, ensuring that the request header contains only one merged cookie field.",
+  "updated_at": 1742999568,
+  "uuid": "94a5379f-e78d-439c-9161-f1e945a4f4f6"
+}

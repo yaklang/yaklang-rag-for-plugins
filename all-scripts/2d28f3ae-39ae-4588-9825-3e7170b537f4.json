@@ -1,0 +1,11 @@
+{
+  "app": "Panalog日志系统",
+  "reason": "",
+  "seo": "panalog,日志系统,命令执行漏洞,rce",
+  "seo_en": "panalog,log system,command execution vulnerability,rce",
+  "success": true,
+  "summary": "检测Panalog日志系统的mailcious_down_fornode.php文件是否存在远程命令执行漏洞（RCE）",
+  "summary_en": "Detect remote command execution (RCE) vulnerability in the mailcious_down_fornode.php file of the Panalog log system",
+  "updated_at": 1742999580,
+  "uuid": "2d28f3ae-39ae-4588-9825-3e7170b537f4"
+}

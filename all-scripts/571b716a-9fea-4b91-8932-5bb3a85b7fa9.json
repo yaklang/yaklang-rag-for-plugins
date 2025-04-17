@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "S2-001,远程代码执行漏洞,EXP,插件",
+  "seo_en": "S2-001,RCE vulnerability,EXP,plugin",
+  "success": true,
+  "summary": "该插件用于检测和利用S2-001远程代码执行漏洞，通过发送构造的HTTP请求执行指定命令。",
+  "summary_en": "This plugin is used to detect and exploit the S2-001 remote code execution vulnerability by sending a crafted HTTP request to execute specified commands.",
+  "updated_at": 1742999587,
+  "uuid": "571b716a-9fea-4b91-8932-5bb3a85b7fa9"
+}

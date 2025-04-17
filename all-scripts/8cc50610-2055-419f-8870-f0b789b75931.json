@@ -1,0 +1,11 @@
+{
+  "app": "Metabase",
+  "reason": "",
+  "seo": "Metabase,任意文件读取漏洞,CVE-2021-41277,geojson",
+  "seo_en": "Metabase,Arbitrary File Read Vulnerability,CVE-2021-41277,geojson",
+  "success": true,
+  "summary": "检测Metabase geojson CVE-2021-41277任意文件读取漏洞，通过发送特定HTTP请求验证是否存在该漏洞",
+  "summary_en": "Detect Metabase geojson CVE-2021-41277 arbitrary file read vulnerability by sending a specific HTTP request to verify the existence of the vulnerability",
+  "updated_at": 1742999596,
+  "uuid": "8cc50610-2055-419f-8870-f0b789b75931"
+}

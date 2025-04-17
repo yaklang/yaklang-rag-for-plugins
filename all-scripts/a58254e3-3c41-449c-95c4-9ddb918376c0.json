@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Js-Forward,参数加密,响应加密,前端加密",
+  "seo_en": "Js-Forward, parameter encryption, response encryption, front-end encryption",
+  "success": true,
+  "summary": "该插件用于解决前端参数和响应加密问题，通过转发参数并处理加密逻辑来实现解密或重新加密的功能。",
+  "summary_en": "This plugin is used to solve the encryption of front-end parameters and responses by forwarding parameters and processing encryption logic to achieve decryption or re-encryption.",
+  "updated_at": 1742999568,
+  "uuid": "a58254e3-3c41-449c-95c4-9ddb918376c0"
+}

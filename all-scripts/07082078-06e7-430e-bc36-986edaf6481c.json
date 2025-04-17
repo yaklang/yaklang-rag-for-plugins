@@ -1,0 +1,11 @@
+{
+  "app": "CrateDB",
+  "reason": "",
+  "seo": "CrateDB,任意文件读取漏洞,信息泄露,数据库,COPYFROM函数",
+  "seo_en": "CrateDB,Arbitrary File Read Vulnerability,Information Leakage,Database,COPYFROM Function",
+  "success": true,
+  "summary": "此插件用于检测CrateDB数据库中的任意文件读取漏洞，攻击者可以通过身份验证后使用COPY FROM功能将任意文件内容导入到数据库表中，导致信息泄露。",
+  "summary_en": "This plugin detects an arbitrary file read vulnerability in CrateDB databases where authenticated attackers can use the COPY FROM function to import arbitrary file contents into database tables, leading to information leakage.",
+  "updated_at": 1742999581,
+  "uuid": "07082078-06e7-430e-bc36-986edaf6481c"
+}

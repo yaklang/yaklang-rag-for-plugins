@@ -1,0 +1,11 @@
+{
+  "app": "用友 NC-Cloud",
+  "reason": "",
+  "seo": "用友 NC-Cloud, FastJson反序列化漏洞, blobRefClassSearch接口",
+  "seo_en": "Yonyou NC-Cloud, FastJson deserialization vulnerability, blobRefClassSearch interface",
+  "success": true,
+  "summary": "检测用友 NC-Cloud 的 blobRefClassSearch 接口是否存在 FastJson 反序列化漏洞",
+  "summary_en": "Detect FastJson deserialization vulnerability in the blobRefClassSearch interface of Yonyou NC-Cloud",
+  "updated_at": 1742999572,
+  "uuid": "c83a758f-3eb6-4e16-aaf8-9edc63ea4c90"
+}

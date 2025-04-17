@@ -1,0 +1,11 @@
+{
+  "app": "Gilacms",
+  "reason": "",
+  "seo": "Gilacms,SQL注入漏洞,CVE-2020-5515,漏洞检测",
+  "seo_en": "Gilacms,SQL Injection Vulnerability,CVE-2020-5515,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Gilacms系统中的CVE-2020-5515 SQL注入漏洞，通过发送特定请求并检查响应来确认是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the CVE-2020-5515 SQL injection vulnerability in the Gilacms system by sending specific requests and checking the responses.",
+  "updated_at": 1742999597,
+  "uuid": "103042e4-035d-4e89-82ae-7c6a9cc1a9c0"
+}

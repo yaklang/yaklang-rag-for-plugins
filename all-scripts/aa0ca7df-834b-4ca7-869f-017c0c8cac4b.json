@@ -1,0 +1,11 @@
+{
+  "app": "Atlassian Confluence",
+  "reason": "",
+  "seo": "Atlassian Confluence,CVE-2022-26134,远程代码执行漏洞,无损检测",
+  "seo_en": "Atlassian Confluence,CVE-2022-26134,RCE vulnerability,non-destructive detection",
+  "success": true,
+  "summary": "该插件用于检测Atlassian Confluence系统是否存在CVE-2022-26134远程代码执行漏洞，采用无损检测方式。",
+  "summary_en": "This plugin is used to detect whether the Atlassian Confluence system has the CVE-2022-26134 remote code execution vulnerability in a non-destructive way.",
+  "updated_at": 1742999602,
+  "uuid": "aa0ca7df-834b-4ca7-869f-017c0c8cac4b"
+}

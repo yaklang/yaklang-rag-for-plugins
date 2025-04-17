@@ -1,0 +1,11 @@
+{
+  "app": "Cisco",
+  "reason": "",
+  "seo": "思科,Cisco,漏洞检测,cve-2020-3452,任意文件读取",
+  "seo_en": "Cisco,Cisco vulnerability detection,cve-2020-3452,arbitrary file read",
+  "success": true,
+  "summary": "该插件用于检测Cisco设备中的CVE-2020-3452漏洞，此漏洞可能导致任意文件读取问题。",
+  "summary_en": "This plugin is used to detect the CVE-2020-3452 vulnerability in Cisco devices, which may lead to arbitrary file reading issues.",
+  "updated_at": 1742999599,
+  "uuid": "3ad83c03-6374-40ce-b0fc-67a7d95336bd"
+}

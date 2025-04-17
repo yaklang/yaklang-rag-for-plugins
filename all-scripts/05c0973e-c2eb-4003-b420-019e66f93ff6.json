@@ -1,0 +1,11 @@
+{
+  "app": "Spring Cloud Gateway",
+  "reason": "",
+  "seo": "Spring Cloud Gateway,远程代码执行漏洞,CVE-2022-22947,漏洞检测",
+  "seo_en": "Spring Cloud Gateway,Remote Code Execution Vulnerability,CVE-2022-22947,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Spring Cloud Gateway是否存在CVE-2022-22947远程代码执行漏洞，通过添加、刷新和删除路由来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is a CVE-2022-22947 remote code execution vulnerability in Spring Cloud Gateway, and verifies the existence of the vulnerability by adding, refreshing, and deleting routes.",
+  "updated_at": 1742999604,
+  "uuid": "05c0973e-c2eb-4003-b420-019e66f93ff6"
+}

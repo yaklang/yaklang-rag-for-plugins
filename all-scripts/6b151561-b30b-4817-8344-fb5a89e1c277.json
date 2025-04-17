@@ -1,0 +1,11 @@
+{
+  "app": "通达OA系统",
+  "reason": "",
+  "seo": "通达OA,版本识别,漏洞检测,指纹识别",
+  "seo_en": "Tongda OA,version detection,vulnerability detection,fingerprint identification",
+  "success": true,
+  "summary": "该插件用于识别通达OA系统的版本信息，通过检测特定响应内容来判断是否存在可利用的版本漏洞。",
+  "summary_en": "This plugin is used to identify the version information of Tongda OA system and detect specific response content to determine if there are exploitable version vulnerabilities.",
+  "updated_at": 1742999588,
+  "uuid": "6b151561-b30b-4817-8344-fb5a89e1c277"
+}

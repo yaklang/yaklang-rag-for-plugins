@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "URL重定向漏洞,插件,扫描,安全测试",
+  "seo_en": "URL redirect vulnerability,plugin,scanner,security testing",
+  "success": true,
+  "summary": "该插件用于扫描和检测URL重定向漏洞，包括会话标识携带问题，帮助用户发现潜在的安全风险。",
+  "summary_en": "This plugin is used to scan and detect URL redirection vulnerabilities, including session ID carrying issues, to help users discover potential security risks.",
+  "updated_at": 1742999583,
+  "uuid": "b82e6009-8932-42aa-9109-e9b7a8f017c8"
+}

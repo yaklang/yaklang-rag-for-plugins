@@ -1,0 +1,11 @@
+{
+  "app": "tpshop",
+  "reason": "",
+  "seo": "tpshop,目录遍历漏洞,文件列表,远程检测",
+  "seo_en": "tpshop,directory traversal vulnerability,file list,remote detection",
+  "success": true,
+  "summary": "该插件用于检测tpshop系统是否存在目录遍历漏洞，通过发送特定请求检查是否可以非法访问文件列表。",
+  "summary_en": "This plugin is used to detect whether the tpshop system has directory traversal vulnerabilities by sending specific requests to check if unauthorized access to the file list is possible.",
+  "updated_at": 1742999589,
+  "uuid": "4f27f76a-5100-420a-8356-ca02323ecb97"
+}

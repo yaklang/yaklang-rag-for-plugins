@@ -1,0 +1,11 @@
+{
+  "app": "Bifrost中间件",
+  "reason": "",
+  "seo": "Bifrost中间件,任意用户注册,高危漏洞",
+  "seo_en": "Bifrost middleware, arbitrary user registration, high-risk vulnerability",
+  "success": true,
+  "summary": "检测Bifrost中间件是否存在任意用户注册漏洞，攻击者可通过发送特定POST请求添加管理员用户。",
+  "summary_en": "Detect whether the Bifrost middleware has an arbitrary user registration vulnerability. Attackers can add administrator users by sending specific POST requests.",
+  "updated_at": 1742999579,
+  "uuid": "3f4cf114-533a-4159-afc1-2d427af8fc23"
+}

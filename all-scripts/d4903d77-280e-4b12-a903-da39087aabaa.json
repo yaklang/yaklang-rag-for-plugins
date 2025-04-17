@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "越权,敏感参数,垂直越权,水平越权,插件,Dog online",
+  "seo_en": "Privilege escalation, sensitive parameters, vertical privilege escalation, horizontal privilege escalation, plugin, Dog online",
+  "success": true,
+  "summary": "该插件用于检测Web应用中的越权漏洞，包括垂直越权和水平越权，并识别敏感参数以发现潜在的安全风险。",
+  "summary_en": "This plugin is used to detect privilege escalation vulnerabilities in web applications, including vertical and horizontal privilege escalations, and identify sensitive parameters to discover potential security risks.",
+  "updated_at": 1742999601,
+  "uuid": "d4903d77-280e-4b12-a903-da39087aabaa"
+}

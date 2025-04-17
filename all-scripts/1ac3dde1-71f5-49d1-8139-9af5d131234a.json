@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Redis,CVE,合规检查,漏洞检测,2015-2023",
+  "seo_en": "Redis,CVE,Compliance Check,Vulnerability Detection,2015-2023",
+  "success": true,
+  "summary": "该插件用于检测Redis在2015年至2023年间的多个CVE漏洞，涵盖远程代码执行、拒绝服务、缓冲区溢出等安全问题。",
+  "summary_en": "This plugin is used to detect multiple CVE vulnerabilities in Redis from 2015 to 2023, covering remote code execution, denial of service, buffer overflow and other security issues.",
+  "updated_at": 1742999585,
+  "uuid": "1ac3dde1-71f5-49d1-8139-9af5d131234a"
+}

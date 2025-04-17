@@ -1,0 +1,11 @@
+{
+  "app": "飞企互联-FE企业运营管理平台",
+  "reason": "",
+  "seo": "飞企互联,FE企业运营管理平台,proxyservletutil,文件读取,漏洞检测",
+  "seo_en": "Flychery,FE Operation Management Platform,proxyservletutil,file read,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测飞企互联-FE企业运营管理平台中的proxyservletutil文件读取漏洞，通过构造特定请求来判断是否存在敏感文件读取风险。",
+  "summary_en": "This plugin is used to detect the proxyservletutil file read vulnerability in Flychery-FE Operation Management Platform. It constructs specific requests to determine if there is a risk of reading sensitive files.",
+  "updated_at": 1742999582,
+  "uuid": "b370cd38-8fbc-4b57-bff2-ce8ec69461f1"
+}

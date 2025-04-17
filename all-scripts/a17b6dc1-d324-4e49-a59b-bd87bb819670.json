@@ -1,0 +1,11 @@
+{
+  "app": "指挥调度平台",
+  "reason": "",
+  "seo": "指挥调度平台,SQL注入漏洞,ajax_users.php",
+  "seo_en": "Dispatching platform,SQL injection vulnerability,ajax_users.php",
+  "success": true,
+  "summary": "检测指挥调度平台中ajax_users.php文件是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the ajax_users.php file of the dispatching platform",
+  "updated_at": 1742999572,
+  "uuid": "a17b6dc1-d324-4e49-a59b-bd87bb819670"
+}

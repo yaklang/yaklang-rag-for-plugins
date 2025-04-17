@@ -1,0 +1,11 @@
+{
+  "app": "Impala",
+  "reason": "",
+  "seo": "impalad未授权访问,端口扫描,漏洞检测,敏感信息,SQL查询",
+  "seo_en": "impalad unauthorized access,port scan,vulnerability detection,sensitive information,SQL query",
+  "success": true,
+  "summary": "该插件用于检测Impala服务是否存在未授权访问漏洞，通过访问特定路径检查是否可以获取敏感的SQL查询信息。",
+  "summary_en": "This plugin is used to detect whether the Impala service has unauthorized access vulnerabilities, and checks if sensitive SQL query information can be obtained by accessing a specific path.",
+  "updated_at": 1742999588,
+  "uuid": "a574b094-701f-45ce-a9fd-9bb3731df0fe"
+}

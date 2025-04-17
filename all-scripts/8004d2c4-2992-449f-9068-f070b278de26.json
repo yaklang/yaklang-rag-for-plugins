@@ -1,0 +1,11 @@
+{
+  "app": "海康威视视频编码设备接入网关",
+  "reason": "",
+  "seo": "海康威视,视频编码设备,信息泄漏,userinfodata接口",
+  "seo_en": "Hikvision, video encoding device, information leakage, userinfodata interface",
+  "success": true,
+  "summary": "检测海康威视视频编码设备接入网关的userinfodata接口是否存在信息泄漏漏洞",
+  "summary_en": "Detect whether the userinfodata interface of Hikvision video encoding device access gateway has an information leakage vulnerability",
+  "updated_at": 1742999577,
+  "uuid": "8004d2c4-2992-449f-9068-f070b278de26"
+}

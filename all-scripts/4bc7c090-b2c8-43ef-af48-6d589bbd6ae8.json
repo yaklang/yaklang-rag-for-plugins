@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "403绕过,HTTP漏洞,权限绕过,Web安全",
+  "seo_en": "403 bypass,HTTP vulnerability,authorization bypass,Web security",
+  "success": true,
+  "summary": "该插件通过多种手段尝试绕过HTTP 403 Forbidden错误，包括修改请求方法、HTTP版本降级、添加伪造IP头以及路径变异等技术，检测是否存在403权限绕过漏洞。",
+  "summary_en": "This plugin attempts to bypass HTTP 403 Forbidden errors using various techniques, such as changing request methods, downgrading HTTP versions, adding fake IP headers, and mutating paths, to detect potential 403 authorization bypass vulnerabilities.",
+  "updated_at": 1742999569,
+  "uuid": "4bc7c090-b2c8-43ef-af48-6d589bbd6ae8"
+}

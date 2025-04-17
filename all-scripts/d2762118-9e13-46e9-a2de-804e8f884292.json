@@ -1,0 +1,11 @@
+{
+  "app": "泛微系统",
+  "reason": "",
+  "seo": "泛微browser.jsp注入绕过,sql注入检测,漏洞扫描",
+  "seo_en": "Weaver browser.jsp bypass, SQL injection detection, vulnerability scanning",
+  "success": true,
+  "summary": "该插件用于检测泛微系统的browser.jsp文件是否存在SQL注入漏洞，并通过发送特定请求来验证目标是否受影响。",
+  "summary_en": "This plugin is used to detect whether the browser.jsp file of Weaver system has SQL injection vulnerability, and verify whether the target is affected by sending specific requests.",
+  "updated_at": 1742999585,
+  "uuid": "d2762118-9e13-46e9-a2de-804e8f884292"
+}

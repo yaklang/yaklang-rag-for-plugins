@@ -1,0 +1,11 @@
+{
+  "app": "用友U8-OA",
+  "reason": "",
+  "seo": "用友U8-OA,SQL注入检测,漏洞扫描,网络安全",
+  "seo_en": "Yonyou U8-OA,SQL Injection Detection,Vulnerability Scan,Network Security",
+  "success": true,
+  "summary": "该插件用于检测用友U8-OA系统是否存在SQL注入漏洞，通过发送特定payload验证目标系统的安全性。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the Yonyou U8-OA system by sending a specific payload to verify the security of the target system.",
+  "updated_at": 1742999597,
+  "uuid": "07794b0a-37d8-439e-8396-be82468bb28e"
+}

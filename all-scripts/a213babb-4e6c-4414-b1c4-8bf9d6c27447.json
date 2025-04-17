@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,SQL注入漏洞,swfupload_new.php,高危漏洞",
+  "seo_en": "Tongda OA,SQL injection vulnerability,swfupload_new.php,high-risk vulnerability",
+  "success": true,
+  "summary": "该插件用于检测通达OA v11.5版本中swfupload_new.php文件是否存在SQL注入漏洞，漏洞可能导致信息泄露。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the swfupload_new.php file of Tongda OA v11.5. The vulnerability may lead to information leakage.",
+  "updated_at": 1742999601,
+  "uuid": "a213babb-4e6c-4414-b1c4-8bf9d6c27447"
+}

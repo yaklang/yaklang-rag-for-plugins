@@ -1,0 +1,11 @@
+{
+  "app": "飞企互联-FE企业运营管理平台",
+  "reason": "",
+  "seo": "飞企互联,FE企业运营管理平台,common_sort_tree,RCE漏洞,远程代码执行",
+  "seo_en": "Flychery,FE Business Operation Management Platform,common_sort_tree,RCE vulnerability,Remote Code Execution",
+  "success": true,
+  "summary": "检测飞企互联-FE企业运营管理平台中common_sort_tree.jsp文件是否存在远程代码执行（RCE）漏洞，通过发送特定请求触发DNS交互或执行命令来确认漏洞存在。",
+  "summary_en": "Detect Remote Code Execution (RCE) vulnerability in common_sort_tree.jsp file of Flychery-FE Business Operation Management Platform by sending specific requests to trigger DNS interaction or command execution.",
+  "updated_at": 1742999582,
+  "uuid": "aded256f-71e9-47d7-81aa-9e4c4ff95fc4"
+}

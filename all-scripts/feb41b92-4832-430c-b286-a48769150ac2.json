@@ -1,0 +1,11 @@
+{
+  "app": "Apache Druid",
+  "reason": "",
+  "seo": "ApacheDruid, Kafka配置, 远程代码执行, RCE漏洞, 检测插件",
+  "seo_en": "ApacheDruid, Kafka configuration, Remote Code Execution, RCE vulnerability, detection plugin",
+  "success": true,
+  "summary": "该插件用于检测Apache Druid中Kafka配置存在的远程代码执行漏洞，通过构造特定请求并结合DNSLog验证是否存在JNDI注入漏洞。",
+  "summary_en": "This plugin is used to detect Remote Code Execution vulnerabilities in the Kafka configuration of Apache Druid. It constructs specific requests and uses DNSLog to verify the presence of JNDI injection vulnerabilities.",
+  "updated_at": 1742999585,
+  "uuid": "feb41b92-4832-430c-b286-a48769150ac2"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "域名提取,IP提取,文本处理",
+  "seo_en": "domain extraction,IP extraction,text processing",
+  "success": true,
+  "summary": "该插件用于从文本中提取域名和IP地址，并过滤不符合规范的结果。",
+  "summary_en": "This plugin is used to extract domains and IP addresses from text and filter out non-conforming results.",
+  "updated_at": 1742999593,
+  "uuid": "57c62c11-feb2-4c16-a4a7-3e01d714c6e4"
+}

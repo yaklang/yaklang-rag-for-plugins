@@ -1,0 +1,11 @@
+{
+  "app": "锐捷 NBR路由器",
+  "reason": "",
+  "seo": "锐捷,漏洞检测,CNVD-2021-09650,远程命令执行,RCE",
+  "seo_en": "Ruijie,vulnerability detection,CNVD-2021-09650,remote command execution,RCE",
+  "success": true,
+  "summary": "该插件用于检测锐捷 NBR 路由器是否存在 CNVD-2021-09650 远程命令执行漏洞，通过发送特定请求并验证返回结果来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Ruijie NBR router has the CNVD-2021-09650 remote command execution vulnerability. It confirms the existence of the vulnerability by sending specific requests and verifying the results.",
+  "updated_at": 1742999601,
+  "uuid": "0d381416-a9f3-4b7c-9cd9-0f5cbf49226f"
+}

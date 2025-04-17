@@ -1,0 +1,11 @@
+{
+  "app": "Next.js",
+  "reason": "",
+  "seo": "ZEIT Next.js,SSRF漏洞,代码问题漏洞,服务器端请求伪造,版本13.4至14.1.1之前",
+  "seo_en": "ZEIT Next.js,SSRF vulnerability,code issue vulnerability,server-side request forgery,versions 13.4 to 14.1.1",
+  "success": true,
+  "summary": "检测ZEIT Next.js 13.4至14.1.1之前版本中的SSRF漏洞，该漏洞源于内置图像优化组件存在服务器端请求伪造问题。",
+  "summary_en": "Detect SSRF vulnerability in ZEIT Next.js versions 13.4 to 14.1.1, caused by the server-side request forgery in the built-in image optimization component.",
+  "updated_at": 1742999573,
+  "uuid": "b4796d1a-dd2a-4357-b266-3d9e8ef46210"
+}

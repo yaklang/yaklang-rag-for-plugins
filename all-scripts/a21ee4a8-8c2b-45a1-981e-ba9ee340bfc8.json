@@ -1,0 +1,11 @@
+{
+  "app": "Spring Boot",
+  "reason": "",
+  "seo": "Spring Boot,信息泄露漏洞检测,actuator,低危漏洞",
+  "seo_en": "Spring Boot, Information Disclosure Vulnerability Detection, actuator, Low-risk Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Spring Boot应用是否存在通过/actuator/info端点导致的信息泄露漏洞，若检测到会标记为低危风险。",
+  "summary_en": "This plugin is used to detect whether there is an information disclosure vulnerability in Spring Boot applications through the /actuator/info endpoint. If detected, it will be marked as a low-risk threat.",
+  "updated_at": 1742999602,
+  "uuid": "a21ee4a8-8c2b-45a1-981e-ba9ee340bfc8"
+}

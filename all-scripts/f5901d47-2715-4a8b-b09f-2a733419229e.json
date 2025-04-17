@@ -1,0 +1,11 @@
+{
+  "app": "FLIR",
+  "reason": "",
+  "seo": "FLIR,未授权访问漏洞,高危,配置错误",
+  "seo_en": "FLIR,unauthorized access vulnerability,high risk,misconfiguration",
+  "success": true,
+  "summary": "检测FLIR设备是否存在未授权访问漏洞，通过设置RTSP流冻结状态来验证漏洞是否存在",
+  "summary_en": "Detect whether FLIR devices have unauthorized access vulnerabilities by setting the RTSP stream freeze state to verify the existence of vulnerabilities",
+  "updated_at": 1742999585,
+  "uuid": "f5901d47-2715-4a8b-b09f-2a733419229e"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Western Bridge Cobub Razor",
+  "reason": "",
+  "seo": "Western Bridge Cobub Razor,物理路径泄露漏洞,CNVD-2018-07345",
+  "seo_en": "Western Bridge Cobub Razor,Path Disclosure Vulnerability,CNVD-2018-07345",
+  "success": true,
+  "summary": "检测Western Bridge Cobub Razor系统是否存在物理路径泄露漏洞（CNVD-2018-07345），通过发送特定请求判断是否返回敏感错误信息来确认漏洞存在。",
+  "summary_en": "Detect whether the Western Bridge Cobub Razor system has a physical path disclosure vulnerability (CNVD-2018-07345) by sending specific requests and checking if sensitive error information is returned.",
+  "updated_at": 1742999591,
+  "uuid": "3b3b0e8b-fac8-42ca-bffa-957849ae1bdf"
+}

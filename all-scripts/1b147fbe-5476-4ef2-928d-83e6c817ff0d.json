@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Swagger,API泄漏,敏感信息,安全风险",
+  "seo_en": "Swagger,API leakage,sensitive information,security risk",
+  "success": true,
+  "summary": "检测网站是否存在Swagger JSON接口暴露问题，防止信息泄露、未授权访问和API滥用等安全风险。",
+  "summary_en": "Detect whether the website has exposed Swagger JSON interfaces to prevent information leakage, unauthorized access, and API abuse.",
+  "updated_at": 1740203645,
+  "uuid": "1b147fbe-5476-4ef2-928d-83e6c817ff0d"
+}

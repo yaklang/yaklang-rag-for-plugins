@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "敏感信息检测,插件,MITM,漏洞,信息泄露",
+  "seo_en": "sensitive information detection,plugin,MITM,vulnerability,information leakage",
+  "success": true,
+  "summary": "该插件的核心意图是检测网络流量中的敏感信息泄露，包括但不限于API密钥、访问令牌、内网IP地址等，并生成风险报告。",
+  "summary_en": "The core intention of this plugin is to detect sensitive information leaks in network traffic, including but not limited to API keys, access tokens, internal IP addresses, etc., and generate risk reports.",
+  "updated_at": 1742999588,
+  "uuid": "d476172b-0757-4371-bffc-d989b699c0ec"
+}

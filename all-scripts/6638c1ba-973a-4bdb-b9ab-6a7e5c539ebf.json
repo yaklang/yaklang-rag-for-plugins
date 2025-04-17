@@ -1,0 +1,11 @@
+{
+  "app": "Spring Cloud Config",
+  "reason": "",
+  "seo": "Spring Cloud Config,目录遍历漏洞,CVE-2020-5405",
+  "seo_en": "Spring Cloud Config,directory traversal vulnerability,CVE-2020-5405",
+  "success": true,
+  "summary": "检测Spring Cloud Config Server是否存在目录遍历漏洞（CVE-2020-5405），通过发送特定请求判断是否可以读取系统敏感文件。",
+  "summary_en": "Detect whether the Spring Cloud Config Server has a directory traversal vulnerability (CVE-2020-5405) by sending specific requests to determine if system sensitive files can be read.",
+  "updated_at": 1742999590,
+  "uuid": "6638c1ba-973a-4bdb-b9ab-6a7e5c539ebf"
+}

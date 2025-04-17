@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "JsRPC解密,在线解密,codec插件,自定义编码解码",
+  "seo_en": "JsRPC decryption, online decryption, codec plugin, custom encoding and decoding",
+  "success": true,
+  "summary": "该插件用于对接JsRPC的解密功能，支持自定义编码解码和字符串处理函数，需要手动修改部分参数。",
+  "summary_en": "This plugin is used for JsRPC decryption, supporting custom encoding/decoding and string processing functions, with some parameters requiring manual modification.",
+  "updated_at": 1742999579,
+  "uuid": "67ab1e20-f937-4102-a3d5-782125330907"
+}

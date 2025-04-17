@@ -1,0 +1,11 @@
+{
+  "app": "NPS",
+  "reason": "",
+  "seo": "NPS,未授权漏洞,身份验证缺陷,后台利用",
+  "seo_en": "NPS, unauthorized vulnerability, authentication flaw, backend exploitation",
+  "success": true,
+  "summary": "该插件针对NPS的未授权漏洞，通过伪造auth_key和timestamp参数，实现对后台功能的持续访问，解决手动复制粘贴的问题。",
+  "summary_en": "This plugin targets the unauthorized vulnerability in NPS by forging auth_key and timestamp parameters to enable continuous access to backend functions, solving the issue of manual copy-pasting.",
+  "updated_at": 1742999569,
+  "uuid": "1c5c08b8-ecd1-442b-a431-ed484a1eec3c"
+}

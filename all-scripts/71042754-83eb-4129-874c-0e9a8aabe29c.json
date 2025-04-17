@@ -1,0 +1,11 @@
+{
+  "app": "金和OA",
+  "reason": "",
+  "seo": "金和OA,SQL注入漏洞,C6-GeneralXmlhttpPage.aspx",
+  "seo_en": "Jinhe OA,SQL injection vulnerability,C6-GeneralXmlhttpPage.aspx",
+  "success": true,
+  "summary": "检测金和OA-C6-GeneralXmlhttpPage.aspx是否存在SQL注入漏洞，通过发送特定请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in Jinhe OA-C6-GeneralXmlhttpPage.aspx by sending a specific request and measuring the response time to determine if the vulnerability exists.",
+  "updated_at": 1742999571,
+  "uuid": "71042754-83eb-4129-874c-0e9a8aabe29c"
+}

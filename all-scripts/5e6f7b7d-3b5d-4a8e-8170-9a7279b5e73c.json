@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SCA,合规规则,自动生成,CVE数据,漏洞检测",
+  "seo_en": "SCA, compliance rules, auto generation, CVE data, vulnerability detection",
+  "success": true,
+  "summary": "该插件通过CVE数据生成简单的SCA合规规则，用于检测特定产品版本范围内的漏洞。",
+  "summary_en": "This plugin generates simple SCA compliance rules based on CVE data to detect vulnerabilities within specific product version ranges.",
+  "updated_at": 1742999568,
+  "uuid": "5e6f7b7d-3b5d-4a8e-8170-9a7279b5e73c"
+}

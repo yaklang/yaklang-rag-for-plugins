@@ -1,0 +1,11 @@
+{
+  "app": "jboss",
+  "reason": "",
+  "seo": "Jboss,JMX-Console,未授权访问,漏洞检测",
+  "seo_en": "Jboss,JMX-Console,Unauthorized Access,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Jboss JMX-Console是否存在未授权访问漏洞，通过发送HTTP请求并分析响应状态码来判断目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in Jboss JMX-Console. It determines if the target system is affected by analyzing the HTTP response status code.",
+  "updated_at": 1742999602,
+  "uuid": "c0f4a6ac-f47c-44e2-9801-19bf33f16549"
+}

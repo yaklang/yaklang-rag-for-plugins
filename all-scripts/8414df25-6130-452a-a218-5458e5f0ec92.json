@@ -1,0 +1,11 @@
+{
+  "app": "金和OA",
+  "reason": "",
+  "seo": "金和OA,SQL注入漏洞,CarCardInfo.aspx,检测,安全漏洞",
+  "seo_en": "Jinhe OA,SQL injection vulnerability,CarCardInfo.aspx,detection,security vulnerability",
+  "success": true,
+  "summary": "该插件用于检测金和OA系统的CarCardInfo.aspx接口是否存在SQL注入漏洞，攻击者可能利用此漏洞获取敏感信息。",
+  "summary_en": "This plugin is used to detect whether the CarCardInfo.aspx interface of Jinhe OA system has SQL injection vulnerabilities, and attackers may exploit this vulnerability to obtain sensitive information.",
+  "updated_at": 1742999582,
+  "uuid": "8414df25-6130-452a-a218-5458e5f0ec92"
+}

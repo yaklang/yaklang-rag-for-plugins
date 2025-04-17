@@ -1,0 +1,11 @@
+{
+  "app": "F5",
+  "reason": "",
+  "seo": "F5,漏洞检测,CVE-2021-22986,CVE-2020-5902,批量检测",
+  "seo_en": "F5,vulnerability detection,CVE-2021-22986,CVE-2020-5902,batch detection",
+  "success": true,
+  "summary": "该插件用于批量检测F5设备中的CVE-2021-22986和CVE-2020-5902漏洞，帮助用户发现潜在安全风险。",
+  "summary_en": "This plugin is used for batch detection of CVE-2021-22986 and CVE-2020-5902 vulnerabilities in F5 devices, helping users identify potential security risks.",
+  "updated_at": 1742999597,
+  "uuid": "5501ed18-748f-40ab-90d0-f61378b548c6"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "致远OA",
+  "reason": "",
+  "seo": "致远OA,Session泄露漏洞,getSessionList.jsp,未授权访问",
+  "seo_en": "Seeyon OA,Session Leak Vulnerability,getSessionList.jsp,Unauthorized Access",
+  "success": true,
+  "summary": "检测致远OA系统是否存在Session泄露漏洞，通过未授权访问getSessionList.jsp接口获取敏感的登录session信息",
+  "summary_en": "Detect Seeyon OA system for Session leak vulnerabilities, obtaining sensitive login session information through unauthorized access to getSessionList.jsp",
+  "updated_at": 1742999601,
+  "uuid": "746a8414-05c9-43e4-8d0a-bbd8473b07f9"
+}

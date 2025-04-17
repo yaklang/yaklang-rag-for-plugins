@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "数据包转Python脚本,漏洞检测,GET请求,POST请求,文件上传",
+  "seo_en": "packet to Python script, vulnerability detection, GET request, POST request, file upload",
+  "success": true,
+  "summary": "该插件的核心意图是将网络请求数据包转换为可运行的Python脚本，支持GET和POST请求，同时包含文件上传功能，用于测试和检测潜在漏洞。",
+  "summary_en": "The core purpose of this plugin is to convert network request packets into executable Python scripts, supporting GET and POST requests with file upload functionality, used for testing and detecting potential vulnerabilities.",
+  "updated_at": 1742999583,
+  "uuid": "25eb8a56-94e7-4ae8-ae8c-d64a6df9f344"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "泛微OA",
+  "reason": "",
+  "seo": "泛微OA,SQL注入,漏洞检测,指纹识别",
+  "seo_en": "Panwei OA,SQL Injection,Vulnerability Detection,Fingerprint Identification",
+  "success": true,
+  "summary": "该插件用于检测泛微OA系统的servlet.LoginAction是否存在SQL注入漏洞，并通过特定的指纹识别规则确认目标系统是否为泛微OA。",
+  "summary_en": "This plugin is used to detect whether there is an SQL injection vulnerability in the servlet.LoginAction of the Panwei OA system, and confirms whether the target system is Panwei OA through specific fingerprint identification rules.",
+  "updated_at": 1742999592,
+  "uuid": "388afc07-8b0b-433b-bfee-62f4d38fa6af"
+}

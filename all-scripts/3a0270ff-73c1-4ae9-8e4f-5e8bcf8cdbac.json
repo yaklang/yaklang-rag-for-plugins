@@ -1,0 +1,11 @@
+{
+  "app": "Bazarr",
+  "reason": "",
+  "seo": "Bazarr,swaggerui,任意文件读取漏洞,漏洞检测",
+  "seo_en": "Bazarr,swaggerui,Arbitrary file read vulnerability,Vulnerability detection",
+  "success": true,
+  "summary": "检测Bazarr应用中的swaggerui任意文件读取漏洞，通过发送特定HTTP请求来验证是否存在该漏洞并输出相关信息。",
+  "summary_en": "Detect the swaggerui arbitrary file read vulnerability in Bazarr application. It verifies the existence of the vulnerability by sending a specific HTTP request and outputs relevant information.",
+  "updated_at": 1742999572,
+  "uuid": "3a0270ff-73c1-4ae9-8e4f-5e8bcf8cdbac"
+}

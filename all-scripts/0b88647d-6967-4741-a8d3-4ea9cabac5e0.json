@@ -1,0 +1,11 @@
+{
+  "app": "Harbor",
+  "reason": "",
+  "seo": "Harbor,CVE-2019-16097,漏洞检测,任意管理员注册",
+  "seo_en": "Harbor,CVE-2019-16097,vulnerability detection,arbitrary admin registration",
+  "success": true,
+  "summary": "该插件用于检测Harbor系统中的CVE-2019-16097漏洞，即任意管理员注册漏洞。",
+  "summary_en": "This plugin is used to detect the CVE-2019-16097 vulnerability in the Harbor system, which allows arbitrary administrator registration.",
+  "updated_at": 1742999597,
+  "uuid": "0b88647d-6967-4741-a8d3-4ea9cabac5e0"
+}

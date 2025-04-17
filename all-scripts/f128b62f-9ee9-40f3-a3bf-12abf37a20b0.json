@@ -1,0 +1,11 @@
+{
+  "app": "指挥调度平台",
+  "reason": "",
+  "seo": "指挥调度平台,invite_one_member,远程命令执行漏洞,插件,安全检测",
+  "seo_en": "command scheduling platform,invite_one_member,RCE vulnerability,plugin,security detection",
+  "success": true,
+  "summary": "该插件用于检测指挥调度平台中 invite_one_member 功能是否存在远程命令执行漏洞，通过发送特定请求并验证返回结果来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect the remote command execution vulnerability in the invite_one_member function of the command scheduling platform. It confirms the existence of the vulnerability by sending specific requests and verifying the response.",
+  "updated_at": 1742999572,
+  "uuid": "f128b62f-9ee9-40f3-a3bf-12abf37a20b0"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Confluence",
+  "reason": "",
+  "seo": "Confluence,漏洞检测,CVE-2019-3396,文件读取漏洞",
+  "seo_en": "Confluence,vulnerability detection,CVE-2019-3396,file read vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Confluence系统是否存在CVE-2019-3396文件读取漏洞，通过发送特定请求并验证响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Confluence system has the CVE-2019-3396 file read vulnerability. It confirms the existence of the vulnerability by sending specific requests and verifying the response content.",
+  "updated_at": 1742999598,
+  "uuid": "926c002e-d6e9-43ba-9784-ce664eb292f7"
+}

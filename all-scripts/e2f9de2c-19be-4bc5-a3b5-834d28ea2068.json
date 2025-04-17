@@ -1,0 +1,11 @@
+{
+  "app": "泛微OA E-Mobile",
+  "reason": "",
+  "seo": "泛微OA,SQL注入漏洞,E-Mobile4.0-6.6,漏洞检测",
+  "seo_en": "Weaver OA,SQL Injection Vulnerability,E-Mobile4.0-6.6,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测泛微OA E-Mobile4.0-6.6版本中的SQL注入漏洞，通过发送特定请求并分析响应结果来确认是否存在漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in Weaver OA E-Mobile version 4.0-6.6. It sends specific requests and analyzes the response to confirm whether the vulnerability exists.",
+  "updated_at": 1742999592,
+  "uuid": "e2f9de2c-19be-4bc5-a3b5-834d28ea2068"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "宏景人力资源管理系统",
+  "reason": "",
+  "seo": "宏景HCM,SQL注入漏洞,人力资源管理系统",
+  "seo_en": "Hongjing HCM,SQL Injection Vulnerability,Human Resource Management System",
+  "success": true,
+  "summary": "检测宏景人力资源管理系统中的SQL注入漏洞，该漏洞可能允许攻击者获取敏感的数据库信息。",
+  "summary_en": "Detect SQL injection vulnerabilities in the Hongjing Human Resource Management System, which may allow attackers to obtain sensitive database information.",
+  "updated_at": 1742999579,
+  "uuid": "befd2272-f024-44d3-bc10-c8b4dfca88e2"
+}

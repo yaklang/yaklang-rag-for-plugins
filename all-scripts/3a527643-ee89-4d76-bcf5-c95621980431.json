@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "qilin, bastion host, rce漏洞, 插件, 漏洞检测",
+  "seo_en": "qilin, bastion host, rce vulnerability, plugin, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测qilin堡垒机是否存在RCE远程代码执行漏洞，通过发送特定请求并验证响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the qilin bastion host has an RCE remote code execution vulnerability by sending specific requests and verifying the response.",
+  "updated_at": 1742999591,
+  "uuid": "3a527643-ee89-4d76-bcf5-c95621980431"
+}

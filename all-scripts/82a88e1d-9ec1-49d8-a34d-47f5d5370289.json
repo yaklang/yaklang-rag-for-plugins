@@ -1,0 +1,11 @@
+{
+  "app": "Oracle WebLogic Server",
+  "reason": "",
+  "seo": "Oracle WebLogic, wls9-async, 反序列化漏洞, CVE-2019-2729",
+  "seo_en": "Oracle WebLogic, wls9-async, Deserialization Vulnerability, CVE-2019-2729",
+  "success": true,
+  "summary": "检测Oracle WebLogic Server的wls9-async组件是否存在反序列化漏洞CVE-2019-2729，通过发送特定请求并分析响应状态码和内容来判断漏洞是否存在。",
+  "summary_en": "Detects whether the wls9-async component of Oracle WebLogic Server has the CVE-2019-2729 deserialization vulnerability by sending specific requests and analyzing response status codes and content.",
+  "updated_at": 1742999589,
+  "uuid": "82a88e1d-9ec1-49d8-a34d-47f5d5370289"
+}

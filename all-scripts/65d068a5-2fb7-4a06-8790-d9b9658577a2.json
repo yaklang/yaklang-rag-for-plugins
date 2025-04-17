@@ -1,0 +1,11 @@
+{
+  "app": "Apache Tomcat",
+  "reason": "",
+  "seo": "Apache Tomcat,PUT,远程命令执行漏洞,漏洞检测",
+  "seo_en": "Apache Tomcat,PUT,Remote Command Execution Vulnerability,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Apache Tomcat服务器是否存在PUT方法导致的远程命令执行漏洞，通过发送特定请求验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Apache Tomcat server has a remote command execution vulnerability caused by the PUT method, and verifies the existence of the vulnerability by sending specific requests.",
+  "updated_at": 1742999589,
+  "uuid": "65d068a5-2fb7-4a06-8790-d9b9658577a2"
+}

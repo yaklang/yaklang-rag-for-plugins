@@ -1,0 +1,11 @@
+{
+  "app": "ThinkPHP",
+  "reason": "",
+  "seo": "ThinkPHP,任意文件写入,RCE,目录穿越,漏洞检测",
+  "seo_en": "ThinkPHP,File Write,RCE,Directory Traversal,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测ThinkPHP框架中的语言包任意文件写入漏洞，通过构造特定请求实现远程代码执行（RCE），并提供一键getshell功能。",
+  "summary_en": "This plugin is used to detect arbitrary file write vulnerabilities in the ThinkPHP framework's language pack. It achieves Remote Code Execution (RCE) by crafting specific requests and provides a one-click getshell feature.",
+  "updated_at": 1742999587,
+  "uuid": "3d771294-474c-4f41-b8ca-b9cf92028894"
+}

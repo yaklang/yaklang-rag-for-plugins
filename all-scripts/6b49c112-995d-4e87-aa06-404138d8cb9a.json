@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "HTTP请求伪造,随机IP,headers头篡改",
+  "seo_en": "HTTP request forgery,random IP,headers modification",
+  "success": true,
+  "summary": "该插件通过伪造HTTP请求中的随机IP，修改多个与IP相关的headers头字段，用于模拟真实客户端访问或绕过基于IP的安全检测机制。",
+  "summary_en": "This plugin forges HTTP requests with random IPs and modifies multiple IP-related headers fields to simulate real client access or bypass IP-based security detection mechanisms.",
+  "updated_at": 1742999569,
+  "uuid": "6b49c112-995d-4e87-aa06-404138d8cb9a"
+}

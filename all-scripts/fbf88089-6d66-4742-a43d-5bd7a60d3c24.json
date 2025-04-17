@@ -1,0 +1,11 @@
+{
+  "app": "用友-UFIDA-NC系统",
+  "reason": "",
+  "seo": "用友,UFIDA,NC系统,任意文件读取,漏洞检测",
+  "seo_en": "Yonyou,UFIDA,NC system,Arbitrary file read,Vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测用友-UFIDA-NC系统的任意文件读取漏洞，通过构造特定请求读取目标服务器上的敏感文件。",
+  "summary_en": "This plugin is used to detect the arbitrary file read vulnerability in Yonyou-UFIDA-NC system by constructing specific requests to read sensitive files on the target server.",
+  "updated_at": 1742999581,
+  "uuid": "fbf88089-6d66-4742-a43d-5bd7a60d3c24"
+}

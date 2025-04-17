@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "换行符替换,编码解码,字符串处理,CRLF,LF",
+  "seo_en": "CRLF to LF,encoding decoding,string processing",
+  "success": true,
+  "summary": "该插件用于将换行符从CRLF替换为LF，适用于编码解码和字符串处理场景。",
+  "summary_en": "This plugin replaces CRLF with LF for encoding/decoding and string processing scenarios.",
+  "updated_at": 1742999568,
+  "uuid": "9096d44d-6be2-4612-acfe-5972c25984d9"
+}

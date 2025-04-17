@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "未授权检测,漏洞检测,nifi,storm,pma,chinaunicom",
+  "seo_en": "unauthorized access,vulnerability detection,nifi,storm,pma,chinaunicom",
+  "success": true,
+  "summary": "该插件用于检测nifi、storm、pma和chinaunicom等应用的未授权访问和弱口令漏洞",
+  "summary_en": "This plugin is used to detect unauthorized access and weak password vulnerabilities in nifi, storm, pma, and chinaunicom applications",
+  "updated_at": 1742999599,
+  "uuid": "1f6c209c-1f61-4784-94a4-08b483216e6c"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "反弹Shell,在线生成器,代码生成,多种语言支持",
+  "seo_en": "reverse shell, online generator, code generation, multi-language support",
+  "success": true,
+  "summary": "该插件用于生成多种编程语言的反弹Shell代码，帮助用户根据目标环境选择合适的代码实现远程控制或渗透测试。",
+  "summary_en": "This plugin is used to generate reverse shell codes in various programming languages, helping users choose appropriate codes for remote control or penetration testing based on the target environment.",
+  "updated_at": 1742999582,
+  "uuid": "c7caf9b3-2dd9-45ad-b28d-8ba9a5f38a5f"
+}

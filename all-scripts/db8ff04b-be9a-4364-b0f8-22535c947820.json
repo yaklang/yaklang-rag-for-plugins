@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "批量URL探活,URL基本信息,statuscode,title,server,content-length",
+  "seo_en": "Batch URL probing,basic information of URL,status code,title,server,content length",
+  "success": true,
+  "summary": "该插件用于获取指定URL的基本信息，包括状态码、标题、服务器类型和内容长度，以检测URL的活跃情况。",
+  "summary_en": "This plugin is used to obtain the basic information of specified URLs, including status code, title, server type, and content length, to detect the activity of URLs.",
+  "updated_at": 1742999601,
+  "uuid": "db8ff04b-be9a-4364-b0f8-22535c947820"
+}

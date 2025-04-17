@@ -1,0 +1,11 @@
+{
+  "app": "海康威视SPON IP网络对讲广播系统",
+  "reason": "",
+  "seo": "海康威视,SPON,IP网络对讲广播系统,命令执行漏洞,CVE-2023-6895",
+  "seo_en": "Hikvision,SPON,IP Network Intercom Broadcast System,Command Execution Vulnerability,CVE-2023-6895",
+  "success": true,
+  "summary": "该插件用于检测海康威视SPON IP网络对讲广播系统是否存在命令执行漏洞（CVE-2023-6895），通过发送特定请求验证系统是否可被利用执行命令。",
+  "summary_en": "This plugin is used to detect whether the Hikvision SPON IP Network Intercom Broadcast System has a command execution vulnerability (CVE-2023-6895). It verifies if the system can be exploited to execute commands by sending specific requests.",
+  "updated_at": 1742999577,
+  "uuid": "9f68dd78-a3d9-4b64-9adb-5c9c43064cfc"
+}

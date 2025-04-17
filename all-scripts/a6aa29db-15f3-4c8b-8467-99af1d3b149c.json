@@ -1,0 +1,11 @@
+{
+  "app": "软宝建材企业管理系统",
+  "reason": "",
+  "seo": "软宝建材,SQL注入,找回密码,高危漏洞",
+  "seo_en": "Ruanbao Construction Materials,SQL Injection,Password Recovery,High-risk Vulnerability",
+  "success": true,
+  "summary": "检测软宝建材企业管理系统在找回密码功能中的SQL注入漏洞，该漏洞可能导致敏感信息泄露或非法操作。",
+  "summary_en": "Detect SQL injection vulnerabilities in the password recovery function of Ruanbao Construction Materials Enterprise Management System. This vulnerability may lead to sensitive information leakage or illegal operations.",
+  "updated_at": 1742999579,
+  "uuid": "a6aa29db-15f3-4c8b-8467-99af1d3b149c"
+}

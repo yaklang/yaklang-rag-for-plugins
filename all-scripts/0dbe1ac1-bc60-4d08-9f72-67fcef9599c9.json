@@ -1,0 +1,11 @@
+{
+  "app": "网神下一代极速防火墙",
+  "reason": "",
+  "seo": "网神,防火墙,任意文件读取漏洞,检测",
+  "seo_en": "Wangshen, Firewall, Arbitrary File Read Vulnerability, Detection",
+  "success": true,
+  "summary": "该插件用于检测网神下一代极速防火墙是否存在pki_file_download任意文件读取漏洞，通过构造特定payload尝试读取系统文件/etc/passwd来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Wangshen Next-Generation Ultra-Fast Firewall has an arbitrary file read vulnerability in pki_file_download. It constructs a specific payload to attempt reading the /etc/passwd file to verify the existence of the vulnerability.",
+  "updated_at": 1742999599,
+  "uuid": "0dbe1ac1-bc60-4d08-9f72-67fcef9599c9"
+}

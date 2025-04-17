@@ -1,0 +1,11 @@
+{
+  "app": "Coremail",
+  "reason": "",
+  "seo": "Coremail,CVE,合规检查,跨站脚本攻击漏洞",
+  "seo_en": "Coremail,CVE,compliance check,cross-site scripting vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Coremail系统在2015-2020年间的多个CVE漏洞，主要涉及跨站脚本攻击（XSS）问题。",
+  "summary_en": "This plugin is used to detect multiple CVE vulnerabilities in the Coremail system from 2015-2020, mainly involving cross-site scripting (XSS) issues.",
+  "updated_at": 1742999585,
+  "uuid": "f032f65d-914d-4e74-8afd-dfa9daecb762"
+}

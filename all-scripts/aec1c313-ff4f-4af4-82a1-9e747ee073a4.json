@@ -1,0 +1,11 @@
+{
+  "app": "蓝凌OA系统",
+  "reason": "",
+  "seo": "蓝凌OA,远程命令执行漏洞,sys_ui_component,RCE",
+  "seo_en": "Landray OA, Remote Code Execution vulnerability, sys_ui_component, RCE",
+  "success": true,
+  "summary": "检测蓝凌OA系统中由于文件Copy导致的远程代码执行漏洞，攻击者可利用此漏洞在未授权的情况下执行任意命令，获取服务器权限，造成严重安全问题。",
+  "summary_en": "Detect the remote code execution vulnerability in Landray OA system caused by file copy. Attackers can exploit this vulnerability to execute arbitrary commands without authorization, gain server privileges, and cause serious security issues.",
+  "updated_at": 1742999571,
+  "uuid": "aec1c313-ff4f-4af4-82a1-9e747ee073a4"
+}

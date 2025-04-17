@@ -1,0 +1,11 @@
+{
+  "app": "泛微E-Mobile",
+  "reason": "",
+  "seo": "泛微E-Mobile,命令执行漏洞,6.0版本,client.do",
+  "seo_en": "Fanwei E-Mobile,command execution vulnerability,version 6.0,client.do",
+  "success": true,
+  "summary": "检测泛微E-Mobile 6.0系统中client.do是否存在命令执行漏洞，该漏洞可被利用执行任意命令。",
+  "summary_en": "Detect whether the client.do in Fanwei E-Mobile 6.0 system has command execution vulnerability, which can be exploited to execute arbitrary commands.",
+  "updated_at": 1742999569,
+  "uuid": "de70a5ae-b36d-4de4-9740-b4419be19e5e"
+}

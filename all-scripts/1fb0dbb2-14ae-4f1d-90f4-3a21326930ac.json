@@ -1,0 +1,11 @@
+{
+  "app": "泛微E-office系统",
+  "reason": "",
+  "seo": "泛微E-office,任意文件读取漏洞,download.php,高危漏洞",
+  "seo_en": "Weaver E-office,Arbitrary File Read Vulnerability,download.php,High Risk Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测泛微E-officedownload.php是否存在任意文件读取漏洞，通过构造特定请求尝试读取系统敏感文件（如hosts文件）来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Weaver E-officedownload.php has an arbitrary file read vulnerability. It constructs a specific request to attempt reading system sensitive files (such as the hosts file) to verify the existence of the vulnerability.",
+  "updated_at": 1742999579,
+  "uuid": "1fb0dbb2-14ae-4f1d-90f4-3a21326930ac"
+}

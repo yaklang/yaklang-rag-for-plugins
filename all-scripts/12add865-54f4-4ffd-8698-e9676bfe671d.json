@@ -1,0 +1,11 @@
+{
+  "app": "Weblogic",
+  "reason": "",
+  "seo": "Weblogic,CVE-2017-10271,XMLDecoder,反序列化漏洞,检测",
+  "seo_en": "Weblogic,CVE-2017-10271,XMLDecoder,deserialization vulnerability,detection",
+  "success": true,
+  "summary": "该插件用于检测Weblogic服务器是否存在CVE-2017-10271 XMLDecoder反序列化漏洞，通过构造特定的恶意请求触发漏洞并验证是否存在命令执行风险。",
+  "summary_en": "This plugin is used to detect whether the Weblogic server has the CVE-2017-10271 XMLDecoder deserialization vulnerability. It constructs a specific malicious request to trigger the vulnerability and verify the risk of command execution.",
+  "updated_at": 1742999602,
+  "uuid": "12add865-54f4-4ffd-8698-e9676bfe671d"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Tenda W15E路由器",
+  "reason": "",
+  "seo": "腾达W15E,信息泄露,CVE-2017-14514,漏洞检测",
+  "seo_en": "Tenda W15E,information leakage,CVE-2017-14514,vulnerability detection",
+  "success": true,
+  "summary": "检测Tenda W15E路由器是否存在CVE-2017-14514信息泄露漏洞，通过访问特定配置文件接口判断是否存在风险。",
+  "summary_en": "Detect whether the Tenda W15E router has the CVE-2017-14514 information leakage vulnerability by accessing a specific configuration file interface to determine if there is a risk.",
+  "updated_at": 1742999586,
+  "uuid": "9e8a9c71-0cd6-4e1e-8f26-e364e825bdeb"
+}

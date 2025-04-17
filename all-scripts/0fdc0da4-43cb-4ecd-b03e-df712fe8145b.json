@@ -1,0 +1,11 @@
+{
+  "app": "KubePi",
+  "reason": "",
+  "seo": "KubePi,JWT,token,验证绕过漏洞,高危",
+  "seo_en": "KubePi,JWT,token,bypass vulnerability,high severity",
+  "success": true,
+  "summary": "该插件用于检测KubePi系统中是否存在JWT token验证绕过漏洞，通过构造特定的POST请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is a JWT token bypass vulnerability in the KubePi system by constructing a specific POST request to verify the existence of the vulnerability.",
+  "updated_at": 1742999570,
+  "uuid": "0fdc0da4-43cb-4ecd-b03e-df712fe8145b"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "tmp-2urGvpmubKscM1CamQfSqcVwNqw, 插件, risk.NewRisk, 127.0.0.1",
+  "seo_en": "tmp-2urGvpmubKscM1CamQfSqcVwNqw, plugin, risk.NewRisk, 127.0.0.1",
+  "success": true,
+  "summary": "该插件可能用于检测或处理与IP地址127.0.0.1相关的风险。",
+  "summary_en": "This plugin may be used to detect or handle risks related to the IP address 127.0.0.1.",
+  "updated_at": 1742999512,
+  "uuid": "9d520119-ebec-4db4-af6f-10646667b464"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "飞企互联-FE企业运营管理平台",
+  "reason": "",
+  "seo": "飞企互联,FE企业运营管理平台,任意文件上传,漏洞检测",
+  "seo_en": "Flychery,FE Enterprise Operation Management Platform,Arbitrary File Upload,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测飞企互联-FE企业运营管理平台的officeserver模块是否存在任意文件上传漏洞，通过发送特定请求并检查响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the officeserver module of Flychery-FE Enterprise Operation Management Platform has an arbitrary file upload vulnerability, and confirms the existence of the vulnerability by sending specific requests and checking the response.",
+  "updated_at": 1742999582,
+  "uuid": "714bd9a4-201e-413d-9a18-2f7ad0fb14f4"
+}

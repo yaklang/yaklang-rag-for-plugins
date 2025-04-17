@@ -1,0 +1,11 @@
+{
+  "app": "数字通指尖云平台-智慧政务payslip",
+  "reason": "",
+  "seo": "数字通,指尖云平台,智慧政务,payslip,SQL注入",
+  "seo_en": "Digital Tong, Cloud Platform, Smart Government, Payslip, SQL Injection",
+  "success": true,
+  "summary": "检测数字通指尖云平台-智慧政务payslip是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in Digital Tong Cloud Platform - Smart Government Payslip",
+  "updated_at": 1742999572,
+  "uuid": "a5434f54-d4a1-4f45-b898-3b4ecb5e51db"
+}

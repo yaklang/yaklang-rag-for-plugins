@@ -1,0 +1,11 @@
+{
+  "app": "Spring",
+  "reason": "",
+  "seo": "Spring,Whitelabel Error Page,SpEL表达式注入漏洞,检测,高危",
+  "seo_en": "Spring,Whitelabel Error Page,SpEL Expression Injection Vulnerability,Detection,High Risk",
+  "success": true,
+  "summary": "该插件用于检测Spring Whitelabel Error Page是否存在SpEL表达式注入漏洞，通过发送特定payload验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether there is a SpEL expression injection vulnerability in the Spring Whitelabel Error Page by sending a specific payload to verify if the target system is affected.",
+  "updated_at": 1742999602,
+  "uuid": "b770e799-ce06-459c-8d27-ead1ece640ba"
+}

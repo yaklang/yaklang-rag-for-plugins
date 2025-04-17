@@ -1,0 +1,11 @@
+{
+  "app": "apisix",
+  "reason": "",
+  "seo": "apisix,默认密钥漏洞,CVE_2020_13945,高危漏洞,命令执行",
+  "seo_en": "apisix,default key vulnerability,CVE_2020_13945,high-risk vulnerability,command execution",
+  "success": true,
+  "summary": "该插件用于检测Apache APISIX是否存在默认管理员密钥漏洞（CVE-2020-13945），通过构造恶意请求尝试利用该漏洞执行命令，验证是否存在安全风险。",
+  "summary_en": "This plugin is used to detect whether Apache APISIX has the default admin key vulnerability (CVE-2020-13945). It attempts to exploit the vulnerability by constructing malicious requests to execute commands and verify potential security risks.",
+  "updated_at": 1742999585,
+  "uuid": "3f30b3a9-cec0-4b9d-9e0e-677fafb41b23"
+}

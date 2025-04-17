@@ -1,0 +1,11 @@
+{
+  "app": "用友U9",
+  "reason": "",
+  "seo": "用友U9,文件上传漏洞,插件检测",
+  "seo_en": "Yongyou U9,file upload vulnerability,plugin detection",
+  "success": true,
+  "summary": "该插件用于检测用友U9系统是否存在PatchFile.asmx文件的任意文件上传漏洞，通过发送POST请求尝试上传文件并验证上传成功与否。",
+  "summary_en": "This plugin is used to detect whether the Yongyou U9 system has an arbitrary file upload vulnerability in the PatchFile.asmx file by sending a POST request to attempt uploading a file and verifying if it succeeds.",
+  "updated_at": 1742999582,
+  "uuid": "61a36147-8410-4b64-95b7-4ffbcaf5073b"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "FLIR",
+  "reason": "",
+  "seo": "FLIR,ssh弱口令漏洞,爆破,高危",
+  "seo_en": "FLIR,SSH weak password vulnerability,brute force,high risk",
+  "success": true,
+  "summary": "该插件旨在检测FLIR设备是否存在SSH弱口令漏洞，通过爆破用户名和密码列表来发现潜在的安全风险。",
+  "summary_en": "This plugin aims to detect whether FLIR devices have SSH weak password vulnerabilities by brute-forcing username and password lists to discover potential security risks.",
+  "updated_at": 1742999585,
+  "uuid": "292851c3-d309-42b5-8afb-28ebcde5fd21"
+}

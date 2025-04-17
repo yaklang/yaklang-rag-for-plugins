@@ -1,0 +1,11 @@
+{
+  "app": "GB28181摄像头管理平台WVP视频平台",
+  "reason": "",
+  "seo": "GB28181,摄像头管理,SQL注入漏洞,WVP视频平台",
+  "seo_en": "GB28181,Camera Management,SQL Injection Vulnerability,WVP Video Platform",
+  "success": true,
+  "summary": "检测GB28181摄像头管理平台WVP视频平台是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the GB28181 Camera Management WVP Video Platform",
+  "updated_at": 1742999571,
+  "uuid": "b160f475-812c-49ed-9acc-8a43482cde1d"
+}

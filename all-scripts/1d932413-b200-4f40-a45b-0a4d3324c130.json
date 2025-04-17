@@ -1,0 +1,11 @@
+{
+  "app": "yungoucms",
+  "reason": "",
+  "seo": "yungoucms,sql注入漏洞,检测插件",
+  "seo_en": "yungoucms,SQL injection vulnerability,detection plugin",
+  "success": true,
+  "summary": "该插件用于检测yungoucms系统是否存在SQL注入漏洞，通过构造特定的URL请求并验证响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the yungoucms system has SQL injection vulnerabilities by constructing specific URL requests and verifying the response to confirm the existence of the vulnerability.",
+  "updated_at": 1742999589,
+  "uuid": "1d932413-b200-4f40-a45b-0a4d3324c130"
+}

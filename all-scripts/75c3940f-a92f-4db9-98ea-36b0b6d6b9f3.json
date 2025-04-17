@@ -1,0 +1,11 @@
+{
+  "app": "Lanproxy",
+  "reason": "",
+  "seo": "Lanproxy,CVE-2021-3019,目录遍历漏洞,检测,插件",
+  "seo_en": "Lanproxy,CVE-2021-3019,DirectoryTraversalVulnerability,Detection,Plugin",
+  "success": true,
+  "summary": "该插件用于检测Lanproxy是否存在CVE-2021-3019目录遍历漏洞，通过读取配置文件来获取内部网连接凭据。",
+  "summary_en": "This plugin is used to detect whether Lanproxy has the CVE-2021-3019 directory traversal vulnerability by reading the configuration file to obtain internal network connection credentials.",
+  "updated_at": 1742999595,
+  "uuid": "75c3940f-a92f-4db9-98ea-36b0b6d6b9f3"
+}

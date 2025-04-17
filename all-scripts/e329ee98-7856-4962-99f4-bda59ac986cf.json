@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "插件,域名,IP,CDN,备案信息,开放端口,属地",
+  "seo_en": "plugin,domain,IP,CDN,filing information,open ports,location",
+  "success": true,
+  "summary": "根据单IP或单域名返回关键信息（备案信息、开放端口、CDN、属地），以快速判断其可能的脆弱点。",
+  "summary_en": "Retrieve key information (filing information, open ports, CDN, location) based on a single IP or domain to quickly identify potential vulnerabilities.",
+  "updated_at": 1742999588,
+  "uuid": "e329ee98-7856-4962-99f4-bda59ac986cf"
+}

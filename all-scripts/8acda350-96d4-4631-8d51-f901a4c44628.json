@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "域名,IP转换,CDN检测",
+  "seo_en": "domain,IP conversion,CDN detection",
+  "success": true,
+  "summary": "该插件用于批量将域名转换为IP地址，并检测是否使用了CDN。如果解析到的IP个数大于1，则判定为使用了CDN。",
+  "summary_en": "This plugin is used for batch conversion of domains to IP addresses and detects whether CDN is used. If the number of resolved IPs is greater than 1, it is determined that CDN is used.",
+  "updated_at": 1742999586,
+  "uuid": "8acda350-96d4-4631-8d51-f901a4c44628"
+}

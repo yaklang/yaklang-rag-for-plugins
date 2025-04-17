@@ -1,0 +1,11 @@
+{
+  "app": "H3C",
+  "reason": "",
+  "seo": "H3C,漏洞检测,RCE,未授权访问",
+  "seo_en": "H3C, vulnerability detection, RCE, unauthorized access",
+  "success": true,
+  "summary": "该插件用于批量检测H3C设备的RCE漏洞和未授权访问漏洞，通过发送特定请求包并验证响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used for batch detection of RCE and unauthorized access vulnerabilities in H3C devices. It sends specific request packets and verifies the responses to confirm whether the vulnerabilities exist.",
+  "updated_at": 1742999597,
+  "uuid": "0d2bd6c3-d1ed-4276-9754-caf97e29154a"
+}

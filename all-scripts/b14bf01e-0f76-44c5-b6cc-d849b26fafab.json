@@ -1,0 +1,11 @@
+{
+  "app": "WebLogic",
+  "reason": "",
+  "seo": "WebLogic,CVE-2020-14750,远程代码执行漏洞,未授权访问",
+  "seo_en": "WebLogic,CVE-2020-14750,RCE vulnerability,unauthorized access",
+  "success": true,
+  "summary": "该插件用于检测WebLogic服务器是否存在CVE-2020-14750远程代码执行漏洞，通过发送特定请求判断是否存在未授权访问问题。",
+  "summary_en": "This plugin is used to detect whether the WebLogic server has the CVE-2020-14750 RCE vulnerability, and determines if unauthorized access is possible by sending a specific request.",
+  "updated_at": 1742999602,
+  "uuid": "b14bf01e-0f76-44c5-b6cc-d849b26fafab"
+}

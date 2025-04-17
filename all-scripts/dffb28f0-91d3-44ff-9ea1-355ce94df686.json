@@ -1,0 +1,11 @@
+{
+  "app": "GoCD",
+  "reason": "",
+  "seo": "GoCD,任意文件读取漏洞,CVE-2021-43287,漏洞检测",
+  "seo_en": "GoCD,Arbitrary File Read Vulnerability,CVE-2021-43287,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测GoCD系统中的CVE-2021-43287任意文件读取漏洞，通过构造特定请求验证是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the CVE-2021-43287 arbitrary file read vulnerability in the GoCD system by constructing specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999597,
+  "uuid": "dffb28f0-91d3-44ff-9ea1-355ce94df686"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "蓝凌OA系统",
+  "reason": "",
+  "seo": "蓝凌OA,命令执行,custom.jsp,RCE",
+  "seo_en": "Landray OA,Command Execution,custom.jsp,RCE",
+  "success": true,
+  "summary": "该插件用于检测蓝凌OA系统中custom.jsp文件是否存在命令执行漏洞，攻击者可能通过构造特定请求实现远程代码执行。",
+  "summary_en": "This plugin is used to detect the command execution vulnerability in the custom.jsp file of the Landray OA system. Attackers may achieve remote code execution by constructing specific requests.",
+  "updated_at": 1742999580,
+  "uuid": "72eb700a-3e13-445b-ac3f-638bebe12a61"
+}

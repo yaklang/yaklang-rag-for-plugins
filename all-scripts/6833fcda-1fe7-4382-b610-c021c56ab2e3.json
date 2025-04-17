@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,任意用户登录,漏洞检测,login_code.php",
+  "seo_en": "Tongda OA, arbitrary user login, vulnerability detection, login_code.php",
+  "success": true,
+  "summary": "该插件用于检测通达OA v11.5版本中是否存在通过login_code.php文件实现的任意用户登录漏洞。",
+  "summary_en": "This plugin is used to detect whether there is an arbitrary user login vulnerability through the login_code.php file in Tongda OA v11.5.",
+  "updated_at": 1742999601,
+  "uuid": "6833fcda-1fe7-4382-b610-c021c56ab2e3"
+}

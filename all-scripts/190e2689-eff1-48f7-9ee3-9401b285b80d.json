@@ -1,0 +1,11 @@
+{
+  "app": "thinkadmin",
+  "reason": "",
+  "seo": "thinkadmin v6,readfile漏洞,在线检测",
+  "seo_en": "thinkadmin v6,readfile vulnerability,online detection",
+  "success": true,
+  "summary": "该插件用于检测thinkadmin v6系统中的readfile漏洞，通过发送特定的HTTP请求判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the readfile vulnerability in the thinkadmin v6 system by sending specific HTTP requests to determine if the vulnerability exists.",
+  "updated_at": 1742999590,
+  "uuid": "190e2689-eff1-48f7-9ee3-9401b285b80d"
+}

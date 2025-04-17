@@ -1,0 +1,11 @@
+{
+  "app": "Apache Tapestry",
+  "reason": "",
+  "seo": "Apache Tapestry, 文件读取, 反序列化漏洞, CVE-2019-0195",
+  "seo_en": "Apache Tapestry, file read, deserialization vulnerability, CVE-2019-0195",
+  "success": true,
+  "summary": "检测Apache Tapestry是否存在文件读取与反序列化漏洞（CVE-2019-0195），通过发送特定请求判断目标是否受影响",
+  "summary_en": "Detect whether Apache Tapestry has a file read and deserialization vulnerability (CVE-2019-0195) by sending specific requests to determine if the target is affected",
+  "updated_at": 1742999586,
+  "uuid": "4d8ee217-8ac3-4e48-a18c-80e7c04e422d"
+}

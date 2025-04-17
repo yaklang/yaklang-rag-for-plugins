@@ -1,0 +1,11 @@
+{
+  "app": "360天擎",
+  "reason": "",
+  "seo": "360天擎,远程代码执行漏洞,漏洞检测,插件",
+  "seo_en": "360 TianQing,RCE vulnerability,plugin,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测360天擎是否存在远程代码执行漏洞，通过检查特定API路径的响应来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is a Remote Code Execution (RCE) vulnerability in 360 TianQing by checking the response of a specific API path.",
+  "updated_at": 1742999601,
+  "uuid": "ceca305a-064e-4c6a-ae54-e1196c8f542a"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Node-RED",
+  "reason": "",
+  "seo": "Node-RED,任意文件读取漏洞,CVE-2021-3223,路径遍历漏洞",
+  "seo_en": "Node-RED,Arbitrary File Read Vulnerability,CVE-2021-3223,Path Traversal Vulnerability",
+  "success": true,
+  "summary": "检测Node-RED-Dashboard版本低于2.26.2是否存在路径遍历漏洞（CVE-2021-3223），攻击者可能利用此漏洞读取服务器上的敏感文件，例如settings.js。",
+  "summary_en": "Detect if Node-RED-Dashboard version lower than 2.26.2 has Path Traversal Vulnerability (CVE-2021-3223), which allows attackers to read sensitive files such as settings.js.",
+  "updated_at": 1742999592,
+  "uuid": "34c81adc-63b6-48f3-8b33-528e2c1e1e76"
+}

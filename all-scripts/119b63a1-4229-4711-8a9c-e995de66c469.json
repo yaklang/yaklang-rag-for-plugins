@@ -1,0 +1,11 @@
+{
+  "app": "用友-时空KSOA",
+  "reason": "",
+  "seo": "用友, 时空KSOA, 文件上传漏洞, 漏洞检测",
+  "seo_en": "Yonyou, KSOA, File Upload Vulnerability, Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测用友时空KSOA系统的ImageUpload任意文件上传漏洞，通过发送特定请求判断是否存在漏洞并生成风险报告。",
+  "summary_en": "This plugin is used to detect the arbitrary file upload vulnerability in Yonyou KSOA ImageUpload by sending specific requests and generating risk reports if the vulnerability exists.",
+  "updated_at": 1742999583,
+  "uuid": "119b63a1-4229-4711-8a9c-e995de66c469"
+}

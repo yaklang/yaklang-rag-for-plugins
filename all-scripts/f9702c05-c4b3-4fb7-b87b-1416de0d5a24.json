@@ -1,0 +1,11 @@
+{
+  "app": "致远OA",
+  "reason": "",
+  "seo": "致远OA,密码重置,漏洞检测,安全测试",
+  "seo_en": "Zhiyuan OA,password reset,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测致远OA系统中是否存在可通过特定接口进行用户密码重置的安全漏洞。",
+  "summary_en": "This plugin is used to detect whether there is a security vulnerability in the Zhiyuan OA system that allows user passwords to be reset through specific interfaces.",
+  "updated_at": 1742999575,
+  "uuid": "f9702c05-c4b3-4fb7-b87b-1416de0d5a24"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Spark",
+  "reason": "",
+  "seo": "spark api unauth漏洞,未授权访问,安全检测",
+  "seo_en": "spark api unauth vulnerability, unauthorized access, security detection",
+  "success": true,
+  "summary": "该插件用于检测Spark API是否存在未授权访问漏洞，通过发送请求检查特定端点的响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in the Spark API, confirming the existence of the vulnerability by checking the response of specific endpoints.",
+  "updated_at": 1742999590,
+  "uuid": "75fa3966-40c4-4e0b-a273-34a777f10eb7"
+}

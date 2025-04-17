@@ -1,0 +1,11 @@
+{
+  "app": "FineReport",
+  "reason": "",
+  "seo": "FineReport,目录遍历,漏洞检测,帆软报表",
+  "seo_en": "FineReport,directory traversal,vulnerability detection,FineReport vulnerability",
+  "success": true,
+  "summary": "该插件用于检测FineReport应用的目录遍历漏洞，通过发送特定请求并分析响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect directory traversal vulnerabilities in FineReport applications by sending specific requests and analyzing the response content to confirm whether the vulnerability exists.",
+  "updated_at": 1742999593,
+  "uuid": "40328f1d-0864-4268-b784-1492f73433ca"
+}

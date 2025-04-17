@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "参数发现,漏洞检测,网站路径,插件",
+  "seo_en": "parameter discovery, vulnerability detection, website path, plugin",
+  "success": true,
+  "summary": "该插件的核心意图是对网站新路径进行参数发现，找到可用参数并检测潜在漏洞。",
+  "summary_en": "The core purpose of this plugin is to discover new paths and parameters on a website, find usable parameters, and detect potential vulnerabilities.",
+  "updated_at": 1742999601,
+  "uuid": "3349099f-2350-4fed-96cd-29c8ceaaeca3"
+}

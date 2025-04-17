@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Swagger,API,接口扫描,漏洞检测,安全测试",
+  "seo_en": "Swagger,API,Interface Scan,Vulnerability Detection,Security Testing",
+  "success": true,
+  "summary": "该插件用于扫描Swagger API接口，支持swagger 2.0和openapi 3版本，生成HTTP请求并检测可能存在的漏洞或问题。",
+  "summary_en": "This plugin scans Swagger API interfaces, supporting swagger 2.0 and openapi 3 versions, generates HTTP requests, and detects potential vulnerabilities or issues.",
+  "updated_at": 1742999583,
+  "uuid": "3f0b149a-5d88-48cc-b2a3-2644548e8c35"
+}

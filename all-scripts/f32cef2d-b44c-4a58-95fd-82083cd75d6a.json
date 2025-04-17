@@ -1,0 +1,11 @@
+{
+  "app": "科荣AIO管理系统",
+  "reason": "",
+  "seo": "科荣AIO管理系统,SQL注入漏洞,moffice,高危漏洞",
+  "seo_en": "Kerong AIO Management System,SQL Injection Vulnerability,moffice,High-risk Vulnerability",
+  "success": true,
+  "summary": "检测科荣AIO管理系统中moffice模块的SQL注入漏洞，通过发送特定请求并测量响应时间判断是否存在漏洞。",
+  "summary_en": "Detect SQL injection vulnerabilities in the moffice module of Kerong AIO Management System by sending specific requests and measuring response time to determine if the vulnerability exists.",
+  "updated_at": 1742999572,
+  "uuid": "f32cef2d-b44c-4a58-95fd-82083cd75d6a"
+}

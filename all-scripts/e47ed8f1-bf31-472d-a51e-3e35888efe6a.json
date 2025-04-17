@@ -1,0 +1,11 @@
+{
+  "app": "tpshop",
+  "reason": "",
+  "seo": "tpshop,SQL注入漏洞,漏洞检测,网络安全",
+  "seo_en": "tpshop,SQL injection vulnerability,vulnerability detection,network security",
+  "success": true,
+  "summary": "该插件用于检测tpshop系统是否存在SQL注入漏洞，通过构造特定的payload发送请求并分析响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the tpshop system has SQL injection vulnerabilities by constructing specific payloads, sending requests, and analyzing responses to confirm the existence of vulnerabilities.",
+  "updated_at": 1742999589,
+  "uuid": "e47ed8f1-bf31-472d-a51e-3e35888efe6a"
+}

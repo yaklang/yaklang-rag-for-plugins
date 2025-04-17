@@ -1,0 +1,11 @@
+{
+  "app": "Linksys E系列路由器",
+  "reason": "",
+  "seo": "Linksys,路由器,安全绕过漏洞,CNVD-2014-01260,tmUnblock.cgi,hndUnblock.cgi,命令执行",
+  "seo_en": "Linksys,router,security bypass vulnerability,CNVD-2014-01260,tmUnblock.cgi,hndUnblock.cgi,command execution",
+  "success": true,
+  "summary": "检测Linksys E系列路由器是否存在多个安全绕过漏洞（CNVD-2014-01260），包括未正确限制对tmUnblock.cgi和hndUnblock.cgi的访问以及通过TCP 8083端口访问控制台的漏洞，可能导致命令执行。",
+  "summary_en": "Detect multiple security bypass vulnerabilities (CNVD-2014-01260) in Linksys E series routers, including improper restrictions on access to tmUnblock.cgi and hndUnblock.cgi, as well as accessing the console via TCP 8083 port, which may lead to command execution.",
+  "updated_at": 1742999586,
+  "uuid": "d5f92529-01b2-4a9d-8a29-7d506699d9da"
+}

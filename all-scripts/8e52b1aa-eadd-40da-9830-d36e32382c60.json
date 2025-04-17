@@ -1,0 +1,11 @@
+{
+  "app": "docker",
+  "reason": "",
+  "seo": "docker,未授权访问,漏洞检测,插件",
+  "seo_en": "docker,unauthorized access,vulnerability detection,plugin",
+  "success": true,
+  "summary": "该插件用于检测Docker Registry API是否存在未授权访问漏洞，通过发送特定请求并分析响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in the Docker Registry API, and confirms the existence of the vulnerability by sending specific requests and analyzing the responses.",
+  "updated_at": 1742999598,
+  "uuid": "8e52b1aa-eadd-40da-9830-d36e32382c60"
+}

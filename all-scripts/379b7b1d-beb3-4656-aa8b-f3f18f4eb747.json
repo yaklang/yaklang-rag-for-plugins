@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "C段生成,全IP表,辅助生成",
+  "seo_en": "C-class generation, full IP table, auxiliary generation",
+  "success": true,
+  "summary": "该插件用于辅助生成C段及全IP表，方便进行网络扫描和资产管理。",
+  "summary_en": "This plugin is used to assist in generating C-class and full IP tables, making it convenient for network scanning and asset management.",
+  "updated_at": 1742999593,
+  "uuid": "379b7b1d-beb3-4656-aa8b-f3f18f4eb747"
+}

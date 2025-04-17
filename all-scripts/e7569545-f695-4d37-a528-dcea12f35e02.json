@@ -1,0 +1,11 @@
+{
+  "app": "CirCarLife",
+  "reason": "",
+  "seo": "circarlife firmware漏洞,信息泄露,CirCarLife Scada",
+  "seo_en": "circarlife firmware vulnerability, information disclosure, CirCarLife Scada",
+  "success": true,
+  "summary": "检测CirCarLife应用中由于缺少对/html/repository路径的身份验证导致的内部安装路径信息泄露漏洞",
+  "summary_en": "Detects an internal installation path disclosure vulnerability in CirCarLife due to lack of authentication for the /html/repository path",
+  "updated_at": 1742999587,
+  "uuid": "e7569545-f695-4d37-a528-dcea12f35e02"
+}

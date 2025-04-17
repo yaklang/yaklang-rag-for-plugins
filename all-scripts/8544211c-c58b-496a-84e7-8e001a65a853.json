@@ -1,0 +1,11 @@
+{
+  "app": "Go-fastdfs",
+  "reason": "",
+  "seo": "Go-fastdfs,未授权访问漏洞,GetClientIp,XFF头绕过,敏感信息泄露",
+  "seo_en": "Go-fastdfs,Unauthorized Access Vulnerability,GetClientIp,XFF Header Bypass,Sensitive Information Leakage",
+  "success": true,
+  "summary": "检测Go-fastdfs的GetClientIp方法是否存在XFF头绕过漏洞，该漏洞可能导致未经授权访问接口并获取敏感信息（如配置文件）",
+  "summary_en": "Detects if the GetClientIp method of Go-fastdfs has an XFF header bypass vulnerability, which could allow unauthorized access to interfaces and obtain sensitive information such as configuration files",
+  "updated_at": 1742999582,
+  "uuid": "8544211c-c58b-496a-84e7-8e001a65a853"
+}

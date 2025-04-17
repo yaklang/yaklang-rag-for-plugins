@@ -1,0 +1,11 @@
+{
+  "app": "Hongdian h8922_firmware",
+  "reason": "",
+  "seo": "红点,Hongdian,漏洞扫描,CVE合规检查,路径遍历,输入验证,命令注入,硬编码凭证",
+  "seo_en": "Hongdian,vulnerability scan,CVE compliance check,path traversal,input validation,command injection,hard-coded credentials",
+  "success": true,
+  "summary": "该插件用于检测Hongdian h8922_firmware中的多个CVE漏洞，包括路径遍历、输入验证不当、命令注入和硬编码凭证等问题。",
+  "summary_en": "This plugin is used to detect multiple CVE vulnerabilities in Hongdian h8922_firmware, including path traversal, incorrect input validation, command injection, and hard-coded credentials issues.",
+  "updated_at": 1742999585,
+  "uuid": "de4213fb-ba83-4cc7-a836-69ed5ef02daa"
+}

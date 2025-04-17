@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SSRF漏洞,参数检测,网络安全,服务器请求伪造",
+  "seo_en": "SSRF vulnerability, parameter detection, network security, server request forgery",
+  "success": true,
+  "summary": "该插件用于检测应用程序中可能存在的SSRF漏洞，通过分析和测试HTTP请求中的参数，判断是否存在服务器端请求伪造风险，并提供详细的检测结果和修复建议。",
+  "summary_en": "This plugin is used to detect potential SSRF vulnerabilities in applications by analyzing and testing parameters in HTTP requests to determine if there is a risk of server-side request forgery, providing detailed detection results and remediation suggestions.",
+  "updated_at": 1740805052,
+  "uuid": "6d9a9163-21f2-4fc4-aef8-9158849e273a"
+}

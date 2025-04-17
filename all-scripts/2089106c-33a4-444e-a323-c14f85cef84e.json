@@ -1,0 +1,11 @@
+{
+  "app": "Jeewms",
+  "reason": "",
+  "seo": "Jeewms,任意文件读取漏洞,漏洞检测,插件,安全测试",
+  "seo_en": "Jeewms,file read vulnerability,vulnerability detection,plugin,security testing",
+  "success": true,
+  "summary": "该插件用于检测Jeewms系统是否存在任意文件读取漏洞，通过构造特定请求访问敏感文件来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Jeewms system has an arbitrary file read vulnerability by constructing specific requests to access sensitive files to confirm the existence of the vulnerability.",
+  "updated_at": 1742999597,
+  "uuid": "2089106c-33a4-444e-a323-c14f85cef84e"
+}

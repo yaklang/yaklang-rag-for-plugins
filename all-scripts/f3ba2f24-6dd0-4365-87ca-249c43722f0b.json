@@ -1,0 +1,11 @@
+{
+  "app": "Kong",
+  "reason": "",
+  "seo": "Kong,CVE-2020-11710,未授权访问,漏洞检测",
+  "seo_en": "Kong,CVE-2020-11710,unauthorized access,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Kong应用是否存在CVE-2020-11710未授权访问漏洞，通过发送特定请求并分析响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Kong application has the CVE-2020-11710 unauthorized access vulnerability, confirming the existence of the vulnerability by sending specific requests and analyzing the response content.",
+  "updated_at": 1742999597,
+  "uuid": "f3ba2f24-6dd0-4365-87ca-249c43722f0b"
+}

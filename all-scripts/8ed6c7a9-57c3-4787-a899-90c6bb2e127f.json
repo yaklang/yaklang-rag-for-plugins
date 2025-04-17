@@ -1,0 +1,11 @@
+{
+  "app": "Spring",
+  "reason": "",
+  "seo": "Spring Actuator,信息泄露,漏洞检测,安全扫描",
+  "seo_en": "Spring Actuator, information leakage, vulnerability detection, security scanning",
+  "success": true,
+  "summary": "该插件用于检测Spring Actuator接口的信息泄露漏洞，通过遍历目录和扫描特定节点来发现未授权访问的问题。",
+  "summary_en": "This plugin is used to detect information leakage vulnerabilities in Spring Actuator interfaces by traversing directories and scanning specific nodes to identify unauthorized access issues.",
+  "updated_at": 1742999569,
+  "uuid": "8ed6c7a9-57c3-4787-a899-90c6bb2e127f"
+}

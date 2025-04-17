@@ -1,0 +1,11 @@
+{
+  "app": "FusionSphere",
+  "reason": "",
+  "seo": "FusionSphere, 华为, 漏洞扫描, CVE检测, 合规检查",
+  "seo_en": "FusionSphere, Huawei, vulnerability scanning, CVE detection, compliance check",
+  "success": true,
+  "summary": "该插件用于检测FusionSphere及其OpenStack版本中的多个CVE漏洞，评估系统的安全性和合规性。",
+  "summary_en": "This plugin is used to detect multiple CVE vulnerabilities in FusionSphere and its OpenStack versions, evaluating the security and compliance of the system.",
+  "updated_at": 1742999585,
+  "uuid": "f77a0427-9607-4061-9ef8-cc38ae425396"
+}

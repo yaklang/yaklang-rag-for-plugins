@@ -1,0 +1,11 @@
+{
+  "app": "alibaba nacos",
+  "reason": "",
+  "seo": "阿里巴巴,Nacos,未授权访问,认证机制缺失,漏洞检测",
+  "seo_en": "Alibaba,Nacos,unauthorized access,missing authentication mechanism,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测阿里巴巴 Nacos 中关键功能的认证机制缺失问题，特别是 /derby 端点未受保护，可能导致未授权访问。",
+  "summary_en": "This plugin is used to detect the missing authentication mechanism issue in Alibaba Nacos's critical functions, especially the unprotected /derby endpoint, which may lead to unauthorized access.",
+  "updated_at": 1742999587,
+  "uuid": "488793b7-7501-48c3-8174-acb21f98be4d"
+}

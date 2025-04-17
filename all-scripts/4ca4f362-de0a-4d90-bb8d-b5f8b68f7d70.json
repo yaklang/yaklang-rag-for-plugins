@@ -1,0 +1,11 @@
+{
+  "app": "PbootCMS",
+  "reason": "",
+  "seo": "PbootCMS,任意文件上传,漏洞检测,高危",
+  "seo_en": "PbootCMS,file upload vulnerability,vulnerability detection,high risk",
+  "success": true,
+  "summary": "检测PbootCMS系统中的任意文件上传漏洞，防止攻击者通过该漏洞上传恶意文件并执行远程代码等危险操作。",
+  "summary_en": "Detect the arbitrary file upload vulnerability in the PbootCMS system to prevent attackers from uploading malicious files and executing remote code or other dangerous operations through this vulnerability.",
+  "updated_at": 1742999575,
+  "uuid": "4ca4f362-de0a-4d90-bb8d-b5f8b68f7d70"
+}

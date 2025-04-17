@@ -1,0 +1,11 @@
+{
+  "app": "六零导航页",
+  "reason": "",
+  "seo": "六零导航页,任意文件上传漏洞,php,web安全",
+  "seo_en": "60 Navigation, Arbitrary File Upload Vulnerability, PHP, Web Security",
+  "success": true,
+  "summary": "检测六零导航页的file.php是否存在任意文件上传漏洞，该漏洞允许攻击者上传恶意PHP文件并执行代码。",
+  "summary_en": "Detect whether the file.php of 60 Navigation has an arbitrary file upload vulnerability, which allows attackers to upload malicious PHP files and execute code.",
+  "updated_at": 1742999579,
+  "uuid": "5f1b76c1-3e37-40d8-ac5f-014e83e9d06b"
+}

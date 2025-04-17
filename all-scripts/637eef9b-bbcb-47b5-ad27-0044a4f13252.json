@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "主域名提取,URL处理,字符串操作",
+  "seo_en": "main domain extraction, URL processing, string operation",
+  "success": true,
+  "summary": "该插件的核心意图是从URL中提取主域名并去重，主要用于处理和解析域名相关的信息。",
+  "summary_en": "The core intention of this plugin is to extract the main domain from URLs and remove duplicates, mainly used for processing and parsing domain-related information.",
+  "updated_at": 1742999596,
+  "uuid": "637eef9b-bbcb-47b5-ad27-0044a4f13252"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "泛微OA",
+  "reason": "",
+  "seo": "泛微OA,SQL注入,漏洞检测,协同办公",
+  "seo_en": "ECology,SQL injection,vulnerability detection,office collaboration",
+  "success": true,
+  "summary": "检测泛微OA系统HrmCareerApplyPerView.jsp文件是否存在SQL注入漏洞，攻击者可能利用该漏洞获取数据库敏感信息",
+  "summary_en": "Detect SQL injection vulnerabilities in the HrmCareerApplyPerView.jsp file of the Ecology OA system. Attackers may exploit this vulnerability to obtain sensitive database information.",
+  "updated_at": 1742999593,
+  "uuid": "af7fbfe5-8c39-406d-982a-635e50b3a6bb"
+}

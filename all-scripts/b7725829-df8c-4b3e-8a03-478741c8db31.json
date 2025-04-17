@@ -1,0 +1,11 @@
+{
+  "app": "SonarQube",
+  "reason": "",
+  "seo": "SonarQube,项目信息泄露漏洞检测,代码审计工具",
+  "seo_en": "SonarQube,project information leakage vulnerability detection,code audit tool",
+  "success": true,
+  "summary": "该插件用于检测SonarQube的search_projects接口是否存在项目信息泄露漏洞，可能允许攻击者下载源码。",
+  "summary_en": "This plugin is used to detect whether the search_projects interface of SonarQube has project information leakage vulnerabilities, which may allow attackers to download source code.",
+  "updated_at": 1742999596,
+  "uuid": "b7725829-df8c-4b3e-8a03-478741c8db31"
+}

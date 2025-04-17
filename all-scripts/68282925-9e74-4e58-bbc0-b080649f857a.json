@@ -1,0 +1,11 @@
+{
+  "app": "浪潮GS企业管理软件",
+  "reason": "",
+  "seo": "浪潮GS,企业管理软件,xtdysrv反序列化漏洞",
+  "seo_en": "Inspur GS,Enterprise Management Software,xtdysrv Deserialization Vulnerability",
+  "success": true,
+  "summary": "检测浪潮GS企业管理软件xtdysrv是否存在反序列化漏洞，通过发送特定请求并分析响应来确认漏洞是否存在",
+  "summary_en": "Detect whether the xtdysrv of Inspur GS Enterprise Management Software has deserialization vulnerability by sending specific requests and analyzing responses",
+  "updated_at": 1742999571,
+  "uuid": "68282925-9e74-4e58-bbc0-b080649f857a"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "用友 NC 系统",
+  "reason": "",
+  "seo": "用友,NC,NCFindWeb,任意文件读取漏洞,指纹识别",
+  "seo_en": "Yonyou,NC,NCFindWeb,Arbitrary File Read Vulnerability,Fingerprint Identification",
+  "success": true,
+  "summary": "该插件用于检测用友 NC 系统中的 NCFindWeb 任意文件读取漏洞，并通过特定指纹识别目标系统。",
+  "summary_en": "This plugin is used to detect the arbitrary file read vulnerability in Yonyou NC's NCFindWeb and identify the target system through specific fingerprints.",
+  "updated_at": 1742999596,
+  "uuid": "4529bf37-e911-44fe-b6c8-f346a8a1902b"
+}

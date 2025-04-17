@@ -1,0 +1,11 @@
+{
+  "app": "CIRCONTROL CirCarLife",
+  "reason": "",
+  "seo": "CIRCONTROL,CirCarLife,信息泄露漏洞,西班牙,停车场管理系统",
+  "seo_en": "CIRCONTROL,CirCarLife,Information Leakage Vulnerability,Spain,Parking Management System",
+  "success": true,
+  "summary": "检测CIRCONTROL CirCarLife系统是否存在信息泄露漏洞，通过访问特定URL检查返回内容是否包含敏感信息。",
+  "summary_en": "Detect whether the CIRCONTROL CirCarLife system has an information leakage vulnerability by checking if the returned content from a specific URL contains sensitive information.",
+  "updated_at": 1742999588,
+  "uuid": "d17e403b-633a-4926-a795-d0279185c6f1"
+}

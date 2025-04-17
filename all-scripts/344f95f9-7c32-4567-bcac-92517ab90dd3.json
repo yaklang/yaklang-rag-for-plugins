@@ -1,0 +1,11 @@
+{
+  "app": "网康下一代防火墙",
+  "reason": "",
+  "seo": "网康,下一代防火墙,RCE漏洞,任意命令执行",
+  "seo_en": "Netentsec,ngfw,RCE vulnerability,arbitrary command execution",
+  "success": true,
+  "summary": "检测网康下一代防火墙是否存在任意命令执行漏洞（RCE），通过发送特定HTTP请求验证漏洞是否存在。",
+  "summary_en": "Detect whether the Netentsec Next-Generation Firewall has an arbitrary command execution vulnerability (RCE) by sending specific HTTP requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999592,
+  "uuid": "344f95f9-7c32-4567-bcac-92517ab90dd3"
+}

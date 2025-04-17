@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "被动指纹识别,增强检测,网络安全,系统识别,漏洞检测",
+  "seo_en": "passive fingerprint recognition, enhanced detection, network security, system identification, vulnerability detection",
+  "success": true,
+  "summary": "该插件旨在通过被动指纹识别技术检测和识别目标系统或应用的类型、版本及潜在漏洞，提供更全面的安全评估能力。",
+  "summary_en": "This plugin aims to detect and identify the type, version, and potential vulnerabilities of target systems or applications using passive fingerprint recognition technology, providing a more comprehensive security assessment capability.",
+  "updated_at": 1742999577,
+  "uuid": "207bd6b4-0c09-4c40-b60a-c510a986ed9e"
+}

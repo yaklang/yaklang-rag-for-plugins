@@ -1,0 +1,11 @@
+{
+  "app": "Joomla",
+  "reason": "",
+  "seo": "Joomla,漏洞检测,批量检测,SQL注入,CVE-2015-7297,CVE-2017-8917,CVE-2018-7314,CVE-2018-6605",
+  "seo_en": "Joomla,vulnerability detection,batch detection,SQL injection,CVE-2015-7297,CVE-2017-8917,CVE-2018-7314,CVE-2018-6605",
+  "success": true,
+  "summary": "该插件用于批量检测Joomla系统的多个SQL注入漏洞，包括CVE-2015-7297、CVE-2017-8917、CVE-2018-7314和CVE-2018-6605等。",
+  "summary_en": "This plugin is used for batch detection of multiple SQL injection vulnerabilities in Joomla systems, including CVE-2015-7297, CVE-2017-8917, CVE-2018-7314, and CVE-2018-6605.",
+  "updated_at": 1742999597,
+  "uuid": "c6828091-aca8-4bbf-8e1f-1b96f49c2259"
+}

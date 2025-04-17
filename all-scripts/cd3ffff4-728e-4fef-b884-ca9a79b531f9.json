@@ -1,0 +1,11 @@
+{
+  "app": "海康威视视频编码设备接入网关",
+  "reason": "",
+  "seo": "海康威视,视频编码设备,任意文件下载,showFile.php",
+  "seo_en": "Hikvision,video encoding device,arbitrary file download,showFile.php",
+  "success": true,
+  "summary": "检测海康威视视频编码设备接入网关是否存在showFile.php任意文件下载漏洞",
+  "summary_en": "Detect if the Hikvision video encoding device gateway has arbitrary file download vulnerability in showFile.php",
+  "updated_at": 1742999577,
+  "uuid": "cd3ffff4-728e-4fef-b884-ca9a79b531f9"
+}

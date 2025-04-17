@@ -1,0 +1,11 @@
+{
+  "app": "WordPress",
+  "reason": "",
+  "seo": "Yoast SEO,信息泄露,漏洞检测,WordPress插件",
+  "seo_en": "Yoast SEO,information exposure,vulnerability detection,WordPress plugin",
+  "success": true,
+  "summary": "该插件用于检测WordPress中的Yoast SEO插件是否存在通过wp/v2/posts REST端点泄露特色图像完整内部路径的漏洞，这种信息泄露可能帮助攻击者识别或利用其他漏洞。",
+  "summary_en": "This plugin detects whether the Yoast SEO plugin in WordPress exposes the full internal path of featured images via the wp/v2/posts REST endpoints, which may help attackers identify or exploit other vulnerabilities.",
+  "updated_at": 1742999587,
+  "uuid": "3e4fed34-ab1e-4c24-b763-f7159bfe6803"
+}

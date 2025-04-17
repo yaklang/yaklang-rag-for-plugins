@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "自动设置,HTTP请求,Chunk",
+  "seo_en": "auto set,HTTP request,Chunk",
+  "success": true,
+  "summary": "该插件的核心意图是自动设置HTTP请求的Chunk模式，以确保数据传输的正确性。",
+  "summary_en": "The core intention of this plugin is to automatically set the Chunk mode for HTTP requests to ensure the correctness of data transmission.",
+  "updated_at": 1742999569,
+  "uuid": "3bcd2fee-da37-4e26-bd70-796e511d9542"
+}

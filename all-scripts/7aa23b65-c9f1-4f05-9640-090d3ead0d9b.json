@@ -1,0 +1,11 @@
+{
+  "app": "若依-管理系统",
+  "reason": "",
+  "seo": "若依,后台管理,Druid,未授权访问漏洞,检测",
+  "seo_en": "RuoYi,backend management,Druid,unauthorized access vulnerability,detection",
+  "success": true,
+  "summary": "该插件用于检测若依-管理系统中Druid监控页面是否存在未授权访问漏洞，通过发送特定请求判断目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect unauthorized access vulnerabilities in the Druid monitoring page of the RuoYi backend management system by sending specific requests to determine if the target system is affected.",
+  "updated_at": 1742999601,
+  "uuid": "7aa23b65-c9f1-4f05-9640-090d3ead0d9b"
+}

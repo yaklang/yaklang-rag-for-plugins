@@ -1,0 +1,11 @@
+{
+  "app": "RocketMQ",
+  "reason": "",
+  "seo": "rocketmq未授权,漏洞检测,端口扫描,安全风险,未授权访问",
+  "seo_en": "rocketmq unauth,vulnerability detection,port scan,security risk,unauthorized access",
+  "success": true,
+  "summary": "该插件用于检测RocketMQ的NameServer和Broker组件是否存在未授权访问漏洞，攻击者可能利用此漏洞以系统用户身份执行命令。",
+  "summary_en": "This plugin is used to detect whether the NameServer and Broker components of RocketMQ have unauthorized access vulnerabilities, which attackers may exploit to execute commands as system users.",
+  "updated_at": 1742999583,
+  "uuid": "fa538a7e-9bcb-4a63-85b6-810366afc9ce"
+}

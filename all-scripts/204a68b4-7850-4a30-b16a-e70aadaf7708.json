@@ -1,0 +1,11 @@
+{
+  "app": "ASPCMS",
+  "reason": "",
+  "seo": "aspcms,SQL注入漏洞,commentList.asp,网络测绘",
+  "seo_en": "aspcms,SQL injection vulnerability,commentList.asp,network mapping",
+  "success": true,
+  "summary": "该插件用于检测AspCMS commentList.asp文件中的SQL注入漏洞，攻击者可能利用此漏洞获取管理员相关信息。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the AspCMS commentList.asp file, which attackers may exploit to obtain administrator-related information.",
+  "updated_at": 1742999586,
+  "uuid": "204a68b4-7850-4a30-b16a-e70aadaf7708"
+}

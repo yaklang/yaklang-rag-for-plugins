@@ -1,0 +1,11 @@
+{
+  "app": "WebLogic",
+  "reason": "",
+  "seo": "WebLogic,目录遍历漏洞,CVE-2022-21371,检测",
+  "seo_en": "WebLogic,directory traversal vulnerability,CVE-2022-21371,detection",
+  "success": true,
+  "summary": "该插件用于检测WebLogic服务器是否存在CVE-2022-21371目录遍历漏洞，通过发送特定请求并分析响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the WebLogic server has the CVE-2022-21371 directory traversal vulnerability by sending specific requests and analyzing the response content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "ec71f446-eb20-4ad3-ad5c-5f46428331e9"
+}

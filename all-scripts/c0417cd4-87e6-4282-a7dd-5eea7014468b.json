@@ -1,0 +1,11 @@
+{
+  "app": "大华摄像头",
+  "reason": "",
+  "seo": "大华摄像头,未授权访问漏洞,CVE-2021-33044",
+  "seo_en": "Dahua camera,unauthorized access vulnerability,CVE-2021-33044",
+  "success": true,
+  "summary": "该插件用于检测大华摄像头是否存在未授权访问漏洞（CVE-2021-33044），通过发送特定HTTP请求判断目标是否受影响。",
+  "summary_en": "This plugin is used to detect whether Dahua cameras have unauthorized access vulnerabilities (CVE-2021-33044) by sending specific HTTP requests to determine if the target is affected.",
+  "updated_at": 1742999585,
+  "uuid": "c0417cd4-87e6-4282-a7dd-5eea7014468b"
+}

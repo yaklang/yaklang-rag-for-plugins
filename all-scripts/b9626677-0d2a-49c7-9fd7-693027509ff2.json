@@ -1,0 +1,11 @@
+{
+  "app": "UEditor编辑器",
+  "reason": "",
+  "seo": "UEditor,文件上传漏洞,CNVD-2017-20077,任意文件上传",
+  "seo_en": "UEditor,file upload vulnerability,CNVD-2017-20077,arbitrary file upload",
+  "success": true,
+  "summary": "检测UEditor编辑器是否存在CNVD-2017-20077任意文件上传漏洞",
+  "summary_en": "Detect whether the UEditor editor has the CNVD-2017-20077 arbitrary file upload vulnerability",
+  "updated_at": 1742999593,
+  "uuid": "b9626677-0d2a-49c7-9fd7-693027509ff2"
+}

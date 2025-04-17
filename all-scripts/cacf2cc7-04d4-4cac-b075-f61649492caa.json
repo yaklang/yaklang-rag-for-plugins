@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "XSS检测,漏洞扫描,网络安全,代码审计",
+  "seo_en": "XSS detection, vulnerability scanning, network security, code auditing",
+  "success": true,
+  "summary": "该插件用于检测Web应用中的XSS（跨站脚本）漏洞，通过构造不同的payload测试参数是否可能导致XSS攻击，并输出可能存在的漏洞信息。",
+  "summary_en": "This plugin is used to detect XSS (cross-site scripting) vulnerabilities in web applications by constructing different payloads to test whether parameters may lead to XSS attacks, and outputs possible vulnerability information.",
+  "updated_at": 1740203645,
+  "uuid": "cacf2cc7-04d4-4cac-b075-f61649492caa"
+}

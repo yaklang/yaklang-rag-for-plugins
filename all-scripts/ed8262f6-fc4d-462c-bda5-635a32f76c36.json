@@ -1,0 +1,11 @@
+{
+  "app": "用友NC系统",
+  "reason": "",
+  "seo": "用友NC,pagesServlet,SQL注入,RCE",
+  "seo_en": "Yonyou NC,pagesServlet,SQL Injection,RCE",
+  "success": true,
+  "summary": "检测用友NC系统的pagesServlet是否存在SQL注入漏洞，该漏洞可能导致远程代码执行（RCE）。",
+  "summary_en": "Detect SQL injection vulnerabilities in the pagesServlet of Yonyou NC systems, which may lead to Remote Code Execution (RCE).",
+  "updated_at": 1742999577,
+  "uuid": "ed8262f6-fc4d-462c-bda5-635a32f76c36"
+}

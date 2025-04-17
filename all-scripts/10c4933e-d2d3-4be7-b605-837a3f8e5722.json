@@ -1,0 +1,11 @@
+{
+  "app": "Odoo",
+  "reason": "",
+  "seo": "odoo,文件读取漏洞,漏洞检测,安全测试",
+  "seo_en": "odoo,file read vulnerability,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测Odoo系统是否存在文件读取漏洞，通过访问特定路径尝试读取系统文件（如Linux的passwd文件或Windows的win.ini文件）来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Odoo system has a file read vulnerability. It attempts to read system files (such as Linux passwd or Windows win.ini) through specific paths to determine if the vulnerability exists.",
+  "updated_at": 1742999592,
+  "uuid": "10c4933e-d2d3-4be7-b605-837a3f8e5722"
+}

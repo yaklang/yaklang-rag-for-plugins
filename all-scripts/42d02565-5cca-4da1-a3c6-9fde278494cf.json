@@ -1,0 +1,11 @@
+{
+  "app": "Apache",
+  "reason": "",
+  "seo": "Apache SSI,远程命令执行,漏洞检测",
+  "seo_en": "Apache SSI,Remote Command Execution,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测目标系统是否存在Apache SSI远程命令执行漏洞，通过发送特定请求并检查响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the target system has the Apache SSI Remote Command Execution vulnerability by sending specific requests and checking the responses.",
+  "updated_at": 1742999604,
+  "uuid": "42d02565-5cca-4da1-a3c6-9fde278494cf"
+}

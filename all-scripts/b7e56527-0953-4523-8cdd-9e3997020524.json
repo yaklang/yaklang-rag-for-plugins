@@ -1,0 +1,11 @@
+{
+  "app": "JBoss",
+  "reason": "",
+  "seo": "JBoss,反序列化漏洞,CVE-2015-7501,JMXInvokerServlet",
+  "seo_en": "JBoss,Deserialization Vulnerability,CVE-2015-7501,JMXInvokerServlet",
+  "success": true,
+  "summary": "该插件用于检测JBoss JMXInvokerServlet是否存在反序列化漏洞（CVE-2015-7501），通过构造恶意序列化对象发送到目标服务器，验证是否存在任意代码执行风险。",
+  "summary_en": "This plugin is used to detect the deserialization vulnerability (CVE-2015-7501) in JBoss JMXInvokerServlet by sending a malicious serialized object to the target server to verify the risk of arbitrary code execution.",
+  "updated_at": 1742999602,
+  "uuid": "b7e56527-0953-4523-8cdd-9e3997020524"
+}

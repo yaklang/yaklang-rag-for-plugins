@@ -1,0 +1,11 @@
+{
+  "app": "Vsftpd",
+  "reason": "",
+  "seo": "Vsftpd,CVE合规检查,漏洞检测,2004-2011",
+  "seo_en": "Vsftpd,CVE compliance check,vulnerability detection,2004-2011",
+  "success": true,
+  "summary": "该插件用于检查Vsftpd应用在2004年至2011年间的多个CVE漏洞，包括用户身份验证漏洞、拒绝服务漏洞和代码执行漏洞等。",
+  "summary_en": "This plugin checks multiple CVE vulnerabilities in the Vsftpd application from 2004 to 2011, including user authentication vulnerabilities, denial of service vulnerabilities, and code execution vulnerabilities.",
+  "updated_at": 1742999585,
+  "uuid": "09fcd484-92ca-4aaf-a4d5-12905f81893b"
+}

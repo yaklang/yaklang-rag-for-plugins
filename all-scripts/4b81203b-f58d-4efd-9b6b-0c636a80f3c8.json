@@ -1,0 +1,11 @@
+{
+  "app": "亿赛通电子文档安全管理系统",
+  "reason": "",
+  "seo": "亿赛通,电子文档安全管理系统,未授权访问,漏洞检测",
+  "seo_en": "yisaitong,electronic document security management system,unauthorized access,vulnerability detection",
+  "success": true,
+  "summary": "检测亿赛通电子文档安全管理系统-linkfilterservice是否存在未授权访问漏洞，通过发送特定请求判断系统是否对登录权限进行正确校验。",
+  "summary_en": "Detect whether the yisaitong electronic document security management system-linkfilterservice has an unauthorized access vulnerability, and determine whether the system correctly validates login permissions by sending specific requests.",
+  "updated_at": 1742999581,
+  "uuid": "4b81203b-f58d-4efd-9b6b-0c636a80f3c8"
+}

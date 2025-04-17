@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "被动指纹检测,插件,指纹识别,网络安全",
+  "seo_en": "passive fingerprint detection,plugin,fingerprint identification,network security",
+  "success": true,
+  "summary": "该插件用于通过关键字和图标哈希值检测多种系统和服务的指纹，以识别目标使用的具体软件或设备类型。",
+  "summary_en": "This plugin is used to detect fingerprints of various systems and services through keywords and icon hashes to identify the specific software or device type used by the target.",
+  "updated_at": 1742999604,
+  "uuid": "cde42cd2-6166-49ba-91c7-e32b0c41f333"
+}

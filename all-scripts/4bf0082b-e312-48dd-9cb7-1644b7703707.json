@@ -1,0 +1,11 @@
+{
+  "app": "用友NC",
+  "reason": "",
+  "seo": "用友NC,SQL注入漏洞,querygoodsgridbycode,高危漏洞",
+  "seo_en": "Yonyou NC,SQL injection vulnerability,querygoodsgridbycode,high-risk vulnerability",
+  "success": true,
+  "summary": "该插件用于检测用友NC系统中querygoodsgridbycode接口是否存在SQL注入漏洞，通过发送特定构造的HTTP请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an SQL injection vulnerability in the querygoodsgridbycode interface of Yonyou NC system. It verifies the existence of the vulnerability by sending specially crafted HTTP requests.",
+  "updated_at": 1742999572,
+  "uuid": "4bf0082b-e312-48dd-9cb7-1644b7703707"
+}

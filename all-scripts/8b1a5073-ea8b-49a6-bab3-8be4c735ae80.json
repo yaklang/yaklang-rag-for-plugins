@@ -1,0 +1,11 @@
+{
+  "app": "wordpress",
+  "reason": "",
+  "seo": "wordpress,adaptive images,lfi漏洞,本地文件包含",
+  "seo_en": "wordpress,adaptive images,lfi vulnerability,local file inclusion",
+  "success": true,
+  "summary": "检测wordpress的adaptive-images插件是否存在LFI（本地文件包含）漏洞，通过构造恶意请求读取wp-config.php文件内容验证漏洞是否存在",
+  "summary_en": "Detect LFI (Local File Inclusion) vulnerability in the adaptive-images plugin for wordpress by constructing malicious requests to read the wp-config.php file content to verify the existence of the vulnerability",
+  "updated_at": 1742999589,
+  "uuid": "8b1a5073-ea8b-49a6-bab3-8be4c735ae80"
+}

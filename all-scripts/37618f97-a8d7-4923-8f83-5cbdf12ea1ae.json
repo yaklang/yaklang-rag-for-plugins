@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SQL注入,MySQL,报错注入,漏洞检测,插件",
+  "seo_en": "SQL injection, MySQL, error-based injection, vulnerability detection, plugin",
+  "success": true,
+  "summary": "该插件用于检测MySQL数据库的报错注入漏洞，通过构造特定的payload触发数据库错误并获取内部信息，同时提供防护措施建议。",
+  "summary_en": "This plugin is designed to detect error-based SQL injection vulnerabilities in MySQL databases by crafting specific payloads to trigger database errors and retrieve internal information, along with providing defense recommendations.",
+  "updated_at": 1740203645,
+  "uuid": "37618f97-a8d7-4923-8f83-5cbdf12ea1ae"
+}

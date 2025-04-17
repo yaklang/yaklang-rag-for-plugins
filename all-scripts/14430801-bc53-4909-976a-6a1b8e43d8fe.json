@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "命令注入,漏洞检测,参数测试,安全测试",
+  "seo_en": "command injection,vulnerability detection,parameter testing,security testing",
+  "success": true,
+  "summary": "该插件用于检测回显型命令注入漏洞，通过构造特定的payload对参数进行测试，以发现是否存在命令注入风险。",
+  "summary_en": "This plugin is used to detect command injection vulnerabilities with echo. It constructs specific payloads to test parameters and identify potential command injection risks.",
+  "updated_at": 1740203645,
+  "uuid": "14430801-bc53-4909-976a-6a1b8e43d8fe"
+}

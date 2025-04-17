@@ -1,0 +1,11 @@
+{
+  "app": "宏景HCM",
+  "reason": "",
+  "seo": "宏景HCM,SQL注入漏洞,showmediainfo,高危漏洞",
+  "seo_en": "Hongjing HCM,SQL injection vulnerability,showmediainfo,high-risk vulnerability",
+  "success": true,
+  "summary": "检测宏景HCM系统中showmediainfo功能是否存在SQL注入漏洞，该漏洞可能导致敏感数据泄露等严重问题。",
+  "summary_en": "Detect SQL injection vulnerabilities in the showmediainfo function of the Hongjing HCM system. This vulnerability may lead to serious issues such as sensitive data leakage.",
+  "updated_at": 1742999579,
+  "uuid": "80eba761-09ce-4b30-9588-6024df081fd7"
+}

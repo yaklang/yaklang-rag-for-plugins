@@ -1,0 +1,11 @@
+{
+  "app": "Dubbo Admin",
+  "reason": "",
+  "seo": "Dubbo,默认密码,弱口令,漏洞检测",
+  "seo_en": "Dubbo,default password,weak password,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Dubbo Admin是否存在默认密码或弱口令漏洞，通过发送特定的HTTP请求并验证响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether Dubbo Admin has default password or weak password vulnerabilities, and confirms the existence of vulnerabilities by sending specific HTTP requests and verifying the response content.",
+  "updated_at": 1742999598,
+  "uuid": "ac5eb98d-718b-4a35-9e32-4319442b4139"
+}

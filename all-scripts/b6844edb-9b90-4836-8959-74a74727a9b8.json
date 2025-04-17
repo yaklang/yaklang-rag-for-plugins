@@ -1,0 +1,11 @@
+{
+  "app": "ThinkPHP",
+  "reason": "",
+  "seo": "ThinkPHP,日志泄露,漏洞检测,安全测试",
+  "seo_en": "ThinkPHP,log leakage,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测ThinkPHP 5.x/3.x/6.x版本是否存在日志泄露漏洞，通过发送特定payload来验证目标系统是否受到影响。",
+  "summary_en": "This plugin is used to detect log leakage vulnerabilities in ThinkPHP 5.x/3.x/6.x versions by sending specific payloads to verify if the target system is affected.",
+  "updated_at": 1742999595,
+  "uuid": "b6844edb-9b90-4836-8959-74a74727a9b8"
+}

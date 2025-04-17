@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "验证码,检测,响应数据包,短信验证码",
+  "seo_en": "verification code,detection,response packet,SMS verification code",
+  "success": true,
+  "summary": "该插件用于检测响应数据包中是否存在短信验证码，并通过特定规则判断是否为有效的验证码。",
+  "summary_en": "This plugin is used to detect whether there is an SMS verification code in the response packet and determine whether it is a valid verification code through specific rules.",
+  "updated_at": 1742999586,
+  "uuid": "b46874ee-8359-4f73-b3bc-8bf63aa5a798"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "字典生成器,密码组合,年份后缀,前缀,后缀,文件后缀,月份缩写",
+  "seo_en": "dictionary generator,password combination,year suffix,prefix,suffix,file suffix,month abbreviation",
+  "success": true,
+  "summary": "该插件根据用户提供的元素生成字典，可用于密码组合或漏洞检测中的字典生成任务。支持多种自定义选项，如前缀、后缀、年份、文件后缀和月份缩写等。",
+  "summary_en": "This plugin generates a dictionary based on user-provided elements, which can be used for password combinations or dictionary generation tasks in vulnerability detection. It supports various customization options such as prefixes, suffixes, years, file suffixes, and month abbreviations.",
+  "updated_at": 1742999580,
+  "uuid": "5c4291d9-ff77-4353-a1cf-3a018f002fbd"
+}

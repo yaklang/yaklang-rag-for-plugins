@@ -1,0 +1,11 @@
+{
+  "app": "Devaldi FlexPaper",
+  "reason": "",
+  "seo": "Devaldi FlexPaper,代码执行漏洞,PDF查看组件,新西兰Devaldi公司",
+  "seo_en": "Devaldi FlexPaper,code execution vulnerability,PDF viewer component,Devaldi Company",
+  "success": true,
+  "summary": "该插件用于检测Devaldi FlexPaper PDF查看组件是否存在代码执行漏洞，通过发送多个HTTP请求验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether there is a code execution vulnerability in the Devaldi FlexPaper PDF viewer component, and verifies whether the target system is affected by sending multiple HTTP requests.",
+  "updated_at": 1742999592,
+  "uuid": "5c70db79-cfe2-42d0-bef7-fc9e7e05accc"
+}

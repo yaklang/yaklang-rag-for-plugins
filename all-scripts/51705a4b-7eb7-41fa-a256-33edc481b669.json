@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "ICP备案查询,域名查询,公司名查询,备案信息",
+  "seo_en": "ICP record query,domain query,company name query,filing information",
+  "success": true,
+  "summary": "通过域名或公司名查询ICP备案信息，包括域名、备案号、企业名称、企业性质和限制访问状态",
+  "summary_en": "Query ICP filing information by domain or company name, including domain, filing number, company name, company nature, and access restriction status",
+  "updated_at": 1742999604,
+  "uuid": "51705a4b-7eb7-41fa-a256-33edc481b669"
+}

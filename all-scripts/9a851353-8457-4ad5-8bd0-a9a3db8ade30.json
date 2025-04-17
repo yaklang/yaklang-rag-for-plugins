@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,漏洞检测,文件上传,后台getshell",
+  "seo_en": "Tongda OA, vulnerability detection, file upload, backdoor getshell",
+  "success": true,
+  "summary": "该插件用于检测通达OA V11.2版本的后台文件上传漏洞，并尝试利用该漏洞获取WebShell。",
+  "summary_en": "This plugin is used to detect the backend file upload vulnerability of Tongda OA V11.2 and attempt to exploit this vulnerability to obtain a WebShell.",
+  "updated_at": 1742999595,
+  "uuid": "9a851353-8457-4ad5-8bd0-a9a3db8ade30"
+}

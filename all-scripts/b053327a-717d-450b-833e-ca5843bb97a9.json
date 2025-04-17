@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "字符串反转,插件,codec,自定义编码解码,字符串处理",
+  "seo_en": "string reversal,plugin,codec,custom encoding decoding,string processing",
+  "success": true,
+  "summary": "该插件用于对字符串进行反转操作，属于字符串处理工具，未涉及特定应用或漏洞检测。",
+  "summary_en": "This plugin is used for string reversal operations and belongs to string processing tools. It does not involve specific applications or vulnerability detection.",
+  "updated_at": 1742999583,
+  "uuid": "b053327a-717d-450b-833e-ca5843bb97a9"
+}

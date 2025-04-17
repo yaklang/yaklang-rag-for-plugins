@@ -1,0 +1,11 @@
+{
+  "app": "Node-RED",
+  "reason": "",
+  "seo": "node-red-contrib-huemagic,路径遍历,文件读取,漏洞检测",
+  "seo_en": "node-red-contrib-huemagic,directory traversal,file reading,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测node-red-contrib-huemagic插件是否存在路径遍历漏洞，通过构造特定请求尝试读取系统敏感文件来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the node-red-contrib-huemagic plugin has a directory traversal vulnerability by constructing specific requests to attempt reading system sensitive files to confirm the existence of the vulnerability.",
+  "updated_at": 1742999587,
+  "uuid": "95a840e7-c1af-4126-9dea-839cdc3ed8e0"
+}

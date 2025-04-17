@@ -1,0 +1,11 @@
+{
+  "app": "Apache Solr",
+  "reason": "",
+  "seo": "Apache Solr,CVE-2021-27905,SSRF漏洞,漏洞检测",
+  "seo_en": "Apache Solr,CVE-2021-27905,SSRF vulnerability,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Apache Solr是否存在CVE-2021-27905 SSRF漏洞，通过发送特定请求并验证响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether Apache Solr has the CVE-2021-27905 SSRF vulnerability by sending specific requests and verifying the responses to confirm the existence of the vulnerability.",
+  "updated_at": 1742999599,
+  "uuid": "01c775b7-f034-456d-bd0e-3b7f9464fc33"
+}

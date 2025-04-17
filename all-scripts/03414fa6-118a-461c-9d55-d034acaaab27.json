@@ -1,0 +1,11 @@
+{
+  "app": "万户OA",
+  "reason": "",
+  "seo": "万户OA,任意文件上传漏洞,OfficeServer.jsp,漏洞检测,指纹识别",
+  "seo_en": "Wanhu OA, arbitrary file upload vulnerability, OfficeServer.jsp, vulnerability detection, fingerprint identification",
+  "success": true,
+  "summary": "该插件用于检测万户OA系统的OfficeServer.jsp接口是否存在任意文件上传漏洞，并通过指纹识别确认目标系统。",
+  "summary_en": "This plugin is used to detect whether the OfficeServer.jsp interface of Wanhu OA system has arbitrary file upload vulnerability, and confirms the target system through fingerprint identification.",
+  "updated_at": 1742999595,
+  "uuid": "03414fa6-118a-461c-9d55-d034acaaab27"
+}

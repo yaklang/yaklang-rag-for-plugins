@@ -1,0 +1,11 @@
+{
+  "app": "狮子鱼CMS",
+  "reason": "",
+  "seo": "狮子鱼CMS,任意文件上传,漏洞检测,webshell",
+  "seo_en": "Lions Fish CMS, arbitrary file upload, vulnerability detection, webshell",
+  "success": true,
+  "summary": "该插件用于检测狮子鱼CMS是否存在任意文件上传漏洞，通过构造特定请求尝试上传webshell并验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether Lions Fish CMS has an arbitrary file upload vulnerability by constructing a specific request to upload a webshell and verifying the existence of the vulnerability.",
+  "updated_at": 1742999592,
+  "uuid": "c75b8f8e-51ba-4694-b72f-18457edea92e"
+}

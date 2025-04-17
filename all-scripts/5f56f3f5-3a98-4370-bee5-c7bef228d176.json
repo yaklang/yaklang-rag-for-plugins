@@ -1,0 +1,11 @@
+{
+  "app": "泛微E-Mobile",
+  "reason": "",
+  "seo": "泛微,E-Mobile,命令执行漏洞,client.do",
+  "seo_en": "Fanwei,E-Mobile,command execution vulnerability,client.do",
+  "success": true,
+  "summary": "该插件用于检测泛微E-Mobile6.0的client.do接口是否存在命令执行漏洞，通过发送特定POST请求验证是否可以成功执行命令。",
+  "summary_en": "This plugin is used to detect whether the client.do interface of Fanwei E-Mobile 6.0 has a command execution vulnerability by sending a specific POST request to verify if commands can be executed successfully.",
+  "updated_at": 1742999579,
+  "uuid": "5f56f3f5-3a98-4370-bee5-c7bef228d176"
+}

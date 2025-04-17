@@ -1,0 +1,11 @@
+{
+  "app": "metinfo",
+  "reason": "",
+  "seo": "metinfo,漏洞检测,CVE-2019-16996,CVE-2019-17418,CVE-2019-16997,CNVD-2018-13393,sql注入,文件包含",
+  "seo_en": "metinfo,vulnerability detection,CVE-2019-16996,CVE-2019-17418,CVE-2019-16997,CNVD-2018-13393,SQL injection,file inclusion",
+  "success": true,
+  "summary": "该插件用于检测metinfo系统中的多个高危漏洞，包括CVE-2019-16996、CVE-2019-17418、CVE-2019-16997的SQL注入漏洞以及CNVD-2018-13393和metinfo-file-read的文件包含漏洞。",
+  "summary_en": "This plugin is used to detect multiple high-risk vulnerabilities in the metinfo system, including SQL injection vulnerabilities of CVE-2019-16996, CVE-2019-17418, CVE-2019-16997 and file inclusion vulnerabilities of CNVD-2018-13393 and metinfo-file-read.",
+  "updated_at": 1742999598,
+  "uuid": "f2ed36bf-3c76-4f89-945f-3758bb9f75f7"
+}

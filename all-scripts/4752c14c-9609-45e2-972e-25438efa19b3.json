@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "今天吃什么,随机选择,吃饭推荐",
+  "seo_en": "What to eat today, random selection, food recommendation",
+  "success": true,
+  "summary": "解决用户不知道今天吃什么的问题，通过随机选择提供一个餐厅或菜品的建议",
+  "summary_en": "Solve the problem of not knowing what to eat today by providing a random restaurant or dish recommendation",
+  "updated_at": 1742999595,
+  "uuid": "4752c14c-9609-45e2-972e-25438efa19b3"
+}

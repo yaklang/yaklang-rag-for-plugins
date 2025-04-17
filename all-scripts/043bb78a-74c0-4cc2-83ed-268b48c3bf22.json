@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "批量URL探测,子域名枚举,信息探测,存活URL,状态码,响应包,标题",
+  "seo_en": "Bulk URL detection, subdomain enumeration, information detection, live URL, status code, response packet, title",
+  "success": true,
+  "summary": "该插件用于对子域名枚举后的域名和IP进行基本信息探测，包括存活URL、标题、状态码和响应包内容等信息。",
+  "summary_en": "This plugin is used to detect basic information of domains and IPs after subdomain enumeration, including live URLs, titles, status codes, and response packet contents.",
+  "updated_at": 1742999585,
+  "uuid": "043bb78a-74c0-4cc2-83ed-268b48c3bf22"
+}

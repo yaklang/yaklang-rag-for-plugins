@@ -1,0 +1,11 @@
+{
+  "app": "Openfire",
+  "reason": "",
+  "seo": "Openfire,SSRF漏洞,高危,漏洞检测",
+  "seo_en": "Openfire,SSRF vulnerability,high-risk,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Openfire应用中的SSRF漏洞，允许攻击者发送任意HTTP GET请求，属于高危漏洞。",
+  "summary_en": "This plugin is used to detect the SSRF vulnerability in the Openfire application, which allows attackers to send arbitrary HTTP GET requests and is classified as a high-risk vulnerability.",
+  "updated_at": 1742999592,
+  "uuid": "cc048529-6131-4d9a-b568-99e326cf75db"
+}

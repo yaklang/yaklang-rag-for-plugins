@@ -1,0 +1,11 @@
+{
+  "app": "泛微E-cology",
+  "reason": "",
+  "seo": "泛微E-cology,SQL注入漏洞,高危漏洞,Validator组件",
+  "seo_en": "E-cology,SQL injection vulnerability,high-risk vulnerability,Validator component",
+  "success": true,
+  "summary": "检测泛微E-cology 8的Validator组件是否存在可被利用的SQL注入漏洞，该漏洞可能导致敏感数据泄露或系统被攻击。",
+  "summary_en": "Detect whether the Validator component of E-cology 8 has exploitable SQL injection vulnerabilities, which may lead to sensitive data leakage or system attacks.",
+  "updated_at": 1742999579,
+  "uuid": "e09f58da-d772-4e61-bda8-3a9670c1e213"
+}

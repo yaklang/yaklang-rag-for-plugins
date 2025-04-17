@@ -1,0 +1,11 @@
+{
+  "app": "ACTI Camera",
+  "reason": "",
+  "seo": "ACTI,RTSP,弱口令漏洞,摄像头,安全检测",
+  "seo_en": "ACTI,RTSP,weak password vulnerability,camera,security detection",
+  "success": true,
+  "summary": "该插件用于检测ACTI Camera是否存在RTSP协议的弱口令漏洞，通过尝试不同的用户名和密码组合来验证是否存在未授权访问或易受攻击的配置。",
+  "summary_en": "This plugin is used to detect whether the ACTI Camera has RTSP protocol weak password vulnerabilities by trying different username and password combinations to verify if there are unauthorized access or vulnerable configurations.",
+  "updated_at": 1742999585,
+  "uuid": "9e3baa73-d948-4969-8334-3f9e1001510b"
+}

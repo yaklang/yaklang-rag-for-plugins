@@ -1,0 +1,11 @@
+{
+  "app": "Dotnetcms",
+  "reason": "",
+  "seo": "Dotnetcms,SQL注入漏洞,漏洞检测,安全测试",
+  "seo_en": "Dotnetcms,SQL Injection Vulnerability,Vulnerability Detection,Security Testing",
+  "success": true,
+  "summary": "该插件用于检测Dotnetcms系统是否存在SQL注入漏洞，通过发送特定的payload并检查响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Dotnetcms system has SQL injection vulnerabilities by sending specific payloads and checking the response content to confirm the existence of vulnerabilities.",
+  "updated_at": 1742999598,
+  "uuid": "c4bdb7ca-b725-4214-b58f-a2ce77b4d4ba"
+}

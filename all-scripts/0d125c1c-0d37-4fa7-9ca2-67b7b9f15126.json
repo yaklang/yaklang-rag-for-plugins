@@ -1,0 +1,11 @@
+{
+  "app": "广联达 Linkworks",
+  "reason": "",
+  "seo": "广联达,Linkworks,XXE漏洞,GetData,高危",
+  "seo_en": "Gulangda,Linkworks,XXE vulnerability,GetData,high risk",
+  "success": true,
+  "summary": "该插件用于检测广联达 Linkworks 的 GetData 功能是否存在 XXE 漏洞，通过构造恶意请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the GetData function of Gulangda Linkworks has an XXE vulnerability by constructing malicious requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999573,
+  "uuid": "0d125c1c-0d37-4fa7-9ca2-67b7b9f15126"
+}

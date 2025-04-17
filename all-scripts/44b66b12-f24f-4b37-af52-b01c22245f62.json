@@ -1,0 +1,11 @@
+{
+  "app": "Airflow",
+  "reason": "",
+  "seo": "airflow,漏洞检测,未授权访问,在线扫描",
+  "seo_en": "airflow,vulnerability detection,unauthorized access,online scan",
+  "success": true,
+  "summary": "该插件用于检测Airflow应用的未授权访问漏洞，通过发送HTTP请求并分析响应内容来判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect unauthorized access vulnerabilities in the Airflow application by sending HTTP requests and analyzing the response content to determine if there are any vulnerabilities.",
+  "updated_at": 1742999599,
+  "uuid": "44b66b12-f24f-4b37-af52-b01c22245f62"
+}

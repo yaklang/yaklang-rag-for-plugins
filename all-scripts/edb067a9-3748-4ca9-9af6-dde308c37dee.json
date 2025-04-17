@@ -1,0 +1,11 @@
+{
+  "app": "Fortigate",
+  "reason": "",
+  "seo": "Fortigate,任意文件读取漏洞,CVE-2018-13379,漏洞检测",
+  "seo_en": "Fortigate,Arbitrary File Read Vulnerability,CVE-2018-13379,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Fortigate设备中的CVE-2018-13379任意文件读取漏洞，通过发送特定请求判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the CVE-2018-13379 arbitrary file read vulnerability in Fortigate devices by sending specific requests to determine if the vulnerability exists.",
+  "updated_at": 1742999597,
+  "uuid": "edb067a9-3748-4ca9-9af6-dde308c37dee"
+}

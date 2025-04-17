@@ -1,0 +1,11 @@
+{
+  "app": "用友 U8-Cloud",
+  "reason": "",
+  "seo": "用友,U8-Cloud,SQL注入,漏洞检测",
+  "seo_en": "Yonyou,U8-Cloud,SQL injection,vulnerability detection",
+  "success": true,
+  "summary": "检测用友 U8-Cloud 的 selectQueryCondition 接口是否存在 SQL 注入漏洞，该漏洞可能允许攻击者获取数据库信息或进一步控制服务器。",
+  "summary_en": "Detect SQL injection vulnerabilities in the selectQueryCondition interface of Yonyou U8-Cloud. This vulnerability may allow attackers to obtain database information or further control the server.",
+  "updated_at": 1742999569,
+  "uuid": "ccfb7831-d904-4208-8304-2952456a0a23"
+}

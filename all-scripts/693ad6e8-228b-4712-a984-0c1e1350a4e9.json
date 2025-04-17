@@ -1,0 +1,11 @@
+{
+  "app": "ECSimage",
+  "reason": "",
+  "seo": "Evolucare,ECSimage,远程命令执行漏洞,医疗管理系统",
+  "seo_en": "Evolucare,ECSimage,RCE vulnerability,medical management system",
+  "success": true,
+  "summary": "该插件用于检测Evolucare ECSimage应用的new_movie.php接口是否存在远程命令执行漏洞，攻击者可能利用该漏洞获取系统权限。",
+  "summary_en": "This plugin is used to detect whether the new_movie.php interface of Evolucare ECSimage application has a remote command execution vulnerability, which attackers may exploit to gain system privileges.",
+  "updated_at": 1742999596,
+  "uuid": "693ad6e8-228b-4712-a984-0c1e1350a4e9"
+}

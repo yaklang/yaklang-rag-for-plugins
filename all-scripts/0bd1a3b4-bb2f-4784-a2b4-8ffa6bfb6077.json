@@ -1,0 +1,11 @@
+{
+  "app": "RG-UAC某捷上网行为管理与代码审计系统",
+  "reason": "",
+  "seo": "RG-UAC,某捷,RCE漏洞,上网行为管理,代码审计系统",
+  "seo_en": "RG-UAC,Metjie,RCE vulnerability,Network behavior management,Code audit system",
+  "success": true,
+  "summary": "检测RG-UAC某捷上网行为管理与代码审计系统是否存在RCE漏洞，通过发送特定HTTP请求并匹配响应内容来确认漏洞是否存在。",
+  "summary_en": "Detect whether there is an RCE vulnerability in the RG-UAC Metjie Network Behavior Management and Code Audit System by sending specific HTTP requests and matching response content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999575,
+  "uuid": "0bd1a3b4-bb2f-4784-a2b4-8ffa6bfb6077"
+}

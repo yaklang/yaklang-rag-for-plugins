@@ -1,0 +1,11 @@
+{
+  "app": "泛微e-cology9系统",
+  "reason": "",
+  "seo": "泛微,e-cology9,SQL注入,漏洞,XVE-2024-18112",
+  "seo_en": "Weaver,e-cology9,SQL Injection,Vulnerability,XVE-2024-18112",
+  "success": true,
+  "summary": "检测泛微e-cology9系统的WorkPlanService接口是否存在前台SQL注入漏洞(XVE-2024-18112)",
+  "summary_en": "Detect SQL injection vulnerability in the WorkPlanService interface of Weaver e-cology9 system (XVE-2024-18112)",
+  "updated_at": 1742999570,
+  "uuid": "8dd945f0-dd50-4117-911d-3de5b350e286"
+}

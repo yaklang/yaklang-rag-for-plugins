@@ -1,0 +1,11 @@
+{
+  "app": "飞讯云WMS",
+  "reason": "",
+  "seo": "飞讯云WMS,SQL注入,前台漏洞,插件检测",
+  "seo_en": "Feixun Cloud WMS,SQL Injection,Frontend Vulnerability,Plugin Detection",
+  "success": true,
+  "summary": "检测飞讯云WMS系统是否存在前台SQL注入漏洞，通过发送特定的HTTP请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the front-end of Feixun Cloud WMS system by sending specific HTTP requests and measuring response time to determine if the vulnerability exists.",
+  "updated_at": 1742999573,
+  "uuid": "7debd27a-1f3b-40f5-9859-ec9b8ad7992f"
+}

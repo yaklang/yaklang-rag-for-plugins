@@ -1,0 +1,11 @@
+{
+  "app": "PHPOK",
+  "reason": "",
+  "seo": "PHPOK,前台无限制注入,漏洞检测,代码注入,高危漏洞",
+  "seo_en": "PHPOK,unrestricted injection,vulnerability detection,code injection,high-risk vulnerability",
+  "success": true,
+  "summary": "该插件用于检测PHPOK 5.3版本是否存在前台无限制注入漏洞，通过发送特定payload并验证响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the PHPOK 5.3 version has an unrestricted injection vulnerability in the front-end. It confirms the existence of the vulnerability by sending a specific payload and verifying the response.",
+  "updated_at": 1742999596,
+  "uuid": "5d057c96-2620-44d3-a909-3002c77fd53b"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Aj-Report,sql注入漏洞,WebFuzzer",
+  "seo_en": "Aj-Report,SQL injection vulnerability,WebFuzzer",
+  "success": true,
+  "summary": "检测Aj-Report是否存在SQL注入漏洞，通过特定路径和响应体中的关键词进行匹配确认。",
+  "summary_en": "Detect SQL injection vulnerabilities in Aj-Report by matching specific paths and keywords in the response body.",
+  "updated_at": 1742999569,
+  "uuid": "a987b1a7-3a40-42a3-a686-b750ae052183"
+}

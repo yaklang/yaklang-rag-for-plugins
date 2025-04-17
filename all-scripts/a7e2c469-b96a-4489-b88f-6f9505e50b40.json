@@ -1,0 +1,11 @@
+{
+  "app": "泛微E-Mobile",
+  "reason": "",
+  "seo": "泛微,命令执行漏洞,E-Mobile6.0,messageType.do",
+  "seo_en": "Fanhui,Command Execution Vulnerability,E-Mobile6.0,messageType.do",
+  "success": true,
+  "summary": "检测泛微E-Mobile6.0中的messageType.do是否存在命令执行漏洞，通过发送特定的POST请求来验证漏洞是否存在。",
+  "summary_en": "Detect the command execution vulnerability in messageType.do of Fanhui E-Mobile6.0 by sending a specific POST request to verify the existence of the vulnerability.",
+  "updated_at": 1742999579,
+  "uuid": "a7e2c469-b96a-4489-b88f-6f9505e50b40"
+}

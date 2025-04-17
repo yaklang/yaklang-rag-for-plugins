@@ -1,0 +1,11 @@
+{
+  "app": "Hikvision海康威视综合安防管理平台",
+  "reason": "",
+  "seo": "Hikvision,海康威视,远程命令执行漏洞,detection接口",
+  "seo_en": "Hikvision,Hikvision Security Platform,Remote Command Execution Vulnerability,detection interface",
+  "success": true,
+  "summary": "检测Hikvision海康威视综合安防管理平台的detection接口是否存在前台远程命令执行漏洞",
+  "summary_en": "Detect whether the detection interface of Hikvision Security Platform has a front-end remote command execution vulnerability",
+  "updated_at": 1742999572,
+  "uuid": "fbe9ed53-811b-47a9-b9be-4a73fc7eeb02"
+}

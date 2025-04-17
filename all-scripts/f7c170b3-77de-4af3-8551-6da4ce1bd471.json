@@ -1,0 +1,11 @@
+{
+  "app": "Apache",
+  "reason": "",
+  "seo": "Apache,CVE-2017-15715,漏洞检测,换行解析漏洞",
+  "seo_en": "Apache,CVE-2017-15715,vulnerability detection,line parsing vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Apache HTTPD是否存在CVE-2017-15715换行解析漏洞，通过发送特定请求并验证响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether Apache HTTPD has the CVE-2017-15715 line parsing vulnerability by sending specific requests and verifying the response to confirm the existence of the vulnerability.",
+  "updated_at": 1742999604,
+  "uuid": "f7c170b3-77de-4af3-8551-6da4ce1bd471"
+}

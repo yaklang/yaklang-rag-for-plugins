@@ -1,0 +1,11 @@
+{
+  "app": "Dlink_DCS",
+  "reason": "",
+  "seo": "Dlink_DCS信息泄露漏洞,CVE-2020-25078,高危漏洞,信息泄露",
+  "seo_en": "Dlink_DCS information leak vulnerability,CVE-2020-25078,high-risk vulnerability,info_leak",
+  "success": true,
+  "summary": "该插件用于检测Dlink_DCS设备是否存在CVE-2020-25078信息泄露漏洞，通过发送特定HTTP请求检查返回的数据中是否包含用户名、密码等敏感信息。",
+  "summary_en": "This plugin is used to detect whether Dlink_DCS devices have the CVE-2020-25078 information leak vulnerability by sending a specific HTTP request and checking if the returned data contains sensitive information such as usernames and passwords.",
+  "updated_at": 1742999585,
+  "uuid": "ff497b18-a3a4-4abd-961a-3c62df84d190"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "换行符替换,LF,CRLF,字符串处理,编码解码",
+  "seo_en": "Line Feed,Carriage Return,String Processing,Codec Plugin,Encoding Decoding",
+  "success": true,
+  "summary": "该插件的核心意图是将输入内容中的换行符从LF格式统一转换为CRLF格式，用于标准化文本的换行符处理。",
+  "summary_en": "The core intention of this plugin is to convert line breaks in the input content from LF format to CRLF format for text normalization.",
+  "updated_at": 1742999568,
+  "uuid": "4dea5578-14e2-4e56-8872-7ac97781d3d5"
+}

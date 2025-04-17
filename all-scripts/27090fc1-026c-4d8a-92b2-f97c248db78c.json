@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SQL注入,时间盲注,Sleep,漏洞检测,安全测试",
+  "seo_en": "SQL injection,time-based blind,sleep,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测Web应用程序中的SQL时间盲注漏洞，通过构造特定的SQL查询来判断是否存在时间延迟响应，从而确认漏洞是否存在。",
+  "summary_en": "This plugin is designed to detect time-based blind SQL injection vulnerabilities in web applications by constructing specific SQL queries to determine if there are delayed responses, confirming the existence of vulnerabilities.",
+  "updated_at": 1740203645,
+  "uuid": "27090fc1-026c-4d8a-92b2-f97c248db78c"
+}

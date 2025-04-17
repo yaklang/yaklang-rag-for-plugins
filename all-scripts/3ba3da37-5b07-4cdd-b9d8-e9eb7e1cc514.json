@@ -1,0 +1,11 @@
+{
+  "app": "致远互联系统",
+  "reason": "",
+  "seo": "致远互联,wooyun,2015,148227,漏洞,web.xml,NCInvokerServlet",
+  "seo_en": "Seeyon,wooyun,2015,148227,vulnerability,web.xml,NCInvokerServlet",
+  "success": true,
+  "summary": "该插件用于检测致远互联系统的 wooyun 2015-148227 漏洞，通过访问特定路径尝试获取 web.xml 文件内容以确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect the wooyun 2015-148227 vulnerability in Seeyon systems by accessing a specific path to attempt retrieving the web.xml file content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999590,
+  "uuid": "3ba3da37-5b07-4cdd-b9d8-e9eb7e1cc514"
+}

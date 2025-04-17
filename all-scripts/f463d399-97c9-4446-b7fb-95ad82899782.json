@@ -1,0 +1,11 @@
+{
+  "app": "Terramaster TOS",
+  "reason": "",
+  "seo": "Terramaster TOS,命令注入漏洞,CVE-2020-15568,远程命令执行漏洞",
+  "seo_en": "Terramaster TOS,command injection vulnerability,CVE-2020-15568,remote command execution vulnerability",
+  "success": true,
+  "summary": "检测Terramaster TOS操作系统是否存在CVE-2020-15568远程命令执行漏洞，该漏洞允许攻击者通过exportUser.php执行任意命令并控制服务器。",
+  "summary_en": "Detect whether the Terramaster TOS operating system has the CVE-2020-15568 remote command execution vulnerability, which allows attackers to execute arbitrary commands and control the server via exportUser.php.",
+  "updated_at": 1742999590,
+  "uuid": "f463d399-97c9-4446-b7fb-95ad82899782"
+}

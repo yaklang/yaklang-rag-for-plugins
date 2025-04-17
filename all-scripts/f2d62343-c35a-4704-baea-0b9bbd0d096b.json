@@ -1,0 +1,11 @@
+{
+  "app": "宏景HCM",
+  "reason": "",
+  "seo": "宏景HCM,任意文件读取漏洞,openFile.jsp,文件读取检测",
+  "seo_en": "Hongjing HCM, Arbitrary File Read Vulnerability, openFile.jsp, File Read Detection",
+  "success": true,
+  "summary": "检测宏景HCM系统是否存在任意文件读取漏洞，通过向特定URL发送POST请求并检查响应状态和内容来确认漏洞是否存在。",
+  "summary_en": "Detects whether the Hongjing HCM system has an arbitrary file read vulnerability by sending a POST request to a specific URL and checking the response status and content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999577,
+  "uuid": "f2d62343-c35a-4704-baea-0b9bbd0d096b"
+}

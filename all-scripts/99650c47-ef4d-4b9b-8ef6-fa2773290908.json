@@ -1,0 +1,11 @@
+{
+  "app": "宏脉医美行业管理系统",
+  "reason": "",
+  "seo": "宏脉医美,任意文件读取漏洞,系统漏洞,安全检测",
+  "seo_en": "Hongmai Beauty Management System, arbitrary file read vulnerability, system vulnerability, security testing",
+  "success": true,
+  "summary": "检测宏脉医美行业管理系统的任意文件读取漏洞，通过发送特定HTTP请求判断是否存在该漏洞",
+  "summary_en": "Detect the arbitrary file read vulnerability in Hongmai Beauty Management System by sending a specific HTTP request to determine if the vulnerability exists",
+  "updated_at": 1742999572,
+  "uuid": "99650c47-ef4d-4b9b-8ef6-fa2773290908"
+}

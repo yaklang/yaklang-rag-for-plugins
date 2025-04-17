@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "HTTP请求头伪造,IP伪造,七层安全绕过,XFF请求头",
+  "seo_en": "HTTP header forgery, IP forgery, layer 7 security bypass, XFF header",
+  "success": true,
+  "summary": "该插件通过设置多种HTTP请求头（如X-Forwarded-For等）伪造请求IP，以绕过七层安全设备的检测。",
+  "summary_en": "This plugin forges the request IP by setting various HTTP headers (such as X-Forwarded-For) to bypass detection of layer 7 security devices.",
+  "updated_at": 1742999569,
+  "uuid": "4433687d-ba1b-443f-aa0d-8273dff0f915"
+}

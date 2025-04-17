@@ -1,0 +1,11 @@
+{
+  "app": "创客13星零售商城系统",
+  "reason": "",
+  "seo": "创客13星,零售商城,任意文件上传漏洞,漏洞检测",
+  "seo_en": "Maker 13Star,Retail Mall,Arbitrary File Upload Vulnerability,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测创客13星零售商城系统是否存在前台任意文件上传漏洞，攻击者可能通过构造恶意请求上传任意文件。",
+  "summary_en": "This plugin is used to detect whether the Maker 13Star Retail Mall System has a front-end arbitrary file upload vulnerability, where attackers may upload arbitrary files by constructing malicious requests.",
+  "updated_at": 1742999573,
+  "uuid": "1d7d8b9a-8004-427e-bdb0-e3d90ae9f640"
+}

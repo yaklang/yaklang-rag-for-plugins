@@ -1,0 +1,11 @@
+{
+  "app": "Spring Boot",
+  "reason": "",
+  "seo": "Spring Boot,目录遍历漏洞,CVE-2021-21234,插件,检测",
+  "seo_en": "Spring Boot,directory traversal vulnerability,CVE-2021-21234,plugin,detection",
+  "success": true,
+  "summary": "该插件用于检测Spring Boot应用中spring-boot-actuator-logview组件在0.2.13版本之前存在的目录遍历漏洞，通过构造特定payload尝试读取/etc/passwd文件验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect the directory traversal vulnerability in the spring-boot-actuator-logview component of Spring Boot applications with versions prior to 0.2.13. It verifies the existence of the vulnerability by constructing a specific payload to attempt reading the /etc/passwd file.",
+  "updated_at": 1742999602,
+  "uuid": "b70c9b72-31b0-494e-82fd-dd49572960bb"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "pprof文件,自动分析,性能优化,采样分析",
+  "seo_en": "pprof file,auto analysis,performance optimization,sampling analysis",
+  "success": true,
+  "summary": "该插件用于自动分析PPROF文件并生成可阅读的分析结果，帮助用户进行性能优化。",
+  "summary_en": "This plugin automatically analyzes PPROF files and generates readable analysis results to help users with performance optimization.",
+  "updated_at": 1740203647,
+  "uuid": "7a6525ce-f1f3-49de-ac5a-f00b5721e6c6"
+}

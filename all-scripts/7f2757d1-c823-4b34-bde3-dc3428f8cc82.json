@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "语录,讲话,采访,诗词",
+  "seo_en": "Quotations, Speeches, Interviews, Poetry",
+  "success": true,
+  "summary": "该插件包含江泽民的语录、讲话、采访和诗词等内容，用于yakit平台输出相关内容。",
+  "summary_en": "This plugin contains quotations, speeches, interviews, and poems by Jiang Zemin, and is used to output relevant content on the yakit platform.",
+  "updated_at": 1742999593,
+  "uuid": "7f2757d1-c823-4b34-bde3-dc3428f8cc82"
+}

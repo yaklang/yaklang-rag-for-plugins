@@ -1,0 +1,11 @@
+{
+  "app": "海康威视iSecure Center 综合安防管理平台",
+  "reason": "",
+  "seo": "海康威视, iSecure Center, 综合安防管理平台, 远程代码执行, 漏洞检测",
+  "seo_en": "Hikvision, iSecure Center, Integrated Security Management Platform, Remote Code Execution, Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测海康威视iSecure Center综合安防管理平台中的ssoService远程代码执行漏洞，帮助用户发现潜在的安全风险。",
+  "summary_en": "This plugin is used to detect the remote code execution vulnerability in the ssoService of Hikvision iSecure Center Integrated Security Management Platform, helping users identify potential security risks.",
+  "updated_at": 1742999577,
+  "uuid": "b5ebb221-826b-4a70-8aba-ed785e330a8a"
+}

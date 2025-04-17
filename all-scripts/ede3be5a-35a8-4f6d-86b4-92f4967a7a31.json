@@ -1,0 +1,11 @@
+{
+  "app": "Agentejo Cockpit",
+  "reason": "",
+  "seo": "Agentejo Cockpit,SQL注入,漏洞检测,内容管理系统",
+  "seo_en": "Agentejo Cockpit,SQL Injection,Vulnerability Detection,Content Management System",
+  "success": true,
+  "summary": "检测Agentejo Cockpit内容管理系统中是否存在SQL注入漏洞，通过发送特定的POST请求来验证系统的安全性。",
+  "summary_en": "Detect SQL injection vulnerabilities in the Agentejo Cockpit content management system by sending specific POST requests to verify the security of the system.",
+  "updated_at": 1742999587,
+  "uuid": "ede3be5a-35a8-4f6d-86b4-92f4967a7a31"
+}

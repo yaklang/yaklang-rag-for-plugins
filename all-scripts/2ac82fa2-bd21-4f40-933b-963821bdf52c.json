@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "CVE-2022-22965, Spring-core-rce, DNS反连检测, 漏洞扫描",
+  "seo_en": "CVE-2022-22965, Spring-core-rce, DNS callback detection, vulnerability scanning",
+  "success": true,
+  "summary": "该插件通过DNS反连检测技术，检测目标是否存在Spring-core远程代码执行漏洞（CVE-2022-22965），并利用DNS日志平台确认漏洞是否被触发。",
+  "summary_en": "This plugin uses DNS callback detection technology to check if the target has the Spring-core remote code execution vulnerability (CVE-2022-22965), and confirms whether the vulnerability is triggered using a DNS log platform.",
+  "updated_at": 1742999604,
+  "uuid": "2ac82fa2-bd21-4f40-933b-963821bdf52c"
+}

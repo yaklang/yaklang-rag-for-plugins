@@ -1,0 +1,11 @@
+{
+  "app": "海康威视摄像头",
+  "reason": "",
+  "seo": "海康威视,CVE_2017_7921,漏洞检测,身份伪造,配置错误",
+  "seo_en": "Hikvision,CVE_2017_7921,vulnerability detection,identity forgery,configuration error",
+  "success": true,
+  "summary": "该插件用于检测海康威视摄像头是否存在CVE-2017-7921漏洞，该漏洞可能导致身份伪造问题。",
+  "summary_en": "This plugin is used to detect whether Hikvision cameras have the CVE-2017-7921 vulnerability, which may lead to identity forgery issues.",
+  "updated_at": 1742999585,
+  "uuid": "c337ff17-fe04-4279-bce1-51ee05a9f9d6"
+}

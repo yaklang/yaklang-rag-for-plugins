@@ -1,0 +1,11 @@
+{
+  "app": "vBulletin",
+  "reason": "",
+  "seo": "vBulletin,远程代码执行漏洞,CVE-2019-16759,PHP,MySQL",
+  "seo_en": "vBulletin,RCE vulnerability,CVE-2019-16759,PHP,MySQL",
+  "success": true,
+  "summary": "检测 vBulletin 5.x 系统中的 widgetConfig 远程代码执行漏洞（CVE-2019-16759），通过发送特定 POST 请求验证是否存在漏洞",
+  "summary_en": "Detect the widgetConfig Remote Code Execution vulnerability (CVE-2019-16759) in vBulletin 5.x systems by sending a specific POST request to verify the existence of the vulnerability",
+  "updated_at": 1742999589,
+  "uuid": "8d9aaa85-a3bd-4dbb-b270-ae09804d8623"
+}

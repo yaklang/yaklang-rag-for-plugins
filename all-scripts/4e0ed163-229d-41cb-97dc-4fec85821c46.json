@@ -1,0 +1,11 @@
+{
+  "app": "Apache Tika-server",
+  "reason": "",
+  "seo": "Apache Tika-server,命令执行漏洞,CVE-2018-1335,漏洞检测",
+  "seo_en": "Apache Tika-server,command execution vulnerability,CVE-2018-1335,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Apache Tika-server是否存在命令执行漏洞（CVE-2018-1335），通过发送特定HTTP请求验证目标是否受影响。",
+  "summary_en": "This plugin is used to detect whether the Apache Tika-server has a command execution vulnerability (CVE-2018-1335) by sending a specific HTTP request to verify if the target is affected.",
+  "updated_at": 1742999569,
+  "uuid": "4e0ed163-229d-41cb-97dc-4fec85821c46"
+}

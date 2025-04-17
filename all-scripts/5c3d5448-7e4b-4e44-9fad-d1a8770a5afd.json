@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Git,源码泄漏,漏洞检测,端口扫描",
+  "seo_en": "Git,source leak,vulnerability detection,port scan",
+  "success": true,
+  "summary": "该插件用于检测Git源码泄漏漏洞，通过扫描指定端口并检查是否存在未授权访问的.git配置文件来发现潜在风险。",
+  "summary_en": "This plugin is used to detect Git source code leakage vulnerabilities by scanning specific ports and checking for unauthorized access to the .git configuration file to identify potential risks.",
+  "updated_at": 1742999602,
+  "uuid": "5c3d5448-7e4b-4e44-9fad-d1a8770a5afd"
+}

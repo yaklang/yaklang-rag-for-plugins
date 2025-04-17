@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "插件,Disable Strict CSP,MITM,CSP策略替换",
+  "seo_en": "plugin,Disable Strict CSP,MITM,CSP policy replacement",
+  "success": true,
+  "summary": "该插件通过修改HTTP响应头，将Content-Security-Policy替换为default-src *，从而禁用严格的CSP策略以支持MITM攻击场景。",
+  "summary_en": "This plugin modifies the HTTP response header to replace the Content-Security-Policy with default-src *, thus disabling strict CSP policies for MITM attack scenarios.",
+  "updated_at": 1742999583,
+  "uuid": "9990c575-250e-4aa4-8d37-b261d034f0f2"
+}

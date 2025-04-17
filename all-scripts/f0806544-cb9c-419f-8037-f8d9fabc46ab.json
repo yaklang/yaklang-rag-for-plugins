@@ -1,0 +1,11 @@
+{
+  "app": "微信小程序",
+  "reason": "",
+  "seo": "微信小程序,自动化渗透测试,反编译,信息泄露,API扫描",
+  "seo_en": "WeChat Mini Program, automated penetration testing, decompilation, information leakage, API scanning",
+  "success": true,
+  "summary": "该插件用于自动反编译微信小程序并扫描其中可能存在的信息泄露问题，包括敏感数据匹配和API批量测试。",
+  "summary_en": "This plugin is used to automatically decompile WeChat Mini Programs and scan for potential information leakage issues, including sensitive data matching and batch API testing.",
+  "updated_at": 1742999575,
+  "uuid": "f0806544-cb9c-419f-8037-f8d9fabc46ab"
+}

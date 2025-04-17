@@ -1,0 +1,11 @@
+{
+  "app": "Druid",
+  "reason": "",
+  "seo": "Druid,未授权访问,漏洞检测,插件",
+  "seo_en": "Druid,unauthorized access,vulnerability detection,plugin",
+  "success": true,
+  "summary": "该插件用于检测Druid应用是否存在未授权访问漏洞，通过发送特定请求并分析响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Druid application has unauthorized access vulnerabilities, and confirms the existence of vulnerabilities by sending specific requests and analyzing response content.",
+  "updated_at": 1742999598,
+  "uuid": "022e49b0-43ce-432e-b392-23f756b5c310"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Supervisord",
+  "reason": "",
+  "seo": "Supervisord,远程命令执行漏洞,inet_http_server,漏洞检测",
+  "seo_en": "Supervisord, Remote Command Execution Vulnerability, inet_http_server, Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Supervisord的inet_http_server模块是否存在远程命令执行漏洞，通过构造特定的XML请求并验证DNSLog回显来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is a remote command execution vulnerability in the inet_http_server module of Supervisord. It confirms the existence of the vulnerability by constructing specific XML requests and verifying DNSLog callbacks.",
+  "updated_at": 1742999590,
+  "uuid": "732d4d97-e0b6-4f5c-8362-44acccad6f2d"
+}

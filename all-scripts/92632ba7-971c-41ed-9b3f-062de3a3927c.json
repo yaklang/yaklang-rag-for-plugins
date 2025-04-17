@@ -1,0 +1,11 @@
+{
+  "app": "Nexus",
+  "reason": "",
+  "seo": "Nexus,漏洞检测,CVE-2019-7238,CVE-2020-10199,CVE-2020-10204,CVE-2020-24571,弱口令,目录遍历",
+  "seo_en": "Nexus,vulnerability detection,CVE-2019-7238,CVE-2020-10199,CVE-2020-10204,CVE-2020-24571,weak password,directory traversal",
+  "success": true,
+  "summary": "该插件用于检测Nexus Repository Manager中的多个漏洞，包括CVE-2019-7238、CVE-2020-10199、CVE-2020-10204、CVE-2020-24571以及默认弱口令和目录遍历问题。",
+  "summary_en": "This plugin is used to detect multiple vulnerabilities in Nexus Repository Manager, including CVE-2019-7238, CVE-2020-10199, CVE-2020-10204, CVE-2020-24571, default weak passwords, and directory traversal issues.",
+  "updated_at": 1742999598,
+  "uuid": "92632ba7-971c-41ed-9b3f-062de3a3927c"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Zabbix",
+  "reason": "",
+  "seo": "Zabbix,未授权访问,漏洞检测,安全风险",
+  "seo_en": "Zabbix,Unauthorized Access,Vulnerability Detection,Security Risk",
+  "success": true,
+  "summary": "该插件用于检测Zabbix系统是否存在未授权访问漏洞，通过发送特定请求并分析响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in the Zabbix system, and confirms the existence of the vulnerability by sending specific requests and analyzing the response content.",
+  "updated_at": 1742999582,
+  "uuid": "c141cc43-02ed-403f-b67c-4013b7099b96"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "红盟云发卡系统",
+  "reason": "",
+  "seo": "红盟云发卡系统,反序列化,RCE漏洞,高危",
+  "seo_en": "Hongmeng Cloud Card System, deserialization, RCE vulnerability, high-risk",
+  "success": true,
+  "summary": "检测红盟云发卡系统是否存在反序列化RCE漏洞，该漏洞可能导致远程代码执行，属于高危漏洞。",
+  "summary_en": "Detect whether the Hongmeng Cloud Card System has a deserialization RCE vulnerability, which may lead to remote code execution and is classified as a high-risk vulnerability.",
+  "updated_at": 1742999573,
+  "uuid": "9758917e-f302-4e76-95c5-bb674ffe000f"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Cybelesoft Thinfinity VirtualUI",
+  "reason": "",
+  "seo": "cybelesoft thinfinity_virtualui,认证机制不恰当,未授权访问,漏洞检测",
+  "seo_en": "cybelesoft thinfinity_virtualui,inappropriate authentication mechanism,unauthorized access,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Cybelesoft Thinfinity VirtualUI应用在3.0版本之前的/changePassword接口是否存在认证机制不恰当的漏洞，可能导致未授权访问。",
+  "summary_en": "This plugin detects the inappropriate authentication mechanism vulnerability in the /changePassword endpoint of Cybelesoft Thinfinity VirtualUI applications before version 3.0, which may lead to unauthorized access.",
+  "updated_at": 1742999587,
+  "uuid": "b444a209-67f5-4ca0-a925-c0e5ecfc2535"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "JBoss",
+  "reason": "",
+  "seo": "JBoss,漏洞检测,CVE-2017-12149,反序列化漏洞",
+  "seo_en": "JBoss,vulnerability detection,CVE-2017-12149,deserialization vulnerability",
+  "success": true,
+  "summary": "该插件用于检测JBoss 5.x/6.x是否存在CVE-2017-12149反序列化漏洞，通过发送特定payload验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether JBoss 5.x/6.x has the CVE-2017-12149 deserialization vulnerability by sending a specific payload to verify the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "b064afdb-8154-447f-bfe0-6e2c5bc9e1c1"
+}

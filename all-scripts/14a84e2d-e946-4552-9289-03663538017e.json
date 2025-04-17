@@ -1,0 +1,11 @@
+{
+  "app": "IIS",
+  "reason": "",
+  "seo": "IIS,短文件名漏洞,漏洞检测,微软IIS",
+  "seo_en": "IIS,short filename vulnerability,vulnerability detection,Microsoft IIS",
+  "success": true,
+  "summary": "该插件用于检测IIS服务器是否存在短文件名漏洞，攻击者可能利用此漏洞猜解或遍历服务器中的文件名，或者对IIS服务器进行拒绝服务攻击。",
+  "summary_en": "This plugin is used to detect whether the IIS server has a short filename vulnerability. Attackers may use this vulnerability to guess or traverse filenames on the server, or perform denial-of-service attacks on the IIS server.",
+  "updated_at": 1742999602,
+  "uuid": "14a84e2d-e946-4552-9289-03663538017e"
+}

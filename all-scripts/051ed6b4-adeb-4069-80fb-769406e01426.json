@@ -1,0 +1,11 @@
+{
+  "app": "Websphere",
+  "reason": "",
+  "seo": "Websphere,弱口令检测,漏洞扫描,安全测试",
+  "seo_en": "Websphere, weak password detection, vulnerability scanning, security testing",
+  "success": true,
+  "summary": "该插件用于检测Websphere应用是否存在弱口令问题，通过尝试不同的用户名和密码组合来发现潜在的安全风险。",
+  "summary_en": "This plugin is used to detect whether there are weak password issues in the Websphere application. It discovers potential security risks by trying different username and password combinations.",
+  "updated_at": 1742999604,
+  "uuid": "051ed6b4-adeb-4069-80fb-769406e01426"
+}

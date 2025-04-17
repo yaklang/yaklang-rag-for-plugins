@@ -1,0 +1,11 @@
+{
+  "app": "海康威视",
+  "reason": "",
+  "seo": "海康威视,远程命令执行漏洞,检测插件",
+  "seo_en": "Hikvision,remote command execution vulnerability,detection plugin",
+  "success": true,
+  "summary": "该插件用于检测海康威视设备是否存在远程命令执行漏洞，通过发送特定的HTTP请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether Hikvision devices have remote command execution vulnerabilities by sending specific HTTP requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999571,
+  "uuid": "f33b60d3-5591-4cae-ba94-5359f6a7e720"
+}

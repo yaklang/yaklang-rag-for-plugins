@@ -1,0 +1,11 @@
+{
+  "app": "红帆OA",
+  "reason": "",
+  "seo": "红帆OA,任意文件读取,漏洞检测,ioFileExport.aspx",
+  "seo_en": "HongFan OA, Arbitrary File Read, Vulnerability Detection, ioFileExport.aspx",
+  "success": true,
+  "summary": "检测红帆OA系统中ioFileExport.aspx文件是否存在任意文件读取漏洞，攻击者可能利用该漏洞获取服务器敏感信息",
+  "summary_en": "Detect Arbitrary File Read vulnerability in HongFan OA's ioFileExport.aspx file, which could allow attackers to obtain sensitive server information",
+  "updated_at": 1742999593,
+  "uuid": "d8c361d3-f7b2-4c59-9b9f-7300c89baf5e"
+}

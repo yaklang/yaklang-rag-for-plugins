@@ -1,0 +1,11 @@
+{
+  "app": "nostromo nhttpd",
+  "reason": "",
+  "seo": "Nostromo webserver,远程命令执行漏洞,1.9.6,检测",
+  "seo_en": "Nostromo webserver,RCE vulnerability,1.9.6,detection",
+  "success": true,
+  "summary": "该插件用于检测 Nostromo webserver \u003c= 1.9.6 版本中的远程命令执行漏洞，通过发送特定请求验证是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the Remote Command Execution vulnerability in Nostromo webserver \u003c= 1.9.6 version by sending specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999592,
+  "uuid": "6d8aa8a2-e199-4207-bd0c-195b81566531"
+}

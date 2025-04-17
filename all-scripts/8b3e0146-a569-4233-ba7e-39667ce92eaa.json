@@ -1,0 +1,11 @@
+{
+  "app": "网御星云WEB防护系统",
+  "reason": "",
+  "seo": "网御星云,WEB防护系统,信息泄露漏洞检测",
+  "seo_en": "Wangyu Starcloud WEB Protection System, Information Leakage Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测网御星云WEB防护系统是否存在信息泄露漏洞，通过发送特定请求并分析响应来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an information leakage vulnerability in the Wangyu Starcloud WEB Protection System by sending specific requests and analyzing the responses.",
+  "updated_at": 1742999601,
+  "uuid": "8b3e0146-a569-4233-ba7e-39667ce92eaa"
+}

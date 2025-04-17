@@ -1,0 +1,11 @@
+{
+  "app": "用友NC系统",
+  "reason": "",
+  "seo": "用友NC,SQL注入漏洞,querygoodsgridbycode接口,code参数",
+  "seo_en": "Yonyou NC,SQL injection vulnerability,querygoodsgridbycode interface,code parameter",
+  "success": true,
+  "summary": "检测用友NC系统的querygoodsgridbycode接口是否存在code参数的SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the code parameter of the querygoodsgridbycode interface in the Yonyou NC system",
+  "updated_at": 1742999571,
+  "uuid": "81e147a9-68a1-49d4-ba0e-b92e71bb111b"
+}

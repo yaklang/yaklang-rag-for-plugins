@@ -1,0 +1,11 @@
+{
+  "app": "拓尔思TRS媒资管理系统",
+  "reason": "",
+  "seo": "拓尔思TRS媒资管理系统,uploadThumb,文件上传漏洞,高危漏洞",
+  "seo_en": "TRS Media Asset Management System,uploadThumb,file upload vulnerability,high-risk vulnerability",
+  "success": true,
+  "summary": "检测拓尔思TRS媒资管理系统是否存在uploadThumb接口的文件上传漏洞，通过发送特定请求验证漏洞是否存在并输出相关信息",
+  "summary_en": "Detect whether the TRS Media Asset Management System has a file upload vulnerability in the uploadThumb interface, and output relevant information by sending specific requests to verify the vulnerability",
+  "updated_at": 1742999571,
+  "uuid": "f3baa1e0-9f29-42b6-9535-67053357a6cb"
+}

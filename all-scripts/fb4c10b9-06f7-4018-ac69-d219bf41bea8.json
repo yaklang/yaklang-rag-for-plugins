@@ -1,0 +1,11 @@
+{
+  "app": "ShopXO",
+  "reason": "",
+  "seo": "ShopXO,任意文件读取漏洞,CNVD-2021-15822",
+  "seo_en": "ShopXO,Arbitrary File Read Vulnerability,CNVD-2021-15822",
+  "success": true,
+  "summary": "该插件用于检测ShopXO电子商务系统是否存在CNVD-2021-15822任意文件读取漏洞，通过构造特定请求来验证Linux和Windows环境下的漏洞情况。",
+  "summary_en": "This plugin is used to detect whether the ShopXO e-commerce system has the CNVD-2021-15822 arbitrary file read vulnerability by constructing specific requests to verify the vulnerability in both Linux and Windows environments.",
+  "updated_at": 1742999590,
+  "uuid": "fb4c10b9-06f7-4018-ac69-d219bf41bea8"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "智联云采 SRM2.0",
+  "reason": "",
+  "seo": "智联云采,SRM2.0,任意文件读取,漏洞检测",
+  "seo_en": "ZhiLian Cloud SRM2.0,任意文件读取,file read vulnerability,vulnerability detection",
+  "success": true,
+  "summary": "检测智联云采 SRM2.0 系统是否存在任意文件读取漏洞，通过访问特定路径尝试下载系统文件来确认漏洞存在。",
+  "summary_en": "Detect whether the ZhiLian Cloud SRM2.0 system has arbitrary file read vulnerabilities by attempting to download system files via a specific path to confirm the existence of the vulnerability.",
+  "updated_at": 1742999569,
+  "uuid": "b1a4a782-9287-4055-9282-74436c269dd2"
+}

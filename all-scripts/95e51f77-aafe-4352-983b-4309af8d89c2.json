@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "bash-cve-2014-6271,漏洞检测,命令执行,高危漏洞",
+  "seo_en": "bash-cve-2014-6271, vulnerability detection, command execution, critical vulnerability",
+  "success": true,
+  "summary": "该插件用于检测bash-cve-2014-6271漏洞，通过发送特定请求判断是否存在命令执行漏洞，并输出相关信息。",
+  "summary_en": "This plugin is used to detect the bash-cve-2014-6271 vulnerability by sending specific requests to determine if there is a command execution vulnerability and output relevant information.",
+  "updated_at": 1742999599,
+  "uuid": "95e51f77-aafe-4352-983b-4309af8d89c2"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "MyUCMS",
+  "reason": "",
+  "seo": "MyUCMS,任意文件读取漏洞,漏洞检测,安全测试",
+  "seo_en": "MyUCMS,file read vulnerability,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测MyUCMS系统是否存在任意文件读取漏洞，通过构造特定请求检测是否能够成功读取系统文件。",
+  "summary_en": "This plugin is used to detect whether the MyUCMS system has arbitrary file read vulnerabilities by constructing specific requests to check if system files can be successfully read.",
+  "updated_at": 1742999592,
+  "uuid": "38aa85a1-ce68-4889-86a9-19141d06cff4"
+}

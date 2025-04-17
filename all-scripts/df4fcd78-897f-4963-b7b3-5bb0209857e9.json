@@ -1,0 +1,11 @@
+{
+  "app": "Joomla",
+  "reason": "",
+  "seo": "Joomla,漏洞检测,CVE-2016-8869,未授权创建特权用户",
+  "seo_en": "Joomla,vulnerability detection,CVE-2016-8869,unauthorized privileged user creation",
+  "success": true,
+  "summary": "该插件用于检测Joomla 3.4.4-3.6.3版本中存在的CVE-2016-8869漏洞，该漏洞允许未授权创建特权用户。",
+  "summary_en": "This plugin is used to detect the CVE-2016-8869 vulnerability in Joomla 3.4.4-3.6.3 versions, which allows unauthorized creation of privileged users.",
+  "updated_at": 1742999595,
+  "uuid": "df4fcd78-897f-4963-b7b3-5bb0209857e9"
+}

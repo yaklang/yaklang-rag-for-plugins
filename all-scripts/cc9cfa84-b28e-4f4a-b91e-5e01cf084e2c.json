@@ -1,0 +1,11 @@
+{
+  "app": "ActiveMQ",
+  "reason": "",
+  "seo": "ActiveMQ,任意文件写入漏洞,CVE-2016-3088,检测,漏洞插件",
+  "seo_en": "ActiveMQ,file write vulnerability,CVE-2016-3088,detection,vulnerability plugin",
+  "success": true,
+  "summary": "该插件用于检测ActiveMQ是否存在CVE-2016-3088任意文件写入漏洞，通过构造特定请求验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether ActiveMQ has the CVE-2016-3088 arbitrary file write vulnerability by constructing specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999593,
+  "uuid": "cc9cfa84-b28e-4f4a-b91e-5e01cf084e2c"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Kavita",
+  "reason": "",
+  "seo": "kavita,漏洞,文件读取,appsettings.json,kavita.db,kavita.log",
+  "seo_en": "kavita,vulnerability,file read,appsettings.json,kavita.db,kavita.log",
+  "success": true,
+  "summary": "检测 Kavita 应用中是否存在通过 filename 参数读取敏感文件（如 appsettings.json、kavita.db、kavita.log）的漏洞",
+  "summary_en": "Detect whether there is a vulnerability in the Kavita application that allows reading sensitive files (such as appsettings.json, kavita.db, kavita.log) via the filename parameter",
+  "updated_at": 1742999586,
+  "uuid": "8a1466a6-1197-4d3f-9801-72a7df2d6bd7"
+}

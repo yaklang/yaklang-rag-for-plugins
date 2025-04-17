@@ -1,0 +1,11 @@
+{
+  "app": "宏景人力资源信息管理系统",
+  "reason": "",
+  "seo": "宏景人力资源信息管理系统,SQL注入漏洞,get_org_tree.jsp",
+  "seo_en": "Hongjing HCM,SQL Injection Vulnerability,get_org_tree.jsp",
+  "success": true,
+  "summary": "检测宏景人力资源信息管理系统中get_org_tree.jsp是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerability in get_org_tree.jsp of Hongjing Human Capital Management System",
+  "updated_at": 1742999579,
+  "uuid": "a7cd8a69-5e84-421b-85ed-c3374624d7c4"
+}

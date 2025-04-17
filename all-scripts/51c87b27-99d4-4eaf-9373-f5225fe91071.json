@@ -1,0 +1,11 @@
+{
+  "app": "泛微",
+  "reason": "",
+  "seo": "泛微,任意文件读取,漏洞检测,weaver.properties",
+  "seo_en": "Weaver,Arbitrary File Read,Vulnerability Detection,weaver.properties",
+  "success": true,
+  "summary": "该插件用于检测泛微系统中是否存在任意文件读取漏洞，通过访问特定文件（如weaver.properties）来验证系统安全性",
+  "summary_en": "This plugin is used to detect arbitrary file read vulnerabilities in the Weaver system by accessing specific files (such as weaver.properties) to verify system security",
+  "updated_at": 1742999582,
+  "uuid": "51c87b27-99d4-4eaf-9373-f5225fe91071"
+}

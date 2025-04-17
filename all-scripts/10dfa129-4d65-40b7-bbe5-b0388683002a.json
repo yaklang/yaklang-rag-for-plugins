@@ -1,0 +1,11 @@
+{
+  "app": "致远OA",
+  "reason": "",
+  "seo": "致远OA,漏洞检测,rce,htmlofficeservlet,getshell",
+  "seo_en": "Seeyon OA,vulnerability detection,RCE,htmlofficeservlet,getshell",
+  "success": true,
+  "summary": "该插件用于检测致远OA A8系统中是否存在htmlofficeservlet getshell漏洞，远程攻击者可通过构造特定POST请求写入任意文件并执行系统命令。",
+  "summary_en": "This plugin is used to detect the htmlofficeservlet getshell vulnerability in Seeyon OA A8 system. Remote attackers can write arbitrary files and execute system commands by constructing specific POST requests.",
+  "updated_at": 1742999596,
+  "uuid": "10dfa129-4d65-40b7-bbe5-b0388683002a"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Kyocera Printer d-COPIA253MF plus",
+  "reason": "",
+  "seo": "kyocera,路径遍历,漏洞检测,d-COPIA253MF",
+  "seo_en": "kyocera,path traversal,vulnerability detection,d-COPIA253MF",
+  "success": true,
+  "summary": "该插件用于检测Kyocera Printer d-COPIA253MF plus是否存在路径遍历漏洞，攻击者可能利用此漏洞查看或获取服务器上的任意文件。",
+  "summary_en": "This plugin is used to detect a path traversal vulnerability in Kyocera Printer d-COPIA253MF plus. An attacker could potentially exploit this vulnerability to retrieve or view arbitrary files from the affected server.",
+  "updated_at": 1742999587,
+  "uuid": "a6eccaa8-8794-4f5a-b367-939a7b429731"
+}

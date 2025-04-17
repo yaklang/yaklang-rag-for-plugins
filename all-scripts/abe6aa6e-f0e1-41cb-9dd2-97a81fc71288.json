@@ -1,0 +1,11 @@
+{
+  "app": "Kubernetes",
+  "reason": "",
+  "seo": "Kubernetes,漏洞检测,CVE,合规检查,权限提升,信息泄露",
+  "seo_en": "Kubernetes,vulnerability detection,CVE,compliance check,privilege escalation,information disclosure",
+  "success": true,
+  "summary": "该插件用于检测Kubernetes系统中的CVE相关漏洞，涵盖2017年至2022年的多个安全问题，包括权限提升、信息泄露、命令注入等漏洞类型，帮助用户进行合规性检查和风险评估。",
+  "summary_en": "This plugin is used to detect CVE-related vulnerabilities in the Kubernetes system from 2017 to 2022, including multiple security issues such as privilege escalation, information disclosure, and command injection. It helps users perform compliance checks and risk assessments.",
+  "updated_at": 1742999585,
+  "uuid": "abe6aa6e-f0e1-41cb-9dd2-97a81fc71288"
+}

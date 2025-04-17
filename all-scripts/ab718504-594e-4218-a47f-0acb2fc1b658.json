@@ -1,0 +1,11 @@
+{
+  "app": "Oracle E-Business Suite",
+  "reason": "",
+  "seo": "Oracle E-Business Suite,SSRF漏洞,CVE-2018-3167,lcmServiceController.jsp",
+  "seo_en": "Oracle E-Business Suite,SSRF vulnerability,CVE-2018-3167,lcmServiceController.jsp",
+  "success": true,
+  "summary": "检测Oracle E-Business Suite中的lcmServiceController.jsp文件是否存在SSRF漏洞（CVE-2018-3167），攻击者可能利用该漏洞未授权访问内网资源。",
+  "summary_en": "Detects whether the lcmServiceController.jsp file in Oracle E-Business Suite has an SSRF vulnerability (CVE-2018-3167), which could allow attackers to access internal network resources without authorization.",
+  "updated_at": 1742999587,
+  "uuid": "ab718504-594e-4218-a47f-0acb2fc1b658"
+}

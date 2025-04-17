@@ -1,0 +1,11 @@
+{
+  "app": "网康互联网控制网关",
+  "reason": "",
+  "seo": "网康,弱口令检测,CNVD-2016-08603,漏洞检测,ns-icg",
+  "seo_en": "Netentsec,weak password detection,CNVD-2016-08603,vulnerability detection,ns-icg",
+  "success": true,
+  "summary": "该插件用于检测网康互联网控制网关（ns-icg）是否存在默认弱口令漏洞（CNVD-2016-08603），通过模拟登录请求判断目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the Netentsec Internet Control Gateway (ns-icg) has a default weak password vulnerability (CNVD-2016-08603), and determines if the target system is affected by simulating login requests.",
+  "updated_at": 1742999592,
+  "uuid": "6c87f36c-ccb8-4eca-92f1-b3fd1c91b7d7"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,SQL注入,漏洞检测,安全测试",
+  "seo_en": "Tongda OA,SQL Injection,Vulnerability Detection,Security Testing",
+  "success": true,
+  "summary": "该插件用于检测通达OA V2013版本中的SQL注入漏洞，通过发送特定请求并分析响应来确认是否存在风险。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in Tongda OA V2013. It sends specific requests and analyzes responses to confirm if any risks exist.",
+  "updated_at": 1742999596,
+  "uuid": "c916252c-6613-44e0-8057-659d878c1ae8"
+}

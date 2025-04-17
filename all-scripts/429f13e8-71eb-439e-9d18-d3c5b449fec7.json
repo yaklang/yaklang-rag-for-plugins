@@ -1,0 +1,11 @@
+{
+  "app": "JeecgBoot",
+  "reason": "",
+  "seo": "JeecgBoot,权限绕过,AviatorScript,表达式注入,漏洞",
+  "seo_en": "JeecgBoot, privilege bypass, AviatorScript, expression injection, vulnerability",
+  "success": true,
+  "summary": "检测JeecgBoot系统中由于权限绕过导致的AviatorScript表达式注入漏洞，该漏洞可能允许远程攻击者执行代码或植入木马。",
+  "summary_en": "Detect the AviatorScript expression injection vulnerability in JeecgBoot caused by privilege bypass, which may allow remote attackers to execute code or implant malware.",
+  "updated_at": 1742999569,
+  "uuid": "429f13e8-71eb-439e-9d18-d3c5b449fec7"
+}

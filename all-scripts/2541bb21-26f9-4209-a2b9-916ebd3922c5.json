@@ -1,0 +1,11 @@
+{
+  "app": "Jenkins",
+  "reason": "",
+  "seo": "Jenkins,任意文件读取漏洞,CVE-2024-23897,持续集成工具,安全更新",
+  "seo_en": "Jenkins,Arbitrary File Read Vulnerability,CVE-2024-23897,Continuous Integration Tool,Security Update",
+  "success": true,
+  "summary": "检测Jenkins系统是否存在CVE-2024-23897漏洞，该漏洞允许攻击者通过CLI命令参数读取Jenkins控制器上的任意文件，可能导致代码执行。",
+  "summary_en": "Detect whether the Jenkins system has the CVE-2024-23897 vulnerability, which allows attackers to read arbitrary files on the Jenkins controller via CLI command parameters, potentially leading to code execution.",
+  "updated_at": 1742999581,
+  "uuid": "2541bb21-26f9-4209-a2b9-916ebd3922c5"
+}

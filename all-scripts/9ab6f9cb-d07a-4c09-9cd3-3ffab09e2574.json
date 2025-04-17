@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "替换请求头,添加请求头,自定义headers",
+  "seo_en": "replace headers,add headers,custom headers",
+  "success": true,
+  "summary": "该插件用于替换或添加HTTP请求头，支持自定义多个键值对，如果请求头不存在则会新增。",
+  "summary_en": "This plugin is used to replace or add HTTP request headers, supporting customization of multiple key-value pairs. If the header does not exist, it will be added.",
+  "updated_at": 1742999568,
+  "uuid": "9ab6f9cb-d07a-4c09-9cd3-3ffab09e2574"
+}

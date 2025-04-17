@@ -1,0 +1,11 @@
+{
+  "app": "ThinkPHP",
+  "reason": "",
+  "seo": "ThinkPHP,远程代码执行漏洞,2.x~3.0Beta,检测",
+  "seo_en": "ThinkPHP,RCE vulnerability,2.x~3.0Beta,detection",
+  "success": true,
+  "summary": "该插件用于检测ThinkPHP 2.x至3.0Beta版本中的远程代码执行漏洞，通过构造特定payload验证是否存在任意代码执行风险。",
+  "summary_en": "This plugin is used to detect the remote code execution vulnerability in ThinkPHP 2.x to 3.0Beta versions by constructing a specific payload to verify the risk of arbitrary code execution.",
+  "updated_at": 1742999602,
+  "uuid": "254be510-6b1d-4e7f-8a70-b2f26ebab5b6"
+}

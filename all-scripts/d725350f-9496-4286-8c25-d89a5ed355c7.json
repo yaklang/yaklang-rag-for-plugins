@@ -1,0 +1,11 @@
+{
+  "app": "Atlassian Jira",
+  "reason": "",
+  "seo": "Atlassian Jira,身份验证绕过,CVE-2022-0540,漏洞检测",
+  "seo_en": "Atlassian Jira,authentication bypass,CVE-2022-0540,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Atlassian Jira中的身份验证绕过漏洞（CVE-2022-0540），通过发送特定请求来确认是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the authentication bypass vulnerability (CVE-2022-0540) in Atlassian Jira by sending specific requests to confirm if the vulnerability exists.",
+  "updated_at": 1742999583,
+  "uuid": "d725350f-9496-4286-8c25-d89a5ed355c7"
+}

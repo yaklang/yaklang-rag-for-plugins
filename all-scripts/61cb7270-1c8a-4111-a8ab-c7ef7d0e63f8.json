@@ -1,0 +1,11 @@
+{
+  "app": "易天智能EHR管理平台",
+  "reason": "",
+  "seo": "易天智能EHR,漏洞,任意用户添加,admin权限修改",
+  "seo_en": "Yitian Smart EHR, vulnerability, arbitrary user addition, admin privilege modification",
+  "success": true,
+  "summary": "该插件用于检测易天智能EHR管理平台中的漏洞，可利用此漏洞添加任意用户，并可能修改admin权限的用户。",
+  "summary_en": "This plugin is used to detect vulnerabilities in the Yitian Smart EHR management platform, which can be exploited to add arbitrary users and potentially modify admin-privileged users.",
+  "updated_at": 1742999575,
+  "uuid": "61cb7270-1c8a-4111-a8ab-c7ef7d0e63f8"
+}

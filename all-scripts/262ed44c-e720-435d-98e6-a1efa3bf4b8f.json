@@ -1,0 +1,11 @@
+{
+  "app": "畅捷通T-Plus",
+  "reason": "",
+  "seo": "畅捷通T-Plus,SQL注入,ajaxpro,Ufida,漏洞检测",
+  "seo_en": "Ufida T-Plus,SQL injection,ajaxpro,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测畅捷通T-Plus系统的ajaxpro Ufida组件是否存在SQL注入漏洞，通过发送特定构造的请求并匹配响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the ajaxpro Ufida component of Ufida T-Plus system. It sends specially crafted requests and matches the response content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999568,
+  "uuid": "262ed44c-e720-435d-98e6-a1efa3bf4b8f"
+}

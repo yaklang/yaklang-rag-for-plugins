@@ -1,0 +1,11 @@
+{
+  "app": "Kubernetes",
+  "reason": "",
+  "seo": "Kubernetes,未授权访问,漏洞检测,指纹识别,Api Server",
+  "seo_en": "Kubernetes, unauthorized access, vulnerability detection, fingerprint identification, Api Server",
+  "success": true,
+  "summary": "该插件用于检测Kubernetes Api Server是否存在未授权访问漏洞，通过发送特定请求并分析响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in the Kubernetes Api Server, confirming the existence of vulnerabilities by sending specific requests and analyzing responses.",
+  "updated_at": 1742999596,
+  "uuid": "8343e1ea-ac68-475e-896a-9f3ec6534d05"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "SuiteCRM",
+  "reason": "",
+  "seo": "SuiteCRM,SQL注入漏洞,响应入口点,漏洞检测",
+  "seo_en": "SuiteCRM,SQL injection vulnerability,response entry point,vulnerability detection",
+  "success": true,
+  "summary": "检测SuiteCRM的responseEntryPoint是否存在SQL注入漏洞，通过发送特定构造的HTTP请求并测量响应时间来判断是否存在漏洞。",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in SuiteCRM's responseEntryPoint by sending a specially crafted HTTP request and measuring the response time.",
+  "updated_at": 1742999572,
+  "uuid": "415ce71a-4e37-4a2b-89f1-d157979a761f"
+}

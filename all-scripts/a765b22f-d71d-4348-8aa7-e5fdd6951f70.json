@@ -1,0 +1,11 @@
+{
+  "app": "74cms",
+  "reason": "",
+  "seo": "74cms,sql注入,漏洞检测,ajax_street.php",
+  "seo_en": "74cms,SQL Injection,vulnerability detection,ajax_street.php",
+  "success": true,
+  "summary": "该插件用于检测74cms 3.2.0版本中通过key参数传递到plus/ajax_street.php的SQL注入漏洞。",
+  "summary_en": "This plugin is used to detect the SQL Injection vulnerability in 74cms 3.2.0 version via the key parameter to plus/ajax_street.php.",
+  "updated_at": 1742999587,
+  "uuid": "a765b22f-d71d-4348-8aa7-e5fdd6951f70"
+}

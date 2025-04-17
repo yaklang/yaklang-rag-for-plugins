@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "用友,SmartUpload,文件上传漏洞,学生表,成员",
+  "seo_en": "Yonyou,SmartUpload,file upload vulnerability,student table,members",
+  "success": true,
+  "summary": "该插件尝试检测用友GRP-U8系统的SmartUpload组件是否存在任意文件上传漏洞，通过构造恶意POST请求实现文件上传并验证漏洞存在性。",
+  "summary_en": "This plugin attempts to detect arbitrary file upload vulnerabilities in the SmartUpload component of Yonyou GRP-U8 system by constructing malicious POST requests to upload files and verify the existence of the vulnerability.",
+  "updated_at": 1742999582,
+  "uuid": "3795a1a5-2c28-46e6-87a6-9e66ff7652e4"
+}

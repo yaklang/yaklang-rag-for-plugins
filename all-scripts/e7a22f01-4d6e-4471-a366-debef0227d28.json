@@ -1,0 +1,11 @@
+{
+  "app": "Sonatype Nexus Repository",
+  "reason": "",
+  "seo": "CVE-2024-4956, Sonatype Nexus Repository, 本地文件读取, 路径遍历, 漏洞检测",
+  "seo_en": "CVE-2024-4956, Sonatype Nexus Repository, Local File Inclusion, Path Traversal, Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Sonatype Nexus Repository Manager 3是否存在CVE-2024-4956漏洞，该漏洞允许未经身份验证的攻击者通过路径遍历读取系统文件。",
+  "summary_en": "This plugin detects the CVE-2024-4956 vulnerability in Sonatype Nexus Repository Manager 3, which allows unauthenticated attackers to read system files via path traversal.",
+  "updated_at": 1742999575,
+  "uuid": "e7a22f01-4d6e-4471-a366-debef0227d28"
+}

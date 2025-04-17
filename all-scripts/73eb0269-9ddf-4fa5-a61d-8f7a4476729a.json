@@ -1,0 +1,11 @@
+{
+  "app": "Phpmyadmin",
+  "reason": "",
+  "seo": "CVE-2018-12613,Phpmyadmin,远程文件包含漏洞,漏洞检测,指纹识别",
+  "seo_en": "CVE-2018-12613,Phpmyadmin,Remote File Inclusion,Vulnerability Detection,Fingerprint Identification",
+  "success": true,
+  "summary": "该插件用于检测 Phpmyadmin 中的 CVE-2018-12613 远程文件包含漏洞，同时进行指纹识别以确认目标系统是否为 Phpmyadmin。",
+  "summary_en": "This plugin is used to detect the CVE-2018-12613 Remote File Inclusion vulnerability in Phpmyadmin and perform fingerprint identification to confirm whether the target system is Phpmyadmin.",
+  "updated_at": 1742999596,
+  "uuid": "73eb0269-9ddf-4fa5-a61d-8f7a4476729a"
+}

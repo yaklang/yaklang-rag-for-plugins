@@ -1,0 +1,11 @@
+{
+  "app": "TerraMaster TOS",
+  "reason": "",
+  "seo": "TerraMaster TOS,远程代码执行漏洞,RCE,漏洞检测",
+  "seo_en": "TerraMaster TOS,RCE,vulnerability detection,remote code execution",
+  "success": true,
+  "summary": "检测TerraMaster TOS系统是否存在通过Event参数注入OS命令的远程代码执行漏洞",
+  "summary_en": "Detect Remote Code Execution (RCE) vulnerability in TerraMaster TOS that allows unauthenticated attackers to inject OS commands via the Event parameter",
+  "updated_at": 1742999590,
+  "uuid": "e77b39e6-9fb6-4072-9873-4846272e7edf"
+}

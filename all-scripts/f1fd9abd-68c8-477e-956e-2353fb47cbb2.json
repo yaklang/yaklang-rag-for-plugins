@@ -1,0 +1,11 @@
+{
+  "app": "泛微-OA（e-cology）",
+  "reason": "",
+  "seo": "泛微OA,sql注入漏洞,WorkflowServiceXml,e-cology",
+  "seo_en": "Weaver OA,SQL injection vulnerability,WorkflowServiceXml,e-cology",
+  "success": true,
+  "summary": "该插件用于检测泛微-OA（e-cology）系统中WorkflowServiceXml接口的SQL注入漏洞，通过发送特定的POST请求并匹配返回结果来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect the SQL injection vulnerability in the WorkflowServiceXml interface of the Weaver OA (e-cology) system. It sends a specific POST request and matches the response to confirm the existence of the vulnerability.",
+  "updated_at": 1742999573,
+  "uuid": "f1fd9abd-68c8-477e-956e-2353fb47cbb2"
+}

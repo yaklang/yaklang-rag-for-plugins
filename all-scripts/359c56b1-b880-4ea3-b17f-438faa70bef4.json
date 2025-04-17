@@ -1,0 +1,11 @@
+{
+  "app": "泛微 OA e-cology",
+  "reason": "",
+  "seo": "泛微 OA,SQL 注入漏洞,FileDownloadForOutDoc,前台漏洞",
+  "seo_en": "Weaver OA,SQL Injection Vulnerability,FileDownloadForOutDoc,Frontend Vulnerability",
+  "success": true,
+  "summary": "检测泛微 OA e-cology 系统中 FileDownloadForOutDoc 功能的前台 SQL 注入漏洞，通过构造特定请求判断是否存在延迟注入风险。",
+  "summary_en": "Detect the front-end SQL injection vulnerability in the FileDownloadForOutDoc function of the Weaver OA e-cology system by constructing specific requests to determine if there is a delay injection risk.",
+  "updated_at": 1742999583,
+  "uuid": "359c56b1-b880-4ea3-b17f-438faa70bef4"
+}

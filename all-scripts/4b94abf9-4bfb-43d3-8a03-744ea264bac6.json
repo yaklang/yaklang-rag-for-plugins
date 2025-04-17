@@ -1,0 +1,11 @@
+{
+  "app": "致远互联系统",
+  "reason": "",
+  "seo": "seeyon,ajax,未授权访问漏洞,致远互联",
+  "seo_en": "seeyon,ajax,unauthorized access vulnerability",
+  "success": true,
+  "summary": "该插件用于检测致远互联系统的两个Ajax接口是否存在未授权访问漏洞，通过发送特定请求并检查响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether two Ajax interfaces of the Seeyon system have unauthorized access vulnerabilities by sending specific requests and checking the response content to confirm the existence of vulnerabilities.",
+  "updated_at": 1742999591,
+  "uuid": "4b94abf9-4bfb-43d3-8a03-744ea264bac6"
+}

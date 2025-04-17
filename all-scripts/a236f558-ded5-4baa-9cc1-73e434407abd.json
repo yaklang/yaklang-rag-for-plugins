@@ -1,0 +1,11 @@
+{
+  "app": "Paessler PRTG Network Monitor",
+  "reason": "",
+  "seo": "Paessler PRTG Network Monitor,信息泄漏漏洞,网络监控管理软件",
+  "seo_en": "Paessler PRTG Network Monitor, Information Leakage Vulnerability, Network Monitoring Software",
+  "success": true,
+  "summary": "检测Paessler PRTG Network Monitor是否存在信息泄漏漏洞，远程攻击者可利用该漏洞获取服务器的敏感信息（如CPU使用率、内存、Windows版本等）",
+  "summary_en": "Detect whether there is an information leakage vulnerability in Paessler PRTG Network Monitor. Remote attackers can exploit this vulnerability to obtain sensitive information of the server (such as CPU usage, memory, Windows version, etc).",
+  "updated_at": 1742999587,
+  "uuid": "a236f558-ded5-4baa-9cc1-73e434407abd"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "ClusterControl",
+  "reason": "",
+  "seo": "ClusterControl,任意文件读取漏洞,高危漏洞",
+  "seo_en": "ClusterControl,Arbitrary File Read Vulnerability,High-risk Vulnerability",
+  "success": true,
+  "summary": "检测ClusterControl应用是否存在任意文件读取漏洞，通过尝试读取私钥文件判断漏洞是否存在",
+  "summary_en": "Detect whether the ClusterControl application has an arbitrary file read vulnerability by attempting to read the private key file to determine if the vulnerability exists",
+  "updated_at": 1742999570,
+  "uuid": "a8cde95a-ea04-4b86-ac68-629b632ec580"
+}

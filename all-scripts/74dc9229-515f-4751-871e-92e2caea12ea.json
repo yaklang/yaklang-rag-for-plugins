@@ -1,0 +1,11 @@
+{
+  "app": "Panabit-Panalog",
+  "reason": "",
+  "seo": "panabit日志审计系统,SQL注入漏洞,sprog_upstatus",
+  "seo_en": "panabit log audit system,SQL injection vulnerability,sprog_upstatus",
+  "success": true,
+  "summary": "检测panabit日志审计系统sprog_upstatus是否存在SQL注入漏洞",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in the sprog_upstatus of the panabit log audit system",
+  "updated_at": 1742999570,
+  "uuid": "74dc9229-515f-4751-871e-92e2caea12ea"
+}

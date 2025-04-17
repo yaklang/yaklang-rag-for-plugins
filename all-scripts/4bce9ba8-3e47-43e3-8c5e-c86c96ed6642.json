@@ -1,0 +1,11 @@
+{
+  "app": "Apache Druid",
+  "reason": "",
+  "seo": "apachedruid信息泄露漏洞,CVE-2021-36749,信息泄露,漏洞检测",
+  "seo_en": "Apache Druid information leakage vulnerability,CVE-2021-36749,vulnerability detection,information leakage",
+  "success": true,
+  "summary": "该插件用于检测Apache Druid是否存在信息泄露漏洞（CVE-2021-36749），通过构造特定请求检查是否可以读取系统文件。",
+  "summary_en": "This plugin is used to detect whether there is an information leakage vulnerability (CVE-2021-36749) in Apache Druid by constructing specific requests to check if system files can be read.",
+  "updated_at": 1742999569,
+  "uuid": "4bce9ba8-3e47-43e3-8c5e-c86c96ed6642"
+}

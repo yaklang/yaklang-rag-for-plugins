@@ -1,0 +1,11 @@
+{
+  "app": "Ambari",
+  "reason": "",
+  "seo": "Ambari,默认密码,漏洞检测,弱口令",
+  "seo_en": "Ambari,default password,vulnerability detection,weak password",
+  "success": true,
+  "summary": "该插件用于检测Ambari系统是否存在使用默认密码的漏洞，通过发送特定请求并验证响应来确认是否为弱口令配置。",
+  "summary_en": "This plugin is used to detect whether the Ambari system has the vulnerability of using default passwords. It confirms whether it is a weak password configuration by sending specific requests and verifying the response.",
+  "updated_at": 1742999599,
+  "uuid": "bdac958a-da64-4833-933c-6b15151d3037"
+}

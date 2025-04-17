@@ -1,0 +1,11 @@
+{
+  "app": "vsftpd",
+  "reason": "",
+  "seo": "vsftpd,后门检查,端口扫描,漏洞检测",
+  "seo_en": "vsftpd,backdoor check,port scan,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检查 vsftpd 服务是否存在 6200 端口后门问题，确保服务安全性。",
+  "summary_en": "This plugin is used to check if the vsftpd service has a backdoor issue on port 6200, ensuring service security.",
+  "updated_at": 1742999602,
+  "uuid": "f68d78f8-9008-413e-99f0-b32cf0da93be"
+}

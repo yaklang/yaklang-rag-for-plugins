@@ -1,0 +1,11 @@
+{
+  "app": "hipcam",
+  "reason": "",
+  "seo": "hipcam,默认口令漏洞,摄像头漏洞,高危漏洞",
+  "seo_en": "hipcam,default credential vulnerability,camera vulnerability,high-risk vulnerability",
+  "success": true,
+  "summary": "该插件用于检测hipcam摄像头是否存在默认用户名和密码的漏洞，可能泄露厂商、产品和固件信息。",
+  "summary_en": "This plugin is used to detect whether the hipcam camera has the vulnerability of default username and password, which may leak manufacturer, product, and firmware information.",
+  "updated_at": 1742999585,
+  "uuid": "5d881169-278d-409e-ac95-e6b97a4284e5"
+}

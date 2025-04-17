@@ -1,0 +1,11 @@
+{
+  "app": "nagio",
+  "reason": "",
+  "seo": "nagio,sql注入漏洞检测,CVE-2018-10735,CVE-2018-10736,CVE-2018-10737,CVE-2018-10738",
+  "seo_en": "nagio,SQL injection vulnerability detection,CVE-2018-10735,CVE-2018-10736,CVE-2018-10737,CVE-2018-10738",
+  "success": true,
+  "summary": "该插件用于检测nagio应用中的多个SQL注入漏洞，包括CVE-2018-10735、CVE-2018-10736、CVE-2018-10737和CVE-2018-10738。",
+  "summary_en": "This plugin is used to detect multiple SQL injection vulnerabilities in the nagio application, including CVE-2018-10735, CVE-2018-10736, CVE-2018-10737, and CVE-2018-10738.",
+  "updated_at": 1742999598,
+  "uuid": "0a8e6b21-7ff7-4c39-9880-26870bdaf891"
+}

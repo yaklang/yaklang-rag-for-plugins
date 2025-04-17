@@ -1,0 +1,11 @@
+{
+  "app": "红海云eHR",
+  "reason": "",
+  "seo": "红海云eHR,任意文件上传,漏洞检测,kgFile.mob",
+  "seo_en": "Redsea eHR, arbitrary file upload, vulnerability detection, kgFile.mob",
+  "success": true,
+  "summary": "检测红海云eHR系统的kgFile.mob模块是否存在任意文件上传漏洞，通过发送特定POST请求验证漏洞是否存在。",
+  "summary_en": "Detect whether the kgFile.mob module of Redsea eHR system has arbitrary file upload vulnerabilities by sending specific POST requests to verify the existence of vulnerabilities.",
+  "updated_at": 1742999571,
+  "uuid": "261a530c-6cfd-45c6-bc66-8d6eee933d29"
+}

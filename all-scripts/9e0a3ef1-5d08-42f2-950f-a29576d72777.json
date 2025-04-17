@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "修改HTTP请求,Header,URL关键字,前提条件",
+  "seo_en": "Modify HTTP request,Header,URL keyword,Prerequisite condition",
+  "success": true,
+  "summary": "该插件允许用户通过设置URL关键字作为前提条件，修改或增加HTTP请求的Header内容。",
+  "summary_en": "This plugin allows users to modify or add HTTP request headers by setting URL keywords as prerequisites.",
+  "updated_at": 1740805052,
+  "uuid": "9e0a3ef1-5d08-42f2-950f-a29576d72777"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "AI生成测试建议,Web Fuzzer,OWASP Top10漏洞,安全测试建议,参数名,参数类型",
+  "seo_en": "AI-generated testing suggestions, Web Fuzzer, OWASP Top 10 vulnerabilities, security testing recommendations, parameter names, parameter types",
+  "success": true,
+  "summary": "该插件通过AI分析HTTP Request，根据参数名和类型提供下一步安全测试建议，涵盖OWASP Top10漏洞及通用测试方法，帮助发现潜在漏洞。",
+  "summary_en": "This plugin uses AI to analyze HTTP Requests and provides next-step security testing recommendations based on parameter names and types, covering OWASP Top 10 vulnerabilities and general testing methods to help identify potential vulnerabilities.",
+  "updated_at": 1742999579,
+  "uuid": "b0db7ebf-7711-4a16-b5b4-6178814171c1"
+}

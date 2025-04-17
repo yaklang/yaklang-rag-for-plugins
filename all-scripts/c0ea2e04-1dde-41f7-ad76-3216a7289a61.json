@@ -1,0 +1,11 @@
+{
+  "app": "SpringCloudConfig",
+  "reason": "",
+  "seo": "SpringCloudConfig,目录遍历漏洞,CVE-2019-3799,检测,漏洞扫描",
+  "seo_en": "SpringCloudConfig,directory traversal vulnerability,CVE-2019-3799,detection,vulnerability scanning",
+  "success": true,
+  "summary": "该插件用于检测SpringCloudConfig服务器是否存在CVE-2019-3799目录遍历漏洞，通过发送特定payload验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the SpringCloudConfig server has the CVE-2019-3799 directory traversal vulnerability by sending specific payloads to verify the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "c0ea2e04-1dde-41f7-ad76-3216a7289a61"
+}

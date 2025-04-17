@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "EEA CNVD-2021-10543,漏洞检测,信息泄露,高危漏洞",
+  "seo_en": "EEA CNVD-2021-10543, vulnerability detection, information leakage, high-risk vulnerability",
+  "success": true,
+  "summary": "该插件用于检测EEA CNVD-2021-10543信息泄露漏洞，通过发送特定请求检查是否存在敏感信息泄露。",
+  "summary_en": "This plugin is used to detect the EEA CNVD-2021-10543 information leakage vulnerability by sending specific requests to check for exposure of sensitive information.",
+  "updated_at": 1742999597,
+  "uuid": "72b1f92d-100b-4b52-b222-22a2851617ce"
+}

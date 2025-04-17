@@ -1,0 +1,11 @@
+{
+  "app": "Next.js",
+  "reason": "",
+  "seo": "ZEIT Next.js,路径遍历漏洞,2.4.0版本,/_next",
+  "seo_en": "ZEIT Next.js,Path Traversal Vulnerability,2.4.0 version,/_next",
+  "success": true,
+  "summary": "检测ZEIT Next.js框架至2.4.0版本中是否存在/_next路径遍历漏洞，通过发送特定请求验证是否能读取到系统敏感文件（如/etc/passwd）。",
+  "summary_en": "Detect the path traversal vulnerability in ZEIT Next.js framework up to version 2.4.0 by sending specific requests to check if it can access system sensitive files (e.g., /etc/passwd).",
+  "updated_at": 1742999592,
+  "uuid": "a503c0c3-efd1-4cc0-b5d4-e57c8f81aa2b"
+}

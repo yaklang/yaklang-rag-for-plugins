@@ -1,0 +1,11 @@
+{
+  "app": "佳会视频会议系统",
+  "reason": "",
+  "seo": "佳会视频会议,任意文件下载,高危漏洞",
+  "seo_en": "Jiahui Video Conference, Arbitrary File Download, High Risk Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测佳会视频会议系统中是否存在任意文件下载漏洞，通过尝试访问特定路径来判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect whether the Jiahui Video Conference system has an arbitrary file download vulnerability by attempting to access a specific path to determine if there is a vulnerability.",
+  "updated_at": 1742999579,
+  "uuid": "6f1e0eb3-234c-4204-b6bb-4119e4c9df0d"
+}

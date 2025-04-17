@@ -1,0 +1,11 @@
+{
+  "app": "大华-智能物联综合管理平台",
+  "reason": "",
+  "seo": "大华,智能物联,信息泄露,漏洞检测",
+  "seo_en": "Dahua,Smart IoT,Information Leakage,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测大华-智能物联综合管理平台是否存在信息泄露漏洞，特别是/evo-apigw/evo-face/personInfo/page接口的敏感数据泄露问题。",
+  "summary_en": "This plugin is used to detect whether the Dahua Smart IoT Integrated Management Platform has information leakage vulnerabilities, especially the sensitive data leakage issue of the /evo-apigw/evo-face/personInfo/page API.",
+  "updated_at": 1742999581,
+  "uuid": "bc26eb95-d73a-4f20-9424-b64e6f2a7800"
+}

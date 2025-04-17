@@ -1,0 +1,11 @@
+{
+  "app": "Prometheus",
+  "reason": "",
+  "seo": "Prometheus,开放式跳转漏洞,CVE-2021-29622",
+  "seo_en": "Prometheus,Open Redirect Vulnerability,CVE-2021-29622",
+  "success": true,
+  "summary": "检测Prometheus是否存在CVE-2021-29622开放式跳转漏洞，通过发送特定请求判断是否可以实现跳转。",
+  "summary_en": "Detect whether Prometheus has CVE-2021-29622 open redirect vulnerability by sending specific requests to determine if redirection is possible.",
+  "updated_at": 1742999592,
+  "uuid": "7dde265a-dcc7-4c4c-9cdf-6bed7ff871db"
+}

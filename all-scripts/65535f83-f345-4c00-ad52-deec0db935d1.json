@@ -1,0 +1,11 @@
+{
+  "app": "qibocms",
+  "reason": "",
+  "seo": "qibocms,sql注入漏洞,在线检测,漏洞插件",
+  "seo_en": "qibocms,SQL injection vulnerability,online detection,vulnerability plugin",
+  "success": true,
+  "summary": "该插件用于检测qibocms系统是否存在SQL注入漏洞，通过构造特定的URL请求并检查响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the qibocms system has SQL injection vulnerabilities by constructing specific URL requests and checking the response content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999591,
+  "uuid": "65535f83-f345-4c00-ad52-deec0db935d1"
+}

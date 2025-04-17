@@ -1,0 +1,11 @@
+{
+  "app": "Exchange",
+  "reason": "",
+  "seo": "Exchange,漏洞检测,CVE-2021-26855,CVE-2021-41349,批量检测",
+  "seo_en": "Exchange, vulnerability detection, CVE-2021-26855, CVE-2021-41349, batch detection",
+  "success": true,
+  "summary": "该插件用于批量检测 Exchange 系统中的 CVE-2021-26855 和 CVE-2021-41349 漏洞，分别涉及 SSRF 和 XSS 风险。",
+  "summary_en": "This plugin is used for batch detection of CVE-2021-26855 and CVE-2021-41349 vulnerabilities in the Exchange system, involving SSRF and XSS risks respectively.",
+  "updated_at": 1742999597,
+  "uuid": "63da1a4f-fbe0-431e-b645-7b4e01f0f5bf"
+}

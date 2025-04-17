@@ -1,0 +1,11 @@
+{
+  "app": "大唐AC",
+  "reason": "",
+  "seo": "大唐AC,默认密码,漏洞检测,CNVD-2021-04128,弱口令",
+  "seo_en": "Datang AC,default password,vulnerability detection,CNVD-2021-04128,weak password",
+  "success": true,
+  "summary": "该插件用于检测大唐AC设备是否存在CNVD-2021-04128漏洞，即默认弱口令问题（用户名：admin，密码：123456）",
+  "summary_en": "This plugin is used to detect whether the Datang AC device has the CNVD-2021-04128 vulnerability, which is the issue of default weak password (username: admin, password: 123456)",
+  "updated_at": 1742999597,
+  "uuid": "dcb58b63-ad1c-4615-be49-1dbff0a713da"
+}

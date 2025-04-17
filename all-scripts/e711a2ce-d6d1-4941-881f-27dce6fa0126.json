@@ -1,0 +1,11 @@
+{
+  "app": "Keycloak",
+  "reason": "",
+  "seo": "Keycloak,SSRF漏洞,CVE-2020-10770,红帽公司,身份验证",
+  "seo_en": "Keycloak,SSRF vulnerability,CVE-2020-10770,Red Hat,authentication",
+  "success": true,
+  "summary": "该插件用于检测Keycloak应用中的request_uri SSRF漏洞（CVE-2020-10770），通过构造特定请求验证是否存在漏洞并返回相关信息。",
+  "summary_en": "This plugin is used to detect the request_uri SSRF vulnerability (CVE-2020-10770) in Keycloak applications. It constructs specific requests to verify the existence of the vulnerability and returns related information.",
+  "updated_at": 1742999587,
+  "uuid": "e711a2ce-d6d1-4941-881f-27dce6fa0126"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Sapido路由器",
+  "reason": "",
+  "seo": "Sapido,路由器,CVE-2019-19823,命令执行漏洞",
+  "seo_en": "Sapido,Router,CVE-2019-19823,Command Execution Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Sapido路由器存在的CVE-2019-19823命令执行漏洞，攻击者可通过未授权访问执行任意命令",
+  "summary_en": "This plugin is used to detect the CVE-2019-19823 command execution vulnerability in Sapido routers, allowing attackers to execute arbitrary commands through unauthorized access",
+  "updated_at": 1742999588,
+  "uuid": "7d1b59bf-daf7-4483-a83e-770c2ab700ff"
+}

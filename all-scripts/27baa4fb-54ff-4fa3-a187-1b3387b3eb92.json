@@ -1,0 +1,11 @@
+{
+  "app": "ThinkPHP v6",
+  "reason": "",
+  "seo": "ThinkPHP,任意文件上传漏洞,漏洞检测,在线扫描",
+  "seo_en": "ThinkPHP,file upload vulnerability,vulnerability detection,online scan",
+  "success": true,
+  "summary": "该插件用于检测ThinkPHP v6是否存在任意文件上传漏洞，通过构造特定payload并发送请求，验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether ThinkPHP v6 has arbitrary file upload vulnerabilities by constructing specific payloads and sending requests to verify if the target system is affected.",
+  "updated_at": 1742999586,
+  "uuid": "27baa4fb-54ff-4fa3-a187-1b3387b3eb92"
+}

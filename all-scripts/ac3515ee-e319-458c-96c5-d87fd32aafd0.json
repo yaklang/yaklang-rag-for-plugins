@@ -1,0 +1,11 @@
+{
+  "app": "大华DSS系统",
+  "reason": "",
+  "seo": "大华DSS,远程命令执行漏洞,RCE,综合安防监控管理平台",
+  "seo_en": "Dahua DSS, Remote Command Execution Vulnerability, RCE, Surveillance System",
+  "success": true,
+  "summary": "该插件用于检测大华DSS Digital Surveillance System系统的login_login.action是否存在远程命令执行漏洞，可能允许攻击者通过该漏洞执行恶意命令导致服务器失陷。",
+  "summary_en": "This plugin is used to detect whether the login_login.action of Dahua DSS Digital Surveillance System has a remote command execution vulnerability, which may allow attackers to execute malicious commands through this vulnerability, leading to server compromise.",
+  "updated_at": 1742999580,
+  "uuid": "ac3515ee-e319-458c-96c5-d87fd32aafd0"
+}

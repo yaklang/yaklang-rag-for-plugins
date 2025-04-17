@@ -1,0 +1,11 @@
+{
+  "app": "富通天下-外贸ERP",
+  "reason": "",
+  "seo": "富通天下,外贸ERP,任意文件上传,漏洞检测",
+  "seo_en": "Futong ERP, foreign trade ERP, arbitrary file upload, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测富通天下-外贸ERP系统中的任意文件上传漏洞，通过构造特定请求验证是否存在该漏洞。",
+  "summary_en": "This plugin is used to detect arbitrary file upload vulnerabilities in the Futong foreign trade ERP system by constructing specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999580,
+  "uuid": "a2608f11-912a-4da9-a4e1-10390d97ec01"
+}

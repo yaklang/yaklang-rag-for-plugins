@@ -1,0 +1,11 @@
+{
+  "app": "Apache OFBiz",
+  "reason": "",
+  "seo": "Apache OFBiz,命令执行漏洞,RCE,安全漏洞,ERP系统",
+  "seo_en": "Apache OFBiz,RCE,Command Execution Vulnerability,Security Flaw,ERP System",
+  "success": true,
+  "summary": "该插件用于检测Apache OFBiz系统中存在的远程命令执行漏洞，攻击者可能利用此漏洞在未经身份验证的情况下执行任意代码。",
+  "summary_en": "This plugin is used to detect a remote command execution vulnerability in the Apache OFBiz system. Attackers may exploit this vulnerability to execute arbitrary code without authentication.",
+  "updated_at": 1742999569,
+  "uuid": "7a302808-535d-48e3-b8fa-2e8789cebd4f"
+}

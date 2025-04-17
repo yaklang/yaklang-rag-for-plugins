@@ -1,0 +1,11 @@
+{
+  "app": "joomla",
+  "reason": "",
+  "seo": "CVE-2023-23752, joomla, 漏洞检测, 应用配置, 信息泄露",
+  "seo_en": "CVE-2023-23752, joomla, vulnerability detection, application configuration, information leakage",
+  "success": true,
+  "summary": "该插件旨在检测Joomla应用是否存在通过特定API路径泄露敏感信息（如密码和属性）的漏洞，主要检查HTTP响应是否包含相关关键字及状态码200。",
+  "summary_en": "This plugin is designed to detect whether the Joomla application has vulnerabilities that expose sensitive information (such as passwords and attributes) via a specific API path, mainly checking if the HTTP response contains relevant keywords and status code 200.",
+  "updated_at": 1742999586,
+  "uuid": "6cd04e62-701c-4f05-b4fa-70e507c64250"
+}

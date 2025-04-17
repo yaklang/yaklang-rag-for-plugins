@@ -1,0 +1,11 @@
+{
+  "app": "校园(安校易)管理系统",
+  "reason": "",
+  "seo": "校园,安校易,管理系统,任意文件上传漏洞",
+  "seo_en": "Campus, Safety School Easy, Management System, Arbitrary File Upload Vulnerability",
+  "success": true,
+  "summary": "检测校园(安校易)管理系统是否存在任意文件上传漏洞，该漏洞可能导致未经授权的文件上传和潜在的安全风险。",
+  "summary_en": "Detect whether the Campus (Safety School Easy) Management System has an arbitrary file upload vulnerability, which may lead to unauthorized file uploads and potential security risks.",
+  "updated_at": 1742999579,
+  "uuid": "b3f1b0a1-23a9-4774-b845-d73c41bc8c6e"
+}

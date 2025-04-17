@@ -1,0 +1,11 @@
+{
+  "app": "联软安渡 UniNXG 安全数据交换系统",
+  "reason": "",
+  "seo": "联软安渡,UniNXG,SQL注入漏洞,安全数据交换系统",
+  "seo_en": "Uniasoft UniNXG,SQL injection vulnerability,secure data exchange system",
+  "success": true,
+  "summary": "检测联软安渡 UniNXG 安全数据交换系统是否存在SQL注入漏洞，通过发送特定请求并测量响应时间判断漏洞是否存在。",
+  "summary_en": "Detect whether the Uniasoft UniNXG secure data exchange system has SQL injection vulnerabilities by sending specific requests and measuring response time to determine if the vulnerability exists.",
+  "updated_at": 1742999571,
+  "uuid": "1c9654cc-208f-4114-b9eb-a00875e51fe0"
+}

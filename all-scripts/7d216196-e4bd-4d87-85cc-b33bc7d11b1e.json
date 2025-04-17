@@ -1,0 +1,11 @@
+{
+  "app": "Windows",
+  "reason": "",
+  "seo": "提权补丁对比,Windows系统,漏洞检测,补丁信息",
+  "seo_en": "Privilege escalation patch comparison,Windows system,vulnerability detection,patch information",
+  "success": true,
+  "summary": "该插件用于对比Windows系统的提权补丁信息，检测是否存在未安装的安全更新，并输出相关漏洞详情。",
+  "summary_en": "This plugin is used to compare privilege escalation patches for Windows systems, detect missing security updates, and output relevant vulnerability details.",
+  "updated_at": 1742999592,
+  "uuid": "7d216196-e4bd-4d87-85cc-b33bc7d11b1e"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "赛蓝企业管理系统",
+  "reason": "",
+  "seo": "赛蓝企业管理系统,任意账号登录漏洞,高危漏洞,系统漏洞",
+  "seo_en": "Sailan Enterprise Management System, arbitrary account login vulnerability, high-risk vulnerability, system vulnerability",
+  "success": true,
+  "summary": "检测赛蓝企业管理系统是否存在任意账号登录漏洞，通过构造特定请求验证是否能够成功登录并获取基础资料页面。",
+  "summary_en": "Detect whether the Sailan Enterprise Management System has an arbitrary account login vulnerability by constructing a specific request to verify if successful login and access to the basic information page is possible.",
+  "updated_at": 1742999570,
+  "uuid": "236813c8-6d9d-4d27-b0a6-ac584b4ed6d1"
+}

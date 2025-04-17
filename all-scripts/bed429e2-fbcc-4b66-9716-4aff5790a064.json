@@ -1,0 +1,11 @@
+{
+  "app": "用友U8-Cloud",
+  "reason": "",
+  "seo": "用友U8-Cloud,XXE漏洞,接口安全,XChangServlet,漏洞检测",
+  "seo_en": "Yonyou U8-Cloud,XXE vulnerability,interface security,XChangServlet,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测用友U8-Cloud系统的XChangServlet接口是否存在XXE漏洞，通过构造特定的XML请求并结合DNSLog验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the XChangServlet interface of Yonyou U8-Cloud system has XXE vulnerability by constructing specific XML requests and combining DNSLog to verify the existence of the vulnerability.",
+  "updated_at": 1742999575,
+  "uuid": "bed429e2-fbcc-4b66-9716-4aff5790a064"
+}

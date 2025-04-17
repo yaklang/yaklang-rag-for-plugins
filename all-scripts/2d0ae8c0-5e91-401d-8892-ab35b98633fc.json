@@ -1,0 +1,11 @@
+{
+  "app": "Jenkins",
+  "reason": "",
+  "seo": "Jenkins,弱口令爆破,漏洞检测,密码破解",
+  "seo_en": "Jenkins,weak password cracking,vulnerability detection,password cracking",
+  "success": true,
+  "summary": "该插件用于检测Jenkins应用是否存在弱口令问题，通过尝试常见的用户名和密码组合进行爆破测试。",
+  "summary_en": "This plugin is used to detect whether there are weak passwords in Jenkins applications by performing brute-force tests with common username and password combinations.",
+  "updated_at": 1742999597,
+  "uuid": "2d0ae8c0-5e91-401d-8892-ab35b98633fc"
+}

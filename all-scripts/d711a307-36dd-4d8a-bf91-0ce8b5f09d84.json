@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "RSA2048,公钥私钥对生成,Codec插件",
+  "seo_en": "RSA2048,key pair generation,Codec plugin",
+  "success": true,
+  "summary": "生成RSA2048公钥和私钥对的插件，用于自定义编码解码和字符串处理",
+  "summary_en": "A plugin for generating RSA2048 public and private key pairs, used for custom encoding/decoding and string processing",
+  "updated_at": 1742999604,
+  "uuid": "d711a307-36dd-4d8a-bf91-0ce8b5f09d84"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,SQL注入漏洞,report_bi.func.php,高危漏洞",
+  "seo_en": "Tongda OA,SQL Injection Vulnerability,report_bi.func.php,Critical Vulnerability",
+  "success": true,
+  "summary": "检测通达OA v11.6版本中report_bi.func.php文件是否存在SQL注入漏洞，若存在则输出相关信息和风险等级。",
+  "summary_en": "Detect SQL injection vulnerabilities in the report_bi.func.php file of Tongda OA v11.6. If a vulnerability exists, output relevant information and risk level.",
+  "updated_at": 1742999601,
+  "uuid": "f3e7372e-e1b5-4760-88a6-7e235b06fe1c"
+}

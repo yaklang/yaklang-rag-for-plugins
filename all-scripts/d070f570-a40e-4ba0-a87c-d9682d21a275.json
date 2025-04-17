@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "插件,转换,JSON,POST参数",
+  "seo_en": "plugin,convert,JSON,POST parameters",
+  "success": true,
+  "summary": "该插件的核心意图是将POST请求中的参数转换为JSON格式，并修改HTTP包头的Content-Type为application/json，以适配需要JSON格式输入的应用或接口。",
+  "summary_en": "The core intention of this plugin is to convert POST request parameters into JSON format and modify the HTTP packet header's Content-Type to application/json, adapting it for applications or interfaces that require JSON input.",
+  "updated_at": 1742999583,
+  "uuid": "d070f570-a40e-4ba0-a87c-d9682d21a275"
+}

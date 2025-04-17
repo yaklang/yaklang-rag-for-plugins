@@ -1,0 +1,11 @@
+{
+  "app": "建文工程项目管理软件",
+  "reason": "",
+  "seo": "建文工程项目管理软件,SQL注入漏洞,BusinessManger,高危漏洞",
+  "seo_en": "Jianwen Engineering Project Management Software, SQL Injection Vulnerability, BusinessManger, High Risk Vulnerability",
+  "success": true,
+  "summary": "检测建文工程项目管理软件 BusinessManger 是否存在SQL注入漏洞，通过发送特定的POST请求并分析响应来确认漏洞是否存在。",
+  "summary_en": "Detect whether the Jianwen Engineering Project Management Software BusinessManger has SQL injection vulnerabilities by sending specific POST requests and analyzing responses to confirm the existence of vulnerabilities.",
+  "updated_at": 1742999571,
+  "uuid": "943bc42d-ffe8-4375-a735-eda97781901c"
+}

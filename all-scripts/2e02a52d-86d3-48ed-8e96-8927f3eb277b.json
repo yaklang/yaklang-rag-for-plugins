@@ -1,0 +1,11 @@
+{
+  "app": "广联达-Linkworks系统",
+  "reason": "",
+  "seo": "广联达,登录绕过,GetSSOStamp,漏洞检测",
+  "seo_en": "Guanlianda,bypass login,GetSSOStamp,vulnerability detection",
+  "success": true,
+  "summary": "该插件旨在检测广联达-Linkworks系统的登录绕过漏洞，通过发送特定的SOAP请求获取认证令牌，并尝试利用该令牌进行未授权访问。",
+  "summary_en": "This plugin is designed to detect the bypass login vulnerability in Guanlianda-Linkworks system by sending specific SOAP requests to obtain authentication tokens and attempting to exploit the token for unauthorized access.",
+  "updated_at": 1742999577,
+  "uuid": "2e02a52d-86d3-48ed-8e96-8927f3eb277b"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "蓝海卓越计费管理系统",
+  "reason": "",
+  "seo": "蓝海卓越,任意文件读取,漏洞检测,download.php,passwd",
+  "seo_en": "BlueOcean Excellent Billing Management System, arbitrary file read, vulnerability detection, download.php, passwd",
+  "success": true,
+  "summary": "该插件用于检测蓝海卓越计费管理系统的download.php文件是否存在任意文件读取漏洞，通过尝试读取/etc/passwd文件来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the download.php file in the BlueOcean Excellent Billing Management System has an arbitrary file read vulnerability, and verifies the existence of the vulnerability by attempting to read the /etc/passwd file.",
+  "updated_at": 1742999592,
+  "uuid": "d1b78d30-ea7e-4081-ba71-c01834452070"
+}

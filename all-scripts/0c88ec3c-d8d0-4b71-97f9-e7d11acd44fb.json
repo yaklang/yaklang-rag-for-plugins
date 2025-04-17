@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "求神拜佛,黄历,一命二运三风水,当日黄历查询",
+  "seo_en": "Pray for God,Buddhist calendar,Destiny,Feng Shui,Query daily calendar",
+  "success": true,
+  "summary": "查询当日黄历，提供一命二运三风水的相关信息",
+  "summary_en": "Query the daily Buddhist calendar and provide information related to destiny, luck, and feng shui",
+  "updated_at": 1742999595,
+  "uuid": "0c88ec3c-d8d0-4b71-97f9-e7d11acd44fb"
+}

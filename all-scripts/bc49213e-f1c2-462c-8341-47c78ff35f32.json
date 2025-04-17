@@ -1,0 +1,11 @@
+{
+  "app": "Apache Axis2",
+  "reason": "",
+  "seo": "Apache Axis2,HappyAxis.jsp,信息泄露漏洞,检测",
+  "seo_en": "Apache Axis2,Happiness Page,Information Disclosure Vulnerability,Detection",
+  "success": true,
+  "summary": "检测Apache Axis2是否存在HappyAxis.jsp页面导致的信息泄露漏洞，攻击者可能利用此漏洞获取敏感信息进行进一步攻击。",
+  "summary_en": "Detect whether there is an information disclosure vulnerability caused by the HappyAxis.jsp page in Apache Axis2. Attackers may exploit this vulnerability to obtain sensitive information for further attacks.",
+  "updated_at": 1742999604,
+  "uuid": "bc49213e-f1c2-462c-8341-47c78ff35f32"
+}

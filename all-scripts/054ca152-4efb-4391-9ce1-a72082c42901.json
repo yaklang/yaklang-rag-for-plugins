@@ -1,0 +1,11 @@
+{
+  "app": "金和OA",
+  "reason": "",
+  "seo": "金和OA,远程命令执行,漏洞检测",
+  "seo_en": "Jinhe OA,RCE,vulnerability detection",
+  "success": true,
+  "summary": "检测金和OA-jc6-portalwb-con-template-viewcontemplate是否存在远程命令执行漏洞",
+  "summary_en": "Detect remote command execution vulnerability in JinheOA-jc6-portalwb-con-template-viewcontemplate",
+  "updated_at": 1742999580,
+  "uuid": "054ca152-4efb-4391-9ce1-a72082c42901"
+}

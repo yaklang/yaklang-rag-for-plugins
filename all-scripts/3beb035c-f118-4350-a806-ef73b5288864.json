@@ -1,0 +1,11 @@
+{
+  "app": "SolarWinds Orion",
+  "reason": "",
+  "seo": "SolarWinds,远程代码执行漏洞,API身份验证绕过,网络管理软件",
+  "seo_en": "SolarWinds,Remote Code Execution Vulnerability,API Authentication Bypass,Network Management Software",
+  "success": true,
+  "summary": "该插件用于检测SolarWinds Orion API是否存在远程代码执行漏洞，攻击者可能通过构造恶意URI绕过API身份验证并利用该漏洞。",
+  "summary_en": "This plugin is used to detect whether the SolarWinds Orion API has a remote code execution vulnerability. Attackers may exploit this vulnerability by constructing malicious URIs to bypass API authentication.",
+  "updated_at": 1742999590,
+  "uuid": "3beb035c-f118-4350-a806-ef73b5288864"
+}

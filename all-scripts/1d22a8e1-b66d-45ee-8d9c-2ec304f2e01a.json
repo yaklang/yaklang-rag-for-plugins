@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "String.fromCharCode,解码,插件,自定义编码,字符串处理",
+  "seo_en": "String.fromCharCode, decoding, plugin, custom encoding, string processing",
+  "success": true,
+  "summary": "该插件用于自定义编码解码，特别是针对String.fromCharCode的解码功能，支持字符串处理和Bypass自定义。",
+  "summary_en": "This plugin is used for custom encoding and decoding, especially for String.fromCharCode decoding, supporting string processing and custom Bypass.",
+  "updated_at": 1742999598,
+  "uuid": "1d22a8e1-b66d-45ee-8d9c-2ec304f2e01a"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "用友时空KSOA软件",
+  "reason": "",
+  "seo": "用友时空KSOA,文件上传漏洞,插件,安全检测",
+  "seo_en": "Yonyou KSOA, file upload vulnerability, plugin, security detection",
+  "success": true,
+  "summary": "该插件用于检测用友时空KSOA软件是否存在前台文件上传漏洞，通过发送特定请求并分析响应结果来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Yonyou KSOA software has a front-end file upload vulnerability. It confirms the existence of the vulnerability by sending specific requests and analyzing the response results.",
+  "updated_at": 1742999597,
+  "uuid": "c075aa41-2608-45b6-97a5-733894aada06"
+}

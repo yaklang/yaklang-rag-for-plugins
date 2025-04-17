@@ -1,0 +1,11 @@
+{
+  "app": "FineCMS",
+  "reason": "",
+  "seo": "FineCMS,SQL注入漏洞,安全检测,漏洞扫描",
+  "seo_en": "FineCMS,SQL injection vulnerability,security detection,vulnerability scanning",
+  "success": true,
+  "summary": "该插件用于检测FineCMS系统是否存在SQL注入漏洞，通过发送特定payload并检查返回结果来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the FineCMS system by sending specific payloads and checking the response to confirm the existence of the vulnerability.",
+  "updated_at": 1742999597,
+  "uuid": "623f327b-fba4-4f3b-953b-0de3b9b9170a"
+}

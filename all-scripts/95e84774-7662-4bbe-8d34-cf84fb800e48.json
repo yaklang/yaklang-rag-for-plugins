@@ -1,0 +1,11 @@
+{
+  "app": "用友-NC-Cloud",
+  "reason": "",
+  "seo": "用友,NC-Cloud,远程代码执行漏洞,插件,检测",
+  "seo_en": "Yonyou,NC-Cloud,RCE,vulnerability,plugin,detection",
+  "success": true,
+  "summary": "该插件用于检测用友-NC-Cloud系统中的远程代码执行漏洞，通过上传webshell并执行命令来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect Remote Code Execution (RCE) vulnerabilities in Yonyou NC-Cloud systems by uploading a webshell and executing commands to verify the existence of the vulnerability.",
+  "updated_at": 1742999580,
+  "uuid": "95e84774-7662-4bbe-8d34-cf84fb800e48"
+}

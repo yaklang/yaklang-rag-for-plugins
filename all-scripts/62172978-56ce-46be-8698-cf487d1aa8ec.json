@@ -1,0 +1,11 @@
+{
+  "app": "用友时空KSOA系统",
+  "reason": "",
+  "seo": "用友时空KSOA,SQL注入漏洞,PrintZPYG.jsp",
+  "seo_en": "Yonyou KSOA,SQL injection vulnerability,PrintZPYG.jsp",
+  "success": true,
+  "summary": "检测用友时空KSOA系统的PrintZPYG.jsp接口是否存在SQL注入漏洞，该漏洞可能允许黑客执行任意SQL语句，包括查询数据、下载数据、写入webshell等。",
+  "summary_en": "Detect whether the PrintZPYG.jsp interface of Yonyou KSOA system has SQL injection vulnerability, which may allow hackers to execute arbitrary SQL statements, including querying data, downloading data, writing webshell, etc.",
+  "updated_at": 1742999570,
+  "uuid": "62172978-56ce-46be-8698-cf487d1aa8ec"
+}

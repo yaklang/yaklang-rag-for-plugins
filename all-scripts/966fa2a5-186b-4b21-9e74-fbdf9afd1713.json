@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "域名查询,Whois信息,域名信息查询",
+  "seo_en": "domain query,Whois information,domain information query",
+  "success": true,
+  "summary": "该插件用于查询域名的Whois信息，提取域名相关的注册和归属信息。",
+  "summary_en": "This plugin is used to query the Whois information of a domain, extracting registration and ownership information related to the domain.",
+  "updated_at": 1742999595,
+  "uuid": "966fa2a5-186b-4b21-9e74-fbdf9afd1713"
+}

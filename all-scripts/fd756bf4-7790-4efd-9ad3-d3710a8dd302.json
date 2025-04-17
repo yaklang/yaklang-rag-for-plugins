@@ -1,0 +1,11 @@
+{
+  "app": "Duomicms",
+  "reason": "",
+  "seo": "Duomicms,SQL注入漏洞,漏洞检测,安全测试",
+  "seo_en": "Duomicms,SQL Injection Vulnerability,Vulnerability Detection,Security Testing",
+  "success": true,
+  "summary": "该插件用于检测Duomicms系统中的SQL注入漏洞，通过发送特定的HTTP请求并分析响应来确认是否存在漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the Duomicms system by sending specific HTTP requests and analyzing the responses to confirm whether there are any vulnerabilities.",
+  "updated_at": 1742999598,
+  "uuid": "fd756bf4-7790-4efd-9ad3-d3710a8dd302"
+}

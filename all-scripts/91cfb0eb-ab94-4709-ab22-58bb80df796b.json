@@ -1,0 +1,11 @@
+{
+  "app": "Elasticsearch",
+  "reason": "",
+  "seo": "Elasticsearch,漏洞检测,CVE-2015-5531,目录遍历,文件读取",
+  "seo_en": "Elasticsearch,vulnerability detection,CVE-2015-5531,directory traversal,file read",
+  "success": true,
+  "summary": "该插件用于检测Elasticsearch \u003c1.6.1版本中是否存在CVE-2015-5531目录遍历与文件读取漏洞，通过创建仓库和快照来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect the CVE-2015-5531 directory traversal and file read vulnerability in Elasticsearch versions less than 1.6.1 by creating a repository and snapshot to verify the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "91cfb0eb-ab94-4709-ab22-58bb80df796b"
+}

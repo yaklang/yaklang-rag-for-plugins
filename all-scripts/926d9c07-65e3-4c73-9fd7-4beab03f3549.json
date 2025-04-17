@@ -1,0 +1,11 @@
+{
+  "app": "宏景HCM",
+  "reason": "",
+  "seo": "宏景HCM,SQL注入漏洞,showmedia.jsp",
+  "seo_en": "Hongjing HCM,SQL injection vulnerability,showmedia.jsp",
+  "success": true,
+  "summary": "检测宏景HCM showmedia.jsp是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in Hongjing HCM showmedia.jsp",
+  "updated_at": 1742999579,
+  "uuid": "926d9c07-65e3-4c73-9fd7-4beab03f3549"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "泛微emessage",
+  "reason": "",
+  "seo": "泛微,emessage,任意文件读取漏洞,高危",
+  "seo_en": "Weaver,eMessage,Arbitrary File Read Vulnerability,High Risk",
+  "success": true,
+  "summary": "该插件用于检测泛微emessage管理界面是否存在任意文件读取漏洞，通过发送特定请求检查是否可以读取敏感文件内容。",
+  "summary_en": "This plugin is used to detect whether the Weaver eMessage management interface has an arbitrary file read vulnerability by sending specific requests to check if sensitive file contents can be read.",
+  "updated_at": 1742999579,
+  "uuid": "70a1df62-aa32-4bdd-b611-7eb424000fd6"
+}

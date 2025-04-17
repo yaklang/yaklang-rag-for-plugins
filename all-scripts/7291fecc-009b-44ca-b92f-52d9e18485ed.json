@@ -1,0 +1,11 @@
+{
+  "app": "金蝶OA Apusic应用服务器(中间件)",
+  "reason": "",
+  "seo": "金蝶OA,Apusic应用服务器,目录遍历漏洞,文件读取漏洞",
+  "seo_en": "Kingdee OA,Apusic Application Server,Directory Traversal Vulnerability,File Read Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测金蝶OA Apusic应用服务器(中间件)是否存在目录遍历漏洞，攻击者可能通过此漏洞获取敏感文件信息",
+  "summary_en": "This plugin is used to detect whether the Kingdee OA Apusic Application Server (middleware) has a directory traversal vulnerability, which may allow attackers to obtain sensitive file information",
+  "updated_at": 1742999593,
+  "uuid": "7291fecc-009b-44ca-b92f-52d9e18485ed"
+}

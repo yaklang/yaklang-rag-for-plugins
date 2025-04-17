@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "插件,按行打乱,数据处理",
+  "seo_en": "plugin,shuffle by line,data processing",
+  "success": true,
+  "summary": "该插件用于按行打乱数据，适用于自定义编码解码和字符串处理函数的场景。",
+  "summary_en": "This plugin is used for shuffling data by line and is suitable for scenarios involving custom encoding/decoding and string processing functions.",
+  "updated_at": 1742999604,
+  "uuid": "b11a348e-d183-4034-a3d4-adc2ad2fe221"
+}

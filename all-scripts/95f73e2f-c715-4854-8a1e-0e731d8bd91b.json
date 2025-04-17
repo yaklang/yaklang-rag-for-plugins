@@ -1,0 +1,11 @@
+{
+  "app": "方正全媒体采编系统",
+  "reason": "",
+  "seo": "方正全媒体采编系统,SQL注入漏洞,binary.do",
+  "seo_en": "Founder Omnimedia Editing System,SQL Injection Vulnerability,binary.do",
+  "success": true,
+  "summary": "检测方正全媒体采编系统binary.do是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the binary.do of Founder Omnimedia Editing System",
+  "updated_at": 1742999579,
+  "uuid": "95f73e2f-c715-4854-8a1e-0e731d8bd91b"
+}

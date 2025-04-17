@@ -1,0 +1,11 @@
+{
+  "app": "Dahua",
+  "reason": "",
+  "seo": "大华,CVE-2021-33044,漏洞检测,未授权访问,认证绕过",
+  "seo_en": "Dahua,CVE-2021-33044,vulnerability detection,unauthorized access,authentication bypass",
+  "success": true,
+  "summary": "该插件用于检测Dahua设备的CVE-2021-33044漏洞，主要检查是否存在认证绕过和未授权访问问题。",
+  "summary_en": "This plugin is used to detect the CVE-2021-33044 vulnerability in Dahua devices, mainly checking for authentication bypass and unauthorized access issues.",
+  "updated_at": 1742999597,
+  "uuid": "63eaada7-d222-4ef0-a26b-262458b6742b"
+}

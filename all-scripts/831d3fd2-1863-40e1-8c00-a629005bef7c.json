@@ -1,0 +1,11 @@
+{
+  "app": "SpringBlade",
+  "reason": "",
+  "seo": "SpringBlade,SQL注入漏洞,菜单模块,高危漏洞",
+  "seo_en": "SpringBlade,SQL injection vulnerability,menu module,high-risk vulnerability",
+  "success": true,
+  "summary": "检测SpringBlade系统中菜单模块是否存在SQL注入漏洞，如果存在则输出相关信息",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in the menu module of the SpringBlade system, and output relevant information if it exists",
+  "updated_at": 1742999570,
+  "uuid": "831d3fd2-1863-40e1-8c00-a629005bef7c"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "绕过304缓存限制,缓存控制头,HTTP请求头删除",
+  "seo_en": "bypass 304 cache restriction,cache control header,HTTP request header deletion",
+  "success": true,
+  "summary": "该插件通过移除HTTP请求中的缓存控制头，绕过服务器返回的304未修改响应，强制获取最新的资源内容。",
+  "summary_en": "This plugin bypasses the server's 304 not modified response by removing cache control headers from HTTP requests, forcing the retrieval of the latest resource content.",
+  "updated_at": 1742999579,
+  "uuid": "68c22784-4fcf-4ed6-9bf7-f9a88ec31187"
+}

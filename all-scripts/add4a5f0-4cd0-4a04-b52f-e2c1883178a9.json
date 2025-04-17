@@ -1,0 +1,11 @@
+{
+  "app": "致远OA系统",
+  "reason": "",
+  "seo": "致远OA,任意文件读取,CNVD-2020-62422,漏洞检测",
+  "seo_en": "ZY OA,Arbitrary File Read,CNVD-2020-62422,Vulnerability Detection",
+  "success": true,
+  "summary": "检测致远OA系统是否存在任意文件读取漏洞（CNVD-2020-62422），通过构造特定请求判断是否可以成功读取敏感文件。",
+  "summary_en": "Detect whether the ZY OA system has an arbitrary file read vulnerability (CNVD-2020-62422) by constructing specific requests to determine if sensitive files can be successfully read.",
+  "updated_at": 1742999591,
+  "uuid": "add4a5f0-4cd0-4a04-b52f-e2c1883178a9"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "74cms",
+  "reason": "",
+  "seo": "74cms,漏洞检测,sql注入,组件检查模块",
+  "seo_en": "74cms, vulnerability detection, SQL injection, component check module",
+  "success": true,
+  "summary": "该插件针对74cms系统进行多个漏洞的检测，主要包括SQL注入漏洞，通过发送特定构造的HTTP请求来验证目标是否存在相关安全问题。",
+  "summary_en": "This plugin detects multiple vulnerabilities in the 74cms system, mainly focusing on SQL injection vulnerabilities. It verifies whether the target has related security issues by sending specially crafted HTTP requests.",
+  "updated_at": 1742999599,
+  "uuid": "bd0748e9-b13c-4b45-8f84-505639dd48d6"
+}

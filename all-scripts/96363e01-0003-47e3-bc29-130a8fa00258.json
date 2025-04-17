@@ -1,0 +1,11 @@
+{
+  "app": "世华安信",
+  "reason": "",
+  "seo": "世华安信,默认口令漏洞,高危,身份伪造,配置错误",
+  "seo_en": "Shihua Anxin,default credential vulnerability,high severity,identity forgery,misconfiguration",
+  "success": true,
+  "summary": "该插件旨在检测世华安信设备是否存在默认口令漏洞，通过发送特定请求验证默认用户名和密码是否为'admin'，并提取厂商、产品和固件信息。",
+  "summary_en": "This plugin is designed to detect whether Shihua Anxin devices have default credential vulnerabilities by sending specific requests to verify if the default username and password are 'admin', and it extracts vendor, product, and firmware information.",
+  "updated_at": 1742999585,
+  "uuid": "96363e01-0003-47e3-bc29-130a8fa00258"
+}

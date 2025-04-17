@@ -1,0 +1,11 @@
+{
+  "app": "Geoserver",
+  "reason": "",
+  "seo": "Geoserver,CVE-2024-36401,漏洞检测,远程代码执行",
+  "seo_en": "Geoserver,CVE-2024-36401,vulnerability detection,remote code execution",
+  "success": true,
+  "summary": "该插件用于检测Geoserver是否存在CVE-2024-36401漏洞，该漏洞可能导致远程代码执行。",
+  "summary_en": "This plugin is used to detect whether Geoserver has the CVE-2024-36401 vulnerability, which may lead to remote code execution.",
+  "updated_at": 1742999575,
+  "uuid": "a85356ed-e0d6-443c-bf22-2e755f501c0d"
+}

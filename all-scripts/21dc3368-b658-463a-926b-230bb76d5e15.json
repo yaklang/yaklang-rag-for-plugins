@@ -1,0 +1,11 @@
+{
+  "app": "wuzhicms",
+  "reason": "",
+  "seo": "wuzhicms,sql注入漏洞,漏洞检测,安全测试",
+  "seo_en": "wuzhicms,SQL injection vulnerability,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测wuzhicms v410是否存在SQL注入漏洞，通过发送特定的POC请求并分析响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an SQL injection vulnerability in wuzhicms v410. It confirms the existence of the vulnerability by sending specific POC requests and analyzing the response content.",
+  "updated_at": 1742999589,
+  "uuid": "21dc3368-b658-463a-926b-230bb76d5e15"
+}

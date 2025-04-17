@@ -1,0 +1,11 @@
+{
+  "app": "深信服EDR",
+  "reason": "",
+  "seo": "深信服EDR,任意管理员登录漏洞,漏洞检测,网络安全",
+  "seo_en": "Sangfor EDR, arbitrary admin login vulnerability, vulnerability detection, network security",
+  "success": true,
+  "summary": "该插件用于检测深信服EDR系统中的任意管理员登录漏洞，通过发送特定请求判断是否存在漏洞并返回相关信息。",
+  "summary_en": "This plugin is used to detect the arbitrary admin login vulnerability in Sangfor EDR system. It sends specific requests to determine if the vulnerability exists and returns related information.",
+  "updated_at": 1742999591,
+  "uuid": "a181db07-5f1b-412c-9545-df755c0e5ae8"
+}

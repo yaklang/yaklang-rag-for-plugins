@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "tmp-2urBZ4bPDimhKA182D9zYslvWuA,风险检测,插件",
+  "seo_en": "tmp-2urBZ4bPDimhKA182D9zYslvWuA,risk detection,plugin",
+  "success": true,
+  "summary": "该插件可能用于检测与特定风险相关的漏洞，但具体应用和功能不明确。",
+  "summary_en": "This plugin may be used for detecting vulnerabilities related to specific risks, but the exact application and functionality are unclear.",
+  "updated_at": 1742996864,
+  "uuid": "ed6cff52-15ec-46f7-9c88-5dfc2978f239"
+}

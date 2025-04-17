@@ -1,0 +1,11 @@
+{
+  "app": "WAVLINK WN535K2和WN535K3",
+  "reason": "",
+  "seo": "wavlink, wl-wn535k2_firmware, os命令注入, 漏洞检测",
+  "seo_en": "wavlink, wl-wn535k2_firmware, os command injection, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测WAVLINK WN535K2和WN535K3设备中的OS命令注入漏洞，通过向/cgi-bin/nightled.cgi发送特定POST请求，验证是否存在漏洞。",
+  "summary_en": "This plugin is used to detect OS command injection vulnerabilities in WAVLINK WN535K2 and WN535K3 devices by sending a specific POST request to /cgi-bin/nightled.cgi to verify the existence of the vulnerability.",
+  "updated_at": 1742999586,
+  "uuid": "165d7238-7eeb-4970-aed1-15e6e41990e8"
+}

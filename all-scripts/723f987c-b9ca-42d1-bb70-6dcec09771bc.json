@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "验证步骤跳过,插件,漏洞检测,业务逻辑漏洞",
+  "seo_en": "Verification step skip,plugin,vulnerability detection,business logic flaw",
+  "success": true,
+  "summary": "该插件用于检测系统中是否存在验证步骤跳过的漏洞，通过模拟未完成前几步验证直接进入后续步骤的情况来发现潜在风险。",
+  "summary_en": "This plugin is used to detect whether there are vulnerabilities in the system where verification steps can be skipped. It simulates entering subsequent steps without completing the previous verification steps to discover potential risks.",
+  "updated_at": 1742999586,
+  "uuid": "723f987c-b9ca-42d1-bb70-6dcec09771bc"
+}

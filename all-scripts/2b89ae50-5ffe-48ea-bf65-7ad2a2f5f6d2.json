@@ -1,0 +1,11 @@
+{
+  "app": "Redis",
+  "reason": "",
+  "seo": "Redis,未授权访问,弱口令,安全检测,漏洞利用",
+  "seo_en": "Redis, unauthorized access, weak password, security detection, vulnerability exploitation",
+  "success": true,
+  "summary": "该插件用于检测Redis是否存在未授权访问漏洞，并尝试通过写入公钥或Crontab任务进行利用，同时支持密码认证场景。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in Redis and attempts to exploit it by writing a public key or Crontab task, while supporting password authentication scenarios.",
+  "updated_at": 1742999604,
+  "uuid": "2b89ae50-5ffe-48ea-bf65-7ad2a2f5f6d2"
+}

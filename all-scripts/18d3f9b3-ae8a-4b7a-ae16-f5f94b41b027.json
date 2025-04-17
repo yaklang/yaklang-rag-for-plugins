@@ -1,0 +1,11 @@
+{
+  "app": "泛微E-cology",
+  "reason": "",
+  "seo": "泛微E-cology,SQL注入漏洞,ShowDocsImageServlet,高危漏洞",
+  "seo_en": "Weaver E-cology,SQL Injection Vulnerability,ShowDocsImageServlet,High Risk Vulnerability",
+  "success": true,
+  "summary": "检测泛微E-cology 8的ShowDocsImageServlet是否存在SQL注入漏洞，通过构造特定请求并检测响应延迟来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the ShowDocsImageServlet of Weaver E-cology 8 by constructing specific requests and checking response delays.",
+  "updated_at": 1742999579,
+  "uuid": "18d3f9b3-ae8a-4b7a-ae16-f5f94b41b027"
+}

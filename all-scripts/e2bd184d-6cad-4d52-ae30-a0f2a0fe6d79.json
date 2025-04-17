@@ -1,0 +1,11 @@
+{
+  "app": "Axis2",
+  "reason": "",
+  "seo": "Axis2,版本信息泄露,漏洞检测,中间件",
+  "seo_en": "Axis2,version information leakage,vulnerability detection,middleware",
+  "success": true,
+  "summary": "该插件用于检测Axis2中间件是否存在版本信息泄露漏洞，通过获取其版本信息来判断是否存在风险。",
+  "summary_en": "This plugin is used to detect whether the Axis2 middleware has version information leakage vulnerabilities, and determines if there are any risks by obtaining its version information.",
+  "updated_at": 1742999602,
+  "uuid": "e2bd184d-6cad-4d52-ae30-a0f2a0fe6d79"
+}

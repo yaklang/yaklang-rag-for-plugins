@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "插件,转换,普通post参数,数据处理",
+  "seo_en": "plugin,conversion,regular post parameters,data processing",
+  "success": true,
+  "summary": "该插件的核心意图是将JSON或XML格式的数据转换为普通的POST参数形式，并修改请求头为application/x-www-form-urlencoded，方便进行进一步的漏洞检测或数据处理。",
+  "summary_en": "The core intention of this plugin is to convert JSON or XML formatted data into regular POST parameter form and modify the request header to application/x-www-form-urlencoded for further vulnerability detection or data processing.",
+  "updated_at": 1742999583,
+  "uuid": "80689578-200f-4060-9f26-78c17a96117d"
+}

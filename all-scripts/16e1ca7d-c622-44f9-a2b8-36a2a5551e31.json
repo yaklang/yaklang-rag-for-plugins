@@ -1,0 +1,11 @@
+{
+  "app": "TensorBoard",
+  "reason": "",
+  "seo": "tensorboard,未授权访问漏洞,漏洞检测",
+  "seo_en": "tensorboard,unauth vulnerability,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测TensorBoard是否存在未授权访问漏洞，通过检查特定URL的响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in TensorBoard by checking the response of specific URLs to confirm the existence of the vulnerability.",
+  "updated_at": 1742999590,
+  "uuid": "16e1ca7d-c622-44f9-a2b8-36a2a5551e31"
+}

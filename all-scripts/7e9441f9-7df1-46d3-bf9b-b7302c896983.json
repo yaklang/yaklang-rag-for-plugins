@@ -1,0 +1,11 @@
+{
+  "app": "WebSphere",
+  "reason": "",
+  "seo": "WebSphere,CVE-2020-4643,XXE漏洞,漏洞检测",
+  "seo_en": "WebSphere,CVE-2020-4643,XXE vulnerability,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测WebSphere Application Server是否存在CVE-2020-4643 XXE漏洞，通过发送特定的HTTP请求并验证响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the WebSphere Application Server has the CVE-2020-4643 XXE vulnerability, confirming the existence of the vulnerability by sending specific HTTP requests and verifying the response.",
+  "updated_at": 1742999602,
+  "uuid": "7e9441f9-7df1-46d3-bf9b-b7302c896983"
+}

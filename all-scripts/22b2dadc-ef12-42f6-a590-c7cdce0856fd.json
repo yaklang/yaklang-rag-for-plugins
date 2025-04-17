@@ -1,0 +1,11 @@
+{
+  "app": "Jellyfin",
+  "reason": "",
+  "seo": "Jellyfin,漏洞检测,CVE-2021-29490,CVE-2021-21402,SSRF,任意文件读取",
+  "seo_en": "Jellyfin,vulnerability detection,CVE-2021-29490,CVE-2021-21402,SSRF,arbitrary file read",
+  "success": true,
+  "summary": "该插件用于批量检测Jellyfin应用中的CVE-2021-29490和CVE-2021-21402漏洞，包括SSRF和任意文件读取问题。",
+  "summary_en": "This plugin is used for batch detection of CVE-2021-29490 and CVE-2021-21402 vulnerabilities in the Jellyfin application, including SSRF and arbitrary file read issues.",
+  "updated_at": 1742999597,
+  "uuid": "22b2dadc-ef12-42f6-a590-c7cdce0856fd"
+}

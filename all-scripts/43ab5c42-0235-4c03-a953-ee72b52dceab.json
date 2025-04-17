@@ -1,0 +1,11 @@
+{
+  "app": "天问物业ERP系统",
+  "reason": "",
+  "seo": "天问物业ERP系统,ContractDownLoad,任意文件读取,漏洞检测",
+  "seo_en": "Tianwen Property ERP System,ContractDownLoad,Arbitrary File Read,Vulnerability Detection",
+  "success": true,
+  "summary": "检测天问物业ERP系统中ContractDownLoad功能是否存在任意文件读取漏洞",
+  "summary_en": "Detect arbitrary file read vulnerability in the ContractDownLoad function of Tianwen Property ERP System",
+  "updated_at": 1742999572,
+  "uuid": "43ab5c42-0235-4c03-a953-ee72b52dceab"
+}

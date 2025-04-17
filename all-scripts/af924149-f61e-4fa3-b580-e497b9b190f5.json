@@ -1,0 +1,11 @@
+{
+  "app": "Atlassian Jira",
+  "reason": "",
+  "seo": "Atlassian Jira,授权问题漏洞,未授权访问,漏洞检测",
+  "seo_en": "Atlassian Jira,authorization issue vulnerability,unauthorized access,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Atlassian Jira系统的授权问题漏洞，特别是未授权访问的风险。",
+  "summary_en": "This plugin is used to detect authorization issue vulnerabilities in the Atlassian Jira system, particularly the risk of unauthorized access.",
+  "updated_at": 1742999588,
+  "uuid": "af924149-f61e-4fa3-b580-e497b9b190f5"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "SAP NetWeaver Application Server",
+  "reason": "",
+  "seo": "SAP,目录遍历漏洞,文件读取,漏洞检测",
+  "seo_en": "SAP,Directory Traversal Vulnerability,File Read,Vulnerability Detection",
+  "success": true,
+  "summary": "检测SAP NetWeaver Application Server是否存在目录遍历漏洞，通过发送特定请求检查是否可以读取敏感文件",
+  "summary_en": "Detect whether there is a directory traversal vulnerability in SAP NetWeaver Application Server by sending specific requests to check if sensitive files can be read",
+  "updated_at": 1742999588,
+  "uuid": "0dc3c221-7cf3-45de-9a6e-a2835731b61f"
+}

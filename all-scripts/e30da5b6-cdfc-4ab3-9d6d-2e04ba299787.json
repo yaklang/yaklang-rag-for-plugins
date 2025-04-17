@@ -1,0 +1,11 @@
+{
+  "app": "FiberHome HG6245D",
+  "reason": "",
+  "seo": "FiberHome, HG6245D, 漏洞检测, 安全检查, 硬编码密码, 权限漏洞, API认证, 日志文件漏洞",
+  "seo_en": "FiberHome, HG6245D, vulnerability detection, security check, hard-coded password, permission vulnerability, API authentication, log file vulnerability",
+  "success": true,
+  "summary": "该插件旨在检测FiberHome HG6245D设备中的多个安全漏洞，包括硬编码密码、权限问题、API认证不当、日志文件漏洞等，以确保设备的安全性。",
+  "summary_en": "This plugin is designed to detect multiple security vulnerabilities in FiberHome HG6245D devices, including hard-coded passwords, permission issues, improper API authentication, and log file vulnerabilities, to ensure device security.",
+  "updated_at": 1742999585,
+  "uuid": "e30da5b6-cdfc-4ab3-9d6d-2e04ba299787"
+}

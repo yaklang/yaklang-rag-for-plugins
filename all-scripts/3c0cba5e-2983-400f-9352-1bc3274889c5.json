@@ -1,0 +1,11 @@
+{
+  "app": "汇智ERP",
+  "reason": "",
+  "seo": "汇智ERP,任意文件读取漏洞,漏洞检测,网络安全",
+  "seo_en": "Huizhi ERP, arbitrary file read vulnerability, vulnerability detection, network security",
+  "success": true,
+  "summary": "该插件用于检测汇智ERP系统中的filehandle任意文件读取漏洞，通过发送特定HTTP请求判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the arbitrary file read vulnerability in Huizhi ERP system by sending a specific HTTP request and determining if the vulnerability exists.",
+  "updated_at": 1742999572,
+  "uuid": "3c0cba5e-2983-400f-9352-1bc3274889c5"
+}

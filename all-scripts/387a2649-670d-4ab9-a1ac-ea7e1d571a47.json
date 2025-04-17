@@ -1,0 +1,11 @@
+{
+  "app": "Confluence",
+  "reason": "",
+  "seo": "Confluence,CVE-2022-26134,远程代码执行漏洞,Atlassian",
+  "seo_en": "Confluence,CVE-2022-26134,RCE,Atlassian",
+  "success": true,
+  "summary": "检测 Atlassian Confluence 系统是否存在 CVE-2022-26134 远程代码执行漏洞，通过发送特定请求验证漏洞是否存在并记录相关信息。",
+  "summary_en": "Detect whether the Atlassian Confluence system has the CVE-2022-26134 Remote Code Execution vulnerability by sending a specific request to verify the existence of the vulnerability and record relevant information.",
+  "updated_at": 1742999599,
+  "uuid": "387a2649-670d-4ab9-a1ac-ea7e1d571a47"
+}

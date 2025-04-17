@@ -1,0 +1,11 @@
+{
+  "app": "Hanming视频会议系统",
+  "reason": "",
+  "seo": "汉明,任意文件读取,漏洞检测,视频会议系统",
+  "seo_en": "Hanming,file read vulnerability,vulnerability detection,video conferencing system",
+  "success": true,
+  "summary": "该插件用于检测Hanming视频会议系统是否存在任意文件读取漏洞，通过发送特定请求尝试读取系统关键文件来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Hanming video conferencing system has arbitrary file read vulnerability by sending specific requests to attempt reading critical system files to confirm the existence of the vulnerability.",
+  "updated_at": 1742999597,
+  "uuid": "449b5c34-9d8c-423a-9f19-f61767eebbad"
+}

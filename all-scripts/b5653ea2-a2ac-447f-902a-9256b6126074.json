@@ -1,0 +1,11 @@
+{
+  "app": "Ecshop",
+  "reason": "",
+  "seo": "ecshop,sql注入,CNVD-2020-58823,漏洞检测",
+  "seo_en": "ecshop,SQL injection,CNVD-2020-58823,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Ecshop应用是否存在CNVD-2020-58823 SQL注入漏洞，通过发送特定payload验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Ecshop application has the CNVD-2020-58823 SQL injection vulnerability by sending a specific payload to verify the existence of the vulnerability.",
+  "updated_at": 1742999585,
+  "uuid": "b5653ea2-a2ac-447f-902a-9256b6126074"
+}

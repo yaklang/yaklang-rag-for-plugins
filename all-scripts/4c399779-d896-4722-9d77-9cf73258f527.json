@@ -1,0 +1,11 @@
+{
+  "app": "ApacheSturts2",
+  "reason": "",
+  "seo": "ApacheSturts2,远程代码执行漏洞,漏洞检测,s2-devMode",
+  "seo_en": "ApacheSturts2,RCE vulnerability,vulnerability detection,s2-devMode",
+  "success": true,
+  "summary": "该插件用于检测ApacheSturts2(s2-devMode)是否存在远程代码执行漏洞，通过发送特定payload验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the ApacheSturts2(s2-devMode) has a remote code execution vulnerability by sending a specific payload to verify if the target system is affected.",
+  "updated_at": 1742999602,
+  "uuid": "4c399779-d896-4722-9d77-9cf73258f527"
+}

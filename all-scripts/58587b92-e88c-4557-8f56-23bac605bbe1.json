@@ -1,0 +1,11 @@
+{
+  "app": "Nginx",
+  "reason": "",
+  "seo": "Nginx,目录遍历漏洞,漏洞检测,配置问题,源码泄露",
+  "seo_en": "Nginx,directory traversal vulnerability,vulnerability detection,configuration issues,source code leakage",
+  "success": true,
+  "summary": "该插件用于检测Nginx服务器是否存在目录遍历漏洞，通过发送特定请求判断是否可以访问未授权的目录或文件列表。",
+  "summary_en": "This plugin is used to detect whether the Nginx server has directory traversal vulnerabilities, by sending specific requests to determine if unauthorized directories or file lists can be accessed.",
+  "updated_at": 1742999604,
+  "uuid": "58587b92-e88c-4557-8f56-23bac605bbe1"
+}

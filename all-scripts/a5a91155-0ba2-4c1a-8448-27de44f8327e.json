@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Http平台,自定义响应,测试XSS,测试CSRF",
+  "seo_en": "Http platform,custom response,test XSS,test CSRF",
+  "success": true,
+  "summary": "该插件用于通过自定义HTTP响应头和响应体来测试XSS、CSRF等漏洞。",
+  "summary_en": "This plugin is used to test vulnerabilities such as XSS and CSRF by customizing HTTP response headers and body.",
+  "updated_at": 1742999582,
+  "uuid": "a5a91155-0ba2-4c1a-8448-27de44f8327e"
+}

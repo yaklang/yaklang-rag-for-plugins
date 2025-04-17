@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "CSRF, CORS, 表单保护, 配置不当, 漏洞检测",
+  "seo_en": "CSRF, CORS, form protection, misconfiguration, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测应用中是否存在CSRF表单保护不足和CORS配置不当的问题，帮助识别潜在的安全风险并提供修复建议。",
+  "summary_en": "This plugin is used to detect insufficient CSRF form protection and CORS misconfiguration issues in applications, helping to identify potential security risks and providing remediation suggestions.",
+  "updated_at": 1740203645,
+  "uuid": "e7113cda-f77f-4a91-af03-7212454fc365"
+}

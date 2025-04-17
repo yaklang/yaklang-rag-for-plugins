@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "JsFind,接口提取,GET请求,POST请求,状态码统计",
+  "seo_en": "JsFind,API extraction,GET request,POST request,status code statistics",
+  "success": true,
+  "summary": "该插件用于快速提取JS文件中的接口，并自动发送GET和POST请求，同时统计不同状态码的响应数量。",
+  "summary_en": "This plugin is used to quickly extract APIs from JS files, automatically send GET and POST requests, and count the number of responses with different status codes.",
+  "updated_at": 1742999583,
+  "uuid": "5deadb41-1919-4c5a-81de-2f1d560beedb"
+}

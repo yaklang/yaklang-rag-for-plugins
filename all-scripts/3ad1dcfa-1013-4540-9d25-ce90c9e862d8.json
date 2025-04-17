@@ -1,0 +1,11 @@
+{
+  "app": "方正全媒体采编系统",
+  "reason": "",
+  "seo": "方正全媒体采编系统,信息泄露漏洞,安全检测,漏洞扫描",
+  "seo_en": "Founder All-Media Editing System, information leakage vulnerability, security testing, vulnerability scanning",
+  "success": true,
+  "summary": "该插件用于检测方正全媒体采编系统是否存在信息泄露漏洞，通过检查特定接口的响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Founder All-Media Editing System has an information leakage vulnerability by checking the response content of a specific interface to confirm the existence of the vulnerability.",
+  "updated_at": 1742999579,
+  "uuid": "3ad1dcfa-1013-4540-9d25-ce90c9e862d8"
+}

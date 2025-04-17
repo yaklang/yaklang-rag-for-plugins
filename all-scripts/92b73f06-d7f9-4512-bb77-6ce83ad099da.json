@@ -1,0 +1,11 @@
+{
+  "app": "trendnet摄像头",
+  "reason": "",
+  "seo": "trendnet摄像头,远程安全绕过漏洞,高危漏洞,身份伪造,配置错误",
+  "seo_en": "trendnet camera,remote security bypass vulnerability,high-risk vulnerability,identity forgery,configuration error",
+  "success": true,
+  "summary": "该插件用于检测trendnet摄像头是否存在远程安全绕过漏洞，通过发送特定HTTP请求判断是否能绕过身份验证获取资源。",
+  "summary_en": "This plugin is used to detect whether the trendnet camera has a remote security bypass vulnerability, by sending a specific HTTP request to determine if it can bypass authentication and access resources.",
+  "updated_at": 1742999585,
+  "uuid": "92b73f06-d7f9-4512-bb77-6ce83ad099da"
+}

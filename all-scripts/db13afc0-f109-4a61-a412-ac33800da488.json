@@ -1,0 +1,11 @@
+{
+  "app": "万户网络-ezOFFICE",
+  "reason": "",
+  "seo": "万户网络,ezOFFICE,SQL注入,漏洞检测",
+  "seo_en": "Wanhu Network,eZOffice,SQL Injection,vulnerability detection",
+  "success": true,
+  "summary": "检测万户网络-ezOFFICE系统的getAutoCode.jsp文件是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the getAutoCode.jsp file of the Wanhu Network-ezOFFICE system",
+  "updated_at": 1742999570,
+  "uuid": "db13afc0-f109-4a61-a412-ac33800da488"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "致远分析云",
+  "reason": "",
+  "seo": "致远分析云,任意文件读取,漏洞检测",
+  "seo_en": "Seeyon Analysis Cloud, Arbitrary File Read, Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测致远分析云是否存在任意文件读取漏洞，通过发送特定的HTTP请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether Seeyon Analysis Cloud has an arbitrary file read vulnerability by sending a specific HTTP request to verify the existence of the vulnerability.",
+  "updated_at": 1742999572,
+  "uuid": "433dbb75-645d-4dc5-a182-03ddab3704c8"
+}

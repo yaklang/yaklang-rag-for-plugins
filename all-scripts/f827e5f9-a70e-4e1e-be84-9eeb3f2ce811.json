@@ -1,0 +1,11 @@
+{
+  "app": "Oracle WebLogic Server",
+  "reason": "",
+  "seo": "Oracle WebLogic,XMLDecoder,反序列化漏洞,Java应用服务器",
+  "seo_en": "Oracle WebLogic,XMLDecoder,Deserialization Vulnerability,Java Application Server",
+  "success": true,
+  "summary": "该插件用于检测Oracle WebLogic Server是否存在XMLDecoder反序列化漏洞，通过构造特定的SOAP请求并利用DNSLog验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Oracle WebLogic Server has the XMLDecoder deserialization vulnerability by constructing a specific SOAP request and using DNSLog to verify the existence of the vulnerability.",
+  "updated_at": 1742999588,
+  "uuid": "f827e5f9-a70e-4e1e-be84-9eeb3f2ce811"
+}

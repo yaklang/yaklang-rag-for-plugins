@@ -1,0 +1,11 @@
+{
+  "app": "瑞友天翼应用虚拟化系统",
+  "reason": "",
+  "seo": "瑞友天翼,远程代码执行漏洞,应用虚拟化系统",
+  "seo_en": "Ruoyou Tianyi, Remote Code Execution Vulnerability, Application Virtualization System",
+  "success": true,
+  "summary": "检测瑞友天翼应用虚拟化系统是否存在远程代码执行漏洞，该漏洞可能允许攻击者通过构造的请求在目标服务器上执行任意代码。",
+  "summary_en": "Detect whether there is a remote code execution vulnerability in Ruoyou Tianyi Application Virtualization System. This vulnerability may allow attackers to execute arbitrary code on the target server through crafted requests.",
+  "updated_at": 1742999579,
+  "uuid": "69a5905c-4bb4-40f6-89ae-b5a4607364a6"
+}

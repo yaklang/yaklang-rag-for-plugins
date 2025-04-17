@@ -1,0 +1,11 @@
+{
+  "app": "Ruby on Rails",
+  "reason": "",
+  "seo": "Ruby on Rails,路径穿越,任意文件读取,CVE-2019-5418",
+  "seo_en": "Ruby on Rails,path traversal,arbitrary file read,CVE-2019-5418",
+  "success": true,
+  "summary": "该插件用于检测Ruby on Rails应用是否存在CVE-2019-5418漏洞，即路径穿越与任意文件读取漏洞。",
+  "summary_en": "This plugin is used to detect if the Ruby on Rails application has the CVE-2019-5418 vulnerability, which allows path traversal and arbitrary file reading.",
+  "updated_at": 1742999597,
+  "uuid": "a27800da-9c43-4cec-a651-f8541dcca6c4"
+}

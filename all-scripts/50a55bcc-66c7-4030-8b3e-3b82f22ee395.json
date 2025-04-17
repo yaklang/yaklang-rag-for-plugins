@@ -1,0 +1,11 @@
+{
+  "app": "建文工程管理系统",
+  "reason": "",
+  "seo": "建文工程管理系统,desktop.ashx,SQL注入漏洞,高危漏洞",
+  "seo_en": "Jianwen Engineering Management System,desktop.ashx,SQL Injection Vulnerability,High Risk Vulnerability",
+  "success": true,
+  "summary": "检测建文工程管理系统中是否存在desktop.ashx文件的SQL注入漏洞，该漏洞可能导致敏感数据泄露或系统被攻击。",
+  "summary_en": "Detect SQL injection vulnerabilities in the desktop.ashx file of the Jianwen Engineering Management System, which may lead to sensitive data leakage or system attacks.",
+  "updated_at": 1742999571,
+  "uuid": "50a55bcc-66c7-4030-8b3e-3b82f22ee395"
+}

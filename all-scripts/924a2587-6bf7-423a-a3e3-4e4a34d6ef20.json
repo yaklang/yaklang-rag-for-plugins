@@ -1,0 +1,11 @@
+{
+  "app": "用友时空KSOA",
+  "reason": "",
+  "seo": "用友时空KSOA,SQL注入漏洞,fillKP.jsp,高危漏洞",
+  "seo_en": "Yonyou KSOA,SQL Injection Vulnerability,fillKP.jsp,High Risk Vulnerability",
+  "success": true,
+  "summary": "检测用友时空KSOA系统的fillKP.jsp文件是否存在SQL注入漏洞，通过构造特定的HTTP请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the fillKP.jsp file of the Yonyou KSOA system. It determines the existence of vulnerabilities by constructing specific HTTP requests and measuring response times.",
+  "updated_at": 1742999570,
+  "uuid": "924a2587-6bf7-423a-a3e3-4e4a34d6ef20"
+}

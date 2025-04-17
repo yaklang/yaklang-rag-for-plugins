@@ -1,0 +1,11 @@
+{
+  "app": "联软科技安全准入门户平台",
+  "reason": "",
+  "seo": "联软科技,安全准入门户平台,commondRetStr,远程代码执行漏洞",
+  "seo_en": "LianRuan Technology,Security Access Gateway,commondRetStr,Remote Code Execution Vulnerability",
+  "success": true,
+  "summary": "检测联软科技安全准入门户平台是否存在commondRetStr远程代码执行漏洞，通过发送特定POST请求尝试读取/etc/passwd文件来验证漏洞是否存在。",
+  "summary_en": "Detect whether the LianRuan Technology Security Access Gateway has a commondRetStr remote code execution vulnerability by sending a specific POST request to attempt reading the /etc/passwd file to verify the existence of the vulnerability.",
+  "updated_at": 1742999583,
+  "uuid": "c3893f87-6768-492d-91d5-7448cf23a807"
+}

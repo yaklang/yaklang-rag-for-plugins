@@ -1,0 +1,11 @@
+{
+  "app": "大华ICC智能物联综合管理平台",
+  "reason": "",
+  "seo": "大华,ICC,智能物联,综合管理平台,RCE,漏洞",
+  "seo_en": "Dahua,ICC,Smart,IoT,Comprehensive,Management,Platform,RCE,Vulnerability",
+  "success": true,
+  "summary": "检测大华ICC智能物联综合管理平台是否存在RCE漏洞，该漏洞可通过特定接口执行任意命令",
+  "summary_en": "Detect RCE vulnerability in Dahua ICC Smart IoT Comprehensive Management Platform, which allows executing arbitrary commands via a specific API",
+  "updated_at": 1742999568,
+  "uuid": "77fff7a0-af29-4ee9-a2f7-5ad7c8d8a09f"
+}

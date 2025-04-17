@@ -1,0 +1,11 @@
+{
+  "app": "用友NC系统",
+  "reason": "",
+  "seo": "用友NC,反序列化漏洞,UserAuthenticationServlet",
+  "seo_en": "Yonyou NC,Deserialization vulnerability,UserAuthenticationServlet",
+  "success": true,
+  "summary": "检测用友NC系统的UserAuthenticationServlet是否存在反序列化漏洞，通过发送特定的HTTP请求并分析响应来确认漏洞是否存在。",
+  "summary_en": "Detect whether the UserAuthenticationServlet in Yonyou NC system has deserialization vulnerability by sending specific HTTP requests and analyzing the responses.",
+  "updated_at": 1742999570,
+  "uuid": "76c6048e-964a-4867-8a74-2f199da433ae"
+}

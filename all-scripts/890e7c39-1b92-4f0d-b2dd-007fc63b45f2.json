@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "漏洞生成,自定义漏洞等级,描述信息,请求ID",
+  "seo_en": "vulnerability generation, customize severity, description, request ID",
+  "success": true,
+  "summary": "该插件用于根据请求ID生成漏洞信息，支持自定义漏洞等级、类型、描述、payload等详细信息，并提供修复建议。",
+  "summary_en": "This plugin generates vulnerability information based on request IDs. It supports customizing severity, type, description, payload, and other details, along with providing remediation suggestions.",
+  "updated_at": 1742999568,
+  "uuid": "890e7c39-1b92-4f0d-b2dd-007fc63b45f2"
+}

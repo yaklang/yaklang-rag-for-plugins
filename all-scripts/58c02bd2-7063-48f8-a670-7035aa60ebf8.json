@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Log4Shell漏洞,自动检测,Log4j,RCE,插件",
+  "seo_en": "Log4Shell vulnerability, automatic detection, Log4j, RCE, plugin",
+  "success": true,
+  "summary": "该插件用于自动检测Log4j中的Log4Shell漏洞，通过使用公共DNSLog服务来验证是否存在远程代码执行（RCE）漏洞。",
+  "summary_en": "This plugin is used for automatically detecting the Log4Shell vulnerability in Log4j by using a public DNSLog service to verify the existence of Remote Code Execution (RCE) vulnerabilities.",
+  "updated_at": 1742999604,
+  "uuid": "58c02bd2-7063-48f8-a670-7035aa60ebf8"
+}

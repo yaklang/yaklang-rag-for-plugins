@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SpringFramework,CVE-2022-22965,远程代码执行漏洞,检测",
+  "seo_en": "SpringFramework,CVE-2022-22965,Remote Code Execution,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测SpringFramework JDK \u003e= 9的CVE-2022-22965远程代码执行漏洞，通过发送特定请求判断目标是否存在漏洞并输出相关信息。",
+  "summary_en": "This plugin is used to detect the CVE-2022-22965 Remote Code Execution vulnerability in SpringFramework with JDK \u003e= 9. It sends specific requests to determine if the target is vulnerable and outputs related information.",
+  "updated_at": 1742999602,
+  "uuid": "552eee98-1201-40bd-bc4a-019ce80c3655"
+}

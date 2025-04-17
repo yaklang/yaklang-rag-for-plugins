@@ -1,0 +1,11 @@
+{
+  "app": "mac_cms",
+  "reason": "",
+  "seo": "maccms,命令执行漏洞,mac_cms,指纹识别,漏洞检测",
+  "seo_en": "maccms,command execution vulnerability,mac_cms,fingerprint identification,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测mac_cms 8.x版本中的命令执行漏洞，通过发送特定请求包并验证响应内容来确认漏洞是否存在，同时包含指纹识别功能以确保目标系统为mac_cms。",
+  "summary_en": "This plugin is used to detect command execution vulnerabilities in mac_cms 8.x. It sends specific request packets and verifies the response content to confirm the existence of the vulnerability, and includes fingerprint identification to ensure the target system is mac_cms.",
+  "updated_at": 1742999596,
+  "uuid": "5268695d-2d0f-464a-8f38-0f4d9df5ea58"
+}

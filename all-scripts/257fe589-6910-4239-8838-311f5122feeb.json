@@ -1,0 +1,11 @@
+{
+  "app": "天融信上网行为管理系统",
+  "reason": "",
+  "seo": "天融信,默认账号密码,漏洞检测,弱口令",
+  "seo_en": "Topsec,default credentials,vulnerability detection,weak password",
+  "success": true,
+  "summary": "该插件用于检测天融信上网行为管理系统是否存在默认账号密码的漏洞，通过发送特定请求验证系统是否使用了弱口令。",
+  "summary_en": "This plugin is used to detect whether the Topsec web behavior management system has a default account password vulnerability by sending specific requests to verify if the system uses weak credentials.",
+  "updated_at": 1742999586,
+  "uuid": "257fe589-6910-4239-8838-311f5122feeb"
+}

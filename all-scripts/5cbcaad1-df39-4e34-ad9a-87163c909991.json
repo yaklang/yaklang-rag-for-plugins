@@ -1,0 +1,11 @@
+{
+  "app": "NETGEAR路由器",
+  "reason": "",
+  "seo": "NETGEAR,路由器,管理员密码,信息泄露漏洞",
+  "seo_en": "NETGEAR,router,admin password,information disclosure vulnerability",
+  "success": true,
+  "summary": "检测多款NETGEAR路由器是否存在管理员密码信息泄露漏洞，通过发送特定请求判断是否可以获取到管理员用户名和密码信息。",
+  "summary_en": "Detect whether multiple NETGEAR routers have administrator password information disclosure vulnerabilities, and determine if the administrator username and password information can be obtained by sending specific requests.",
+  "updated_at": 1742999592,
+  "uuid": "5cbcaad1-df39-4e34-ad9a-87163c909991"
+}

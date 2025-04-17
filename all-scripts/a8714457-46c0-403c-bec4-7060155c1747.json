@@ -1,0 +1,11 @@
+{
+  "app": "Intellian Aptus Web",
+  "reason": "",
+  "seo": "Intellian Aptus Web,操作系统命令注入漏洞,远程攻击,任意命令执行",
+  "seo_en": "Intellian Aptus Web, OS command injection vulnerability, remote attack, arbitrary command execution",
+  "success": true,
+  "summary": "检测Intellian Aptus Web 1.24版本中的操作系统命令注入漏洞，远程攻击者可利用该漏洞通过JSON数据中的Q字段执行任意操作系统命令。",
+  "summary_en": "Detect the OS command injection vulnerability in Intellian Aptus Web 1.24 version. Remote attackers can exploit this vulnerability to execute arbitrary OS commands via the Q field in JSON data.",
+  "updated_at": 1742999591,
+  "uuid": "a8714457-46c0-403c-bec4-7060155c1747"
+}

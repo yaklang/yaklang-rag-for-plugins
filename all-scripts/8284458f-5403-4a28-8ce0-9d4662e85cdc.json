@@ -1,0 +1,11 @@
+{
+  "app": "Spring Cloud Config Server",
+  "reason": "",
+  "seo": "Spring Cloud Config,目录遍历漏洞,安全检测",
+  "seo_en": "Spring Cloud Config,Directory Traversal Vulnerability,Security Testing",
+  "success": true,
+  "summary": "该插件用于检测Spring Cloud Config Server是否存在目录遍历漏洞，通过发送特定请求检查是否可以访问敏感文件。",
+  "summary_en": "This plugin is used to detect whether the Spring Cloud Config Server has a directory traversal vulnerability by sending specific requests to check if access to sensitive files is possible.",
+  "updated_at": 1742999590,
+  "uuid": "8284458f-5403-4a28-8ce0-9d4662e85cdc"
+}

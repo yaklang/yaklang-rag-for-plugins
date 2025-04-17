@@ -1,0 +1,11 @@
+{
+  "app": "shiziyu cms",
+  "reason": "",
+  "seo": "shiziyu cms, apicontroller, sqli漏洞, 在线检测",
+  "seo_en": "shiziyu cms, apicontroller, sqli vulnerability, online detection",
+  "success": true,
+  "summary": "该插件用于检测shiziyu cms的apicontroller是否存在SQL注入漏洞，通过发送特定构造的请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an SQL injection vulnerability in the apicontroller of shiziyu cms by sending specially crafted requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999590,
+  "uuid": "be25d2ff-ca2f-4044-8eb9-e6b1aa4f1e7d"
+}

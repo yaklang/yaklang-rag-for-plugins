@@ -1,0 +1,11 @@
+{
+  "app": "维保保管理平台",
+  "reason": "",
+  "seo": "武汉儒松科技有限公司,维保保管理平台,敏感信息泄露,漏洞检测,信息安全",
+  "seo_en": "Wuhan Rusong Technology Co., Ltd., Weibao Management Platform, sensitive information leakage, vulnerability detection, information security",
+  "success": true,
+  "summary": "该插件用于检测武汉儒松科技有限公司维保保管理平台是否存在敏感信息泄露漏洞，通过构造特定请求获取平台用户的个人敏感信息。",
+  "summary_en": "This plugin is used to detect whether there are sensitive information leakage vulnerabilities in the Weibao Management Platform of Wuhan Rusong Technology Co., Ltd. It obtains personal sensitive information of platform users by constructing specific requests.",
+  "updated_at": 1742999569,
+  "uuid": "1998801a-53c5-4bbc-ae01-f5b15f5a74c0"
+}

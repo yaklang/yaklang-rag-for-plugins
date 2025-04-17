@@ -1,0 +1,11 @@
+{
+  "app": "泛微-EOffice",
+  "reason": "",
+  "seo": "泛微,EOffice,反序列化,漏洞检测,安全测试",
+  "seo_en": "Fanwei,EOffice,deserialization,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测泛微EOffice系统中存在的反序列化漏洞，通过构造特定请求验证是否存在远程代码执行风险。",
+  "summary_en": "This plugin is used to detect deserialization vulnerabilities in the Fanwei EOffice system and verifies the risk of remote code execution by constructing specific requests.",
+  "updated_at": 1742999580,
+  "uuid": "2b63d229-a59a-4bc6-aa01-a4a2e5699634"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "LG_IPC",
+  "reason": "",
+  "seo": "LG_IPC,备份文件下载漏洞,高危,配置错误",
+  "seo_en": "LG_IPC,backup file download vulnerability,high risk,configuration error",
+  "success": true,
+  "summary": "该插件用于检测LG_IPC设备是否存在备份文件下载漏洞，通过尝试访问特定路径的备份文件来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the LG_IPC device has a backup file download vulnerability. It determines if the vulnerability exists by attempting to access specific backup file paths.",
+  "updated_at": 1742999585,
+  "uuid": "f613d662-29a2-4539-a845-739de2110bc0"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "批量查询,DNS解析,域名解析",
+  "seo_en": "Batch query,DNS resolution,domain name resolution",
+  "success": true,
+  "summary": "该插件用于批量查询和解析DNS域名，获取域名对应的IP地址。",
+  "summary_en": "This plugin is used for batch querying and resolving DNS domains to obtain the corresponding IP addresses of the domains.",
+  "updated_at": 1742999582,
+  "uuid": "68f9b5ff-1a6a-4844-afd3-24e3b7da6a43"
+}

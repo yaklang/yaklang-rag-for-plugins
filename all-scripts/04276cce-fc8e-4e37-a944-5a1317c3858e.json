@@ -1,0 +1,11 @@
+{
+  "app": "用友NC-Cloud",
+  "reason": "",
+  "seo": "用友NC-Cloud,XXE漏洞,数字化平台,大型企业,soapFormat",
+  "seo_en": "Yonyou NC-Cloud,XXE vulnerability,digital platform,large enterprise,soapFormat",
+  "success": true,
+  "summary": "检测用友NC-Cloud系统的IUpdateService接口是否存在XXE漏洞，该漏洞可能允许攻击者通过构造恶意XML命令远程控制服务器。",
+  "summary_en": "Detect XXE vulnerabilities in the IUpdateService interface of Yonyou NC-Cloud. This vulnerability may allow attackers to remotely control the server by constructing malicious XML commands.",
+  "updated_at": 1742999581,
+  "uuid": "04276cce-fc8e-4e37-a944-5a1317c3858e"
+}

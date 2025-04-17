@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "MITM,劫持禁用长链接,Connection: close",
+  "seo_en": "MITM,hijack long connection,Connection: close",
+  "success": true,
+  "summary": "该插件通过在HTTP请求中添加 Connection: close 头部，用于禁用长链接，可能用于检测或防御MITM攻击相关的漏洞。",
+  "summary_en": "This plugin disables long connections by adding the Connection: close header to HTTP requests, which may be used to detect or defend against MITM-related vulnerabilities.",
+  "updated_at": 1742999581,
+  "uuid": "c9af4bb9-66c1-428a-b957-ea3b4dc9559e"
+}

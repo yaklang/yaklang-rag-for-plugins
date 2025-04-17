@@ -1,0 +1,11 @@
+{
+  "app": "ServiceNow",
+  "reason": "",
+  "seo": "ServiceNow,漏洞,CVE-2024-4879,远程代码执行,jelly模板注入",
+  "seo_en": "ServiceNow,vulnerability,CVE-2024-4879,RCE,jelly template injection",
+  "success": true,
+  "summary": "检测ServiceNow平台中的jelly模板注入漏洞（CVE-2024-4879），该漏洞允许未经身份验证的用户远程执行代码",
+  "summary_en": "Detect the jelly template injection vulnerability (CVE-2024-4879) in ServiceNow platform, which allows unauthenticated users to execute remote code",
+  "updated_at": 1742999573,
+  "uuid": "1e266908-7303-4f36-82c7-b96821f5c8f4"
+}

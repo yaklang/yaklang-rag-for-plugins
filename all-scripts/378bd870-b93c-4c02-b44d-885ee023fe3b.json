@@ -1,0 +1,11 @@
+{
+  "app": "WebSphere",
+  "reason": "",
+  "seo": "WebSphere,反序列化,CVE-2015-7450,漏洞检测",
+  "seo_en": "WebSphere,deserialization,CVE-2015-7450,vulnerability detection",
+  "success": true,
+  "summary": "检测WebSphere应用是否存在CVE-2015-7450反序列化漏洞，通过构造特定请求并验证DNS回调来确认漏洞是否存在",
+  "summary_en": "Detect whether the WebSphere application has the CVE-2015-7450 deserialization vulnerability by constructing specific requests and verifying DNS callbacks to confirm the existence of the vulnerability",
+  "updated_at": 1742999602,
+  "uuid": "378bd870-b93c-4c02-b44d-885ee023fe3b"
+}

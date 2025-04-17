@@ -1,0 +1,11 @@
+{
+  "app": "安美数字酒店宽带运营系统",
+  "reason": "",
+  "seo": "安美数字酒店,weather.php,任意文件读取漏洞,高危漏洞",
+  "seo_en": "Anmei Digital Hotel,Broadband Operation System,weather.php,File Read Vulnerability,High Risk Vulnerability",
+  "success": true,
+  "summary": "检测安美数字酒店宽带运营系统是否存在weather.php任意文件读取漏洞，通过构造特定payload验证漏洞是否存在，并输出相关信息。",
+  "summary_en": "Detect whether the Anmei Digital Hotel Broadband Operation System has a weather.php arbitrary file read vulnerability, verify the existence of the vulnerability by constructing a specific payload, and output relevant information.",
+  "updated_at": 1742999569,
+  "uuid": "588d7a38-58cb-4f5e-8609-87c647081dba"
+}

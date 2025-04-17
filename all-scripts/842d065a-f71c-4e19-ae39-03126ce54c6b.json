@@ -1,0 +1,11 @@
+{
+  "app": "海康威视IP摄像机/NVR设备",
+  "reason": "",
+  "seo": "海康威视,IP摄像机,NVR设备,CVE-2021-36260,远程代码执行",
+  "seo_en": "Hikvision,IP Camera,NVR,CVE-2021-36260,RCE",
+  "success": true,
+  "summary": "检测海康威视IP摄像机或NVR设备是否存在CVE-2021-36260漏洞，该漏洞可能导致远程代码执行",
+  "summary_en": "Detect whether Hikvision IP cameras or NVR devices are vulnerable to CVE-2021-36260, which may lead to Remote Code Execution",
+  "updated_at": 1742999577,
+  "uuid": "842d065a-f71c-4e19-ae39-03126ce54c6b"
+}

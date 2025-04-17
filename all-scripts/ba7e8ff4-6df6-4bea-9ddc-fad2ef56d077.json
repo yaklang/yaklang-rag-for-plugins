@@ -1,0 +1,11 @@
+{
+  "app": "Rocket.Chat",
+  "reason": "",
+  "seo": "Rocket.Chat,输入验证错误漏洞,CVE-2021-22911,SQL注入",
+  "seo_en": "Rocket.Chat,input validation error vulnerability,CVE-2021-22911,SQL injection",
+  "success": true,
+  "summary": "检测Rocket.Chat是否存在CVE-2021-22911输入验证错误漏洞，该漏洞可能导致SQL注入问题。",
+  "summary_en": "Detect whether Rocket.Chat has CVE-2021-22911 input validation error vulnerability, which may lead to SQL injection issues.",
+  "updated_at": 1742999588,
+  "uuid": "ba7e8ff4-6df6-4bea-9ddc-fad2ef56d077"
+}

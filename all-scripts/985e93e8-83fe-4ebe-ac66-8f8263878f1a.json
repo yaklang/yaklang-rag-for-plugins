@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "代码扫描,默认规则,语言检测,项目分片,编译选项",
+  "seo_en": "code scanning,default rules,language detection,project slicing,compilation options",
+  "success": true,
+  "summary": "该插件用于根据传入的URL提供代码扫描的默认参数，并支持多种编程语言和编译选项，同时可以对项目进行分片以提高编译速度。",
+  "summary_en": "This plugin provides default parameters for code scanning based on the input URL, supports multiple programming languages and compilation options, and can slice projects to improve compilation speed.",
+  "updated_at": 1744374146,
+  "uuid": "985e93e8-83fe-4ebe-ac66-8f8263878f1a"
+}

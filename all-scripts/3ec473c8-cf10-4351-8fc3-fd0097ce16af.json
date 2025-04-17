@@ -1,0 +1,11 @@
+{
+  "app": "Apache Tomcat",
+  "reason": "",
+  "seo": "Apache Tomcat,CVE-2020-1938,文件读取,远程代码执行,漏洞检测",
+  "seo_en": "Apache Tomcat,CVE-2020-1938,file reading,remote code execution,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Apache Tomcat是否存在CVE-2020-1938 AJP文件读取与包含漏洞，此漏洞可能导致远程代码执行。",
+  "summary_en": "This plugin is used to detect whether Apache Tomcat has the CVE-2020-1938 AJP file reading and inclusion vulnerability, which may lead to remote code execution.",
+  "updated_at": 1742999604,
+  "uuid": "3ec473c8-cf10-4351-8fc3-fd0097ce16af"
+}

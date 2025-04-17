@@ -1,0 +1,11 @@
+{
+  "app": "Jira",
+  "reason": "",
+  "seo": "Jira,批量检测,CVE漏洞,信息泄露,SSRF",
+  "seo_en": "Jira,batch detection,CVE vulnerabilities,information leakage,SSRF",
+  "success": true,
+  "summary": "该插件用于批量检测Jira系统中的多个CVE漏洞，包括信息泄露和SSRF漏洞，以帮助用户发现潜在的安全风险。",
+  "summary_en": "This plugin is used for batch detection of multiple CVE vulnerabilities in the Jira system, including information leakage and SSRF vulnerabilities, to help users discover potential security risks.",
+  "updated_at": 1742999597,
+  "uuid": "083f6dca-e251-4a1b-b863-04e4e0ed12c5"
+}

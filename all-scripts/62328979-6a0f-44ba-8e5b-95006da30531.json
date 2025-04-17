@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "数据库,OpenAPI,Swagger,Yaml,生成",
+  "seo_en": "Database,OpenAPI,Swagger,Yaml,Generation",
+  "success": true,
+  "summary": "从数据库中提取数据并生成 OpenAPI Swagger Yaml 文件，用于描述 API 接口。",
+  "summary_en": "Extract data from the database and generate OpenAPI Swagger Yaml files to describe API interfaces.",
+  "updated_at": 1742999579,
+  "uuid": "62328979-6a0f-44ba-8e5b-95006da30531"
+}

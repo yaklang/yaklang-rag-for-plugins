@@ -1,0 +1,11 @@
+{
+  "app": "中成科信票务管理系统",
+  "reason": "",
+  "seo": "中成科信,票务管理系统,SQL注入,漏洞检测",
+  "seo_en": "ChengKexin,Ticket Management System,SQL Injection,Vulnerability Detection",
+  "success": true,
+  "summary": "检测中成科信票务管理系统的ReserveTicketManagerPlane.ashx是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the ReserveTicketManagerPlane.ashx of ChengKexin Ticket Management System",
+  "updated_at": 1742999579,
+  "uuid": "c532de4f-6b0d-42f0-ac52-9159f7151b7a"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "ApacheStruts2",
+  "reason": "",
+  "seo": "ApacheStruts2,远程代码执行漏洞,CVE-2016-3087,s2-033,检测",
+  "seo_en": "ApacheStruts2,RCE vulnerability,CVE-2016-3087,s2-033,detection",
+  "success": true,
+  "summary": "该插件用于检测目标系统是否存在Apache Struts2 (s2-033) CVE-2016-3087远程代码执行漏洞，通过发送特定payload验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the target system has the Apache Struts2 (s2-033) CVE-2016-3087 RCE vulnerability by sending a specific payload to verify the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "22afea4d-4cba-4386-9165-486aa57aebb9"
+}

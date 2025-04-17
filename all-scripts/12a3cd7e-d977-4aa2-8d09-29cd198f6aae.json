@@ -1,0 +1,11 @@
+{
+  "app": "Consul",
+  "reason": "",
+  "seo": "Hashicorp Consul,远程命令执行漏洞,服务发现,配置工具",
+  "seo_en": "Hashicorp Consul,RCE vulnerability,service discovery,configuration tool",
+  "success": true,
+  "summary": "检测Hashicorp Consul Service API是否存在远程命令执行漏洞，通过发送特定HTTP请求验证EnableRemoteScriptChecks是否为true，并提供修复建议",
+  "summary_en": "Detects whether the Hashicorp Consul Service API has a remote command execution vulnerability by sending specific HTTP requests to verify if EnableRemoteScriptChecks is true, and provides remediation suggestions",
+  "updated_at": 1742999583,
+  "uuid": "12a3cd7e-d977-4aa2-8d09-29cd198f6aae"
+}

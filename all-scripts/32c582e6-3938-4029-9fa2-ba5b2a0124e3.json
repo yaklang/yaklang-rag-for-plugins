@@ -1,0 +1,11 @@
+{
+  "app": "海康威视SPON IP网络对讲广播系统",
+  "reason": "",
+  "seo": "海康威视,SPON,IP网络对讲广播系统,rj_get_token,任意文件读取",
+  "seo_en": "Hikvision,SPON,IP Network Intercom Broadcast System,rj_get_token,Arbitrary File Read",
+  "success": true,
+  "summary": "检测海康威视SPON IP网络对讲广播系统中rj_get_token.php是否存在任意文件读取漏洞",
+  "summary_en": "Detect arbitrary file read vulnerability in rj_get_token.php of Hikvision SPON IP Network Intercom Broadcast System",
+  "updated_at": 1742999577,
+  "uuid": "32c582e6-3938-4029-9fa2-ba5b2a0124e3"
+}

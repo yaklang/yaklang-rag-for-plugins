@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "WAF识别,漏洞检测,网络安全,插件",
+  "seo_en": "WAF detection,vulnerability detection,network security,plugin",
+  "success": true,
+  "summary": "该插件通过发送特定payload来识别目标网站所使用的WAF（Web应用防火墙），帮助用户了解目标站点的安全防护情况。",
+  "summary_en": "This plugin sends specific payloads to identify the WAF (Web Application Firewall) used by the target website, helping users understand the security protection of the target site.",
+  "updated_at": 1742999596,
+  "uuid": "5f1d3604-fe78-4598-9c8c-1c594a296ea5"
+}

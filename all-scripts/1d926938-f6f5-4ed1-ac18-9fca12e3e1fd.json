@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "nuclei,自动扫描,漏洞检测,端口扫描,指纹识别",
+  "seo_en": "nuclei, auto scan, vulnerability detection, port scanning, fingerprint identification",
+  "success": true,
+  "summary": "该插件会在端口/指纹扫描过程中，自动对每个IP:Port进行nuclei扫描，主要检测严重级别的漏洞，并将结果存储在数据库中以便查看详细信息。",
+  "summary_en": "This plugin automatically performs nuclei scans on each IP:Port during port/fingerprint scanning, focusing on detecting critical-level vulnerabilities, and stores the results in a database for detailed review.",
+  "updated_at": 1742999602,
+  "uuid": "1d926938-f6f5-4ed1-ac18-9fca12e3e1fd"
+}

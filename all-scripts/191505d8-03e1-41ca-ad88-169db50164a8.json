@@ -1,0 +1,11 @@
+{
+  "app": "网康 NS-ASG安全网关",
+  "reason": "",
+  "seo": "网康,NS-ASG安全网关,任意文件读取漏洞",
+  "seo_en": "Netcon,NS-ASG Security Gateway,Arbitrary File Read Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测网康 NS-ASG安全网关是否存在任意文件读取漏洞，通过构造特定请求判断是否可以成功读取目标文件。",
+  "summary_en": "This plugin is used to detect whether the Netcon NS-ASG Security Gateway has an arbitrary file read vulnerability by constructing specific requests to determine if the target file can be successfully read.",
+  "updated_at": 1742999592,
+  "uuid": "191505d8-03e1-41ca-ad88-169db50164a8"
+}

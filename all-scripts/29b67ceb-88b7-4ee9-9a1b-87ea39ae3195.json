@@ -1,0 +1,11 @@
+{
+  "app": "Jenkins",
+  "reason": "",
+  "seo": "Jenkins,CVE-2016-0792,代码执行漏洞,漏洞检测",
+  "seo_en": "Jenkins,CVE-2016-0792,Remote Code Execution,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Jenkins是否存在CVE-2016-0792代码执行漏洞，通过构造特定请求触发DNS记录来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether Jenkins has the CVE-2016-0792 Remote Code Execution vulnerability by constructing specific requests to trigger DNS records to verify the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "29b67ceb-88b7-4ee9-9a1b-87ea39ae3195"
+}

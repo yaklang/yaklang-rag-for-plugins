@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "HTTP请求伪造,IP伪造,127.0.0.1,漏洞检测",
+  "seo_en": "HTTP request forgery,IP spoofing,127.0.0.1,vulnerability detection",
+  "success": true,
+  "summary": "该插件通过伪造HTTP请求头中的多个字段（如X-Forwarded-For、X-Real-IP等），将目标IP设置为127.0.0.1，用于检测系统是否存在IP伪造相关漏洞。",
+  "summary_en": "This plugin forges multiple fields in the HTTP request header (such as X-Forwarded-For, X-Real-IP, etc.), setting the target IP to 127.0.0.1, to detect whether the system has IP spoofing related vulnerabilities.",
+  "updated_at": 1742999569,
+  "uuid": "7f6fddc0-090a-453d-84c9-7d8c0b279ebb"
+}

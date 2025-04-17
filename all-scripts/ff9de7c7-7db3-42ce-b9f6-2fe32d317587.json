@@ -1,0 +1,11 @@
+{
+  "app": "3C环境自动监测监控系统",
+  "reason": "",
+  "seo": "3C环境自动监测监控系统,ReadLog,文件读取漏洞",
+  "seo_en": "3C Environment Monitoring System,ReadLog,File Read Vulnerability",
+  "success": true,
+  "summary": "检测3C环境自动监测监控系统是否存在ReadLog文件读取漏洞，通过发送特定HTTP请求判断漏洞是否存在。",
+  "summary_en": "Detect whether the 3C Environment Monitoring System has a ReadLog file read vulnerability by sending a specific HTTP request to determine if the vulnerability exists.",
+  "updated_at": 1742999569,
+  "uuid": "ff9de7c7-7db3-42ce-b9f6-2fe32d317587"
+}

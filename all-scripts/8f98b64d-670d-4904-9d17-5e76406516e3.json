@@ -1,0 +1,11 @@
+{
+  "app": "siemens摄像头",
+  "reason": "",
+  "seo": "siemens,未授权下载配置文件漏洞,高危漏洞,IpNetCam A107WIRF-HNH-03",
+  "seo_en": "siemens,unauthorized configuration file download vulnerability,high-risk vulnerability,IpNetCam A107WIRF-HNH-03",
+  "success": true,
+  "summary": "检测Siemens摄像头是否存在未授权下载配置文件的高危漏洞，具体涉及IpNetCam A107WIRF-HNH-03 IP摄像机版本0.376.223。",
+  "summary_en": "Detect whether the Siemens camera has a high-risk vulnerability of unauthorized configuration file download, specifically involving the IpNetCam A107WIRF-HNH-03 IP camera version 0.376.223.",
+  "updated_at": 1742999585,
+  "uuid": "8f98b64d-670d-4904-9d17-5e76406516e3"
+}

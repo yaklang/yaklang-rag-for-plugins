@@ -1,0 +1,11 @@
+{
+  "app": "SpringBoot",
+  "reason": "",
+  "seo": "springboot,漏洞,未授权访问,env,actuator",
+  "seo_en": "springboot,vulnerability,unauthorized access,env,actuator",
+  "success": true,
+  "summary": "该插件用于检测SpringBoot应用是否存在未授权访问漏洞，通过检查/ env和/ actuator/ env端点来判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in the SpringBoot application, and determines whether there is a vulnerability by checking the /env and /actuator/env endpoints.",
+  "updated_at": 1742999590,
+  "uuid": "edde968f-5246-44c3-b0fd-7af3eaacfa96"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "网站信息, 获取, 指纹, 状态码, 标题, 服务器, 内容长度",
+  "seo_en": "website information, acquisition, fingerprint, status code, title, server, content length",
+  "success": true,
+  "summary": "该插件用于并发获取网站的基本信息，包括指纹、状态码、标题、服务器和内容长度等数据，以帮助识别目标网站的技术栈和潜在漏洞。",
+  "summary_en": "This plugin is used to concurrently acquire basic website information, including fingerprints, status codes, titles, servers, and content lengths, to help identify the technology stack and potential vulnerabilities of target websites.",
+  "updated_at": 1742999593,
+  "uuid": "9aa79bb5-b80b-4bc7-9212-7719c967bd8e"
+}

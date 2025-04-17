@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "MITM请求修改,请求参数操作,header,get,post,cookie,正则匹配",
+  "seo_en": "MITM request modification, parameter operation, header, get, post, cookie, regex matching",
+  "success": true,
+  "summary": "该插件允许用户对HTTP请求进行增加、删除或替换操作，支持请求头、GET参数、POST参数和Cookie的修改，并可以通过正则表达式匹配请求原文或URL来决定是否进行操作。",
+  "summary_en": "This plugin allows users to perform addition, deletion, or replacement operations on HTTP requests, supporting modifications to headers, GET parameters, POST parameters, and cookies. It can also use regular expressions to match the original request or URL to determine whether to perform the operation.",
+  "updated_at": 1742999569,
+  "uuid": "130c3725-d815-4db5-9d80-e6246cfa32ec"
+}

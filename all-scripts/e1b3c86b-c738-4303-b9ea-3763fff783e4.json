@@ -1,0 +1,11 @@
+{
+  "app": "pyspider",
+  "reason": "",
+  "seo": "pyspider,未授权访问漏洞,插件,检测",
+  "seo_en": "pyspider,unauthorized access vulnerability,plugin,detection",
+  "success": true,
+  "summary": "该插件用于检测pyspider应用是否存在未授权访问漏洞，通过发送特定POST请求验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the pyspider application has an unauthorized access vulnerability by sending a specific POST request to verify the existence of the vulnerability.",
+  "updated_at": 1742999591,
+  "uuid": "e1b3c86b-c738-4303-b9ea-3763fff783e4"
+}

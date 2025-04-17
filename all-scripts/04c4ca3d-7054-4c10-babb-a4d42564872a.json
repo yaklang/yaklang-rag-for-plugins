@@ -1,0 +1,11 @@
+{
+  "app": "浪潮应用",
+  "reason": "",
+  "seo": "浪潮,CVE-2020-21224,漏洞检测,远程代码执行,RCE",
+  "seo_en": "Inspur,CVE-2020-21224,vulnerability detection,remote code execution,RCE",
+  "success": true,
+  "summary": "该插件用于检测浪潮应用是否存在CVE-2020-21224漏洞，该漏洞可能导致远程代码执行（RCE）。",
+  "summary_en": "This plugin is used to detect whether the Inspur application has the CVE-2020-21224 vulnerability, which may lead to remote code execution (RCE).",
+  "updated_at": 1742999597,
+  "uuid": "04c4ca3d-7054-4c10-babb-a4d42564872a"
+}

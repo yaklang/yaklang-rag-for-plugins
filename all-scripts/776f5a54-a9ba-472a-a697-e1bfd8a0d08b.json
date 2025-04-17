@@ -1,0 +1,11 @@
+{
+  "app": "WordPress",
+  "reason": "",
+  "seo": "WordPress,Email Subscribers \u0026 Newsletters,信息泄露漏洞,插件漏洞",
+  "seo_en": "WordPress,Email Subscribers \u0026 Newsletters,Information Disclosure Vulnerability,Plugin Vulnerability",
+  "success": true,
+  "summary": "检测WordPress的Email Subscribers \u0026 Newsletters插件是否存在信息泄露漏洞，该漏洞可能导致用户数据以CSV格式被非法下载。",
+  "summary_en": "Detect whether the Email Subscribers \u0026 Newsletters plugin in WordPress has an information disclosure vulnerability, which may lead to user data being illegally downloaded in CSV format.",
+  "updated_at": 1742999589,
+  "uuid": "776f5a54-a9ba-472a-a697-e1bfd8a0d08b"
+}

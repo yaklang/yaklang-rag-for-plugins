@@ -1,0 +1,11 @@
+{
+  "app": "ElasticSearch",
+  "reason": "",
+  "seo": "ElasticSearch,目录穿越,CVE-2015-3337,漏洞检测",
+  "seo_en": "ElasticSearch,directory traversal,CVE-2015-3337,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测ElasticSearch_site插件是否存在CVE-2015-3337目录穿越漏洞，通过发送特定payload验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the ElasticSearch_site plugin has the CVE-2015-3337 directory traversal vulnerability by sending a specific payload to verify the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "4da6b591-5b7f-46b3-8f5c-84af1445e32c"
+}

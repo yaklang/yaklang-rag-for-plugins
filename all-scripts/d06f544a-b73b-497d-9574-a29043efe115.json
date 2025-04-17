@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SSH,弱口令,爆破,漏洞检测",
+  "seo_en": "SSH,weak password,brute force,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测SSH服务是否存在常见的弱口令，通过爆破少量常见用户名和密码组合来发现潜在的安全风险。",
+  "summary_en": "This plugin is used to detect common weak passwords in SSH services by brute-forcing a small number of common username and password combinations to discover potential security risks.",
+  "updated_at": 1742999587,
+  "uuid": "d06f544a-b73b-497d-9574-a29043efe115"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "迅优cms",
+  "reason": "",
+  "seo": "迅优cms,任意文件读取漏洞,CNVD-2020-23735,漏洞检测",
+  "seo_en": "Xunyou cms,Arbitrary File Read Vulnerability,CNVD-2020-23735,Vulnerability Detection",
+  "success": true,
+  "summary": "检测迅优cms是否存在任意文件读取漏洞（CNVD-2020-23735），通过发送特定请求判断目标系统是否受影响",
+  "summary_en": "Detect whether Xunyou cms has an arbitrary file read vulnerability (CNVD-2020-23735) by sending specific requests to determine if the target system is affected",
+  "updated_at": 1742999589,
+  "uuid": "06441ed1-939b-49c4-b124-777e858da373"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "反弹Shell,命令生成器,渗透测试,安全工具",
+  "seo_en": "reverse Shell, command generator, penetration testing, security tool",
+  "success": true,
+  "summary": "该插件用于快速生成各种操作系统和编程语言的反弹Shell命令，适用于渗透测试和安全研究中建立反向连接。",
+  "summary_en": "This plugin is used to quickly generate reverse Shell commands for various operating systems and programming languages, suitable for establishing reverse connections in penetration testing and security research.",
+  "updated_at": 1742999579,
+  "uuid": "0ad1e90d-73d6-4ed5-8ab5-d0202bd16260"
+}

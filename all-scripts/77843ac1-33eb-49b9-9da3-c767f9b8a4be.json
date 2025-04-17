@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "nsfocus,uts,password,leak,漏洞",
+  "seo_en": "nsfocus,uts,password,leak,vulnerability",
+  "success": true,
+  "summary": "检测nsfocus UTS系统是否存在密码泄露漏洞，通过访问特定API接口判断是否存在风险。",
+  "summary_en": "Detect whether the nsfocus UTS system has a password leak vulnerability by accessing a specific API interface to determine if there is a risk.",
+  "updated_at": 1742999592,
+  "uuid": "77843ac1-33eb-49b9-9da3-c767f9b8a4be"
+}

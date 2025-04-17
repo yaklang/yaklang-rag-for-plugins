@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "目录扫描,爆破,字典",
+  "seo_en": "directory scanning, brute force, dictionary",
+  "success": true,
+  "summary": "该插件用于综合目录扫描与爆破，通过内置字典和用户自定义字典对目标进行路径探测，检测可能存在的重要文件或管理后台入口。",
+  "summary_en": "This plugin is used for comprehensive directory scanning and brute force attacks. It uses built-in dictionaries and user-defined dictionaries to probe targets for potentially important files or admin backdoor entries.",
+  "updated_at": 1742999585,
+  "uuid": "a53e06ba-4b32-4119-a052-6931ff6e0eaf"
+}

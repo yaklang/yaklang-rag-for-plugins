@@ -1,0 +1,11 @@
+{
+  "app": "TOTOLink A800R",
+  "reason": "",
+  "seo": "TOTOLink, A800R, 命令注入漏洞, CVE-2022-25076",
+  "seo_en": "TOTOLink, A800R, Command Injection Vulnerability, CVE-2022-25076",
+  "success": true,
+  "summary": "检测TOTOLink A800R无线路由器是否存在命令注入漏洞（CVE-2022-25076），通过构造特定请求验证漏洞是否可被利用。",
+  "summary_en": "Detect whether the TOTOLink A800R wireless router has a command injection vulnerability (CVE-2022-25076) by constructing specific requests to verify if the vulnerability can be exploited.",
+  "updated_at": 1742999586,
+  "uuid": "988764ae-2133-4755-aa72-d5f07d0aca23"
+}

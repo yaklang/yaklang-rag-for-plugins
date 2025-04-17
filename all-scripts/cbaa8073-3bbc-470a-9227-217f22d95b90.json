@@ -1,0 +1,11 @@
+{
+  "app": "用友GRP-U8财务管理软件",
+  "reason": "",
+  "seo": "用友GRP-U8,任意文件上传,财务管理软件,hvv2022",
+  "seo_en": "Yonyou GRP-U8,file upload vulnerability,financial management software,hvv2022",
+  "success": true,
+  "summary": "该插件旨在检测用友GRP-U8财务管理软件中的任意文件上传漏洞，通过发送特定的HTTP请求来验证是否存在漏洞并返回结果。",
+  "summary_en": "This plugin is designed to detect the arbitrary file upload vulnerability in Yonyou GRP-U8 financial management software by sending specific HTTP requests to verify the existence of the vulnerability and return the results.",
+  "updated_at": 1742999597,
+  "uuid": "cbaa8073-3bbc-470a-9227-217f22d95b90"
+}

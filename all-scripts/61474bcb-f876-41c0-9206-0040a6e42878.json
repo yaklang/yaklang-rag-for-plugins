@@ -1,0 +1,11 @@
+{
+  "app": "TeamPass",
+  "reason": "",
+  "seo": "TeamPass,注入漏洞,未授权访问,LDAP调试文件",
+  "seo_en": "TeamPass,SQL Injection Vulnerability,Unauthorized Access,LDAP Debug File",
+  "success": true,
+  "summary": "该插件用于检测TeamPass密码管理器中的注入漏洞，攻击者可能利用此漏洞获取Web根目录下的敏感文件（如LDAP调试文件）。",
+  "summary_en": "This plugin detects an SQL injection vulnerability in TeamPass password manager. Attackers may exploit this vulnerability to access sensitive files (e.g., LDAP debug files) under the web root directory.",
+  "updated_at": 1742999587,
+  "uuid": "61474bcb-f876-41c0-9206-0040a6e42878"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "WordPress",
+  "reason": "",
+  "seo": "WordPress,SQL注入漏洞,检测,插件",
+  "seo_en": "WordPress,SQL Injection Vulnerability,Detection,Plugin",
+  "success": true,
+  "summary": "该插件用于检测WordPress系统中的SQL注入漏洞，通过构造特定的URL请求来判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the WordPress system by constructing specific URL requests to determine if there are any vulnerabilities.",
+  "updated_at": 1742999588,
+  "uuid": "5b5da9cb-7a16-486d-a4c9-06afc21ad707"
+}

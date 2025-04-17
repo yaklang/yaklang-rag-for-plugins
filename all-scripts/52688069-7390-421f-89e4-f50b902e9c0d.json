@@ -1,0 +1,11 @@
+{
+  "app": "Gitlab",
+  "reason": "",
+  "seo": "Gitlab,漏洞检测,信息泄露,SSRF",
+  "seo_en": "Gitlab, vulnerability detection, information leakage, SSRF",
+  "success": true,
+  "summary": "该插件用于批量检测Gitlab中的信息泄露和SSRF漏洞，通过发送特定的HTTP请求来判断目标是否存在相关漏洞。",
+  "summary_en": "This plugin is used for batch detection of information leakage and SSRF vulnerabilities in Gitlab. It determines whether the target has related vulnerabilities by sending specific HTTP requests.",
+  "updated_at": 1742999597,
+  "uuid": "52688069-7390-421f-89e4-f50b902e9c0d"
+}

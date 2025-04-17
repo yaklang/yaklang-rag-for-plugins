@@ -1,0 +1,11 @@
+{
+  "app": "金和OA-C6",
+  "reason": "",
+  "seo": "金和OA,C6,rssmoduleshttp-aspx,sql注入",
+  "seo_en": "Jinher OA,C6,rssmoduleshttp-aspx,SQL injection",
+  "success": true,
+  "summary": "检测金和OA-C6系统中rssmoduleshttp-aspx是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the rssmoduleshttp-aspx of Jinher OA-C6 system",
+  "updated_at": 1742999581,
+  "uuid": "e42f104f-cc43-4572-8b5b-86b98310854d"
+}

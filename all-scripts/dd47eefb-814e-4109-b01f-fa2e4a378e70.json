@@ -1,0 +1,11 @@
+{
+  "app": "中成科信票务管理平台",
+  "reason": "",
+  "seo": "中成科信,SQL注入漏洞,SeatMapHandler,票务管理平台",
+  "seo_en": "Zhongcheng Kexin,SQL injection vulnerability,SeatMapHandler,ticket management platform",
+  "success": true,
+  "summary": "检测中成科信票务管理平台的SeatMapHandler是否存在SQL注入漏洞",
+  "summary_en": "Detect whether the SeatMapHandler of Zhongcheng Kexin Ticket Management Platform has SQL injection vulnerability",
+  "updated_at": 1742999569,
+  "uuid": "dd47eefb-814e-4109-b01f-fa2e4a378e70"
+}

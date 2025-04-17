@@ -1,0 +1,11 @@
+{
+  "app": "Citrix",
+  "reason": "",
+  "seo": "citrix,漏洞检测,CVE-2020-8191,CVE-2019-19781,CVE-2020-8209,目录遍历,任意文件读取,XSS",
+  "seo_en": "citrix,vulnerability detection,CVE-2020-8191,CVE-2019-19781,CVE-2020-8209,directory traversal,arbitrary file read,XSS",
+  "success": true,
+  "summary": "该插件用于检测Citrix应用中的多个漏洞，包括CVE-2020-8191 XSS漏洞、CVE-2019-19781目录遍历漏洞以及CVE-2020-8209任意文件读取漏洞。",
+  "summary_en": "This plugin is used to detect multiple vulnerabilities in Citrix applications, including CVE-2020-8191 XSS vulnerability, CVE-2019-19781 directory traversal vulnerability, and CVE-2020-8209 arbitrary file read vulnerability.",
+  "updated_at": 1742999599,
+  "uuid": "67ab9529-617f-4e6d-a91c-cd85e09d281c"
+}

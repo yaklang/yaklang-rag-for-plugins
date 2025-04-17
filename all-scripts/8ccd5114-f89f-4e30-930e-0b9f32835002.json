@@ -1,0 +1,11 @@
+{
+  "app": "宏景人力资源信息管理系统",
+  "reason": "",
+  "seo": "宏景,人力资源,信息管理系统,SQL注入漏洞",
+  "seo_en": "Hongjing,HCM,trainplan_tree,SQL injection vulnerability",
+  "success": true,
+  "summary": "检测宏景人力资源信息管理系统中trainplan_tree.jsp文件是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the trainplan_tree.jsp file of the Hongjing Human Resources Information Management System",
+  "updated_at": 1742999579,
+  "uuid": "8ccd5114-f89f-4e30-930e-0b9f32835002"
+}

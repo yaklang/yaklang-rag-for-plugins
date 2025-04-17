@@ -1,0 +1,11 @@
+{
+  "app": "MailEnable",
+  "reason": "",
+  "seo": "MailEnable,漏洞检测,合规检查,CVE,邮件服务器",
+  "seo_en": "MailEnable, vulnerability detection, compliance check, CVE, mail server",
+  "success": true,
+  "summary": "该插件用于检测MailEnable邮件服务器的CVE相关漏洞，涵盖多个版本和漏洞类型，包括缓冲区溢出、拒绝服务、代码执行、跨站脚本等安全问题。",
+  "summary_en": "This plugin is used to detect CVE-related vulnerabilities in the MailEnable mail server, covering multiple versions and vulnerability types, including buffer overflow, denial of service, code execution, cross-site scripting, and other security issues.",
+  "updated_at": 1742999585,
+  "uuid": "6ca7ed00-3d22-4faa-b264-447ef125feab"
+}

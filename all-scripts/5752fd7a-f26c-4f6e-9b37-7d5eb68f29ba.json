@@ -1,0 +1,11 @@
+{
+  "app": "致远OA",
+  "reason": "",
+  "seo": "致远OA, wpsAssistServlet, 文件读取漏洞, 高危漏洞",
+  "seo_en": "Seeyon OA, wpsAssistServlet, File Read Vulnerability, High Risk Vulnerability",
+  "success": true,
+  "summary": "检测致远OA系统的wpsAssistServlet是否存在GET文件读取漏洞，通过访问特定路径尝试获取敏感配置文件内容",
+  "summary_en": "Detects whether the wpsAssistServlet in Seeyon OA system has a GET file read vulnerability by attempting to access specific paths to retrieve sensitive configuration file contents",
+  "updated_at": 1742999580,
+  "uuid": "5752fd7a-f26c-4f6e-9b37-7d5eb68f29ba"
+}

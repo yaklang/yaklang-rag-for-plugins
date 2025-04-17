@@ -1,0 +1,11 @@
+{
+  "app": "大华城市安防监控系统平台",
+  "reason": "",
+  "seo": "大华,任意文件下载漏洞,城市安防监控,文件读取漏洞",
+  "seo_en": "Dahua, Arbitrary File Download Vulnerability, City Surveillance, File Read Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测大华城市安防监控系统平台中的任意文件下载漏洞，攻击者可能通过此漏洞下载服务器上的任意文件。",
+  "summary_en": "This plugin is used to detect the arbitrary file download vulnerability in Dahua city surveillance system platform. Attackers may exploit this vulnerability to download any file from the server.",
+  "updated_at": 1742999587,
+  "uuid": "ec363406-ed73-43b2-9ea2-e17db8fde6f9"
+}

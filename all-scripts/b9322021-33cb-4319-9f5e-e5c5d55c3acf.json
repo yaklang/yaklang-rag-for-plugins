@@ -1,0 +1,11 @@
+{
+  "app": "亿邮电子邮件系统",
+  "reason": "",
+  "seo": "亿邮,远程命令执行漏洞,电子邮件系统,moni_detail.do",
+  "seo_en": "eYou,Remote Command Execution Vulnerability,Email System,moni_detail.do",
+  "success": true,
+  "summary": "该插件旨在检测亿邮电子邮件系统中是否存在moni_detail.do远程命令执行漏洞，通过发送特定请求来验证漏洞是否存在。",
+  "summary_en": "This plugin aims to detect the Remote Command Execution vulnerability in the eYou email system through moni_detail.do. It sends specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999593,
+  "uuid": "b9322021-33cb-4319-9f5e-e5c5d55c3acf"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "子域名收集,域传送,网站搜索,爆破,自动入库",
+  "seo_en": "subdomain collection, zone transfer, web search, brute force, auto storage",
+  "success": true,
+  "summary": "该插件通过多种方式（域传送、网站搜索、爆破）寻找目标的子域名，并将结果自动保存和分类展示，同时支持递归爆破和泛解析停止功能。",
+  "summary_en": "This plugin finds subdomains of the target through various methods (zone transfer, web search, brute force), automatically saves and classifies the results, and supports recursive brute force and wildcard stop functionality.",
+  "updated_at": 1742999585,
+  "uuid": "8cc4491d-5b77-43ea-b6ea-3f78b99b73e2"
+}

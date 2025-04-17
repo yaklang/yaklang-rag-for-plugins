@@ -1,0 +1,11 @@
+{
+  "app": "万户OA",
+  "reason": "",
+  "seo": "万户OA,SQL注入漏洞,DocumentEdit.jsp,指纹识别,漏洞检测",
+  "seo_en": "Wanhu OA,SQL injection vulnerability,DocumentEdit.jsp,fingerprint identification,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测万户OA系统中DocumentEdit.jsp文件的SQL注入漏洞，并通过特定请求包进行指纹识别和漏洞验证。",
+  "summary_en": "This plugin is used to detect the SQL injection vulnerability in the DocumentEdit.jsp file of the Wanhu OA system, and performs fingerprint identification and vulnerability verification through specific request packets.",
+  "updated_at": 1742999593,
+  "uuid": "e54e037e-487c-4689-b2b5-6c7de2b2dc78"
+}

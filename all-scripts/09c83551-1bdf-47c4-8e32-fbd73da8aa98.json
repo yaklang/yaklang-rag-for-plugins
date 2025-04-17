@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "被动扫描,流量转发,poc.HTTP,黑名单,白名单",
+  "seo_en": "passive scanning,traffic forwarding,poc.HTTP,blacklist,whitelist",
+  "success": true,
+  "summary": "该插件的核心意图是将经过yakit的代理流量处理后转发到被动扫描器，同时通过黑白名单和方法过滤机制确保只发送符合条件的流量进行扫描，以防止影响正常代理功能。",
+  "summary_en": "The core intention of this plugin is to forward the proxy traffic processed by yakit to a passive scanner. It ensures that only traffic meeting specific conditions is sent for scanning through blacklist and whitelist filtering mechanisms, thus preventing interference with normal proxy functions.",
+  "updated_at": 1742999570,
+  "uuid": "09c83551-1bdf-47c4-8e32-fbd73da8aa98"
+}

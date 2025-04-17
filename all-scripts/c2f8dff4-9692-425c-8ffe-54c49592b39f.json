@@ -1,0 +1,11 @@
+{
+  "app": "Cacti",
+  "reason": "",
+  "seo": "Cacti,SQL注入,漏洞检测,graph_view.php,rfilter",
+  "seo_en": "Cacti,SQL Injection,vulnerability detection,graph_view.php,rfilter",
+  "success": true,
+  "summary": "该插件用于检测Cacti 1.2.24版本中graph_view.php的'rfilter'参数存在的SQL注入漏洞，该漏洞允许攻击者在未认证的情况下执行任意SQL命令。",
+  "summary_en": "This plugin detects the SQL Injection vulnerability in the 'rfilter' parameter of graph_view.php in Cacti 1.2.24, which allows attackers to execute arbitrary SQL commands without authentication.",
+  "updated_at": 1742999579,
+  "uuid": "c2f8dff4-9692-425c-8ffe-54c49592b39f"
+}

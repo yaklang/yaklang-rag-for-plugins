@@ -1,0 +1,11 @@
+{
+  "app": "VMware vCenter Server",
+  "reason": "",
+  "seo": "VMware,远程代码执行漏洞,CVE-2021-21985,插件,检测",
+  "seo_en": "VMware,Remote Code Execution Vulnerability,CVE-2021-21985,plugin,detection",
+  "success": true,
+  "summary": "该插件用于检测VMware vCenter Server是否存在CVE-2021-21985远程代码执行漏洞，通过发送多个HTTP请求验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether VMware vCenter Server has the CVE-2021-21985 Remote Code Execution vulnerability by sending multiple HTTP requests to verify if the target system is affected.",
+  "updated_at": 1742999589,
+  "uuid": "f1efdb4b-ddf3-4dc6-926b-95984b2ae16b"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Xiuno BBS",
+  "reason": "",
+  "seo": "xiuno bbs,漏洞,重装漏洞,安全检测",
+  "seo_en": "xiuno bbs,vulnerability,reinstallation vulnerability,security detection",
+  "success": true,
+  "summary": "该插件用于检测Xiuno BBS是否存在CVND-2019-01348重装漏洞，通过访问/install/路径判断系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the CVND-2019-01348 reinstallation vulnerability exists in Xiuno BBS by checking the /install/ path.",
+  "updated_at": 1742999589,
+  "uuid": "e40459b3-907c-4ce0-a72e-d3a690095f39"
+}

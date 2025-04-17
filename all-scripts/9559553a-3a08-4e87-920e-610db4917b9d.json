@@ -1,0 +1,11 @@
+{
+  "app": "rabbitmq",
+  "reason": "",
+  "seo": "rabbitmq,默认密码漏洞,在线检测",
+  "seo_en": "rabbitmq,default password vulnerability,online detection",
+  "success": true,
+  "summary": "该插件用于检测RabbitMQ是否存在默认密码漏洞，通过发送HTTP请求验证guest用户是否可以登录。",
+  "summary_en": "This plugin is used to detect whether RabbitMQ has a default password vulnerability by sending HTTP requests to verify if the guest user can log in.",
+  "updated_at": 1742999591,
+  "uuid": "9559553a-3a08-4e87-920e-610db4917b9d"
+}

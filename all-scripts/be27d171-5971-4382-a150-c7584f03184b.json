@@ -1,0 +1,11 @@
+{
+  "app": "用友NC系统",
+  "reason": "",
+  "seo": "用友NC,密码绕过漏洞,漏洞检测,系统安全",
+  "seo_en": "Yonyou NC,password bypass vulnerability,vulnerability detection,system security",
+  "success": true,
+  "summary": "该插件用于检测用友NC控制台是否存在密码绕过漏洞，攻击者可能利用此漏洞绕过登录验证进行后台操作。",
+  "summary_en": "This plugin is used to detect whether there is a password bypass vulnerability in the Yonyou NC console. Attackers may exploit this vulnerability to bypass login verification and perform backend operations.",
+  "updated_at": 1742999597,
+  "uuid": "be27d171-5971-4382-a150-c7584f03184b"
+}

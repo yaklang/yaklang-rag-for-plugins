@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "请求包美化,JSON,XML,格式化",
+  "seo_en": "Request beautification,JSON,XML,Formatting",
+  "success": true,
+  "summary": "该插件用于美化和格式化HTTP请求包中的JSON或XML格式的Body内容，提升可读性。",
+  "summary_en": "This plugin is used to beautify and format the JSON or XML formatted Body content in HTTP request packets to improve readability.",
+  "updated_at": 1742999582,
+  "uuid": "60af3fd2-ad81-48ff-8251-13390d0f19ba"
+}

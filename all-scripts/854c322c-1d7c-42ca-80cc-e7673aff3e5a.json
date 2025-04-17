@@ -1,0 +1,11 @@
+{
+  "app": "用友U8 Cloud",
+  "reason": "",
+  "seo": "用友U8,反序列化漏洞,MonitorServlet,漏洞检测",
+  "seo_en": "Yonyou U8, deserialization vulnerability, MonitorServlet, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测用友U8 Cloud中的MonitorServlet反序列化漏洞，通过发送特定的HTTP请求来判断目标是否存在该漏洞。",
+  "summary_en": "This plugin is used to detect the MonitorServlet deserialization vulnerability in Yonyou U8 Cloud by sending a specific HTTP request to determine if the target is vulnerable.",
+  "updated_at": 1742999572,
+  "uuid": "854c322c-1d7c-42ca-80cc-e7673aff3e5a"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "复制HTTP主体,base64编码,插件,Codec,字符串处理",
+  "seo_en": "Copy HTTP body,base64 encoding,plugin,Codec,string processing",
+  "success": true,
+  "summary": "该插件用于复制并以base64编码格式输出HTTP数据包的主体部分，适用于自定义编码解码和字符串处理场景。",
+  "summary_en": "This plugin copies and outputs the body of an HTTP packet in base64 encoded format, used for custom encoding/decoding and string processing scenarios.",
+  "updated_at": 1742999573,
+  "uuid": "a45a1f24-0937-4379-9c93-ad03cf6d4735"
+}

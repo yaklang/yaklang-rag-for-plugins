@@ -1,0 +1,11 @@
+{
+  "app": "言中摄像头",
+  "reason": "",
+  "seo": "言中摄像头,默认口令漏洞,高危,摄像头安全,漏洞检测",
+  "seo_en": "Yanzhong Camera,default credential vulnerability,high severity,camera security,vulnerability detection",
+  "success": true,
+  "summary": "该插件旨在检测言中摄像头是否存在默认用户名和密码（admin/admin）的漏洞，并提取设备厂商、产品型号和固件版本信息。",
+  "summary_en": "This plugin is designed to detect whether the Yanzhong camera has the default username and password (admin/admin) vulnerability, and extract the device manufacturer, product model, and firmware version information.",
+  "updated_at": 1742999585,
+  "uuid": "f35670d7-92db-4433-b86a-ba70a4f41e33"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "SeaCMS",
+  "reason": "",
+  "seo": "seacms,漏洞,远程代码执行,rce,插件",
+  "seo_en": "seacms,vulnerability,remote code execution,rce,plugin",
+  "success": true,
+  "summary": "检测SeaCMS在v992版本之前的远程代码执行（RCE）漏洞，通过构造特定请求判断目标是否存在漏洞。",
+  "summary_en": "Detect the Remote Code Execution (RCE) vulnerability in SeaCMS versions before v992 by constructing specific requests to determine if the target is vulnerable.",
+  "updated_at": 1742999591,
+  "uuid": "ae5207df-bd7f-440e-bad7-38e4b87c340c"
+}

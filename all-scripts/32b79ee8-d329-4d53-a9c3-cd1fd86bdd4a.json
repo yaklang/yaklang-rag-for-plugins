@@ -1,0 +1,11 @@
+{
+  "app": "xdcms",
+  "reason": "",
+  "seo": "xdcms,sql漏洞,在线检测,插件",
+  "seo_en": "xdcms,sql vulnerability,online detection,plugin",
+  "success": true,
+  "summary": "该插件用于检测xdcms系统是否存在SQL注入漏洞，通过构造特定的POST请求来验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the xdcms system by constructing specific POST requests to verify whether the target system is affected.",
+  "updated_at": 1742999589,
+  "uuid": "32b79ee8-d329-4d53-a9c3-cd1fd86bdd4a"
+}

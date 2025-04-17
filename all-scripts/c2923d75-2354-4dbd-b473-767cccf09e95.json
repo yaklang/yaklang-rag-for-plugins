@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,任意文件下载,视频文件漏洞",
+  "seo_en": "Tongda OA, arbitrary file download, video file vulnerability",
+  "success": true,
+  "summary": "检测通达OA v2017中video_file.php文件存在的任意文件下载漏洞，攻击者可能利用此漏洞读取服务器敏感文件",
+  "summary_en": "Detect the arbitrary file download vulnerability in the video_file.php file of Tongda OA v2017. Attackers may exploit this vulnerability to read sensitive files on the server.",
+  "updated_at": 1742999593,
+  "uuid": "c2923d75-2354-4dbd-b473-767cccf09e95"
+}

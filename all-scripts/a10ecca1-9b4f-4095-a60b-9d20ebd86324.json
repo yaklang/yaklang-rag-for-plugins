@@ -1,0 +1,11 @@
+{
+  "app": "章管家应用",
+  "reason": "",
+  "seo": "章管家,SQL注入漏洞,appmessagelistUploadIntelligent.htm,高危漏洞",
+  "seo_en": "ZhangguanJia,SQL Injection Vulnerability,appmessagelistUploadIntelligent.htm,High Risk Vulnerability",
+  "success": true,
+  "summary": "检测章管家应用的appmessagelistUploadIntelligent.htm接口是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the appmessagelistUploadIntelligent.htm interface of ZhangguanJia application",
+  "updated_at": 1742999569,
+  "uuid": "a10ecca1-9b4f-4095-a60b-9d20ebd86324"
+}

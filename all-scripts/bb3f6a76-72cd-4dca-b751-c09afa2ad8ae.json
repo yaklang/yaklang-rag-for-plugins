@@ -1,0 +1,11 @@
+{
+  "app": "用友GRP-A++",
+  "reason": "",
+  "seo": "用友,GRP-A++,未授权访问,信息泄露",
+  "seo_en": "Yonyou,GRP-A++,unauthorized access,information leak",
+  "success": true,
+  "summary": "检测用友GRP-A++系统的未授权访问漏洞，通过特定接口获取分类树数据可能导致信息泄露",
+  "summary_en": "Detect unauthorized access vulnerability in Yonyou GRP-A++ system. Obtaining classify tree data through specific interfaces may lead to information leakage",
+  "updated_at": 1742999581,
+  "uuid": "bb3f6a76-72cd-4dca-b751-c09afa2ad8ae"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "net-snmp",
+  "reason": "",
+  "seo": "Net-snmp,CVE,合规检查,漏洞检测,拒绝服务,代码执行",
+  "seo_en": "Net-snmp,CVE,compliance check,vulnerability detection,denial of service,code execution",
+  "success": true,
+  "summary": "该插件用于检测Net-snmp应用的CVE漏洞，涵盖2002年至2022年的多个版本，主要检查拒绝服务、安全绕过、代码执行等高危漏洞。",
+  "summary_en": "This plugin is used to detect CVE vulnerabilities in the Net-snmp application, covering multiple versions from 2002 to 2022, mainly checking high-risk vulnerabilities such as denial of service, security bypass, and code execution.",
+  "updated_at": 1742999585,
+  "uuid": "52607690-d830-4231-b854-b72720ab8641"
+}

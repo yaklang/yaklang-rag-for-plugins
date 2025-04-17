@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Fofa查询,API,资产入库,端口资产,域名资产",
+  "seo_en": "Fofa query,API,asset storage,port asset,domain asset",
+  "success": true,
+  "summary": "通过Fofa API查询目标信息并将结果存入Yak数据库，支持端口资产和域名资产的保存。",
+  "summary_en": "Query target information via Fofa API and store the results in the Yak database, supporting the storage of port assets and domain assets.",
+  "updated_at": 1742999604,
+  "uuid": "9939d9b9-b5c4-4fe2-b4d3-2e8c522e43f7"
+}

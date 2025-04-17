@@ -1,0 +1,11 @@
+{
+  "app": "Oracle E-Business Suite",
+  "reason": "",
+  "seo": "Oracle EBS,文件读取漏洞,bispgrapgh,jsp,漏洞检测",
+  "seo_en": "Oracle EBS,file read vulnerability,bispgrapgh,jsp,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Oracle E-Business Suite中的bispgrapgh.jsp文件读取漏洞，通过构造特定的URL请求来验证是否存在漏洞并返回相关信息。",
+  "summary_en": "This plugin is used to detect the file read vulnerability in bispgrapgh.jsp of Oracle E-Business Suite. It constructs specific URL requests to verify the existence of the vulnerability and returns relevant information.",
+  "updated_at": 1742999586,
+  "uuid": "376469ef-b024-4a79-ba78-ad49ed1de49c"
+}

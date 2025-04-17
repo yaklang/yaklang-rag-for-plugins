@@ -1,0 +1,11 @@
+{
+  "app": "Apache OFBiz",
+  "reason": "",
+  "seo": "Apache OFBiz,远程代码执行漏洞,CVE-2023-51467,groovy RCE",
+  "seo_en": "Apache OFBiz,Remote Code Execution Vulnerability,CVE-2023-51467,groovy RCE",
+  "success": true,
+  "summary": "检测Apache OFBiz中的远程代码执行漏洞（CVE-2023-51467），通过groovy脚本实现RCE攻击",
+  "summary_en": "Detect the Remote Code Execution vulnerability (CVE-2023-51467) in Apache OFBiz and exploit it using a groovy script",
+  "updated_at": 1742999582,
+  "uuid": "692a039e-2e3b-4dcc-b935-33927af6ddbc"
+}

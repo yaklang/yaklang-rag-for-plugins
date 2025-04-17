@@ -1,0 +1,11 @@
+{
+  "app": "用友NC系统",
+  "reason": "",
+  "seo": "用友NC,soapFormat,XXE漏洞,文件读取",
+  "seo_en": "Yonyou NC,soapFormat,XXE vulnerability,file read",
+  "success": true,
+  "summary": "该插件用于检测用友NC系统的soapFormat接口是否存在XXE漏洞，通过构造恶意请求读取服务器上的文件。",
+  "summary_en": "This plugin is used to detect whether the soapFormat interface of Yonyou NC system has XXE vulnerability, and reads files on the server by constructing malicious requests.",
+  "updated_at": 1742999581,
+  "uuid": "9b0df02c-8be0-4a19-b7a2-1e0cdbb60cf4"
+}

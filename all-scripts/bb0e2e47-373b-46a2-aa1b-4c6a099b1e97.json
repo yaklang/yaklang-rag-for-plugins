@@ -1,0 +1,11 @@
+{
+  "app": "Ivanti Connect Secure",
+  "reason": "",
+  "seo": "Ivanti,SSRF,远程代码执行,CVE-2024-21893,SAML漏洞",
+  "seo_en": "Ivanti,SSRF,Remote Code Execution,CVE-2024-21893,SAML vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Ivanti Connect Secure和Ivanti Policy Secure中的SAML组件服务器端请求伪造（SSRF）漏洞，可能导致远程代码执行。",
+  "summary_en": "This plugin is used to detect Server-Side Request Forgery (SSRF) vulnerabilities in the SAML component of Ivanti Connect Secure and Ivanti Policy Secure, which may lead to Remote Code Execution.",
+  "updated_at": 1742999581,
+  "uuid": "bb0e2e47-373b-46a2-aa1b-4c6a099b1e97"
+}

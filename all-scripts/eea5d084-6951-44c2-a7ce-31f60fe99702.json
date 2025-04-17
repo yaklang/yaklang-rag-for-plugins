@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "AI生成,Python发包脚本,HTTPFlow,字符串处理",
+  "seo_en": "AI generation,Python packet sending script,HTTPFlow,string processing",
+  "success": true,
+  "summary": "该插件通过AI生成Python代码，用于发送HTTP请求，主要使用requests库实现，方便用户复制粘贴生成的代码。",
+  "summary_en": "This plugin uses AI to generate Python code for sending HTTP requests, primarily using the requests library, making it easy for users to copy and paste the generated code.",
+  "updated_at": 1742999579,
+  "uuid": "eea5d084-6951-44c2-a7ce-31f60fe99702"
+}

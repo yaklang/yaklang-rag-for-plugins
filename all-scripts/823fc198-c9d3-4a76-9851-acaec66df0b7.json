@@ -1,0 +1,11 @@
+{
+  "app": "海康威视SPON IP网络对讲广播系统",
+  "reason": "",
+  "seo": "海康威视,SPON,IP网络对讲广播系统,任意文件上传",
+  "seo_en": "Hikvision,SPON,IP Network Intercom Broadcast System,Arbitrary File Upload",
+  "success": true,
+  "summary": "检测海康威视SPON IP网络对讲广播系统是否存在busyscreenshotpush.php的任意文件上传漏洞，通过上传恶意PHP文件验证漏洞是否存在。",
+  "summary_en": "Detect whether the Hikvision SPON IP Network Intercom Broadcast System has an arbitrary file upload vulnerability in busyscreenshotpush.php by uploading a malicious PHP file to verify the existence of the vulnerability.",
+  "updated_at": 1742999577,
+  "uuid": "823fc198-c9d3-4a76-9851-acaec66df0b7"
+}

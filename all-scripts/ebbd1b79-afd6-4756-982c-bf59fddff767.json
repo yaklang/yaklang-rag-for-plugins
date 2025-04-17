@@ -1,0 +1,11 @@
+{
+  "app": "安网科技-智能路由系统",
+  "reason": "",
+  "seo": "secnet ac,默认密码漏洞,智能路由系统,安网科技",
+  "seo_en": "secnet ac,default password vulnerability,intelligent routing system,secnet technology",
+  "success": true,
+  "summary": "该插件用于检测安网科技-智能路由系统的默认密码漏洞，通过访问特定URL并验证返回内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect the default password vulnerability of SecNet AC Intelligent Routing System by accessing specific URLs and verifying the response content.",
+  "updated_at": 1742999591,
+  "uuid": "ebbd1b79-afd6-4756-982c-bf59fddff767"
+}

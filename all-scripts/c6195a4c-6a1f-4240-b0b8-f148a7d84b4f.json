@@ -1,0 +1,11 @@
+{
+  "app": "Spring",
+  "reason": "",
+  "seo": "Spring Actuator,敏感信息泄漏,漏洞检测",
+  "seo_en": "Spring Actuator,sensitive information leakage,vulnerability detection",
+  "success": true,
+  "summary": "检测Spring Actuator是否存在敏感信息泄漏问题，包括环境配置、日志、健康状态等路径的泄露情况",
+  "summary_en": "Detect whether there is a sensitive information leakage issue in Spring Actuator, including the leakage of environment configuration, logs, health status and other paths",
+  "updated_at": 1742999604,
+  "uuid": "c6195a4c-6a1f-4240-b0b8-f148a7d84b4f"
+}

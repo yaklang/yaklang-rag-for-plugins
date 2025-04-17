@@ -1,0 +1,11 @@
+{
+  "app": "泛微 OA e-cology",
+  "reason": "",
+  "seo": "泛微 OA,XXE漏洞,dnslog判断,插件",
+  "seo_en": "Weaver OA,XXE vulnerability,dnslog check,plugin",
+  "success": true,
+  "summary": "检测泛微 OA e-cology 系统是否存在 XXE 漏洞，并通过 dnslog 判断漏洞是否可利用。",
+  "summary_en": "Detect XXE vulnerability in Weaver OA e-cology system and determine exploitability using dnslog.",
+  "updated_at": 1742999583,
+  "uuid": "7b3670a6-bf3a-42d8-85ff-0e72fdfa2680"
+}

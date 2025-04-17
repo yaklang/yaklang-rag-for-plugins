@@ -1,0 +1,11 @@
+{
+  "app": "迈普ISG1000",
+  "reason": "",
+  "seo": "迈普ISG1000,任意文件下载,漏洞检测,安全网关",
+  "seo_en": "Maipu ISG1000, arbitrary file download, vulnerability detection, security gateway",
+  "success": true,
+  "summary": "该插件用于检测迈普ISG1000安全网关是否存在任意文件下载漏洞，通过发送特定请求并验证响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Maipu ISG1000 security gateway has an arbitrary file download vulnerability, confirming the existence of the vulnerability by sending specific requests and verifying the response content.",
+  "updated_at": 1742999592,
+  "uuid": "dfc7d5db-2338-43f5-843a-233bf0f4e2fd"
+}

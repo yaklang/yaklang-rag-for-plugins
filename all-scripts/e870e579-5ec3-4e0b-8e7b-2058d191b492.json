@@ -1,0 +1,11 @@
+{
+  "app": "万户协同办公平台 ezoffice",
+  "reason": "",
+  "seo": "万户协同办公平台,ezoffice,SQL注入漏洞,DocumentEdit_unite.jsp",
+  "seo_en": "Wanhu Collaborative Office Platform,ezoffice,SQL injection vulnerability,DocumentEdit_unite.jsp",
+  "success": true,
+  "summary": "检测万户协同办公平台 ezoffice 的 DocumentEdit_unite.jsp 文件是否存在 SQL 注入漏洞，通过发送特定请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the DocumentEdit_unite.jsp file of the Wanhu Collaborative Office Platform ezoffice. It determines the existence of vulnerabilities by sending specific requests and measuring response times.",
+  "updated_at": 1742999572,
+  "uuid": "e870e579-5ec3-4e0b-8e7b-2058d191b492"
+}

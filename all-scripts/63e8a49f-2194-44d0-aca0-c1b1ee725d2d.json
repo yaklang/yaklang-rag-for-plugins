@@ -1,0 +1,11 @@
+{
+  "app": "宏景eHR系统",
+  "reason": "",
+  "seo": "宏景eHR,SQL注入漏洞,fieldsettree",
+  "seo_en": "Hongjing eHR,SQL injection vulnerability,fieldsettree",
+  "success": true,
+  "summary": "检测宏景eHR系统的fieldsettree功能是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the fieldsettree function of the Hongjing eHR system",
+  "updated_at": 1742999579,
+  "uuid": "63e8a49f-2194-44d0-aca0-c1b1ee725d2d"
+}

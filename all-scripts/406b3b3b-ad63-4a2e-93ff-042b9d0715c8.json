@@ -1,0 +1,11 @@
+{
+  "app": "泛微e-cology",
+  "reason": "",
+  "seo": "泛微,OA系统,任意文件读取漏洞,e-cology9XmlRpcServlet",
+  "seo_en": "Fanwei,OA system,Arbitrary file read vulnerability,e-cology9XmlRpcServlet",
+  "success": true,
+  "summary": "检测泛微e-cology9XmlRpcServlet是否存在任意文件读取漏洞，通过发送特定请求尝试读取系统文件来验证漏洞是否存在。",
+  "summary_en": "Detect whether there is an arbitrary file read vulnerability in Fanwei e-cology9XmlRpcServlet by sending specific requests to attempt reading system files to verify the existence of the vulnerability.",
+  "updated_at": 1742999579,
+  "uuid": "406b3b3b-ad63-4a2e-93ff-042b9d0715c8"
+}

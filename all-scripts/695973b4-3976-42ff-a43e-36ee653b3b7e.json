@@ -1,0 +1,11 @@
+{
+  "app": "Nacos",
+  "reason": "",
+  "seo": "Nacos,身份认证绕过,JWT,默认密钥,漏洞检测",
+  "seo_en": "Nacos, authentication bypass, JWT, default secret key, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Nacos版本低于2.2.0时存在的默认JWT Token认证绕过漏洞，可提取用户信息或创建新用户。",
+  "summary_en": "This plugin detects the default JWT Token authentication bypass vulnerability in Nacos versions below 2.2.0, allowing extraction of user information or creation of new users.",
+  "updated_at": 1742999568,
+  "uuid": "695973b4-3976-42ff-a43e-36ee653b3b7e"
+}

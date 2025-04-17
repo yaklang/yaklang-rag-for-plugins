@@ -1,0 +1,11 @@
+{
+  "app": "Webgrind",
+  "reason": "",
+  "seo": "Webgrind,CVE-2018-12909,任意文件读取漏洞,插件,检测",
+  "seo_en": "Webgrind,CVE-2018-12909,Arbitrary File Read,Vulnerability,Plugin",
+  "success": true,
+  "summary": "该插件用于检测Webgrind应用是否存在CVE-2018-12909任意文件读取漏洞，通过访问特定路径判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect whether the Webgrind application has the CVE-2018-12909 arbitrary file read vulnerability by accessing a specific path to determine if the vulnerability exists.",
+  "updated_at": 1742999595,
+  "uuid": "4fce919e-a71a-4b29-9ed9-51f708e066a4"
+}

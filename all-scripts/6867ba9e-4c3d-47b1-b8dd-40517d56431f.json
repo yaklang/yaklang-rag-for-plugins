@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "杀软匹配,进程数据,tasklist,svc",
+  "seo_en": "antivirus matching,process data,tasklist,svc",
+  "success": true,
+  "summary": "该插件用于检测和匹配系统中的杀毒软件进程，通过分析tasklist /svc数据来识别已知的杀软及其相关服务。",
+  "summary_en": "This plugin is used to detect and match antivirus software processes in the system by analyzing tasklist /svc data to identify known antivirus programs and their related services.",
+  "updated_at": 1742999595,
+  "uuid": "6867ba9e-4c3d-47b1-b8dd-40517d56431f"
+}

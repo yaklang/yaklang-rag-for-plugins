@@ -1,0 +1,11 @@
+{
+  "app": "weiphp",
+  "reason": "",
+  "seo": "weiphp,sql漏洞,在线检测,插件",
+  "seo_en": "weiphp,sql vulnerability,online detection,plugin",
+  "success": true,
+  "summary": "该插件用于检测weiphp系统中的SQL注入漏洞，通过构造特定的请求来判断目标是否存在漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the weiphp system by constructing specific requests to determine if the target is vulnerable.",
+  "updated_at": 1742999589,
+  "uuid": "00d0f312-a3e2-4228-8f27-b0c0ddded9f1"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Go pprof,内存泄露检测,信息泄露,漏洞检测",
+  "seo_en": "Go pprof,memory leak detection,information disclosure,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Go语言应用程序中pprof接口是否存在内存泄露和信息泄露漏洞，通过发送特定请求并分析响应内容来判断是否存在风险。",
+  "summary_en": "This plugin is used to detect memory leaks and information disclosure vulnerabilities in the pprof interface of Go language applications. It sends specific requests and analyzes the response content to determine if there are any risks.",
+  "updated_at": 1742999597,
+  "uuid": "e9729947-e963-4cb7-8380-33cc70671a98"
+}

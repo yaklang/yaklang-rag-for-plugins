@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "冰蝎3,流量解密,AES,Base64,加密流量,解密工具",
+  "seo_en": "BingScorpion 3,traffic decryption,AES,Base64,encrypted traffic,decryption tool",
+  "success": true,
+  "summary": "该插件用于解密冰蝎3的AES+Base64加密流量，并计划后续支持冰蝎4及其它加密方式（如Xor、magic）的解密，同时还将推出哥斯拉和冰蝎的密钥爆破插件。",
+  "summary_en": "This plugin is used to decrypt BingScorpion 3 AES+Base64 encrypted traffic and plans to support decryption of other encryption methods (such as Xor, magic) in the future. It will also launch key cracking plugins for Godzilla and BingScorpion.",
+  "updated_at": 1742999575,
+  "uuid": "a5c41599-fa2e-4b6b-9e23-c91e59f6c86e"
+}

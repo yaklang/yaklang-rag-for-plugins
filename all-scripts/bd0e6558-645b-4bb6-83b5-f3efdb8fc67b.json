@@ -1,0 +1,11 @@
+{
+  "app": "大华智慧园区综合管理平台",
+  "reason": "",
+  "seo": "大华智慧园区,文件上传漏洞,任意文件上传,视频文件,安全测试",
+  "seo_en": "Dahua Smart Park, file upload vulnerability, arbitrary file upload, video file, security test",
+  "success": true,
+  "summary": "该插件旨在检测大华智慧园区综合管理平台是否存在任意文件上传漏洞，通过向特定接口发送POST请求并验证响应结果来确认漏洞是否存在。",
+  "summary_en": "This plugin is designed to detect whether the Dahua Smart Park Integrated Management Platform has an arbitrary file upload vulnerability. It sends a POST request to a specific endpoint and verifies the response to confirm the existence of the vulnerability.",
+  "updated_at": 1742999577,
+  "uuid": "bd0e6558-645b-4bb6-83b5-f3efdb8fc67b"
+}

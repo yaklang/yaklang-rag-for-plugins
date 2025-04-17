@@ -1,0 +1,11 @@
+{
+  "app": "ZeroShell",
+  "reason": "",
+  "seo": "Zeroshell,远程命令执行漏洞,3.9.0,x509view",
+  "seo_en": "Zeroshell,Remote Command Execution Vulnerability,3.9.0,x509view",
+  "success": true,
+  "summary": "检测 ZeroShell 3.9.0 及以下版本是否存在 'cgi-bin/kerbynet' 远程命令注入漏洞，利用该漏洞可以实现远程代码执行",
+  "summary_en": "Detect remote command injection vulnerability in ZeroShell version 3.9.0 and below at 'cgi-bin/kerbynet', which allows remote code execution",
+  "updated_at": 1742999589,
+  "uuid": "71bdc849-fd99-43a2-b312-3ec63c7ae102"
+}

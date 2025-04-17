@@ -1,0 +1,11 @@
+{
+  "app": "天问物业ERP系统",
+  "reason": "",
+  "seo": "天问物业ERP系统,任意文件读取,漏洞检测,AreaAvatarDownLoad",
+  "seo_en": "Tianwen Property ERP System, arbitrary file read, vulnerability detection, AreaAvatarDownLoad",
+  "success": true,
+  "summary": "检测天问物业ERP系统中是否存在通过AreaAvatarDownLoad功能的任意文件读取漏洞",
+  "summary_en": "Detect the arbitrary file read vulnerability through the AreaAvatarDownLoad function in Tianwen Property ERP System",
+  "updated_at": 1742999572,
+  "uuid": "cef5c0f1-78b0-4d07-82de-0e19d2e677ca"
+}

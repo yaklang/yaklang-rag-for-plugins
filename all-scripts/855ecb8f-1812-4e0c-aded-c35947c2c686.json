@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "删除HTTP数据包Header,HTTP请求,HTTP响应,插件",
+  "seo_en": "Delete HTTP packet headers,HTTP request,HTTP response,plugin",
+  "success": true,
+  "summary": "该插件用于删除HTTP请求或响应中的指定Header，可以针对请求、响应或者两者同时生效。",
+  "summary_en": "This plugin is used to delete specified headers in HTTP requests or responses, and can be applied to requests, responses, or both simultaneously.",
+  "updated_at": 1742999569,
+  "uuid": "855ecb8f-1812-4e0c-aded-c35947c2c686"
+}

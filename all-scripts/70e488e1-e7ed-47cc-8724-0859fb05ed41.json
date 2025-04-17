@@ -1,0 +1,11 @@
+{
+  "app": "Jolokia agent",
+  "reason": "",
+  "seo": "Jolokia,JNDI注入漏洞,漏洞检测,代码注入",
+  "seo_en": "Jolokia,JNDI Injection Vulnerability,Vulnerability Detection,Code Injection",
+  "success": true,
+  "summary": "该插件用于检测Jolokia agent是否存在JNDI注入漏洞，通过发送特定的HTTP请求来验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the Jolokia agent has a JNDI injection vulnerability by sending specific HTTP requests to verify if the target system is affected.",
+  "updated_at": 1742999587,
+  "uuid": "70e488e1-e7ed-47cc-8724-0859fb05ed41"
+}

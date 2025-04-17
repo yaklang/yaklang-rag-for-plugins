@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "IP批量查询,归属地,网络信息",
+  "seo_en": "IP batch query,location,network information",
+  "success": true,
+  "summary": "该插件用于批量查询IP地址的归属地信息，包括国家、地区、城市和ISP等详细信息，并统计涉及的C段网络。",
+  "summary_en": "This plugin is used for batch querying the location information of IP addresses, including detailed information such as country, region, city, and ISP, and also counts the involved C-class networks.",
+  "updated_at": 1742999604,
+  "uuid": "293e27b4-f178-4ab1-a5a6-aa6b9936ab67"
+}

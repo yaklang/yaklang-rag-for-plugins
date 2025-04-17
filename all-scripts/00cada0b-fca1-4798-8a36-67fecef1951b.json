@@ -1,0 +1,11 @@
+{
+  "app": "泛微OA E-Weaver",
+  "reason": "",
+  "seo": "泛微OA,任意文件读取漏洞,SignatureDownLoad接口,漏洞检测",
+  "seo_en": "Panwei OA,file read vulnerability,SignatureDownLoad interface,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测泛微OA E-Weaver系统中SignatureDownLoad接口的任意文件读取漏洞，通过构造特定请求验证是否存在漏洞并报告结果",
+  "summary_en": "This plugin is used to detect the arbitrary file read vulnerability in the SignatureDownLoad interface of Panwei OA E-Weaver system. It constructs specific requests to verify the existence of the vulnerability and reports the results",
+  "updated_at": 1742999593,
+  "uuid": "00cada0b-fca1-4798-8a36-67fecef1951b"
+}

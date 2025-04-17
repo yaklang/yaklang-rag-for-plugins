@@ -1,0 +1,11 @@
+{
+  "app": "Laravel",
+  "reason": "",
+  "seo": "Laravel,漏洞检测,批量检测,RCE,信息泄露,配置不当",
+  "seo_en": "Laravel, vulnerability detection, batch detection, RCE, information leakage, misconfiguration",
+  "success": true,
+  "summary": "该插件用于批量检测Laravel应用的RCE漏洞、信息泄露问题和配置不当问题，涉及的具体漏洞包括CVE-2021-3129等。",
+  "summary_en": "This plugin is used for batch detection of RCE vulnerabilities, information leakage, and misconfiguration issues in Laravel applications, including specific vulnerabilities like CVE-2021-3129.",
+  "updated_at": 1742999592,
+  "uuid": "aad4d052-1894-4b44-83a3-ce335dc92a34"
+}

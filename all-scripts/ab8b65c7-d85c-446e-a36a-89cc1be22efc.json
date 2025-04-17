@@ -1,0 +1,11 @@
+{
+  "app": "奇安信天擎终端安全管理系统",
+  "reason": "",
+  "seo": "奇安信,天擎,终端安全,API信息检测,信息泄露",
+  "seo_en": "QiAnXin,TianQing,endpoint security,API information detection,information leakage",
+  "success": true,
+  "summary": "检测奇安信天擎终端安全管理系统是否存在API信息泄露漏洞",
+  "summary_en": "Detect whether there is an API information leakage vulnerability in QiAnXin TianQing Endpoint Security Management System",
+  "updated_at": 1742999599,
+  "uuid": "ab8b65c7-d85c-446e-a36a-89cc1be22efc"
+}

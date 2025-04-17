@@ -1,0 +1,11 @@
+{
+  "app": "深信服 应用交付管理系统",
+  "reason": "",
+  "seo": "深信服,应用交付管理系统,sys_user.conf,账号密码泄漏漏洞",
+  "seo_en": "Sangfor,Application Delivery Management System,sys_user.conf,account password leakage vulnerability",
+  "success": true,
+  "summary": "该插件用于检测深信服应用交付管理系统的sys_user.conf文件是否存在未授权访问漏洞，可能导致账号密码泄漏。",
+  "summary_en": "This plugin is used to detect whether the sys_user.conf file of Sangfor Application Delivery Management System has unauthorized access vulnerabilities, which may lead to account password leakage.",
+  "updated_at": 1742999595,
+  "uuid": "bf13b779-094e-43c9-95cf-165ef47e9c04"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "通达系统",
+  "reason": "",
+  "seo": "通达,用户会话泄露漏洞,安全检测",
+  "seo_en": "Tongda,user session disclosure vulnerability,security detection",
+  "success": true,
+  "summary": "该插件用于检测通达系统中存在的用户会话泄露漏洞，通过发送特定请求判断是否存在风险。",
+  "summary_en": "This plugin is used to detect the user session disclosure vulnerability in the Tongda system by sending specific requests to determine if there is a risk.",
+  "updated_at": 1742999589,
+  "uuid": "67f9dcf6-b11b-4476-9dae-c6eaddc71f14"
+}

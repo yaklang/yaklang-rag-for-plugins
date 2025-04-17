@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "RTSP,视频流,传输检测,插件",
+  "seo_en": "RTSP, video stream, transmission detection, plugin",
+  "success": true,
+  "summary": "该插件用于检测RTSP服务是否运行，并尝试获取有效的RTSP视频流传输地址。",
+  "summary_en": "This plugin is used to detect whether the RTSP service is running and attempts to obtain a valid RTSP video stream transmission address.",
+  "updated_at": 1742999604,
+  "uuid": "d8cd650e-e2c3-47d2-8299-afee5bf3c97d"
+}

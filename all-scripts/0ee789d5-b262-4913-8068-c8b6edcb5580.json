@@ -1,0 +1,11 @@
+{
+  "app": "Jboss",
+  "reason": "",
+  "seo": "Jboss,CVE-2010-1871,漏洞检测,远程代码执行,RCE",
+  "seo_en": "Jboss,CVE-2010-1871,vulnerability detection,remote code execution,RCE",
+  "success": true,
+  "summary": "该插件用于检测Jboss应用是否存在CVE-2010-1871漏洞，此漏洞可能导致远程代码执行。",
+  "summary_en": "This plugin is used to detect whether the Jboss application has the CVE-2010-1871 vulnerability, which may lead to remote code execution.",
+  "updated_at": 1742999597,
+  "uuid": "0ee789d5-b262-4913-8068-c8b6edcb5580"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Spring Security OAuth",
+  "reason": "",
+  "seo": "Spring,Security,OAuth,RCE,SpEL注入漏洞",
+  "seo_en": "Spring,Security,OAuth,RCE,SpEL Injection Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Spring Security OAuth中存在的RCE SpEL注入漏洞，通过构造特定的请求来判断目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect the RCE SpEL injection vulnerability in Spring Security OAuth by constructing specific requests to determine if the target system is affected.",
+  "updated_at": 1742999590,
+  "uuid": "e890ddae-e4aa-44d2-a418-ef8ff2dca1a9"
+}

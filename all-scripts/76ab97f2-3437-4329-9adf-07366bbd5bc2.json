@@ -1,0 +1,11 @@
+{
+  "app": "同享TXEHR V15人力管理管理平台",
+  "reason": "",
+  "seo": "同享TXEHR,SQL注入,人力管理,EmployeeInfoService,V15",
+  "seo_en": "TXEHR,SQL injection,human resources,EmployeeInfoService,V15",
+  "success": true,
+  "summary": "检测同享TXEHR V15人力管理平台的EmployeeInfoService是否存在strCardNo参数的SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerability in the strCardNo parameter of EmployeeInfoService in TXEHR V15 Human Resources Management Platform",
+  "updated_at": 1742999569,
+  "uuid": "76ab97f2-3437-4329-9adf-07366bbd5bc2"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Weblogic Server",
+  "reason": "",
+  "seo": "Weblogic,漏洞检测,CVE-2021-2109,JNDI远程代码执行",
+  "seo_en": "Weblogic,vulnerability detection,CVE-2021-2109,JNDI Remote Code Execution",
+  "success": true,
+  "summary": "该插件用于检测Weblogic Server后台JNDIBindingPortlethandle JNDI远程代码执行漏洞（CVE-2021-2109），通过构造特定请求触发漏洞并验证是否存在风险。",
+  "summary_en": "This plugin is used to detect the Weblogic Server backend JNDIBindingPortlethandle JNDI Remote Code Execution vulnerability (CVE-2021-2109) by constructing specific requests to trigger and verify the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "b97ffe01-65cf-4c62-a708-22ea8375ea8e"
+}

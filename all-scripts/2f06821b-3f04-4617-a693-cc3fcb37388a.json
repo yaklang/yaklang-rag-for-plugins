@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "安全测试,插件,AI生成,OWASP Top10,漏洞检测",
+  "seo_en": "security testing,plugin,AI generation,OWASP Top10,vulnerability detection",
+  "success": true,
+  "summary": "根据数据包生成下一步的安全测试建议，涵盖OWASP Top10漏洞类型和通用测试建议，包括具体参数名和payload。",
+  "summary_en": "Generate the next step of security testing suggestions based on the data packet, covering OWASP Top10 vulnerability types and general testing suggestions, including specific parameter names and payloads.",
+  "updated_at": 1742999579,
+  "uuid": "2f06821b-3f04-4617-a693-cc3fcb37388a"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "泛微-OA（e-cology）",
+  "reason": "",
+  "seo": "泛微OA,SQL注入漏洞,WorkflowServiceXml,RCE漏洞",
+  "seo_en": "Weaver OA,SQL injection vulnerability,WorkflowServiceXml,RCE vulnerability",
+  "success": true,
+  "summary": "检测泛微E-Cology WorkflowServiceXml接口是否存在SQL注入漏洞，该漏洞可能导致数据库权限获取和数据泄露。",
+  "summary_en": "Detect SQL injection vulnerabilities in the Weaver E-Cology WorkflowServiceXml interface, which may lead to database privilege acquisition and data leakage.",
+  "updated_at": 1742999569,
+  "uuid": "e18809f8-4ec6-43c1-8fe2-205a6f047fd4"
+}

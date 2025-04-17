@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "spon ip intercom,文件读取漏洞,安全检测,漏洞插件",
+  "seo_en": "spon ip intercom,file read vulnerability,security detection,vulnerability plugin",
+  "success": true,
+  "summary": "该插件用于检测spon ip intercom是否存在文件读取漏洞，通过发送多个请求验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the spon ip intercom has a file read vulnerability by sending multiple requests to verify if the target system is affected.",
+  "updated_at": 1742999590,
+  "uuid": "cea0b20d-2b6d-4f36-8f04-63763409a583"
+}

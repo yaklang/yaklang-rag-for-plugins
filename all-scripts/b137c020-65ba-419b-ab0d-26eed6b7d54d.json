@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "查看路径,文件和目录,整理文档表格",
+  "seo_en": "view path,files and directories,organize document tables",
+  "success": true,
+  "summary": "该插件用于查看指定路径下的所有文件和目录，并将结果整理成文档表格形式展示。",
+  "summary_en": "This plugin is used to view all files and directories under a specified path and present the results in the form of a document table.",
+  "updated_at": 1742999569,
+  "uuid": "b137c020-65ba-419b-ab0d-26eed6b7d54d"
+}

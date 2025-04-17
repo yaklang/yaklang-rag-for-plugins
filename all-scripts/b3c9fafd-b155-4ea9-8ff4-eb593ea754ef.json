@@ -1,0 +1,11 @@
+{
+  "app": "锐捷云课堂",
+  "reason": "",
+  "seo": "锐捷云课堂,目录遍历漏洞,漏洞检测,信息安全",
+  "seo_en": "Ruijie Cloud Classroom,directory traversal vulnerability,vulnerability detection,information security",
+  "success": true,
+  "summary": "该插件用于检测锐捷云课堂主机是否存在pool目录遍历漏洞，防止因漏洞导致的信息泄露。",
+  "summary_en": "This plugin is used to detect whether the Ruijie Cloud Classroom host has a pool directory traversal vulnerability, preventing information leakage caused by the vulnerability.",
+  "updated_at": 1742999601,
+  "uuid": "b3c9fafd-b155-4ea9-8ff4-eb593ea754ef"
+}

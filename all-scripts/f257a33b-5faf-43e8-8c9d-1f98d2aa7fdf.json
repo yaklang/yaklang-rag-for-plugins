@@ -1,0 +1,11 @@
+{
+  "app": "天融信LB负载均衡系统",
+  "reason": "",
+  "seo": "天融信,低版本,负载均衡,任意登录漏洞",
+  "seo_en": "TopApp,low version,load balancer,any user login vulnerability",
+  "success": true,
+  "summary": "检测天融信低版本LB负载均衡系统是否存在任意登录漏洞，通过构造特定请求绕过认证以管理员权限登录系统",
+  "summary_en": "Detect whether the low-version TopApp LB load balancer system has any user login vulnerability, and bypass authentication to log in as an administrator by constructing specific requests",
+  "updated_at": 1742999586,
+  "uuid": "f257a33b-5faf-43e8-8c9d-1f98d2aa7fdf"
+}

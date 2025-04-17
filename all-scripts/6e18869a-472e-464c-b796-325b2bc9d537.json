@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,漏洞检测,在线用户登录漏洞,auth_mobi.php",
+  "seo_en": "Tongda OA,vulnerability detection,online user login vulnerability,auth_mobi.php",
+  "success": true,
+  "summary": "该插件用于检测通达OA v11.7版本中auth_mobi.php文件的在线用户登录漏洞，通过发送特定请求判断是否存在漏洞并输出相关信息。",
+  "summary_en": "This plugin is used to detect the online user login vulnerability in the auth_mobi.php file of Tongda OA v11.7. It sends specific requests to determine if the vulnerability exists and outputs relevant information.",
+  "updated_at": 1742999601,
+  "uuid": "6e18869a-472e-464c-b796-325b2bc9d537"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "ApacheStruts2",
+  "reason": "",
+  "seo": "ApacheStruts2,CVE-2018-11776,远程代码执行漏洞,检测,插件",
+  "seo_en": "ApacheStruts2,CVE-2018-11776,RCE,vulnerability,detection,plugin",
+  "success": true,
+  "summary": "该插件用于检测目标系统是否存在ApacheStruts2(s2-057)_CVE-2018-11776远程代码执行漏洞，通过发送特定payload判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the target system has the ApacheStruts2(s2-057)_CVE-2018-11776 Remote Code Execution vulnerability by sending a specific payload to determine if the vulnerability exists.",
+  "updated_at": 1742999602,
+  "uuid": "b7f1f78e-34bc-4582-beec-5939377f0189"
+}

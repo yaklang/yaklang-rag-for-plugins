@@ -1,0 +1,11 @@
+{
+  "app": "PandoraFMS",
+  "reason": "",
+  "seo": "PandoraFMS,os命令注入,漏洞检测,网络安全",
+  "seo_en": "PandoraFMS,OS command injection,vulnerability detection,network security",
+  "success": true,
+  "summary": "该插件用于检测PandoraFMS系统中是否存在OS命令注入漏洞，通过构造特定的POST请求并结合DNSLog验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect OS command injection vulnerabilities in the PandoraFMS system by constructing specific POST requests and combining them with DNSLog to verify the existence of vulnerabilities.",
+  "updated_at": 1742999592,
+  "uuid": "b4c0da30-6eeb-44fe-bf42-cfc7f815ae46"
+}

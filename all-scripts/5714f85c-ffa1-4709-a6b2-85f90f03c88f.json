@@ -1,0 +1,11 @@
+{
+  "app": "亿赛通电子文档安全管理系统",
+  "reason": "",
+  "seo": "亿赛通,电子文档,安全管理系统,反序列化漏洞,远程代码执行",
+  "seo_en": "Yisaitong, electronic document, security management system, deserialization vulnerability, remote code execution",
+  "success": true,
+  "summary": "检测亿赛通电子文档安全管理系统SecureUsbConnection接口是否存在XStream反序列化远程代码执行漏洞，攻击者可利用该漏洞获取服务器权限并控制整个Web服务器。",
+  "summary_en": "Detect whether the SecureUsbConnection interface of Yisaitong Electronic Document Security Management System has XStream deserialization remote code execution vulnerability. Attackers can use this vulnerability to obtain server permissions and control the entire Web server.",
+  "updated_at": 1742999568,
+  "uuid": "5714f85c-ffa1-4709-a6b2-85f90f03c88f"
+}

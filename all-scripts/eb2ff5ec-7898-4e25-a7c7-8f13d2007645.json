@@ -1,0 +1,11 @@
+{
+  "app": "phpmyadmin",
+  "reason": "",
+  "seo": "phpmyadmin,setup,反序列化漏洞,漏洞检测",
+  "seo_en": "phpmyadmin,setup,deserialization vulnerability,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测phpmyadmin setup反序列化漏洞，通过发送特定POST请求来判断目标是否存在该漏洞。",
+  "summary_en": "This plugin is used to detect the phpmyadmin setup deserialization vulnerability by sending a specific POST request to determine if the target is vulnerable.",
+  "updated_at": 1742999592,
+  "uuid": "eb2ff5ec-7898-4e25-a7c7-8f13d2007645"
+}

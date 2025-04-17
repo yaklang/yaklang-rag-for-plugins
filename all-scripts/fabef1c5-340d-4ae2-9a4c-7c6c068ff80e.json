@@ -1,0 +1,11 @@
+{
+  "app": "GoAnywhere MFT",
+  "reason": "",
+  "seo": "GoAnywhere MFT,未授权,创建管理员,漏洞,安全文件传输",
+  "seo_en": "GoAnywhere MFT,unauthorized,admin creation,vulnerability,secure file transfer",
+  "success": true,
+  "summary": "检测GoAnywhere MFT中是否存在未授权创建管理员账户的漏洞，该漏洞允许攻击者绕过身份验证并创建管理员用户。",
+  "summary_en": "Detects an unauthorized admin creation vulnerability in GoAnywhere MFT that allows attackers to bypass authentication and create admin users.",
+  "updated_at": 1742999581,
+  "uuid": "fabef1c5-340d-4ae2-9a4c-7c6c068ff80e"
+}

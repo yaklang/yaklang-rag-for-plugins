@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "插件,nbsp字符,正常空格,替换",
+  "seo_en": "plugin,nbsp character,normal space,replace",
+  "success": true,
+  "summary": "该插件用于将复制代码时可能出现的不间断空格（\u0026nbsp;）替换为正常的空格字符，以确保代码格式正确。",
+  "summary_en": "This plugin replaces non-breaking spaces (\u0026nbsp;) that may occur when copying code with normal space characters to ensure proper code formatting.",
+  "updated_at": 1742999569,
+  "uuid": "e772e356-d404-404e-8e26-17d61f4e165d"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Spring Cloud",
+  "reason": "",
+  "seo": "Spring Cloud,CVE-2022-22963,漏洞检测,命令注入,SpEL表达式",
+  "seo_en": "Spring Cloud,CVE-2022-22963,vulnerability detection,command injection,SpEL expression",
+  "success": true,
+  "summary": "该插件用于检测Spring Cloud应用中是否存在CVE-2022-22963漏洞，即SpEL表达式命令注入漏洞，通过构造特定请求来验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the CVE-2022-22963 vulnerability exists in Spring Cloud applications, which is a command injection vulnerability in SpEL expressions. It verifies if the target system is affected by constructing specific requests.",
+  "updated_at": 1742999602,
+  "uuid": "823238dd-db66-4024-8dd3-5404060f8d5c"
+}

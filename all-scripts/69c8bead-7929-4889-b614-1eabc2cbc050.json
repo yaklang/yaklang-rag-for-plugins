@@ -1,0 +1,11 @@
+{
+  "app": "金和 OA",
+  "reason": "",
+  "seo": "金和 OA,未授权访问漏洞,GetTreeDate.aspx",
+  "seo_en": "Jinhe OA,Unauthorized Access Vulnerability,GetTreeDate.aspx",
+  "success": true,
+  "summary": "检测金和 OA 系统中 GetTreeDate.aspx 文件是否存在未授权访问漏洞，以确保系统的安全性。",
+  "summary_en": "Detect unauthorized access vulnerability in the GetTreeDate.aspx file of Jinhe OA system to ensure the security of the system.",
+  "updated_at": 1742999582,
+  "uuid": "69c8bead-7929-4889-b614-1eabc2cbc050"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "VMware vCenter",
+  "reason": "",
+  "seo": "VMware,远程代码执行漏洞,CVE-2021-21972,vCenter",
+  "seo_en": "VMware,Remote Code Execution Vulnerability,CVE-2021-21972,vCenter",
+  "success": true,
+  "summary": "该插件用于检测VMware vCenter vrops是否存在远程代码执行漏洞（CVE-2021-21972），通过发送特定请求判断目标系统是否易受攻击。",
+  "summary_en": "This plugin is used to detect whether VMware vCenter vrops has the Remote Code Execution Vulnerability (CVE-2021-21972) by sending specific requests to determine if the target system is vulnerable.",
+  "updated_at": 1742999589,
+  "uuid": "3a1f673b-8445-453e-9505-f62b2c3fee0c"
+}

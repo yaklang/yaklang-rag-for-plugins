@@ -1,0 +1,11 @@
+{
+  "app": "宏景人力资源信息管理系统",
+  "reason": "",
+  "seo": "宏景,人力资源信息管理系统,SQL注入漏洞,FrCodeAddTreeServlet",
+  "seo_en": "Hongjing,HCM,SQL injection vulnerability,FrCodeAddTreeServlet",
+  "success": true,
+  "summary": "检测宏景人力资源信息管理系统中的FrCodeAddTreeServlet是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the FrCodeAddTreeServlet of Hongjing Human Capital Management System",
+  "updated_at": 1742999579,
+  "uuid": "f86ee53a-ee68-4260-b60f-7e4208a3658c"
+}

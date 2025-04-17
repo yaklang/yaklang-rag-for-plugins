@@ -1,0 +1,11 @@
+{
+  "app": "mongo-express",
+  "reason": "",
+  "seo": "mongo-express,远程代码执行,CVE-2019-10758,漏洞检测",
+  "seo_en": "mongo-express,remote code execution,CVE-2019-10758,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测mongo-express应用是否存在CVE-2019-10758远程代码执行漏洞，利用默认密码进行验证并尝试触发漏洞以确认是否存在风险。",
+  "summary_en": "This plugin is used to detect whether the mongo-express application has the CVE-2019-10758 remote code execution vulnerability. It uses the default password for validation and attempts to trigger the vulnerability to confirm the risk.",
+  "updated_at": 1742999592,
+  "uuid": "107289e1-4a2a-4216-963e-fc7f2b6e0ecd"
+}

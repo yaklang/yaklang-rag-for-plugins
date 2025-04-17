@@ -1,0 +1,11 @@
+{
+  "app": "Spring Data Commons",
+  "reason": "",
+  "seo": "Spring,漏洞检测,CVE-2018-1273,远程命令执行",
+  "seo_en": "Spring, vulnerability detection, CVE-2018-1273, RCE",
+  "success": true,
+  "summary": "该插件用于检测Spring Data Commons是否存在CVE-2018-1273远程命令执行漏洞，通过发送特定请求并验证响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Spring Data Commons has the CVE-2018-1273 Remote Command Execution vulnerability by sending specific requests and verifying the response.",
+  "updated_at": 1742999602,
+  "uuid": "d0b071ec-2518-48d7-befe-d1e2acd66ee3"
+}

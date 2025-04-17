@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "一言,在线名言,随机语句,中文名言",
+  "seo_en": "Hitokoto,online quotes,random sentences,Chinese quotes",
+  "success": true,
+  "summary": "获取来自网络的随机中文名言，并展示出处和作者信息",
+  "summary_en": "Fetch random Chinese quotes from the internet and display their sources and author information",
+  "updated_at": 1742999595,
+  "uuid": "8b01aa61-eb0c-4bbd-a35e-4b96c41c0833"
+}

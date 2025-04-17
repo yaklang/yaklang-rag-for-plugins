@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Spring Security,SQL注入漏洞,漏洞检测,安全测试",
+  "seo_en": "Spring Security,SQL Injection Vulnerability,Vulnerability Detection,Security Testing",
+  "success": true,
+  "summary": "该插件用于检测Spring Security登录功能中的SQL注入漏洞，特别是j_spring_security_check接口是否存在相关风险。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the Spring Security login function, specifically focusing on the j_spring_security_check interface for potential risks.",
+  "updated_at": 1742999579,
+  "uuid": "8fe47344-f753-4959-9fa2-711e11906659"
+}

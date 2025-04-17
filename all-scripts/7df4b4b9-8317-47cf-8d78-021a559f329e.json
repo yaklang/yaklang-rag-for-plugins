@@ -1,0 +1,11 @@
+{
+  "app": "noVNC",
+  "reason": "",
+  "seo": "noVNC,CVE-2017-18635,DOM XSS漏洞,远程代码执行",
+  "seo_en": "noVNC,CVE-2017-18635,DOM XSS vulnerability,remote code execution",
+  "success": true,
+  "summary": "该插件用于检测noVNC应用中存在CVE-2017-18635的DOM型XSS漏洞，远程攻击者可通过注入恶意HTML代码到状态字段中进行攻击。",
+  "summary_en": "This plugin is used to detect the DOM XSS vulnerability (CVE-2017-18635) in noVNC applications. Remote attackers can inject malicious HTML into the status field to perform an attack.",
+  "updated_at": 1742999581,
+  "uuid": "7df4b4b9-8317-47cf-8d78-021a559f329e"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "维安视摄像头",
+  "reason": "",
+  "seo": "维安视,摄像头,未授权访问漏洞,高危",
+  "seo_en": "Weian Shi,IP Camera,Unauthenticated Access Vulnerability,High Risk",
+  "success": true,
+  "summary": "该插件用于检测维安视摄像头是否存在未授权访问漏洞，通过发送特定请求获取设备信息并验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Weian Shi camera has an unauthenticated access vulnerability by sending specific requests to obtain device information and verify the existence of the vulnerability.",
+  "updated_at": 1742999585,
+  "uuid": "d6ed1ad7-92c1-4095-9a36-24668fc1dc37"
+}

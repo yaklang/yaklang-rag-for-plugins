@@ -1,0 +1,11 @@
+{
+  "app": "超级猫签名APP分发平台",
+  "reason": "",
+  "seo": "超级猫签名,SQL注入漏洞,APP分发平台",
+  "seo_en": "SuperCat Signature,SQL Injection Vulnerability,APP Distribution Platform",
+  "success": true,
+  "summary": "检测超级猫签名APP分发平台是否存在SQL注入漏洞，通过构造特定的HTTP请求来验证漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the SuperCat Signature APP distribution platform by constructing specific HTTP requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999570,
+  "uuid": "0f874880-d2a6-4f04-8d53-93a68e40c2b7"
+}

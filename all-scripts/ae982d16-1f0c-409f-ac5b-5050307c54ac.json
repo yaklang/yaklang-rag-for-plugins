@@ -1,0 +1,11 @@
+{
+  "app": "Hoverfly",
+  "reason": "",
+  "seo": "CVE-2024-45388, Hoverfly, 任意文件读取漏洞, 漏洞检测, 安全漏洞",
+  "seo_en": "CVE-2024-45388, Hoverfly, Arbitrary File Read, Vulnerability Detection, Security Flaw",
+  "success": true,
+  "summary": "该插件用于检测Hoverfly服务中的任意文件读取漏洞，攻击者可利用此漏洞从服务器读取任意文件，导致敏感信息泄露。",
+  "summary_en": "This plugin detects an arbitrary file read vulnerability in Hoverfly service. An attacker can exploit this flaw to read any file from the server, leading to sensitive information leakage.",
+  "updated_at": 1742999569,
+  "uuid": "ae982d16-1f0c-409f-ac5b-5050307c54ac"
+}

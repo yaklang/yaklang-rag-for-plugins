@@ -1,0 +1,11 @@
+{
+  "app": "Apache HTTPD mod_jk",
+  "reason": "",
+  "seo": "Apache HTTPD,mod_jk,敏感信息泄漏漏洞",
+  "seo_en": "Apache HTTPD,mod_jk,sensitive information leakage vulnerability",
+  "success": true,
+  "summary": "检测Apache HTTPD mod_jk是否存在敏感信息泄漏漏洞，通过构造特定请求检查是否能绕过访问控制并获取JK状态管理信息。",
+  "summary_en": "Detect whether there is a sensitive information leakage vulnerability in Apache HTTPD mod_jk, and check if constructed requests can bypass access control and obtain JK status management information.",
+  "updated_at": 1742999589,
+  "uuid": "42a15518-bedd-4f7b-a3e6-6d5e6db513fe"
+}

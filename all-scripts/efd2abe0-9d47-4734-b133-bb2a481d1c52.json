@@ -1,0 +1,11 @@
+{
+  "app": "宏景人力资源信息管理系统",
+  "reason": "",
+  "seo": "宏景人力资源信息管理系统,SQL注入漏洞,loadtree,sqli",
+  "seo_en": "Hongjing HCM,SQL injection vulnerability,loadtree,sqli",
+  "success": true,
+  "summary": "检测宏景人力资源信息管理系统的loadtree功能是否存在SQL注入漏洞，通过构造特定请求并分析响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the loadtree function of Hongjing Human Resources Information Management System by constructing specific requests and analyzing response times.",
+  "updated_at": 1742999579,
+  "uuid": "efd2abe0-9d47-4734-b133-bb2a481d1c52"
+}

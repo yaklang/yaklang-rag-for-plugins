@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "命令执行检测,漏洞检测,dnslog,参数检测,rce",
+  "seo_en": "command execution detection,vulnerability detection,dnslog,parameter detection,RCE",
+  "success": true,
+  "summary": "该插件通过dnslog检测可能存在命令执行漏洞的参数，帮助发现远程代码执行漏洞（RCE）并提供修复建议。",
+  "summary_en": "This plugin uses dnslog to detect parameters that may have command execution vulnerabilities, helping to discover Remote Code Execution (RCE) vulnerabilities and providing remediation suggestions.",
+  "updated_at": 1742999583,
+  "uuid": "e394c14c-03fd-4337-a6d2-cf13c79e7b62"
+}

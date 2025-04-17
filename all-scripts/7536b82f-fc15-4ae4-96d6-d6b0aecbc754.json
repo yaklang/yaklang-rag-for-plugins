@@ -1,0 +1,11 @@
+{
+  "app": "WordPress",
+  "reason": "",
+  "seo": "WordPress,SQL注入,漏洞检测,WP Statistics",
+  "seo_en": "WordPress,SQL Injection,Vulnerability Detection,WP Statistics",
+  "success": true,
+  "summary": "检测 WordPress 插件 WP Statistics \u003c= 13.1.5 版本中的 SQL 注入漏洞，当启用\"Cache Compatibility\"时，未授权的 SQL 注入可能导致安全风险。",
+  "summary_en": "Detect SQL injection vulnerabilities in the WordPress plugin WP Statistics \u003c= 13.1.5. When \"Cache Compatibility\" is enabled, unauthenticated SQL injections can lead to security risks.",
+  "updated_at": 1742999595,
+  "uuid": "7536b82f-fc15-4ae4-96d6-d6b0aecbc754"
+}

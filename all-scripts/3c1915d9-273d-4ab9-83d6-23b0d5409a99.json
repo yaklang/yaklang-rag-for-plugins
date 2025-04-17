@@ -1,0 +1,11 @@
+{
+  "app": "启明星辰天清汉马VPN",
+  "reason": "",
+  "seo": "启明星辰,天清汉马,VPN,任意文件读取漏洞",
+  "seo_en": "启明星辰,Tianqing Hanma,VPN,Arbitrary File Read Vulnerability",
+  "success": true,
+  "summary": "检测启明星辰天清汉马VPN是否存在任意文件读取漏洞，通过构造特定请求尝试读取系统敏感文件/etc/passwd来验证漏洞是否存在。",
+  "summary_en": "Detect whether the Tianqing Hanma VPN of启明星辰has an arbitrary file read vulnerability by constructing a specific request to attempt to read the system sensitive file /etc/passwd to verify the existence of the vulnerability.",
+  "updated_at": 1742999573,
+  "uuid": "3c1915d9-273d-4ab9-83d6-23b0d5409a99"
+}

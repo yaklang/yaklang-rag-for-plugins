@@ -1,0 +1,11 @@
+{
+  "app": "金山V8",
+  "reason": "",
+  "seo": "金山V8,漏洞检测,弱口令,任意文件读取",
+  "seo_en": "Kingsoft V8, vulnerability detection, default password, file read",
+  "success": true,
+  "summary": "该插件用于批量检测金山V8系统中的弱口令和任意文件读取漏洞",
+  "summary_en": "This plugin is used for batch detection of default password and arbitrary file read vulnerabilities in the Kingsoft V8 system",
+  "updated_at": 1742999597,
+  "uuid": "2c0f4240-6da9-45b7-9e4e-09b629df2618"
+}

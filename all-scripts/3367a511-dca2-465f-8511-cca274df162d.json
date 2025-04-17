@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "转换为xml-post参数,解析post数据,处理普通参数,XML转换",
+  "seo_en": "convert to xml-post parameters, parse post data, handle common parameters, XML conversion",
+  "success": true,
+  "summary": "该插件的核心意图是将POST请求中的参数转换为XML格式，并设置相应的Content-Type头，以便进行基于XML的请求处理。",
+  "summary_en": "The core intention of this plugin is to convert POST request parameters into XML format and set the corresponding Content-Type header for XML-based request processing.",
+  "updated_at": 1742999583,
+  "uuid": "3367a511-dca2-465f-8511-cca274df162d"
+}

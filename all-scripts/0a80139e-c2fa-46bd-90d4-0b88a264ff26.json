@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "AI解读,数据请求,响应包,智能分析",
+  "seo_en": "AI interpretation,data request,response packet,intelligent analysis",
+  "success": true,
+  "summary": "该插件使用AI接口对数据请求和响应包进行智能解读，帮助用户理解复杂的网络通信内容。",
+  "summary_en": "This plugin uses AI to interpret data requests and response packets, helping users understand complex network communication content.",
+  "updated_at": 1742999579,
+  "uuid": "0a80139e-c2fa-46bd-90d4-0b88a264ff26"
+}

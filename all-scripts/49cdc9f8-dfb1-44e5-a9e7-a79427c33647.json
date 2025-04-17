@@ -1,0 +1,11 @@
+{
+  "app": "VMware VCenter",
+  "reason": "",
+  "seo": "VMware VCenter,CVE-2021-21972,未授权文件上传漏洞,漏洞检测",
+  "seo_en": "VMware VCenter,CVE-2021-21972,Unauthorized File Upload Vulnerability,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测VMware VCenter是否存在CVE-2021-21972未授权任意文件上传漏洞，通过发送特定请求并分析响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether VMware VCenter has the CVE-2021-21972 unauthorized arbitrary file upload vulnerability by sending specific requests and analyzing responses.",
+  "updated_at": 1742999597,
+  "uuid": "49cdc9f8-dfb1-44e5-a9e7-a79427c33647"
+}

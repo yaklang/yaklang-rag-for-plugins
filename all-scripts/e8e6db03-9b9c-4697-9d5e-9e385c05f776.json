@@ -1,0 +1,11 @@
+{
+  "app": "phpStudy",
+  "reason": "",
+  "seo": "PHPstudy,后门漏洞,命令执行,指纹识别",
+  "seo_en": "PHPstudy,backdoor vulnerability,command execution,fingerprint identification",
+  "success": true,
+  "summary": "该插件旨在检测phpStudy应用是否存在后门漏洞，通过发送特定请求检查是否可以利用漏洞执行命令，同时进行指纹识别确认目标系统。",
+  "summary_en": "This plugin is designed to detect whether the phpStudy application has a backdoor vulnerability by sending specific requests to check if the vulnerability can be exploited to execute commands, while performing fingerprint identification to confirm the target system.",
+  "updated_at": 1742999596,
+  "uuid": "e8e6db03-9b9c-4697-9d5e-9e385c05f776"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SSA,项目重编译,引擎更新,代码变动",
+  "seo_en": "SSA, project recompilation, engine update, code change",
+  "success": true,
+  "summary": "该插件用于在引擎编译策略更新或代码有变动时，使用当前引擎重新编译项目。",
+  "summary_en": "This plugin is used to recompile projects with the current engine when the engine compilation strategy is updated or there are code changes.",
+  "updated_at": 1742348301,
+  "uuid": "f6e37306-7d0f-4a05-a812-d896d5d7b765"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "帆软FineReport",
+  "reason": "",
+  "seo": "帆软FineReport,任意文件覆盖漏洞,漏洞检测,安全测试",
+  "seo_en": "FineReport,file overwrite vulnerability,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测帆软FineReport V9系统是否存在任意文件覆盖漏洞，通过发送特定的HTTP请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the FineReport V9 system has arbitrary file overwrite vulnerabilities, and verifies the existence of vulnerabilities by sending specific HTTP requests.",
+  "updated_at": 1742999592,
+  "uuid": "3dd4a885-bbd1-4a3d-b87f-3654cdfb3e4a"
+}

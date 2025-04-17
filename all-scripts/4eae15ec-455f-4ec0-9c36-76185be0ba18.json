@@ -1,0 +1,11 @@
+{
+  "app": "WordPress",
+  "reason": "",
+  "seo": "wpchill, rsvp_and_event_management, 授权机制缺失, 未授权访问",
+  "seo_en": "wpchill, rsvp_and_event_management, missing authorization, unauthorized access",
+  "success": true,
+  "summary": "检测 WordPress 插件 RSVP and Event Management 在导出条目时是否存在未授权访问漏洞，可能导致用户注册事件的个人信息（如姓名和电子邮件）泄露。",
+  "summary_en": "Detect the unauthorized access vulnerability in the RSVP and Event Management WordPress plugin when exporting entries, which may lead to leakage of personal information (e.g., name and email) of users registered for events.",
+  "updated_at": 1742999588,
+  "uuid": "4eae15ec-455f-4ec0-9c36-76185be0ba18"
+}

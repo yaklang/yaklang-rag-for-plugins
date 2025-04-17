@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "参数遍历,重定向检查,漏洞检测",
+  "seo_en": "parameter traversal,redirect check,vulnerability detection",
+  "success": true,
+  "summary": "该插件通过遍历参数进行重定向检查，检测是否存在重定向漏洞或SSRF漏洞。",
+  "summary_en": "This plugin performs a redirect check by traversing parameters to detect redirect vulnerabilities or SSRF vulnerabilities.",
+  "updated_at": 1742999575,
+  "uuid": "7455b3ea-0a11-4aab-bd3e-719acbc8a654"
+}

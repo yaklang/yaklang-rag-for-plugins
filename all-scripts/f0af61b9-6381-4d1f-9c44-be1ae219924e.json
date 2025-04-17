@@ -1,0 +1,11 @@
+{
+  "app": "向日葵远程控制软件",
+  "reason": "",
+  "seo": "向日葵,远程控制,命令执行漏洞,CNVD-2022-10270",
+  "seo_en": "Sunlogin,remote control,RCE vulnerability,CNVD-2022-10270",
+  "success": true,
+  "summary": "检测向日葵远程控制软件是否存在CNVD-2022-10270命令执行漏洞，攻击者可能利用该漏洞获取服务器控制权限。",
+  "summary_en": "Detect whether the Sunlogin remote control software has the CNVD-2022-10270 RCE vulnerability, which may allow attackers to gain server control permissions.",
+  "updated_at": 1742999601,
+  "uuid": "f0af61b9-6381-4d1f-9c44-be1ae219924e"
+}

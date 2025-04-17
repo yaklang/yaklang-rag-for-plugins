@@ -1,0 +1,11 @@
+{
+  "app": "Microstrategy Web",
+  "reason": "",
+  "seo": "Microstrategy Web,信息泄漏漏洞,漏洞检测",
+  "seo_en": "Microstrategy Web, Information Leakage Vulnerability, Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Microstrategy Web是否存在信息泄漏漏洞，通过访问特定路径检查是否能获取敏感信息。",
+  "summary_en": "This plugin is used to detect whether there is an information leakage vulnerability in Microstrategy Web by accessing a specific path to check if sensitive information can be obtained.",
+  "updated_at": 1742999588,
+  "uuid": "fa113a29-291b-41c2-b182-aace01baa949"
+}

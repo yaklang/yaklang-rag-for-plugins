@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Oracle,SQL注入,漏洞检测,高危",
+  "seo_en": "Oracle,SQL Injection,Vulnerability Detection,High Risk",
+  "success": true,
+  "summary": "该插件用于检测应用程序中的Oracle SQL注入漏洞，通过构造特定的SQL语句并检查响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect Oracle SQL Injection vulnerabilities in the application by constructing specific SQL statements and checking the response content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999569,
+  "uuid": "399cbc6c-5216-4dc4-b64d-ed9e53a3f58f"
+}

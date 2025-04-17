@@ -1,0 +1,11 @@
+{
+  "app": "Resin",
+  "reason": "",
+  "seo": "Resin,漏洞,SSRF,文件读取",
+  "seo_en": "Resin,vulnerability,SSRF,file read",
+  "success": true,
+  "summary": "检测Resin应用是否存在inputfile fileread或SSRF漏洞，通过发送特定的HTTP请求来判断目标系统是否受影响。",
+  "summary_en": "Detect whether the Resin application has inputfile fileread or SSRF vulnerabilities by sending specific HTTP requests to determine if the target system is affected.",
+  "updated_at": 1742999591,
+  "uuid": "a3fdc7c9-80ed-4d57-b08a-7df7c4d8db64"
+}

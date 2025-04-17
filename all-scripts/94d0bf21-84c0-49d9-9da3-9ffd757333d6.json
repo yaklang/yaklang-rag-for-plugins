@@ -1,0 +1,11 @@
+{
+  "app": "海康威视SPON IP网络对讲广播系统",
+  "reason": "",
+  "seo": "海康威视,SPON,IP网络对讲广播系统,任意文件读取",
+  "seo_en": "Hikvision,SPON,IP Network Intercom Broadcast System,Arbitrary File Read",
+  "success": true,
+  "summary": "检测海康威视SPON IP网络对讲广播系统是否存在exportrecord任意文件读取漏洞",
+  "summary_en": "Detect arbitrary file read vulnerability in Hikvision SPON IP Network Intercom Broadcast System's exportrecord feature",
+  "updated_at": 1742999577,
+  "uuid": "94d0bf21-84c0-49d9-9da3-9ffd757333d6"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "时空智友ERP",
+  "reason": "",
+  "seo": "时空智友ERP,任意文件上传,漏洞检测,updater.uploadStudioFile",
+  "seo_en": "SKZY ERP, arbitrary file upload, vulnerability detection, updater.uploadStudioFile",
+  "success": true,
+  "summary": "检测时空智友ERP系统中是否存在任意文件上传漏洞，利用该漏洞可上传恶意文件并执行代码。",
+  "summary_en": "Detect arbitrary file upload vulnerabilities in the SKZY ERP system. This plugin exploits the vulnerability to upload malicious files and execute code.",
+  "updated_at": 1742999575,
+  "uuid": "9442a522-ac3f-40d4-bec1-c77371154818"
+}

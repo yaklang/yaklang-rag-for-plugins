@@ -1,0 +1,11 @@
+{
+  "app": "Craftcms",
+  "reason": "",
+  "seo": "Craftcms,漏洞检测,CVE-2020-9757,RCE",
+  "seo_en": "Craftcms,vulnerability detection,CVE-2020-9757,RCE",
+  "success": true,
+  "summary": "该插件用于检测Craftcms系统中的CVE-2020-9757远程代码执行（RCE）漏洞，通过发送特定请求判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the CVE-2020-9757 Remote Code Execution (RCE) vulnerability in the Craftcms system by sending specific requests to determine if the vulnerability exists.",
+  "updated_at": 1742999598,
+  "uuid": "4287596d-d6c8-4a20-b86b-d7c89233c8f9"
+}

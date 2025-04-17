@@ -1,0 +1,11 @@
+{
+  "app": "金蝶EAS",
+  "reason": "",
+  "seo": "金蝶EAS, Fastjson, 反序列化, 漏洞检测, 企业管理系统",
+  "seo_en": "Kingdee EAS, Fastjson, Deserialization, Vulnerability Detection, Enterprise Management System",
+  "success": true,
+  "summary": "该插件用于检测金蝶EAS系统中Fastjson反序列化漏洞，通过构造特定请求触发DNSLog验证是否存在远程代码执行风险。",
+  "summary_en": "This plugin is used to detect the Fastjson deserialization vulnerability in Kingdee EAS system. It constructs specific requests to trigger DNSLog for verifying the risk of remote code execution.",
+  "updated_at": 1742999585,
+  "uuid": "e65258a9-4684-47ff-8722-deb0b88fefce"
+}

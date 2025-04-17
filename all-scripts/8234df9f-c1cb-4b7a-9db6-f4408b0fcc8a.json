@@ -1,0 +1,11 @@
+{
+  "app": "魔方网表",
+  "reason": "",
+  "seo": "魔方网表,任意文件上传,漏洞检测,mailupdate.jsp,数据智能填报系统",
+  "seo_en": "Mofang Webform, arbitrary file upload, vulnerability detection, mailupdate.jsp, data intelligent reporting system",
+  "success": true,
+  "summary": "该插件用于检测魔方网表mailupdate.jsp接口存在的任意文件上传漏洞，帮助用户发现并修复潜在的安全风险。",
+  "summary_en": "This plugin is used to detect the arbitrary file upload vulnerability in Mofang Webform's mailupdate.jsp interface, helping users identify and fix potential security risks.",
+  "updated_at": 1742999580,
+  "uuid": "8234df9f-c1cb-4b7a-9db6-f4408b0fcc8a"
+}

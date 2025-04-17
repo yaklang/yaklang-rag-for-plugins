@@ -1,0 +1,11 @@
+{
+  "app": "ezOFFICE协同管理平台",
+  "reason": "",
+  "seo": "万户OA,SQL注入,ezOFFICE,wf_process_attrelate_aiframe.jsp,漏洞",
+  "seo_en": "Ten thousand House OA,SQL injection,ezOFFICE,wf_process_attrelate_aiframe.jsp,vulnerability",
+  "success": true,
+  "summary": "检测万户 ezOFFICE 系统中 wf_process_attrelate_aiframe.jsp 文件是否存在 SQL 注入漏洞，该漏洞可能允许未授权攻击者获取数据库权限并进一步控制服务器。",
+  "summary_en": "Detect SQL injection vulnerability in the wf_process_attrelate_aiframe.jsp file of Ten thousand House ezOFFICE system. This vulnerability may allow unauthenticated attackers to gain database privileges and further control the server.",
+  "updated_at": 1742999581,
+  "uuid": "bcd9d3d1-14b7-4778-8b8b-e78fba161e2f"
+}

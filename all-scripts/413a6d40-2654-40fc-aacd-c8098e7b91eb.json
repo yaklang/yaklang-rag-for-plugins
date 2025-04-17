@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "文本提取,资产获取,信息提取",
+  "seo_en": "text extraction, asset acquisition, information extraction",
+  "success": true,
+  "summary": "该插件从输入文本中提取多种类型的信息，包括IP地址、域名、电话号码、电子邮件等，并根据扩展正则表达式选项进行更详细的匹配。",
+  "summary_en": "This plugin extracts various types of information from the input text, including IP addresses, domains, phone numbers, emails, etc., and performs more detailed matching based on the extended regex option.",
+  "updated_at": 1742999582,
+  "uuid": "413a6d40-2654-40fc-aacd-c8098e7b91eb"
+}

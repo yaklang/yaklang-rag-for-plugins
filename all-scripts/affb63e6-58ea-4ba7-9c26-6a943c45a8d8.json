@@ -1,0 +1,11 @@
+{
+  "app": "通达OA网络智能办公系统",
+  "reason": "",
+  "seo": "通达OA,任意命令执行漏洞,通达OA v11.9,getdata接口,服务器权限控制",
+  "seo_en": "Tongda OA,RCE vulnerability,Tongda OA v11.9,getdata interface,server control",
+  "success": true,
+  "summary": "检测通达OA v11.9系统的getdata接口是否存在任意命令执行漏洞，攻击者可能利用此漏洞执行服务器任意命令并控制服务器权限。",
+  "summary_en": "Detect whether the getdata interface of Tongda OA v11.9 system has an arbitrary command execution vulnerability. Attackers may use this vulnerability to execute any server command and control server permissions.",
+  "updated_at": 1742999580,
+  "uuid": "affb63e6-58ea-4ba7-9c26-6a943c45a8d8"
+}

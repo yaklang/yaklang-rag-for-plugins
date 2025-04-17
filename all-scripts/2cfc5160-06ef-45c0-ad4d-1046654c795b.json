@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SQL注入,堆叠注入,回显检测,md5函数,mysql,postgres",
+  "seo_en": "SQL injection, stacked injection, back-end reflection detection, md5 function, mysql, postgres",
+  "success": true,
+  "summary": "该插件用于检测目标系统是否存在SQL堆叠注入漏洞，通过构造特定的payload并利用md5函数验证响应中是否包含预期的特征值。",
+  "summary_en": "This plugin is used to detect whether the target system has SQL stacked injection vulnerabilities by constructing specific payloads and using the md5 function to verify whether the expected feature value is contained in the response.",
+  "updated_at": 1740203645,
+  "uuid": "2cfc5160-06ef-45c0-ad4d-1046654c795b"
+}

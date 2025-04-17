@@ -1,0 +1,11 @@
+{
+  "app": "Docker",
+  "reason": "",
+  "seo": "docker,未授权命令执行漏洞,漏洞检测,安全扫描",
+  "seo_en": "docker,unauthorized command execution vulnerability,vulnerability detection,security scan",
+  "success": true,
+  "summary": "该插件用于检测Docker API是否存在未授权命令执行漏洞，通过发送HTTP请求检查返回的响应内容来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized command execution vulnerability in the Docker API, and judges the existence of the vulnerability by checking the response content returned after sending an HTTP request.",
+  "updated_at": 1742999598,
+  "uuid": "2321b710-dbea-4c08-873b-3b03ecaa05f3"
+}

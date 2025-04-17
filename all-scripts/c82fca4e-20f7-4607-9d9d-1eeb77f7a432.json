@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "子域名收集,暴力破解,字典攻击,网站扫描",
+  "seo_en": "subdomain collection,brute force,dictionary attack,website scanning",
+  "success": true,
+  "summary": "该插件通过字典暴力枚举目标域名的子域名，并检测其存活状态及基本信息（如标题、服务器信息等）",
+  "summary_en": "This plugin enumerates subdomains of the target domain using a dictionary brute force method and checks their status and basic information (such as title, server info, etc.)",
+  "updated_at": 1742999597,
+  "uuid": "c82fca4e-20f7-4607-9d9d-1eeb77f7a432"
+}

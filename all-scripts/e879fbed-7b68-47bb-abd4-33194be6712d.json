@@ -1,0 +1,11 @@
+{
+  "app": "Hadoop YARN ResourceManager",
+  "reason": "",
+  "seo": "Hadoop, YARN, 未授权访问, 漏洞检测, 风险评估",
+  "seo_en": "Hadoop, YARN, unauthorized access, vulnerability detection, risk assessment",
+  "success": true,
+  "summary": "该插件用于检测Hadoop YARN ResourceManager是否存在未授权访问漏洞，通过发送特定请求判断目标是否受影响，并记录高危风险信息。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in Hadoop YARN ResourceManager, and records high-risk information by sending specific requests to determine if the target is affected.",
+  "updated_at": 1742999599,
+  "uuid": "e879fbed-7b68-47bb-abd4-33194be6712d"
+}

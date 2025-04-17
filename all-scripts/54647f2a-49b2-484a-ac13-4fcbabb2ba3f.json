@@ -1,0 +1,11 @@
+{
+  "app": "用友GRP-U8系统",
+  "reason": "",
+  "seo": "用友,GRP,U8,SQL注入漏洞,检测",
+  "seo_en": "Yonyou,GRP,U8,SQL injection vulnerability,detection",
+  "success": true,
+  "summary": "该插件用于检测用友GRP-U8系统是否存在SQL注入漏洞，通过发送特定的POST请求来验证目标系统是否易受攻击。",
+  "summary_en": "This plugin is used to detect whether the Yonyou GRP-U8 system has SQL injection vulnerabilities by sending specific POST requests to verify if the target system is vulnerable.",
+  "updated_at": 1742999589,
+  "uuid": "54647f2a-49b2-484a-ac13-4fcbabb2ba3f"
+}

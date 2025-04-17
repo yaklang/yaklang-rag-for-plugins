@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "被动子域名收集,MITM响应提取域名,域名资产,云flare,百度",
+  "seo_en": "passive subdomain collection,MITM response extract domain,domain assets,Cloudflare,Baidu",
+  "success": true,
+  "summary": "该插件通过MITM响应提取域名并存入域名资产，主要用于被动子域名收集，适用于指定的根域名（如cloudflare.com、baidu.com）的子域名发现和管理。",
+  "summary_en": "This plugin extracts domains from MITM responses and saves them as domain assets, mainly for passive subdomain collection. It is applicable for discovering and managing subdomains of specified root domains (e.g., cloudflare.com, baidu.com).",
+  "updated_at": 1742999597,
+  "uuid": "0775d0d3-bbcc-430d-9920-6897f9b1abdf"
+}

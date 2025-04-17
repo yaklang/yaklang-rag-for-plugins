@@ -1,0 +1,11 @@
+{
+  "app": "JBOSS",
+  "reason": "",
+  "seo": "JBOSS,默认配置,远程代码执行,漏洞检测",
+  "seo_en": "JBOSS,default configuration,remote code execution,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测JBOSS应用是否存在默认配置导致的远程代码执行漏洞，通过发送特定payload并验证DNSLog回显来确认漏洞存在。",
+  "summary_en": "This plugin is used to detect whether the JBOSS application has remote code execution vulnerabilities caused by default configuration. It confirms the existence of vulnerabilities by sending specific payloads and verifying DNSLog callbacks.",
+  "updated_at": 1742999604,
+  "uuid": "24b8e30d-54c7-433f-bbfa-f753442d8170"
+}

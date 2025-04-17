@@ -1,0 +1,11 @@
+{
+  "app": "Quicklancer",
+  "reason": "",
+  "seo": "Quicklancer,SQL注入漏洞,高危漏洞,插件检测",
+  "seo_en": "Quicklancer,SQL Injection Vulnerability,High Risk Vulnerability,Plugin Detection",
+  "success": true,
+  "summary": "该插件用于检测Quicklancer应用是否存在SQL注入漏洞，通过构造特定请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Quicklancer application has SQL injection vulnerabilities. It determines the existence of vulnerabilities by constructing specific requests and measuring response time.",
+  "updated_at": 1742999570,
+  "uuid": "fda00544-4477-426e-a6ce-be4aaff25ac7"
+}

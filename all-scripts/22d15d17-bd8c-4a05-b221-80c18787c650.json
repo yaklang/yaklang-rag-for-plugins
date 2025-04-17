@@ -1,0 +1,11 @@
+{
+  "app": "广联达-Linkworks",
+  "reason": "",
+  "seo": "广联达,Linkworks,DataSvc,未授权访问,漏洞检测",
+  "seo_en": "Glinksoft,Linkworks,DataSvc,unauthorized access,vulnerability detection",
+  "success": true,
+  "summary": "检测广联达Linkworks的DataSvc是否存在未授权访问漏洞，通过发送特定请求并检查返回结果来确认漏洞是否存在。",
+  "summary_en": "Detect whether there is an unauthorized access vulnerability in Glinksoft Linkworks DataSvc by sending specific requests and checking the response.",
+  "updated_at": 1742999581,
+  "uuid": "22d15d17-bd8c-4a05-b221-80c18787c650"
+}

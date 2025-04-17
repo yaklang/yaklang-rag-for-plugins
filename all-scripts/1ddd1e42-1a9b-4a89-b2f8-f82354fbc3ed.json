@@ -1,0 +1,11 @@
+{
+  "app": "宏景HCM系统",
+  "reason": "",
+  "seo": "宏景HCM,文件上传,漏洞检测,OfficeServer.jsp",
+  "seo_en": "Hongjing HCM, file upload, vulnerability detection, OfficeServer.jsp",
+  "success": true,
+  "summary": "检测宏景HCM系统的OfficeServer.jsp文件是否存在文件上传漏洞，通过发送特定请求并检查响应内容来确认漏洞是否存在。",
+  "summary_en": "Detect whether the OfficeServer.jsp file in the Hongjing HCM system has a file upload vulnerability by sending specific requests and checking the response content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999577,
+  "uuid": "1ddd1e42-1a9b-4a89-b2f8-f82354fbc3ed"
+}

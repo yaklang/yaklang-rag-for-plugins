@@ -1,0 +1,11 @@
+{
+  "app": "ProFTPD",
+  "reason": "",
+  "seo": "ProFTPD,漏洞检测,合规检查,CVE,1999-2021",
+  "seo_en": "ProFTPD,vulnerability detection,compliance check,CVE,1999-2021",
+  "success": true,
+  "summary": "该插件用于检测ProFTPD应用在1999年至2021年间的CVE漏洞，提供合规性检查以帮助用户发现潜在的安全问题。",
+  "summary_en": "This plugin is used to detect CVE vulnerabilities in ProFTPD application from 1999 to 2021, providing compliance checks to help users identify potential security issues.",
+  "updated_at": 1742999585,
+  "uuid": "0c5df84a-d728-421a-b5ab-eaee9aa06c45"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "nginxWebUI",
+  "reason": "",
+  "seo": "nginxWebUI,远程命令执行漏洞,插件,检测",
+  "seo_en": "nginxWebUI,RCE vulnerability,plugin,detection",
+  "success": true,
+  "summary": "该插件用于检测nginxWebUI是否存在远程命令执行漏洞，通过发送特定请求判断目标是否受影响。",
+  "summary_en": "This plugin is used to detect whether there is a remote command execution vulnerability in nginxWebUI by sending specific requests to determine if the target is affected.",
+  "updated_at": 1742999583,
+  "uuid": "e8e46373-48c0-4231-9bc6-cd1993d45c3b"
+}

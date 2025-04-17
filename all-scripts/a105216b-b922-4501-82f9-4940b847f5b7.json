@@ -1,0 +1,11 @@
+{
+  "app": "IIS",
+  "reason": "",
+  "seo": "CVE-2017-7269, IIS远程代码执行漏洞, 漏洞检测",
+  "seo_en": "CVE-2017-7269, IIS RCE vulnerability, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测目标是否存在CVE-2017-7269 IIS远程代码执行漏洞，通过发送特定payload并分析返回数据来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the target has the CVE-2017-7269 IIS Remote Code Execution vulnerability by sending a specific payload and analyzing the returned data to confirm the existence of the vulnerability.",
+  "updated_at": 1742999585,
+  "uuid": "a105216b-b922-4501-82f9-4940b847f5b7"
+}

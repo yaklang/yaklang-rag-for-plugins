@@ -1,0 +1,11 @@
+{
+  "app": "锐捷统一上网行为管理与审计系统",
+  "reason": "",
+  "seo": "锐捷,static_convert.php,命令执行,漏洞检测",
+  "seo_en": "Ruijie,static_convert.php,command execution,vulnerability detection",
+  "success": true,
+  "summary": "检测锐捷统一上网行为管理与审计系统中static_convert.php文件是否存在命令执行漏洞",
+  "summary_en": "Detect command execution vulnerability in the static_convert.php file of Ruijie Unified Internet Behavior Management and Audit System",
+  "updated_at": 1742999571,
+  "uuid": "f213ac5a-c19f-4aa5-996d-4b8c1d37a2e6"
+}

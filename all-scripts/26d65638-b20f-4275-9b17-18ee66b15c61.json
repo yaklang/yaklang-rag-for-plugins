@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "生成反弹Shell, Payload, 自定义编码解码, 字符串处理函数",
+  "seo_en": "Generate reverse Shell, Payload, custom encoding decoding, string processing function",
+  "success": true,
+  "summary": "该插件用于生成多种语言的反弹Shell Payload，支持自定义编码解码和字符串处理函数，以实现远程代码执行或后门功能。",
+  "summary_en": "This plugin is used to generate reverse Shell Payloads in multiple languages, supporting custom encoding/decoding and string processing functions for remote code execution or backdoor purposes.",
+  "updated_at": 1742999604,
+  "uuid": "26d65638-b20f-4275-9b17-18ee66b15c61"
+}

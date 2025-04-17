@@ -1,0 +1,11 @@
+{
+  "app": "ActiveMQ",
+  "reason": "",
+  "seo": "ActiveMQ,物理路径泄漏,漏洞检测,信息泄露,高危",
+  "seo_en": "ActiveMQ, physical path leakage, vulnerability detection, information disclosure, high risk",
+  "success": true,
+  "summary": "该插件用于检测ActiveMQ服务器是否存在物理路径泄漏漏洞，通过发送特定的HTTP请求来验证是否存在信息泄露问题。",
+  "summary_en": "This plugin is used to detect whether the ActiveMQ server has a physical path leakage vulnerability, and verifies whether there is an information disclosure issue by sending specific HTTP requests.",
+  "updated_at": 1742999593,
+  "uuid": "30ad377c-7eb6-4250-b64a-5b87d6d6395d"
+}

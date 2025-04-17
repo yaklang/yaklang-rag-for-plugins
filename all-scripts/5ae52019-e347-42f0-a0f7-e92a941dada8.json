@@ -1,0 +1,11 @@
+{
+  "app": "BlogEngine.NET",
+  "reason": "",
+  "seo": "BlogEngine.NET,目录遍历漏洞,路径遍历,插件描述",
+  "seo_en": "BlogEngine.NET,directory traversal vulnerability,path traversal,plugin description",
+  "success": true,
+  "summary": "检测BlogEngine.NET 3.3.7.0版本是否存在通过/api/filemanager路径的目录遍历漏洞",
+  "summary_en": "Detect whether the BlogEngine.NET 3.3.7.0 version has a directory traversal vulnerability via the /api/filemanager path",
+  "updated_at": 1742999587,
+  "uuid": "5ae52019-e347-42f0-a0f7-e92a941dada8"
+}

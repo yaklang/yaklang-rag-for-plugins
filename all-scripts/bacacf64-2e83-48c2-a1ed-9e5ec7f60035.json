@@ -1,0 +1,11 @@
+{
+  "app": "Draytek",
+  "reason": "",
+  "seo": "Draytek,CVE-2020-8515,漏洞检测,命令注入,高危",
+  "seo_en": "Draytek,CVE-2020-8515,vulnerability detection,command injection,high risk",
+  "success": true,
+  "summary": "该插件用于检测Draytek设备中的CVE-2020-8515命令注入漏洞，通过发送特定payload验证是否存在漏洞并返回相关信息。",
+  "summary_en": "This plugin is used to detect the CVE-2020-8515 command injection vulnerability in Draytek devices by sending a specific payload to verify the existence of the vulnerability and return related information.",
+  "updated_at": 1742999598,
+  "uuid": "bacacf64-2e83-48c2-a1ed-9e5ec7f60035"
+}

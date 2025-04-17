@@ -1,0 +1,11 @@
+{
+  "app": "泛微OA E-Cology",
+  "reason": "",
+  "seo": "泛微OA,目录遍历,jqueryFileTree.jsp,漏洞检测",
+  "seo_en": "E-Cology,directory traversal,jqueryFileTree.jsp,vulnerability detection",
+  "success": true,
+  "summary": "检测泛微OA E-Cology系统中jqueryFileTree.jsp文件的目录遍历漏洞，攻击者可能通过该漏洞获取服务器文件目录信息",
+  "summary_en": "Detect directory traversal vulnerability in jqueryFileTree.jsp of E-Cology system by Weaver, which may allow attackers to obtain server file directory information",
+  "updated_at": 1742999593,
+  "uuid": "c35d6bfb-4a6f-4915-87cf-1a109965dd7b"
+}

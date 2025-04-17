@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "webpack源码泄露,内联源映射,js.map文件,漏洞检测",
+  "seo_en": "Webpack source leak, inline source mapping, js.map file, vulnerability detection",
+  "success": true,
+  "summary": "检测是否存在webpack源码泄露问题，包括内联源映射特征和js.map文件的访问情况，并提供修复建议。",
+  "summary_en": "Detect Webpack source code leakage issues, including inline source mapping features and js.map file access, and provide repair suggestions.",
+  "updated_at": 1742999582,
+  "uuid": "712d9e10-1a4b-48b0-a80a-eead4719e9b0"
+}

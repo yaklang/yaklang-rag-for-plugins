@@ -1,0 +1,11 @@
+{
+  "app": "蓝凌EKP系统",
+  "reason": "",
+  "seo": "蓝凌EKP,未授权访问漏洞,OA系统,日志访问",
+  "seo_en": "Landry EKP,Unauthorized Access Vulnerability,OA system,log access",
+  "success": true,
+  "summary": "检测蓝凌EKP系统是否存在未授权访问漏洞，攻击者可能通过特殊路径读取请求日志。",
+  "summary_en": "Detect whether the Landry EKP system has an unauthorized access vulnerability. Attackers may read request logs through special routes.",
+  "updated_at": 1742999582,
+  "uuid": "62749a31-a6a5-4255-8a35-f5f340c6d617"
+}

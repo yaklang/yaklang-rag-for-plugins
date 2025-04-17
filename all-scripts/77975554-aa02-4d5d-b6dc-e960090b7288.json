@@ -1,0 +1,11 @@
+{
+  "app": "Elasticsearch",
+  "reason": "",
+  "seo": "Elasticsearch,远程代码执行,CVE-2015-1427,沙盒绕过,漏洞检测",
+  "seo_en": "Elasticsearch,RCE,CVE-2015-1427,sandbox bypass,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Elasticsearch是否存在CVE-2015-1427沙盒绕过导致的远程代码执行漏洞，通过发送特定HTTP请求验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether Elasticsearch has the CVE-2015-1427 sandbox bypass leading to remote code execution vulnerability by sending specific HTTP requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "77975554-aa02-4d5d-b6dc-e960090b7288"
+}

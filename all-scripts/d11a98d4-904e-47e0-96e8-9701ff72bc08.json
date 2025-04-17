@@ -1,0 +1,11 @@
+{
+  "app": "H5S video platform",
+  "reason": "",
+  "seo": "H5S,CNVD-2020-67113,未授权访问,漏洞检测",
+  "seo_en": "H5S,CNVD-2020-67113,unauthorized access,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测H5S视频平台的CNVD-2020-67113未授权访问漏洞，通过发送特定请求检查是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the CNVD-2020-67113 unauthorized access vulnerability in the H5S video platform by sending specific requests to check for vulnerabilities.",
+  "updated_at": 1742999597,
+  "uuid": "d11a98d4-904e-47e0-96e8-9701ff72bc08"
+}

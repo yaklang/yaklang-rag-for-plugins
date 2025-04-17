@@ -1,0 +1,11 @@
+{
+  "app": "jeecg-boot",
+  "reason": "",
+  "seo": "jeecg-boot, RCE漏洞, 未授权访问, freemarker, SQL语句解析",
+  "seo_en": "jeecg-boot, RCE vulnerability, unauthorized access, freemarker, SQL statement parsing",
+  "success": true,
+  "summary": "检测jeecg-boot应用中由于未授权的API导致的RCE漏洞，该漏洞利用freemarker解析SQL语句生成远程代码执行风险。",
+  "summary_en": "Detect the RCE vulnerability in jeecg-boot application caused by unauthorized API, which exploits freemarker to parse SQL statements for remote code execution risk.",
+  "updated_at": 1742999575,
+  "uuid": "f0564d7c-4dd5-4f39-9c6d-eb78f4f8d8da"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "phpstudy",
+  "reason": "",
+  "seo": "phpstudy,nginx,wrong resolve,漏洞,检测",
+  "seo_en": "phpstudy,nginx,wrong resolve,vulnerability,detection",
+  "success": true,
+  "summary": "该插件用于检测phpstudy中nginx的错误解析漏洞，通过发送多个请求来判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the nginx wrong resolve vulnerability in phpstudy by sending multiple requests to determine if the vulnerability exists.",
+  "updated_at": 1742999592,
+  "uuid": "e13fb767-5558-4549-9432-72d7be7db8aa"
+}

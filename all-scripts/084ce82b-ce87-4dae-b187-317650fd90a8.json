@@ -1,0 +1,11 @@
+{
+  "app": "alibaba canal",
+  "reason": "",
+  "seo": "阿里云,Canal,默认密码,漏洞检测,安全扫描",
+  "seo_en": "Alibaba Cloud,Canal,default password,vulnerability detection,security scan",
+  "success": true,
+  "summary": "该插件用于检测阿里巴巴 Canal 是否存在默认密码漏洞，通过发送特定请求并验证响应来判断是否存在风险。",
+  "summary_en": "This plugin is used to detect whether Alibaba Canal has a default password vulnerability, and determines the risk by sending specific requests and verifying the responses.",
+  "updated_at": 1742999599,
+  "uuid": "084ce82b-ce87-4dae-b187-317650fd90a8"
+}

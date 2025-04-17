@@ -1,0 +1,11 @@
+{
+  "app": "DVR",
+  "reason": "",
+  "seo": "DVR信息泄露漏洞,CVE-2018-9995,高危漏洞,信息泄露",
+  "seo_en": "DVR Information Leak Vulnerability,CVE-2018-9995,High Risk Vulnerability,Information Leakage",
+  "success": true,
+  "summary": "该插件用于检测DVR设备是否存在CVE-2018-9995信息泄露漏洞，通过发送特定HTTP请求检查返回结果中是否包含用户名和密码等敏感信息。",
+  "summary_en": "This plugin is used to detect whether DVR devices have the CVE-2018-9995 information leak vulnerability by sending a specific HTTP request and checking if the response contains sensitive information such as usernames and passwords.",
+  "updated_at": 1742999585,
+  "uuid": "abdfdf1f-b46f-4cf3-8d19-4e6987333218"
+}

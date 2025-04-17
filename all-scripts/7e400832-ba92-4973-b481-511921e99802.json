@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Aj-Report, rce漏洞, 插件, 漏洞检测",
+  "seo_en": "Aj-Report, rce vulnerability, plugin, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Aj-Report应用中的rce远程代码执行漏洞，通过发送特定POST请求来验证是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the rce remote code execution vulnerability in the Aj-Report application by sending a specific POST request to verify the existence of the vulnerability.",
+  "updated_at": 1742999569,
+  "uuid": "7e400832-ba92-4973-b481-511921e99802"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "赛蓝企业管理系统",
+  "reason": "",
+  "seo": "赛蓝企业管理系统,任意文件读取漏洞,GetCssFile,漏洞检测",
+  "seo_en": "Sailan Enterprise Management System, arbitrary file read vulnerability, GetCssFile, vulnerability detection",
+  "success": true,
+  "summary": "检测赛蓝企业管理系统中GetCssFile是否存在任意文件读取漏洞，通过发送特定HTTP请求验证漏洞是否存在。",
+  "summary_en": "Detect whether the GetCssFile in Sailan Enterprise Management System has an arbitrary file read vulnerability by sending a specific HTTP request to verify the existence of the vulnerability.",
+  "updated_at": 1742999569,
+  "uuid": "4fd21a2d-9053-4ef8-a406-80d8e8c31e17"
+}

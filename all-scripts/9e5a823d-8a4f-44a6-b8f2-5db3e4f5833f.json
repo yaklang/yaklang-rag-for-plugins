@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Shiro,漏洞检测,加密模式,密钥,利用链",
+  "seo_en": "Shiro,vulnerability detection,encryption mode,key,gadget chain",
+  "success": true,
+  "summary": "该插件用于检测Shiro应用的潜在漏洞，支持用户自定义密钥、加密模式和利用链进行检测，并尝试爆破默认密钥以验证是否存在反序列化漏洞。",
+  "summary_en": "This plugin is used to detect potential vulnerabilities in Shiro applications. It supports custom keys, encryption modes, and gadget chains for detection, and attempts to brute force default keys to verify the existence of deserialization vulnerabilities.",
+  "updated_at": 1740203647,
+  "uuid": "9e5a823d-8a4f-44a6-b8f2-5db3e4f5833f"
+}

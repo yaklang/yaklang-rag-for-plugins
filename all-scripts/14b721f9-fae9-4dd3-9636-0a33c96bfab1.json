@@ -1,0 +1,11 @@
+{
+  "app": "rConfig",
+  "reason": "",
+  "seo": "rConfig,操作系统命令注入漏洞,漏洞检测",
+  "seo_en": "rConfig,OS command injection vulnerability,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测rConfig应用是否存在操作系统命令注入漏洞，通过发送特定的HTTP请求并分析响应内容来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the rConfig application has an OS command injection vulnerability by sending specific HTTP requests and analyzing the response content to determine if the vulnerability exists.",
+  "updated_at": 1742999591,
+  "uuid": "14b721f9-fae9-4dd3-9636-0a33c96bfab1"
+}

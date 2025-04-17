@@ -1,0 +1,11 @@
+{
+  "app": "Jetty",
+  "reason": "",
+  "seo": "Jetty,信息泄露,CVE_2021_34429,漏洞检测",
+  "seo_en": "Jetty,Information Disclosure,CVE_2021_34429,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Jetty服务器是否存在CVE_2021_34429信息泄露漏洞，通过发送特定请求并分析响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Jetty server has the CVE_2021_34429 information disclosure vulnerability by sending specific requests and analyzing the response content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999586,
+  "uuid": "577592b4-2b14-48de-ae47-a71886a7efe9"
+}

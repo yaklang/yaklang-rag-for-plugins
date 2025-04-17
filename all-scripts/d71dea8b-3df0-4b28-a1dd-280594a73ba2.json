@@ -1,0 +1,11 @@
+{
+  "app": "dedecms",
+  "reason": "",
+  "seo": "dedecms,漏洞检测,CVE-2018-7700,SQL注入,CVE-2018-6910",
+  "seo_en": "dedecms,vulnerability detection,CVE-2018-7700,SQL injection,CVE-2018-6910",
+  "success": true,
+  "summary": "该插件用于检测Dedecms系统中的多个漏洞，包括CVE-2018-7700远程命令执行漏洞、membergroup SQL注入漏洞以及CVE-2018-6910信息泄露漏洞。",
+  "summary_en": "This plugin is used to detect multiple vulnerabilities in the Dedecms system, including CVE-2018-7700 remote command execution vulnerability, membergroup SQL injection vulnerability, and CVE-2018-6910 information disclosure vulnerability.",
+  "updated_at": 1742999598,
+  "uuid": "d71dea8b-3df0-4b28-a1dd-280594a73ba2"
+}

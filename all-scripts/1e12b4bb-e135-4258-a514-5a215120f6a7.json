@@ -1,0 +1,11 @@
+{
+  "app": "宏景eHR系统",
+  "reason": "",
+  "seo": "宏景eHR,任意文件读取,漏洞检测,高危",
+  "seo_en": "Hongjing eHR, arbitrary file read, vulnerability detection, high risk",
+  "success": true,
+  "summary": "该插件用于检测宏景eHR系统的DisplayFiles功能是否存在任意文件读取漏洞，属于高危漏洞。",
+  "summary_en": "This plugin is used to detect whether the DisplayFiles function of Hongjing eHR system has arbitrary file read vulnerability, which is a high-risk vulnerability.",
+  "updated_at": 1742999579,
+  "uuid": "1e12b4bb-e135-4258-a514-5a215120f6a7"
+}

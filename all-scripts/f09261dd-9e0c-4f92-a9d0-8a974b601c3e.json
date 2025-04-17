@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "修改HTTP请求,Cookie,URL关键字",
+  "seo_en": "Modify HTTP request,Cookie,URL keyword",
+  "success": true,
+  "summary": "该插件允许用户通过设置URL关键字作为前提条件，修改或增加HTTP请求中的Cookie值。",
+  "summary_en": "This plugin allows users to modify or add Cookie values in HTTP requests by setting URL keywords as prerequisites.",
+  "updated_at": 1740805052,
+  "uuid": "f09261dd-9e0c-4f92-a9d0-8a974b601c3e"
+}

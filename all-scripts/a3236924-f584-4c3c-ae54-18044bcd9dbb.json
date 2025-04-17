@@ -1,0 +1,11 @@
+{
+  "app": "ofbiz",
+  "reason": "",
+  "seo": "ofbiz,xxe漏洞检测,CVE-2018-8033,CVE-2020-9496",
+  "seo_en": "ofbiz,xxe vulnerability detection,CVE-2018-8033,CVE-2020-9496",
+  "success": true,
+  "summary": "该插件用于检测ofbiz应用的多个XXE漏洞，包括CVE-2018-8033和CVE-2020-9496漏洞。",
+  "summary_en": "This plugin is used to detect multiple XXE vulnerabilities in the ofbiz application, including CVE-2018-8033 and CVE-2020-9496 vulnerabilities.",
+  "updated_at": 1742999599,
+  "uuid": "a3236924-f584-4c3c-ae54-18044bcd9dbb"
+}

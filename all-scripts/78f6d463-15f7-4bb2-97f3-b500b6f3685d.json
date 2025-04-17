@@ -1,0 +1,11 @@
+{
+  "app": "润乾报表",
+  "reason": "",
+  "seo": "润乾报表,任意文件上传漏洞,前台漏洞",
+  "seo_en": "Ruanqian Report, Arbitrary File Upload Vulnerability, Frontend Vulnerability",
+  "success": true,
+  "summary": "检测润乾报表前台是否存在任意文件上传漏洞，通过发送特定的HTTP请求包来验证漏洞是否存在。",
+  "summary_en": "Detect whether there is an arbitrary file upload vulnerability in the Ruanqian Report frontend by sending a specific HTTP request packet to verify the existence of the vulnerability.",
+  "updated_at": 1742999573,
+  "uuid": "78f6d463-15f7-4bb2-97f3-b500b6f3685d"
+}

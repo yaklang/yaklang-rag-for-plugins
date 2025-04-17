@@ -1,0 +1,11 @@
+{
+  "app": "海康威视iVMS-8700综合安防管理平台",
+  "reason": "",
+  "seo": "海康威视, iVMS-8700, 信息泄露, getAllUserInfo",
+  "seo_en": "Hikvision, iVMS-8700, information leakage, getAllUserInfo",
+  "success": true,
+  "summary": "检测海康威视iVMS-8700综合安防管理平台的getAllUserInfo接口是否存在信息泄露漏洞，可能暴露系统管理员等敏感信息",
+  "summary_en": "Detect whether the getAllUserInfo interface of Hikvision iVMS-8700 Integrated Security Management Platform has an information leakage vulnerability, which may expose sensitive information such as system administrators",
+  "updated_at": 1742999577,
+  "uuid": "8dfd5f5d-6197-40a0-902d-223d78235cd9"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "fuzztag表格生成,字符串生成,插件",
+  "seo_en": "fuzztag table generation, string generation, plugin",
+  "success": true,
+  "summary": "根据输入的fuzztag生成表格，用于展示数据",
+  "summary_en": "Generate a table based on the input fuzztag for data visualization",
+  "updated_at": 1742999582,
+  "uuid": "c4bbc966-9177-4742-bee2-c359c4069b0a"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "子域名爆破,插件,扫描结果,FOFA,HUNTER,ZOOMEYE,SHODAN,QUAKE",
+  "seo_en": "subdomain explosion,plugin,scan results,FOFA,HUNTER,ZOOMEYE,SHODAN,QUAKE",
+  "success": true,
+  "summary": "该插件用于执行子域名爆破和扫描任务，支持多种空间搜索引擎（如FOFA、HUNTER等），并通过DNS枚举和存活检测生成最终的子域名与IP结果。",
+  "summary_en": "This plugin is used for subdomain explosion and scanning tasks, supporting multiple space search engines (such as FOFA, HUNTER, etc.), and generates final subdomain and IP results through DNS enumeration and survival detection.",
+  "updated_at": 1742999585,
+  "uuid": "91e5aa89-0709-4cb1-a23e-6ad2982018e3"
+}

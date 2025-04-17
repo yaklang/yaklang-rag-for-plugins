@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,视频文件,任意文件下载漏洞,检测",
+  "seo_en": "Tongda OA,video_file.php,arbitrary file download vulnerability,detection",
+  "success": true,
+  "summary": "该插件用于检测通达OA v2017版本是否存在video_file.php任意文件下载漏洞，通过构造特定请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Tongda OA v2017 version has an arbitrary file download vulnerability in video_file.php. It verifies the existence of the vulnerability by constructing a specific request.",
+  "updated_at": 1742999601,
+  "uuid": "99e93f1a-1f00-4d75-81f7-9469cf9e9da6"
+}

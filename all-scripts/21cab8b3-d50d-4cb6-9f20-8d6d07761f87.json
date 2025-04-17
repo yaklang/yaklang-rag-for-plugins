@@ -1,0 +1,11 @@
+{
+  "app": "ShowDoc",
+  "reason": "",
+  "seo": "ShowDoc,任意文件上传漏洞,PageController.class.php,漏洞检测",
+  "seo_en": "ShowDoc,Arbitrary File Upload Vulnerability,PageController.class.php,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测ShowDoc应用中的PageController.class.php任意文件上传漏洞，通过发送特定的HTTP请求来验证是否存在该漏洞。",
+  "summary_en": "This plugin is used to detect the arbitrary file upload vulnerability in ShowDoc's PageController.class.php. It verifies the existence of the vulnerability by sending specific HTTP requests.",
+  "updated_at": 1742999595,
+  "uuid": "21cab8b3-d50d-4cb6-9f20-8d6d07761f87"
+}

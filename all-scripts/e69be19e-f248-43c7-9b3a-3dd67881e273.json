@@ -1,0 +1,11 @@
+{
+  "app": "hikvision",
+  "reason": "",
+  "seo": "海康威视,认证绕过,CVE-2017-7921,漏洞检测",
+  "seo_en": "Hikvision, authentication bypass, CVE-2017-7921, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测海康威视设备的认证绕过漏洞（CVE-2017-7921），通过发送特定请求检查是否存在漏洞并返回相关信息。",
+  "summary_en": "This plugin is used to detect the authentication bypass vulnerability (CVE-2017-7921) in Hikvision devices by sending specific requests and checking for the vulnerability.",
+  "updated_at": 1742999598,
+  "uuid": "e69be19e-f248-43c7-9b3a-3dd67881e273"
+}

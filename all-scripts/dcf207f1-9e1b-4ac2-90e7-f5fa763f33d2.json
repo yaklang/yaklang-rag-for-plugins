@@ -1,0 +1,11 @@
+{
+  "app": "Arris Router",
+  "reason": "",
+  "seo": "CVE-2022-31793,任意文件读取漏洞,Arris路由器,漏洞检测",
+  "seo_en": "CVE-2022-31793,Arbitrary File Read Vulnerability,Arris Router,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Arris路由器是否存在CVE-2022-31793任意文件读取漏洞，受影响的设备包括Arris NVG443、NVG599、NVG589、NVG510以及BGW210和BGW320等派生设备。",
+  "summary_en": "This plugin is used to detect whether the Arris router has the CVE-2022-31793 arbitrary file read vulnerability. Affected devices include Arris NVG443, NVG599, NVG589, NVG510, and derivative devices such as BGW210 and BGW320.",
+  "updated_at": 1742999596,
+  "uuid": "dcf207f1-9e1b-4ac2-90e7-f5fa763f33d2"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Apache",
+  "reason": "",
+  "seo": "Apache,CVE-2021-41773,路径穿越漏洞,漏洞检测",
+  "seo_en": "Apache,CVE-2021-41773,Path Traversal Vulnerability,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Apache HTTP Server 2.4.49是否存在CVE-2021-41773路径穿越漏洞，通过发送特定请求判断服务器响应是否异常。",
+  "summary_en": "This plugin is used to detect whether Apache HTTP Server 2.4.49 has the CVE-2021-41773 path traversal vulnerability by sending specific requests and checking if the server response is abnormal.",
+  "updated_at": 1742999604,
+  "uuid": "cea0cb46-6ed8-4ae3-8a1c-94330ee98e0b"
+}

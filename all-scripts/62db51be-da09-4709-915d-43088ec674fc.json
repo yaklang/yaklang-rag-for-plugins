@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "内训宝,scorm,任意文件上传,漏洞检测",
+  "seo_en": "Neixunbao,scorm,arbitrary file upload,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测内训宝scorm系统是否存在任意文件上传漏洞，通过发送特定的POST请求来验证是否存在漏洞。",
+  "summary_en": "This plugin is used to detect whether the Neixunbao scorm system has an arbitrary file upload vulnerability by sending a specific POST request to verify the existence of the vulnerability.",
+  "updated_at": 1742999568,
+  "uuid": "62db51be-da09-4709-915d-43088ec674fc"
+}

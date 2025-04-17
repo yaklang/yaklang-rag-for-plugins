@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "CORS配置不当,漏洞检测,跨域资源共享,信息泄露",
+  "seo_en": "CORS misconfiguration,vulnerability detection,cross-origin resource sharing,information leakage",
+  "success": true,
+  "summary": "该插件用于检测CORS配置不当漏洞，可能导致用户敏感信息泄露，建议严格校验请求中的Origin值并避免使用Access-Control-Allow-Credentials: true。",
+  "summary_en": "This plugin is used to detect CORS misconfiguration vulnerabilities, which may lead to user sensitive information leakage. It is recommended to strictly validate the Origin value in requests and avoid using Access-Control-Allow-Credentials: true.",
+  "updated_at": 1742999575,
+  "uuid": "96a6dc20-7629-43df-98bf-05c9ad633cbb"
+}

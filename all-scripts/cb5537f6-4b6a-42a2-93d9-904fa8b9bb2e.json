@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "正则表达式,生成,提取,特征,Golang风格",
+  "seo_en": "regular expression, generation, extraction, features, Golang style",
+  "success": true,
+  "summary": "该插件的核心意图是通过AI技术为选中的内容或数据包生成一个Golang风格的正则表达式，用于提取或生成特征。",
+  "summary_en": "The core intention of this plugin is to generate a Golang-style regular expression for selected content or data packages using AI technology, for extraction or feature generation.",
+  "updated_at": 1742999577,
+  "uuid": "cb5537f6-4b6a-42a2-93d9-904fa8b9bb2e"
+}

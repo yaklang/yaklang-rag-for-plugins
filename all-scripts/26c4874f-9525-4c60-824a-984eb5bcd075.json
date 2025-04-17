@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "空间引擎,Hunter,插件,APIKey,扫描,漏洞检测",
+  "seo_en": "space engine,Hunter,plugin,APIKey,scan,vulnerability detection",
+  "success": true,
+  "summary": "该插件使用 Hunter 语法搜索数据并导入 Yakit 插件执行，支持并发处理和结果过滤，主要功能是通过 API 获取目标信息并进行漏洞检测或服务扫描。",
+  "summary_en": "This plugin uses Hunter syntax to search for data and imports it into Yakit for execution, supporting concurrent processing and result filtering. Its main function is to obtain target information via API and perform vulnerability detection or service scanning.",
+  "updated_at": 1742999604,
+  "uuid": "26c4874f-9525-4c60-824a-984eb5bcd075"
+}

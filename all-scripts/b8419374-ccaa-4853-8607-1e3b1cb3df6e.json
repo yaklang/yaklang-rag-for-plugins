@@ -1,0 +1,11 @@
+{
+  "app": "Tomcat",
+  "reason": "",
+  "seo": "Tomcat,漏洞检测,CVE-2017-12617,文件上传漏洞,高危漏洞",
+  "seo_en": "Tomcat,vulnerability detection,CVE-2017-12617,file upload vulnerability,high-risk vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Apache Tomcat服务器是否存在CVE-2017-12617漏洞，即PUT方法导致的文件上传漏洞，风险等级为高危。",
+  "summary_en": "This plugin is used to detect whether the Apache Tomcat server has the CVE-2017-12617 vulnerability, which is a file upload vulnerability caused by the PUT method, with a high-risk level.",
+  "updated_at": 1742999602,
+  "uuid": "b8419374-ccaa-4853-8607-1e3b1cb3df6e"
+}

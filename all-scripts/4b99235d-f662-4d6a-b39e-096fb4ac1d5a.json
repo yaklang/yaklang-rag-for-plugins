@@ -1,0 +1,11 @@
+{
+  "app": "phpMyAdmin",
+  "reason": "",
+  "seo": "phpMyAdmin,漏洞检测,远程代码执行,GETSHELL",
+  "seo_en": "phpMyAdmin,vulnerability detection,remote code execution,GETSHELL",
+  "success": true,
+  "summary": "该插件用于检测phpMyAdmin \u003c=4.8.1版本中后台checkPageValidity函数的缺陷，可能导致文件包含和远程代码执行漏洞。",
+  "summary_en": "This plugin is used to detect the vulnerability in the checkPageValidity function of phpMyAdmin \u003c=4.8.1, which may lead to file inclusion and remote code execution vulnerabilities.",
+  "updated_at": 1742999592,
+  "uuid": "4b99235d-f662-4d6a-b39e-096fb4ac1d5a"
+}

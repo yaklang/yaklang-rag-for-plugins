@@ -1,0 +1,11 @@
+{
+  "app": "zcms",
+  "reason": "",
+  "seo": "zcms,v3,sqli,漏洞,检测",
+  "seo_en": "zcms,v3,SQL injection,vulnerability,detection",
+  "success": true,
+  "summary": "该插件用于检测zcms v3系统中的SQL注入漏洞，通过构造特定的URL请求并分析响应内容来判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the zcms v3 system by constructing specific URL requests and analyzing the response content to determine if there are any vulnerabilities.",
+  "updated_at": 1742999589,
+  "uuid": "9131d2de-8747-4cad-b00f-d482f4d357c4"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "tmp-2urAcqnrHRYSZlDSTpTwojumhjm, 插件, risk.NewRisk, 127.0.0.1",
+  "seo_en": "tmp-2urAcqnrHRYSZlDSTpTwojumhjm, plugin, risk.NewRisk, 127.0.0.1",
+  "success": true,
+  "summary": "该插件的核心意图是通过调用risk.NewRisk函数针对IP地址127.0.0.1进行风险检测，但具体漏洞或目标应用未明确描述。",
+  "summary_en": "The core intention of this plugin is to perform a risk check on the IP address 127.0.0.1 by calling the risk.NewRisk function, but the specific vulnerability or target application is not clearly described.",
+  "updated_at": 1742996401,
+  "uuid": "687cef1f-22d8-4984-b2ff-be70d78b5b53"
+}

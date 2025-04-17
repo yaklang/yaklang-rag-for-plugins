@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "PHP,在线运行,爬取结果",
+  "seo_en": "PHP, online execution, crawl results",
+  "success": true,
+  "summary": "该插件用于爬取PHP代码在线运行的结果，通过POST请求发送代码并获取返回的执行输出。",
+  "summary_en": "This plugin is used to crawl the results of online PHP code execution by sending code via POST request and retrieving the execution output.",
+  "updated_at": 1742999592,
+  "uuid": "7fea1db7-a725-4f1d-8563-fb8452677a9b"
+}

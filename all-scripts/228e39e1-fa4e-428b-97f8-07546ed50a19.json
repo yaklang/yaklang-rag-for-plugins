@@ -1,0 +1,11 @@
+{
+  "app": "用友NC系统",
+  "reason": "",
+  "seo": "用友NC,word文件读取,漏洞检测,文件路径暴露",
+  "seo_en": "Yonyou NC,word file read,vulnerability detection,file path exposure",
+  "success": true,
+  "summary": "该插件用于检测用友NC系统是否存在通过特定URL路径非法读取word文档的漏洞，可能暴露出敏感文件如web.xml的内容。",
+  "summary_en": "This plugin is used to detect whether there is a vulnerability in Yonyou NC system that allows unauthorized reading of word documents through specific URL paths, which may expose the content of sensitive files such as web.xml.",
+  "updated_at": 1742999581,
+  "uuid": "228e39e1-fa4e-428b-97f8-07546ed50a19"
+}

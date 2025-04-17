@@ -1,0 +1,11 @@
+{
+  "app": "pisa系统",
+  "reason": "",
+  "seo": "pisa弱口令,漏洞检测,网络安全,弱密码,PoC",
+  "seo_en": "pisa weak password,vulnerability detection,network security,weak credentials,PoC",
+  "success": true,
+  "summary": "该插件用于检测pisa系统是否存在弱口令漏洞，尝试无认证登录和使用常见弱密码组合进行登录测试，并输出存在漏洞的用户名、密码及RTSP路径。",
+  "summary_en": "This plugin detects weak password vulnerabilities in the pisa system by attempting unauthorized login and testing common weak password combinations. It outputs the vulnerable username, password, and RTSP path if a vulnerability is found.",
+  "updated_at": 1742999585,
+  "uuid": "77ddb264-4a9b-4ed9-8858-165e8946e0a1"
+}

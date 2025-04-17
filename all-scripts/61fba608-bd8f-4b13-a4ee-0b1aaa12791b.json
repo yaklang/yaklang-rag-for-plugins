@@ -1,0 +1,11 @@
+{
+  "app": "大华智慧园区综合管理平台",
+  "reason": "",
+  "seo": "大华,智慧园区,任意用户密码读取,漏洞检测",
+  "seo_en": "Dahua,Smart Park,Arbitrary User Password Read,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测大华智慧园区综合管理平台中是否存在任意用户密码读取漏洞，通过构造特定请求获取用户名和密码信息。",
+  "summary_en": "This plugin is used to detect whether the Dahua Smart Park Integrated Management Platform has an arbitrary user password read vulnerability, and obtains username and password information by constructing specific requests.",
+  "updated_at": 1742999575,
+  "uuid": "61fba608-bd8f-4b13-a4ee-0b1aaa12791b"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Fastjson,反序列化漏洞,综合检测,插件",
+  "seo_en": "Fastjson,Deserialization Vulnerability,Comprehensive Detection,Plugin",
+  "success": true,
+  "summary": "该插件用于综合检测Fastjson反序列化漏洞，通过构造不同payload测试目标是否存在远程代码执行（RCE）漏洞，并提供版本检测和解决方案建议。",
+  "summary_en": "This plugin is used for comprehensive detection of Fastjson deserialization vulnerabilities, testing whether the target has remote code execution (RCE) vulnerabilities by constructing different payloads, and providing version detection and solution recommendations.",
+  "updated_at": 1740203645,
+  "uuid": "8631915b-61b4-4e51-9c2a-c8f03794fdb2"
+}

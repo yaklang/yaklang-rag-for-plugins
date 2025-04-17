@@ -1,0 +1,11 @@
+{
+  "app": "蓝凌OA",
+  "reason": "",
+  "seo": "蓝凌OA,任意文件读取,漏洞检测,定制JSP文件",
+  "seo_en": "Landray OA, Arbitrary File Read, Vulnerability Detection, Custom JSP Files",
+  "success": true,
+  "summary": "该插件用于检测蓝凌OA系统中的任意文件读取漏洞，通过发送特定的HTTP请求来验证是否存在漏洞。",
+  "summary_en": "This plugin is used to detect arbitrary file read vulnerabilities in the Landray OA system by sending specific HTTP requests to verify the existence of vulnerabilities.",
+  "updated_at": 1742999595,
+  "uuid": "e0fdab6f-79a4-440d-9146-9a3a75c0906a"
+}

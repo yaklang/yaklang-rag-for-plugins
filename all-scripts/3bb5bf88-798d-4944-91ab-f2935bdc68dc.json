@@ -1,0 +1,11 @@
+{
+  "app": "SolarView Compact",
+  "reason": "",
+  "seo": "SolarView Compact,远程命令执行漏洞,CVE-2022-29303,conf_mail.php",
+  "seo_en": "SolarView Compact,RCE vulnerability,CVE-2022-29303,conf_mail.php",
+  "success": true,
+  "summary": "检测SolarView Compact的conf_mail.php是否存在CVE-2022-29303远程命令执行漏洞，攻击者可能通过构造特殊请求获取服务器权限",
+  "summary_en": "Detect whether the conf_mail.php of SolarView Compact has the CVE-2022-29303 RCE vulnerability, where attackers may gain server permissions by constructing special requests",
+  "updated_at": 1742999596,
+  "uuid": "3bb5bf88-798d-4944-91ab-f2935bdc68dc"
+}

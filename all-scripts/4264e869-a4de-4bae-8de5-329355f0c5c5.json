@@ -1,0 +1,11 @@
+{
+  "app": "MessageSolution企业邮件归档管理系统",
+  "reason": "",
+  "seo": "CNVD-2021-10543,信息泄露漏洞,邮件归档系统,EEA,北京易讯思达科技",
+  "seo_en": "CNVD-2021-10543,Information Leakage Vulnerability,Email Archiving System,EEA,YiXunSida Technology",
+  "success": true,
+  "summary": "检测MessageSolution企业邮件归档管理系统是否存在CNVD-2021-10543信息泄露漏洞，该漏洞可能导致Windows服务器administrator hash与web账号密码泄露",
+  "summary_en": "Detect whether the MessageSolution Email Archiving Management System has the CNVD-2021-10543 information leakage vulnerability, which may lead to the leakage of Windows server administrator hash and web account passwords",
+  "updated_at": 1742999596,
+  "uuid": "4264e869-a4de-4bae-8de5-329355f0c5c5"
+}

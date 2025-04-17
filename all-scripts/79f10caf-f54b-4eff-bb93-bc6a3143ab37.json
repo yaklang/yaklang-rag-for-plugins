@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "天擎,信息泄露漏洞,api/dbstat/gettablessize",
+  "seo_en": "Tianqing, information leak vulnerability, api/dbstat/gettablessize",
+  "success": true,
+  "summary": "该插件用于检测是否存在天擎信息泄露漏洞，通过访问特定API路径/api/dbstat/gettablessize来判断目标系统是否返回敏感数据。",
+  "summary_en": "This plugin is used to detect the Tianqing information leak vulnerability by accessing the specific API path /api/dbstat/gettablessize to determine if the target system returns sensitive data.",
+  "updated_at": 1742999590,
+  "uuid": "79f10caf-f54b-4eff-bb93-bc6a3143ab37"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "SonarQube",
+  "reason": "",
+  "seo": "SonarQube,未授权访问漏洞,CVE-2020-27986,代码质量管理系统",
+  "seo_en": "SonarQube,unauthorized access vulnerability,CVE-2020-27986,code quality management system",
+  "success": true,
+  "summary": "检测SonarQube API是否存在未授权访问漏洞（CVE-2020-27986），通过发送特定请求判断是否可以获取敏感信息",
+  "summary_en": "Detect whether there is an unauthorized access vulnerability (CVE-2020-27986) in the SonarQube API by sending specific requests to determine if sensitive information can be obtained",
+  "updated_at": 1742999590,
+  "uuid": "849436f1-f126-4a13-8901-37e1228a0165"
+}

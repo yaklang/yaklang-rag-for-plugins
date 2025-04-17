@@ -1,0 +1,11 @@
+{
+  "app": "宏景eHR",
+  "reason": "",
+  "seo": "宏景eHR,SQL注入漏洞,CNVD-2023-08743",
+  "seo_en": "Hongjing eHR,SQL injection vulnerability,CNVD-2023-08743",
+  "success": true,
+  "summary": "检测宏景eHR系统是否存在SQL注入漏洞（CNVD-2023-08743），通过构造特定请求参数验证漏洞是否可被利用。",
+  "summary_en": "Detect SQL injection vulnerabilities in Hongjing eHR system (CNVD-2023-08743) by constructing specific request parameters to verify if the vulnerability can be exploited.",
+  "updated_at": 1742999577,
+  "uuid": "edaa0573-2e50-4f2c-9cb0-323a23b53922"
+}

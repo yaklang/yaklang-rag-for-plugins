@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SSA项目编译,代码查询,代码分析",
+  "seo_en": "SSA project compilation, code query, code analysis",
+  "success": true,
+  "summary": "该插件用于将项目编译到SSA数据库中，支持多种编程语言，提供代码查询和分析功能。",
+  "summary_en": "This plugin compiles projects into the SSA database, supporting multiple programming languages for code querying and analysis.",
+  "updated_at": 1742348301,
+  "uuid": "0f610372-5a31-4f9b-a8b9-c4fe7fbe5e25"
+}

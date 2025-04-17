@@ -1,0 +1,11 @@
+{
+  "app": "Tomcat",
+  "reason": "",
+  "seo": "Tomcat,爆破,登录,用户名,密码",
+  "seo_en": "Tomcat,brute-force,login,username,password",
+  "success": true,
+  "summary": "该插件用于对Tomcat服务器进行常见用户名和密码组合的暴力破解，尝试检测是否存在弱口令问题。",
+  "summary_en": "This plugin is used to perform brute-force attacks on Tomcat servers with common username and password combinations to detect potential weak password issues.",
+  "updated_at": 1742999602,
+  "uuid": "d1d8ce15-ad46-45f7-a282-cd2e2aa5689f"
+}

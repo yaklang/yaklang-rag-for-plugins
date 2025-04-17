@@ -1,0 +1,11 @@
+{
+  "app": "SonicWall SSL VPN",
+  "reason": "",
+  "seo": "sonicwall,ssl,vpn,rce,漏洞,检测",
+  "seo_en": "sonicwall,ssl,vpn,rce,vulnerability,detection",
+  "success": true,
+  "summary": "该插件用于检测SonicWall SSL VPN系统中的远程代码执行（RCE）漏洞，通过发送特定请求验证是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the Remote Code Execution (RCE) vulnerability in the SonicWall SSL VPN system by sending specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999590,
+  "uuid": "61f198d6-061f-477a-bb75-ca177b959308"
+}

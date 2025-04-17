@@ -1,0 +1,11 @@
+{
+  "app": "致远-M1系统",
+  "reason": "",
+  "seo": "致远,M1,弱口令,漏洞检测",
+  "seo_en": "Seeyon,M1,weak password,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测致远-M1系统是否存在弱口令问题，通过尝试使用默认或常见密码登录管理界面来判断漏洞。",
+  "summary_en": "This plugin is used to detect whether the Seeyon-M1 system has weak password issues by attempting to log in to the management interface with default or common passwords.",
+  "updated_at": 1742999580,
+  "uuid": "d310add5-c917-4050-b816-2e8746764858"
+}

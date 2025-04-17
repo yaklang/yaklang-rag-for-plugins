@@ -1,0 +1,11 @@
+{
+  "app": "孚盟云",
+  "reason": "",
+  "seo": "孚盟云,SQL注入漏洞,ajaxmethod,name,sqli,漏洞检测",
+  "seo_en": "Fumengyun,SQL injection vulnerability,ajaxmethod,name,sqli,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测孚盟云系统中AjaxMethod.ashx文件的SQL注入漏洞，攻击者可能通过此漏洞获取服务器权限。",
+  "summary_en": "This plugin is used to detect the SQL injection vulnerability in the AjaxMethod.ashx file of the Fumengyun system, which may allow attackers to gain server permissions.",
+  "updated_at": 1742999586,
+  "uuid": "ff4e801d-5b74-4176-97d9-ffa2dea9c4dc"
+}

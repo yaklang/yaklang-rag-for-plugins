@@ -1,0 +1,11 @@
+{
+  "app": "ActiveMQ",
+  "reason": "",
+  "seo": "ActiveMQ,弱口令检测,漏洞扫描,默认密码",
+  "seo_en": "ActiveMQ, weak password detection, vulnerability scanning, default password",
+  "success": true,
+  "summary": "该插件用于检测ActiveMQ是否存在默认口令或弱口令漏洞，帮助用户提高系统安全性。",
+  "summary_en": "This plugin is used to detect whether ActiveMQ has default password or weak password vulnerabilities, helping users improve system security.",
+  "updated_at": 1742999599,
+  "uuid": "a35915c4-d2b4-43a9-857f-9ef507cacdfe"
+}

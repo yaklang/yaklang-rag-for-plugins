@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SSTI检测,漏洞扫描,插件参数,HTTP请求,流量镜像",
+  "seo_en": "SSTI detection, vulnerability scanning, plugin parameters, HTTP requests, traffic mirroring",
+  "success": true,
+  "summary": "该插件的核心意图是检测服务器端模板注入（SSTI）漏洞，通过构造不同的payload对目标应用进行测试，并分析响应结果以确认漏洞是否存在。",
+  "summary_en": "The core intention of this plugin is to detect Server-Side Template Injection (SSTI) vulnerabilities by constructing various payloads to test the target application and analyzing the response results to confirm the existence of vulnerabilities.",
+  "updated_at": 1742999588,
+  "uuid": "23367764-c504-4189-bad1-a1fdc6a1b602"
+}

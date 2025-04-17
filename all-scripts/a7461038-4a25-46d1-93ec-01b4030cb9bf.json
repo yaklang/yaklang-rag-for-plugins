@@ -1,0 +1,11 @@
+{
+  "app": "飞企互联-FE企业运营管理平台",
+  "reason": "",
+  "seo": "飞企互联,FE企业运营管理平台,sql注入,漏洞检测",
+  "seo_en": "Flychinfo,FE Operation Management Platform,SQL injection,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测飞企互联-FE企业运营管理平台的editflow-manager是否存在SQL注入漏洞。",
+  "summary_en": "This plugin is used to detect whether the editflow-manager of Flychinfo-FE Operation Management Platform has SQL injection vulnerabilities.",
+  "updated_at": 1742999582,
+  "uuid": "a7461038-4a25-46d1-93ec-01b4030cb9bf"
+}

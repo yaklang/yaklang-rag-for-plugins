@@ -1,0 +1,11 @@
+{
+  "app": "ThinkPHP",
+  "reason": "",
+  "seo": "thinkphp,漏洞,文件写入,检测,高危",
+  "seo_en": "thinkphp,vulnerability,file write,detection,critical",
+  "success": true,
+  "summary": "该插件用于检测ThinkPHP v6版本中的文件写入漏洞，通过构造特定请求判断目标系统是否存在该漏洞，并输出相关信息。",
+  "summary_en": "This plugin is used to detect the file write vulnerability in ThinkPHP v6. It constructs specific requests to determine if the target system is vulnerable and outputs relevant information.",
+  "updated_at": 1742999590,
+  "uuid": "e21fc02c-be35-495f-b480-bc6dcb836276"
+}

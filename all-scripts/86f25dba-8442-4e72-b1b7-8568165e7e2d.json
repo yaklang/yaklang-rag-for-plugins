@@ -1,0 +1,11 @@
+{
+  "app": "MinIO",
+  "reason": "",
+  "seo": "MinIO,默认密码漏洞,在线检测,安全测试",
+  "seo_en": "MinIO,default password vulnerability,online detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测MinIO服务是否存在默认密码（minioadmin/minioadmin）漏洞，通过发送特定的POST请求验证目标是否易受攻击。",
+  "summary_en": "This plugin is used to detect whether the MinIO service has a default password (minioadmin/minioadmin) vulnerability, and verifies if the target is vulnerable by sending specific POST requests.",
+  "updated_at": 1742999592,
+  "uuid": "86f25dba-8442-4e72-b1b7-8568165e7e2d"
+}

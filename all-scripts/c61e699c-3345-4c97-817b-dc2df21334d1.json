@@ -1,0 +1,11 @@
+{
+  "app": "大华 DSS 数字监控系统",
+  "reason": "",
+  "seo": "大华,数字监控系统,sql注入,漏洞检测",
+  "seo_en": "Dahua,DSS,digital surveillance system,sql injection,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测大华 DSS 数字监控系统是否存在 group_saveGroup SQL 注入漏洞，通过发送特定的 HTTP 请求来验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the Dahua DSS digital surveillance system has a group_saveGroup SQL injection vulnerability by sending specific HTTP requests to verify if the target system is affected.",
+  "updated_at": 1742999569,
+  "uuid": "c61e699c-3345-4c97-817b-dc2df21334d1"
+}

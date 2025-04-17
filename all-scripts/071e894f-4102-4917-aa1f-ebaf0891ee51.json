@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "批量备案查询,ICP备案,域名查询,公司全名查询",
+  "seo_en": "Mass filing query,ICP filing,domain name query,company name query",
+  "success": true,
+  "summary": "该插件用于批量查询ICP备案信息，支持通过域名查询备案单位或通过公司全名查询备案域名。",
+  "summary_en": "This plugin is used for mass ICP filing queries, supporting queries by domain name or company full name to obtain filing information.",
+  "updated_at": 1742999592,
+  "uuid": "071e894f-4102-4917-aa1f-ebaf0891ee51"
+}

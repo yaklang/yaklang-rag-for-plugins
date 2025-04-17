@@ -1,0 +1,11 @@
+{
+  "app": "panabit",
+  "reason": "",
+  "seo": "panabit,远程命令执行漏洞,漏洞检测,网络安全",
+  "seo_en": "panabit,remote command execution vulnerability,vulnerability detection,network security",
+  "success": true,
+  "summary": "该插件用于检测panabit设备中的远程命令执行漏洞，攻击者可能利用此漏洞获取服务器权限。",
+  "summary_en": "This plugin is used to detect the remote command execution vulnerability in panabit devices, which attackers may exploit to gain server privileges.",
+  "updated_at": 1742999586,
+  "uuid": "3b9eb77c-1b13-4d52-a8a9-691b15ef0d2e"
+}

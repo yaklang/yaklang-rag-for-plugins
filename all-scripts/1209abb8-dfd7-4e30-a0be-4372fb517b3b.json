@@ -1,0 +1,11 @@
+{
+  "app": "电信网关配置管理系统",
+  "reason": "",
+  "seo": "电信网关,默认密码漏洞,SQL注入漏洞",
+  "seo_en": "Telecom Gateway,Default Password Vulnerability,SQL Injection Vulnerability",
+  "success": true,
+  "summary": "检测电信网关配置管理系统的默认密码漏洞，尝试通过特定URL和登录凭据验证是否存在未授权访问风险。",
+  "summary_en": "Detect the default password vulnerability in Telecom Gateway Configuration Management System and attempt to verify the existence of unauthorized access risks through specific URLs and login credentials.",
+  "updated_at": 1742999590,
+  "uuid": "1209abb8-dfd7-4e30-a0be-4372fb517b3b"
+}

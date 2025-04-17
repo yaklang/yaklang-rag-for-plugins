@@ -1,0 +1,11 @@
+{
+  "app": "锐捷上网行为管理系统",
+  "reason": "",
+  "seo": "锐捷,上网行为管理,naborTable RCE,漏洞检测",
+  "seo_en": "Ruijie,Network Behavior Management,naborTable RCE,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测锐捷上网行为管理系统的naborTable远程代码执行漏洞，通过构造特定请求验证是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the naborTable Remote Code Execution vulnerability in Ruijie Network Behavior Management System by constructing specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999575,
+  "uuid": "3450165d-df66-4739-ae9d-f54159ad823a"
+}

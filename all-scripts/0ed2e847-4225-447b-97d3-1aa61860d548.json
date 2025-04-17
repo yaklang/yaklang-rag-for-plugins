@@ -1,0 +1,11 @@
+{
+  "app": "宏景eHR",
+  "reason": "",
+  "seo": "宏景eHR,任意文件读取,漏洞检测,openFile",
+  "seo_en": "Hongjing eHR, Arbitrary File Read, Vulnerability Detection, openFile",
+  "success": true,
+  "summary": "检测宏景eHR系统的openFile功能是否存在任意文件读取漏洞",
+  "summary_en": "Detect arbitrary file read vulnerabilities in the openFile function of Hongjing eHR system",
+  "updated_at": 1742999579,
+  "uuid": "0ed2e847-4225-447b-97d3-1aa61860d548"
+}

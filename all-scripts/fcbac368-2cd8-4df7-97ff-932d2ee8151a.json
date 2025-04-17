@@ -1,0 +1,11 @@
+{
+  "app": "泛微e-Mobile移动管理平台",
+  "reason": "",
+  "seo": "泛微,文件上传漏洞,e-Mobile,移动管理平台",
+  "seo_en": "Fanwei,file upload vulnerability,e-Mobile,mobile management platform",
+  "success": true,
+  "summary": "检测泛微e-Mobile移动管理平台是否存在文件上传漏洞，该漏洞可导致攻击者上传恶意文件到网站根目录。",
+  "summary_en": "Detect whether there is a file upload vulnerability in Fanwei e-Mobile mobile management platform. This vulnerability can allow attackers to upload malicious files to the website root directory.",
+  "updated_at": 1742999579,
+  "uuid": "fcbac368-2cd8-4df7-97ff-932d2ee8151a"
+}

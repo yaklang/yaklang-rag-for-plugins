@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "子域名收集, crt.sh, 域名查询, 信息收集",
+  "seo_en": "subdomain collection, crt.sh, domain query, information gathering",
+  "success": true,
+  "summary": "通过crt.sh提取目标域名的子域名，用于信息收集和安全测试",
+  "summary_en": "Retrieve subdomains of the target domain via crt.sh for information gathering and security testing",
+  "updated_at": 1742999592,
+  "uuid": "487c9b24-faf4-4c71-a7be-db3a14837142"
+}

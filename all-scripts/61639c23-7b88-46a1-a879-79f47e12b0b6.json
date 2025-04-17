@@ -1,0 +1,11 @@
+{
+  "app": "泛微e-cology",
+  "reason": "",
+  "seo": "泛微e-cology,SQL注入漏洞,WorkflowServiceXml,高危漏洞",
+  "seo_en": "Weaver e-cology,SQL Injection Vulnerability,WorkflowServiceXml,High Risk Vulnerability",
+  "success": true,
+  "summary": "检测泛微e-cology 9系统中是否存在WorkflowServiceXml接口的SQL注入漏洞，通过发送特定payload并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the WorkflowServiceXml interface of Weaver e-cology 9 system. It determines the existence of vulnerabilities by sending specific payloads and measuring response times.",
+  "updated_at": 1742999573,
+  "uuid": "61639c23-7b88-46a1-a879-79f47e12b0b6"
+}

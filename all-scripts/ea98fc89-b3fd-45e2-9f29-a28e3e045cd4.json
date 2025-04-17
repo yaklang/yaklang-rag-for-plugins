@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "标记流量,自定义编码解码,数据包处理,紫色标记",
+  "seo_en": "mark traffic,custom encode decode,packet processing,purple tag",
+  "success": true,
+  "summary": "该插件用于在指定数据包中添加标记和颜色，方便识别特定流量。",
+  "summary_en": "This plugin is used to add tags and colors to specific packets for easier identification of certain traffic.",
+  "updated_at": 1742999568,
+  "uuid": "ea98fc89-b3fd-45e2-9f29-a28e3e045cd4"
+}

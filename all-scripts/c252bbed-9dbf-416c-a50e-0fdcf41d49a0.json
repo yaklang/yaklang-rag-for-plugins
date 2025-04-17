@@ -1,0 +1,11 @@
+{
+  "app": "Pulse Secure VPN",
+  "reason": "",
+  "seo": "Pulse Secure VPN,任意文件读取,漏洞检测",
+  "seo_en": "Pulse Secure VPN,Arbitrary File Read,Vulnerability Detection",
+  "success": true,
+  "summary": "检测Pulse Secure VPN是否存在任意文件读取漏洞，通过发送特定请求检查是否能够成功读取系统文件。",
+  "summary_en": "Detect whether Pulse Secure VPN has arbitrary file read vulnerability by sending specific requests to check if system files can be successfully read.",
+  "updated_at": 1742999591,
+  "uuid": "c252bbed-9dbf-416c-a50e-0fdcf41d49a0"
+}

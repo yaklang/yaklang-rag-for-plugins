@@ -1,0 +1,11 @@
+{
+  "app": "万户ezOFFICE协同管理平台",
+  "reason": "",
+  "seo": "万户ezOFFICE,sql注入,协同管理平台,漏洞检测",
+  "seo_en": "ezOFFICE,SQL injection,collaboration management platform,vulnerability detection",
+  "success": true,
+  "summary": "检测万户ezOFFICE协同管理平台中的/receivefile_gd.jsp文件是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the /receivefile_gd.jsp file of the ezOFFICE collaboration management platform",
+  "updated_at": 1742999569,
+  "uuid": "43250398-05ab-4581-9310-2303ed8010e5"
+}

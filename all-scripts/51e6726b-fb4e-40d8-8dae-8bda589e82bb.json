@@ -1,0 +1,11 @@
+{
+  "app": "feifeicms",
+  "reason": "",
+  "seo": "飞飞CMS,任意文件读取,漏洞检测",
+  "seo_en": "feifeicms,file read vulnerability,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测飞飞CMS是否存在任意文件读取漏洞，通过构造特定请求检查是否能成功读取配置文件内容。",
+  "summary_en": "This plugin is used to detect whether feifeicms has arbitrary file reading vulnerabilities by constructing specific requests to check if the configuration file content can be successfully read.",
+  "updated_at": 1742999597,
+  "uuid": "51e6726b-fb4e-40d8-8dae-8bda589e82bb"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "alibaba-canal",
+  "reason": "",
+  "seo": "阿里巴巴,Canal,信息泄露,漏洞检测",
+  "seo_en": "Alibaba,Canal,information leak,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测阿里巴巴 Canal 服务是否存在信息泄露漏洞，通过发送特定请求检查返回数据中是否包含敏感信息（如 accessKey 和 secretKey）来确认漏洞存在。",
+  "summary_en": "This plugin is used to detect whether there is an information leak vulnerability in the Alibaba Canal service. It confirms the existence of the vulnerability by sending specific requests and checking if the returned data contains sensitive information (such as accessKey and secretKey).",
+  "updated_at": 1742999599,
+  "uuid": "34e34346-18b8-4712-9707-95defce81e0e"
+}

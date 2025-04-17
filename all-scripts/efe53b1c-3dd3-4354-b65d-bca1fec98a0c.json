@@ -1,0 +1,11 @@
+{
+  "app": "Panabit网关",
+  "reason": "",
+  "seo": "panabit,默认密码漏洞,网关漏洞,安全检测",
+  "seo_en": "panabit,default password vulnerability,gateway vulnerability,security detection",
+  "success": true,
+  "summary": "该插件用于检测Panabit网关是否存在默认用户名和密码（admin/panabit）的漏洞，帮助用户发现潜在的安全风险。",
+  "summary_en": "This plugin is used to detect whether the Panabit gateway has a default username and password (admin/panabit) vulnerability, helping users identify potential security risks.",
+  "updated_at": 1742999592,
+  "uuid": "efe53b1c-3dd3-4354-b65d-bca1fec98a0c"
+}

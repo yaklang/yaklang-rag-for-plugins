@@ -1,0 +1,11 @@
+{
+  "app": "金斗云-HKMP智慧商业软件",
+  "reason": "",
+  "seo": "金斗云,任意文件读取漏洞,智慧商业软件",
+  "seo_en": "Jindouyun, arbitrary file read vulnerability, smart business software",
+  "success": true,
+  "summary": "检测金斗云-HKMP智慧商业软件是否存在任意文件读取漏洞，通过尝试读取敏感文件判断漏洞是否存在",
+  "summary_en": "Detect whether the Jindouyun-HKMP smart business software has an arbitrary file read vulnerability by attempting to read sensitive files to determine if the vulnerability exists",
+  "updated_at": 1742999573,
+  "uuid": "baea3cf2-3bc1-4fee-a4e2-c432cf6da4c3"
+}

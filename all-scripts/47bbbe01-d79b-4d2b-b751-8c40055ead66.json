@@ -1,0 +1,11 @@
+{
+  "app": "OpenTSDB",
+  "reason": "",
+  "seo": "OpenTSDB,远程代码执行漏洞,命令注入,yrange参数",
+  "seo_en": "OpenTSDB,RCE vulnerability,command injection,yrange parameter",
+  "success": true,
+  "summary": "检测OpenTSDB版本2.4.0及以下是否存在远程代码执行漏洞，该漏洞通过yrange参数中的命令注入实现。",
+  "summary_en": "Detect OpenTSDB version 2.4.0 and below for remote code execution vulnerabilities, which are achieved through command injection in the yrange parameter.",
+  "updated_at": 1742999592,
+  "uuid": "47bbbe01-d79b-4d2b-b751-8c40055ead66"
+}

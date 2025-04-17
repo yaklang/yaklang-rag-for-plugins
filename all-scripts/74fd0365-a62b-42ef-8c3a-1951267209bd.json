@@ -1,0 +1,11 @@
+{
+  "app": "Zookeeper",
+  "reason": "",
+  "seo": "Zookeeper未授权访问,漏洞检测,envi命令,2181端口,敏感信息",
+  "seo_en": "Zookeeper unauthorized access,vulnerability detection,envi command,port 2181,sensitive information",
+  "success": true,
+  "summary": "该插件用于检测Zookeeper是否存在未授权访问漏洞，通过连接目标的2181端口并发送envi命令，判断是否能获取系统敏感信息。",
+  "summary_en": "This plugin is used to detect whether Zookeeper has unauthorized access vulnerabilities. By connecting to port 2181 of the target and sending the envi command, it determines whether sensitive system information can be obtained.",
+  "updated_at": 1742999604,
+  "uuid": "74fd0365-a62b-42ef-8c3a-1951267209bd"
+}

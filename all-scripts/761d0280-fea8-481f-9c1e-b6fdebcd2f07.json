@@ -1,0 +1,11 @@
+{
+  "app": "msvod",
+  "reason": "",
+  "seo": "Msvod,SQL注入,漏洞检测,高危",
+  "seo_en": "Msvod,SQL Injection,Vulnerability Detection,Critical",
+  "success": true,
+  "summary": "该插件用于检测Msvod应用是否存在SQL注入漏洞，通过发送特定payload并验证响应来确认漏洞是否存在，风险等级为高危。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the Msvod application. It sends a specific payload and verifies the response to confirm the existence of the vulnerability, with a risk level classified as critical.",
+  "updated_at": 1742999592,
+  "uuid": "761d0280-fea8-481f-9c1e-b6fdebcd2f07"
+}

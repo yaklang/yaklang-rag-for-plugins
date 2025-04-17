@@ -1,0 +1,11 @@
+{
+  "app": "Apache Druid",
+  "reason": "",
+  "seo": "Apache Druid,漏洞检测,CVE-2021-36749,任意文件读取",
+  "seo_en": "Apache Druid,vulnerability detection,CVE-2021-36749,arbitrary file read",
+  "success": true,
+  "summary": "该插件用于检测Apache Druid中是否存在CVE-2021-36749漏洞，通过发送特定构造的请求，验证是否可以实现任意文件读取。",
+  "summary_en": "This plugin is used to detect whether the CVE-2021-36749 vulnerability exists in Apache Druid. By sending specially crafted requests, it verifies whether arbitrary file reading is possible.",
+  "updated_at": 1742999599,
+  "uuid": "c6475d34-8031-41e4-bfb2-d8fd865bec56"
+}

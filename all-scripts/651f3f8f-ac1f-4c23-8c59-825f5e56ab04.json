@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "域名,whois信息,注册时间,过期时间,NS记录",
+  "seo_en": "domain,whois information,registration time,expiration time,NS records",
+  "success": true,
+  "summary": "批量获取域名的whois信息，包括注册时间、过期时间和NS服务器记录",
+  "summary_en": "Batch retrieve domain whois information, including registration time, expiration time, and NS server records",
+  "updated_at": 1742999582,
+  "uuid": "651f3f8f-ac1f-4c23-8c59-825f5e56ab04"
+}

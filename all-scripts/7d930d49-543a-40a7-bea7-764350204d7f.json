@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,文件上传漏洞,漏洞检测,安全测试",
+  "seo_en": "Tongda OA,file upload vulnerability,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测通达OA 11.2版本中的文件上传漏洞，通过模拟文件上传操作验证是否存在安全风险。",
+  "summary_en": "This plugin is used to detect the file upload vulnerability in Tongda OA version 11.2 by simulating a file upload operation to verify potential security risks.",
+  "updated_at": 1742999568,
+  "uuid": "7d930d49-543a-40a7-bea7-764350204d7f"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "F5 BIG-IP",
+  "reason": "",
+  "seo": "F5 BIG-IP,CVE-2022-1388,iControl REST身份认证绕过,RCE漏洞检测",
+  "seo_en": "F5 BIG-IP,CVE-2022-1388,iControl REST authentication bypass,RCE vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测F5 BIG-IP系统是否存在CVE-2022-1388漏洞，该漏洞允许未经身份验证的攻击者通过管理端口或自身IP地址执行任意系统命令、创建或删除文件或禁用服务。",
+  "summary_en": "This plugin is used to detect whether the F5 BIG-IP system has the CVE-2022-1388 vulnerability, which allows unauthenticated attackers to execute arbitrary system commands, create or delete files, or disable services via the management port or its own IP address.",
+  "updated_at": 1742999596,
+  "uuid": "c68748b1-59d9-495b-a074-39e9edf00314"
+}

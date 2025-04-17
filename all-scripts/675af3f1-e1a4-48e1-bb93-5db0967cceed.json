@@ -1,0 +1,11 @@
+{
+  "app": "SpringCloudConfig",
+  "reason": "",
+  "seo": "SpringCloudConfig,目录遍历漏洞,CVE-2020-5410,检测,插件",
+  "seo_en": "SpringCloudConfig,directory traversal vulnerability,CVE-2020-5410,detection,plugin",
+  "success": true,
+  "summary": "该插件用于检测SpringCloudConfig服务器是否存在CVE-2020-5410目录遍历漏洞，通过构造特定payload请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the SpringCloudConfig server has the CVE-2020-5410 directory traversal vulnerability by constructing specific payload requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "675af3f1-e1a4-48e1-bb93-5db0967cceed"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Nginx",
+  "reason": "",
+  "seo": "Nginx,远程整数溢出漏洞,CVE-2017-7529,检测插件",
+  "seo_en": "Nginx,remote integer overflow vulnerability,CVE-2017-7529,detection plugin",
+  "success": true,
+  "summary": "该插件用于检测Nginx是否存在远程整数溢出漏洞（CVE-2017-7529），通过发送特定的HTTP请求并分析响应来判断目标是否受影响。",
+  "summary_en": "This plugin is used to detect whether Nginx has the remote integer overflow vulnerability (CVE-2017-7529) by sending specific HTTP requests and analyzing the responses to determine if the target is affected.",
+  "updated_at": 1742999604,
+  "uuid": "f863b7be-9536-4de3-bc94-5800ac2a7010"
+}

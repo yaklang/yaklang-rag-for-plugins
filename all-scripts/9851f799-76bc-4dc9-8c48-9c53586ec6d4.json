@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "403绕过,请求头,X-Forwarded-For,插件",
+  "seo_en": "403 bypass,HTTP headers,X-Forwarded-For,plugin",
+  "success": true,
+  "summary": "该插件通过在请求数据包中添加多个自定义请求头（如X-Forwarded-For）来尝试绕过403禁止访问的限制。",
+  "summary_en": "This plugin attempts to bypass 403 access restrictions by adding multiple custom headers (such as X-Forwarded-For) to the request packet.",
+  "updated_at": 1742999569,
+  "uuid": "9851f799-76bc-4dc9-8c48-9c53586ec6d4"
+}

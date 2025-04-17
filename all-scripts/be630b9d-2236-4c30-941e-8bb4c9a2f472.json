@@ -1,0 +1,11 @@
+{
+  "app": "XMall-后台管理系统",
+  "reason": "",
+  "seo": "XMall,SQL注入漏洞,数据泄露,电商购物商城",
+  "seo_en": "XMall,SQL Injection Vulnerability,Data Leakage,E-commerce Shopping Mall",
+  "success": true,
+  "summary": "检测Exrick XMall开源商城后台管理系统中多处接口的SQL注入漏洞，防止可能引发的数据泄露问题。",
+  "summary_en": "Detect SQL injection vulnerabilities in multiple interfaces of the Exrick XMall open-source mall background management system to prevent potential data leakage issues.",
+  "updated_at": 1742999580,
+  "uuid": "be630b9d-2236-4c30-941e-8bb4c9a2f472"
+}

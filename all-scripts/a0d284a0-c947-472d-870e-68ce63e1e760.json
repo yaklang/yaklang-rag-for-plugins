@@ -1,0 +1,11 @@
+{
+  "app": "Weblogic",
+  "reason": "",
+  "seo": "Weblogic,SSRF漏洞,CVE-2014-4210,漏洞检测",
+  "seo_en": "Weblogic,SSRF vulnerability,CVE-2014-4210,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Weblogic中存在的CVE-2014-4210 SSRF漏洞，利用该漏洞可以发送任意HTTP请求，进而攻击内网中的脆弱组件。",
+  "summary_en": "This plugin is used to detect the CVE-2014-4210 SSRF vulnerability in Weblogic, which allows sending arbitrary HTTP requests and attacking vulnerable components in the internal network.",
+  "updated_at": 1742999602,
+  "uuid": "a0d284a0-c947-472d-870e-68ce63e1e760"
+}

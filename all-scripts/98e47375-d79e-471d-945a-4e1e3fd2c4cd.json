@@ -1,0 +1,11 @@
+{
+  "app": "亿赛通数据泄露防护(DLP)系统",
+  "reason": "",
+  "seo": "亿赛通,SQL注入,数据泄露防护,DLP系统,漏洞检测",
+  "seo_en": "Yisaitong,SQL injection,data leak protection,DLP system,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测亿赛通数据泄露防护(DLP)系统的NetSecConfigAjax接口是否存在SQL注入漏洞，通过发送特定请求并分析响应时间来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the NetSecConfigAjax interface of Yisaitong Data Loss Prevention (DLP) system by sending specific requests and analyzing response times.",
+  "updated_at": 1742999572,
+  "uuid": "98e47375-d79e-471d-945a-4e1e3fd2c4cd"
+}

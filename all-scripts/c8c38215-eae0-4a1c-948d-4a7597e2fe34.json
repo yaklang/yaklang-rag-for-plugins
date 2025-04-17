@@ -1,0 +1,11 @@
+{
+  "app": "广联达Linkworks ArchiveWebService",
+  "reason": "",
+  "seo": "广联达,Linkworks,ArchiveWebService,XML实体注入漏洞,高危漏洞",
+  "seo_en": "Glink,Linkworks,ArchiveWebService,XML Entity Injection Vulnerability,High Risk Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测广联达Linkworks ArchiveWebService是否存在XML实体注入漏洞，通过发送特定的SOAP请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is an XML entity injection vulnerability in Glink Linkworks ArchiveWebService by sending a specific SOAP request to verify the existence of the vulnerability.",
+  "updated_at": 1742999573,
+  "uuid": "c8c38215-eae0-4a1c-948d-4a7597e2fe34"
+}

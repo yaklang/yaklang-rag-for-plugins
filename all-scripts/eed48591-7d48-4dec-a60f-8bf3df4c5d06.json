@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "JWT,弱口令,爆破,测试",
+  "seo_en": "JWT,weak password,brute force,test",
+  "success": true,
+  "summary": "该插件用于检测JWT Token是否存在弱口令问题，通过使用用户提供的密码字典或内置字典进行爆破测试。",
+  "summary_en": "This plugin is used to detect whether the JWT Token has weak password issues by performing brute force testing using a user-provided or built-in password dictionary.",
+  "updated_at": 1742999568,
+  "uuid": "eed48591-7d48-4dec-a60f-8bf3df4c5d06"
+}

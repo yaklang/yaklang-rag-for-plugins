@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "JS文件,API接口,SSA分析,正则匹配,漏洞检测",
+  "seo_en": "JS files,API interfaces,SSA analysis,regular match,vulnerability detection",
+  "success": true,
+  "summary": "通过解析网站中的JS文件，提取API接口并进行 SSA 分析以提升精度，同时过滤特定后缀文件，帮助发现潜在漏洞或敏感信息。",
+  "summary_en": "By parsing JS files on the website, extract API interfaces and perform SSA analysis to improve accuracy, while filtering specific suffix files, to help discover potential vulnerabilities or sensitive information.",
+  "updated_at": 1742999579,
+  "uuid": "c81130ff-9f9d-4672-987a-85a3a1380646"
+}

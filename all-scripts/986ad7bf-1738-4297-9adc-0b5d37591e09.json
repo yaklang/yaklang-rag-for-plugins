@@ -1,0 +1,11 @@
+{
+  "app": "泛微e-cology-v10",
+  "reason": "",
+  "seo": "泛微e-cology,appThirdLogin接口,账号票据,漏洞检测",
+  "seo_en": "Fanwei e-cology,appThirdLogin interface,account ticket,vulnerability detection",
+  "success": true,
+  "summary": "检测泛微e-cology-v10系统的appThirdLogin接口是否存在通过管理员账号信息获取票据的漏洞",
+  "summary_en": "Detect whether there is a vulnerability in the appThirdLogin interface of Fanwei e-cology-v10 system to obtain account tickets through administrator account information",
+  "updated_at": 1742999569,
+  "uuid": "986ad7bf-1738-4297-9adc-0b5d37591e09"
+}

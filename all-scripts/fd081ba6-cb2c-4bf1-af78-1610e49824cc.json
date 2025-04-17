@@ -1,0 +1,11 @@
+{
+  "app": "CouchCMS",
+  "reason": "",
+  "seo": "CouchCMS,漏洞检测,路径泄露,CVE-2018-7662",
+  "seo_en": "CouchCMS,vulnerability detection,path disclosure,CVE-2018-7662",
+  "success": true,
+  "summary": "该插件用于检测CouchCMS 2.0是否存在路径泄露漏洞（CVE-2018-7662），通过发送特定请求并分析响应内容来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether CouchCMS 2.0 has the path disclosure vulnerability (CVE-2018-7662) by sending specific requests and analyzing the response content to confirm the existence of the vulnerability.",
+  "updated_at": 1742999598,
+  "uuid": "fd081ba6-cb2c-4bf1-af78-1610e49824cc"
+}

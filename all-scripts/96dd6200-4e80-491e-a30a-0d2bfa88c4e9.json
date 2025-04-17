@@ -1,0 +1,11 @@
+{
+  "app": "Nextjs",
+  "reason": "",
+  "seo": "Nextjs,漏洞检测,CVE-2017-16877,任意文件读取",
+  "seo_en": "Nextjs,vulnerability detection,CVE-2017-16877,arbitrary file read",
+  "success": true,
+  "summary": "该插件用于检测Nextjs应用是否存在CVE-2017-16877漏洞，通过尝试读取特定文件来判断是否允许任意文件读取。",
+  "summary_en": "This plugin is used to detect whether the Nextjs application has the CVE-2017-16877 vulnerability, and determines if arbitrary file reading is allowed by attempting to read a specific file.",
+  "updated_at": 1742999592,
+  "uuid": "96dd6200-4e80-491e-a30a-0d2bfa88c4e9"
+}

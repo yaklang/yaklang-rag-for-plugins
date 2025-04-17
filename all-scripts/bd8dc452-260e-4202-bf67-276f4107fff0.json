@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "凯撒密码,解密,插件,字符串处理",
+  "seo_en": "Caesar cipher, decryption, plugin, string processing",
+  "success": true,
+  "summary": "该插件用于实现凯撒密码的解密功能，支持对字符串进行自定义解码和处理。",
+  "summary_en": "This plugin is designed to decrypt Caesar cipher, supporting custom decoding and string processing.",
+  "updated_at": 1742999582,
+  "uuid": "bd8dc452-260e-4202-bf67-276f4107fff0"
+}

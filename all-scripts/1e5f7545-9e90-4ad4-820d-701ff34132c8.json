@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SQL注入,RESTful API,Path参数,漏洞检测,网络安全",
+  "seo_en": "SQL injection,RESTful API,Path parameter,vulnerability detection,network security",
+  "success": true,
+  "summary": "该插件用于检测RESTful API风格的Path参数是否存在SQL注入漏洞，通过构造不同的payload对目标路径进行测试并验证是否存在风险。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the Path parameters of RESTful APIs. It constructs different payloads to test and verify whether there are risks in the target path.",
+  "updated_at": 1744374146,
+  "uuid": "1e5f7545-9e90-4ad4-820d-701ff34132c8"
+}

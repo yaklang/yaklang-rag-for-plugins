@@ -1,0 +1,11 @@
+{
+  "app": "Jeecg-Boot",
+  "reason": "",
+  "seo": "JeecgBoot,漏洞,RCE,SSTI,FreeMarker,注入",
+  "seo_en": "JeecgBoot,vulnerability,RCE,SSTI,FreeMarker,injection",
+  "success": true,
+  "summary": "检测Jeecg-Boot系统的jmreport/loadTableData接口是否存在FreeMarker SSTI注入漏洞，可能导致远程代码执行。",
+  "summary_en": "Detects whether the jmreport/loadTableData interface of Jeecg-Boot has FreeMarker SSTI injection vulnerability, which may lead to remote code execution.",
+  "updated_at": 1742999581,
+  "uuid": "e77304b3-9b64-4bb2-9e1c-ecfd3500663b"
+}

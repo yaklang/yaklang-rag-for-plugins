@@ -1,0 +1,11 @@
+{
+  "app": "Vanderbilt摄像头",
+  "reason": "",
+  "seo": "Vanderbilt摄像头,登录凭证泄露,漏洞检测,高危",
+  "seo_en": "Vanderbilt camera,credential leakage,vulnerability detection,high risk",
+  "success": true,
+  "summary": "该插件用于检测Vanderbilt摄像头是否存在登录凭证泄露漏洞，通过发送特定请求获取用户名和密码信息。",
+  "summary_en": "This plugin is used to detect whether the Vanderbilt camera has a login credential leakage vulnerability, and obtains username and password information by sending specific requests.",
+  "updated_at": 1742999585,
+  "uuid": "61e07f8b-0904-4b5d-b893-c253c7323d14"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SQL注入,UNION注入,漏洞检测,安全性测试",
+  "seo_en": "SQL injection,UNION injection,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测目标网站是否存在SQL注入漏洞，特别是通过UNION注入的方式，并提供详细的检测过程和修复建议。",
+  "summary_en": "This plugin is used to detect whether the target website has SQL injection vulnerabilities, especially through UNION injection, and provides a detailed detection process and repair suggestions.",
+  "updated_at": 1742614968,
+  "uuid": "d7015281-f355-4f23-9d36-3c4a5ec68458"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "FE协作办公平台",
+  "reason": "",
+  "seo": "广东飞企互联科技股份有限公司,FE协作办公平台,SQL注入,漏洞检测",
+  "seo_en": "Guangdong Feiqi Interconnection Technology Co., Ltd, FE Collaborative Office Platform, SQL Injection, Vulnerability Detection",
+  "success": true,
+  "summary": "检测广东飞企互联科技股份有限公司FE协作办公平台的SQL注入漏洞，通过向/sysform/003/share_select.jsp接口发送特定请求并验证响应时间及状态码来确认漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the FE Collaborative Office Platform by Guangdong Feiqi Interconnection Technology Co., Ltd. by sending specific requests to the /sysform/003/share_select.jsp interface and verifying the response time and status code.",
+  "updated_at": 1742999569,
+  "uuid": "436b2e6d-13ee-4fed-aeac-c19d60c82de8"
+}

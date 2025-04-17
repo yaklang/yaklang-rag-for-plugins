@@ -1,0 +1,11 @@
+{
+  "app": "致远OA系统",
+  "reason": "",
+  "seo": "seeyon,session leak,致远OA,漏洞检测",
+  "seo_en": "seeyon,session leak,Yakit,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测致远OA系统是否存在session泄露漏洞，通过访问特定URL检查返回内容是否包含敏感信息。",
+  "summary_en": "This plugin is used to detect whether the Seeyon OA system has a session leak vulnerability by checking if the response of a specific URL contains sensitive information.",
+  "updated_at": 1742999590,
+  "uuid": "d8c9b4cd-746c-4995-bc00-1827aeb84fb1"
+}

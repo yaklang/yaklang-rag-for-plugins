@@ -1,0 +1,11 @@
+{
+  "app": "浙大恩特客户资源管理系统",
+  "reason": "",
+  "seo": "浙大恩特,SQL注入,客户资源管理系统,漏洞检测",
+  "seo_en": "Zhejiang Ent,SQL injection,Customer Resource Management System,vulnerability detection",
+  "success": true,
+  "summary": "检测浙大恩特客户资源管理系统中是否存在PurchaseAction.entphone方法的SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the PurchaseAction.entphone method of Zhejiang Ent Customer Resource Management System",
+  "updated_at": 1742999581,
+  "uuid": "054cecbb-f3ef-43db-ba39-dc932c60e6cc"
+}

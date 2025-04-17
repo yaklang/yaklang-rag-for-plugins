@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "spon ip intercom ping rce 漏洞, 插件, 漏洞检测, 网络安全",
+  "seo_en": "spon ip intercom ping rce vulnerability, plugin, vulnerability detection, network security",
+  "success": true,
+  "summary": "该插件用于检测spon ip intercom ping是否存在RCE（远程代码执行）漏洞，通过发送特定请求并分析响应来判断目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the spon ip intercom ping has an RCE (Remote Code Execution) vulnerability, by sending specific requests and analyzing responses to determine if the target system is affected.",
+  "updated_at": 1742999590,
+  "uuid": "fda98f8e-cf6e-42b9-8494-a5a729bb7fff"
+}

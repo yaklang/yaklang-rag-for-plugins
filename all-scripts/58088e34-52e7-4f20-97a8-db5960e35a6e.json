@@ -1,0 +1,11 @@
+{
+  "app": "Weblogic",
+  "reason": "",
+  "seo": "Weblogic,漏洞检测,特定Nginx配置,Console绕过访问",
+  "seo_en": "Weblogic, vulnerability detection, specific Nginx configuration, Console bypass access",
+  "success": true,
+  "summary": "该插件用于检测Weblogic在特定Nginx配置下是否存在Console绕过访问的漏洞，通过发送特定请求判断是否能成功访问管理控制台。",
+  "summary_en": "This plugin is used to detect whether there is a Console bypass access vulnerability in Weblogic under specific Nginx configuration. It determines if the management console can be successfully accessed by sending specific requests.",
+  "updated_at": 1742999602,
+  "uuid": "58088e34-52e7-4f20-97a8-db5960e35a6e"
+}

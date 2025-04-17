@@ -1,0 +1,11 @@
+{
+  "app": "TP-LINK摄像头",
+  "reason": "",
+  "seo": "tp link,网络摄像头,默认密钥漏洞,身份伪造,配置错误",
+  "seo_en": "tp link,IP camera,default credential vulnerability,identity forgery,configuration error",
+  "success": true,
+  "summary": "检测TP-LINK网络摄像头是否存在默认密钥漏洞，尝试利用默认用户名和密码进行登录验证。",
+  "summary_en": "Detect whether TP-LINK IP cameras have default credential vulnerabilities and attempt to validate login using default usernames and passwords.",
+  "updated_at": 1742999585,
+  "uuid": "740cdfaa-029f-4fdc-b8c8-c414e142fc39"
+}

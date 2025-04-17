@@ -1,0 +1,11 @@
+{
+  "app": "华磊科技物流系统",
+  "reason": "",
+  "seo": "华磊科技,物流,modifyInsurance,SQL注入漏洞",
+  "seo_en": "Hualei Technology,Logistics,modifyInsurance,SQL Injection Vulnerability",
+  "success": true,
+  "summary": "检测华磊科技物流系统的modifyInsurance功能是否存在SQL注入漏洞，通过构造特定请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the modifyInsurance function of Hualei Technology Logistics System by constructing specific requests and measuring response time.",
+  "updated_at": 1742999573,
+  "uuid": "6434cbdd-dfac-4978-bd59-02e18ae68e53"
+}

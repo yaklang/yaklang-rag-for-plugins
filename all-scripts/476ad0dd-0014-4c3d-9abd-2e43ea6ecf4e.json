@@ -1,0 +1,11 @@
+{
+  "app": "易宝OA",
+  "reason": "",
+  "seo": "易宝OA,SQL注入漏洞,ExecuteQueryNoneResult,ExecuteQueryForDataSetBinary",
+  "seo_en": "YiBao OA,SQL Injection Vulnerability,ExecuteQueryNoneResult,ExecuteQueryForDataSetBinary",
+  "success": true,
+  "summary": "检测易宝OA系统中ExecuteQueryNoneResult和ExecuteQueryForDataSetBinary接口是否存在SQL注入漏洞，通过发送特定payload并测量响应延迟来判断漏洞是否存在",
+  "summary_en": "Detect SQL injection vulnerabilities in the ExecuteQueryNoneResult and ExecuteQueryForDataSetBinary interfaces of YiBao OA system. It determines the existence of vulnerabilities by sending specific payloads and measuring response delays.",
+  "updated_at": 1742999569,
+  "uuid": "476ad0dd-0014-4c3d-9abd-2e43ea6ecf4e"
+}

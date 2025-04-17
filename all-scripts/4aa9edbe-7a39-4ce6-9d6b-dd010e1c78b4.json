@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "深信服,EDR,工具,RCE漏洞",
+  "seo_en": "Sangfor,EDR,tool,RCE vulnerability",
+  "success": true,
+  "summary": "检测深信服EDR工具是否存在RCE漏洞，通过构造特定的请求来验证目标系统是否受影响",
+  "summary_en": "Detect RCE vulnerabilities in Sangfor EDR tools by constructing specific requests to verify if the target system is affected",
+  "updated_at": 1742999591,
+  "uuid": "4aa9edbe-7a39-4ce6-9d6b-dd010e1c78b4"
+}

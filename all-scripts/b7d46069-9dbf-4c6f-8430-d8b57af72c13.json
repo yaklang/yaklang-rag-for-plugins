@@ -1,0 +1,11 @@
+{
+  "app": "zabbix",
+  "reason": "",
+  "seo": "zabbix,漏洞检测,认证绕过,SQL注入,弱口令",
+  "seo_en": "zabbix, vulnerability detection, authentication bypass, SQL injection, weak password",
+  "success": true,
+  "summary": "该插件针对zabbix系统进行多个漏洞检测，包括认证绕过、CVE-2016-10134 SQL注入漏洞以及默认弱口令问题。",
+  "summary_en": "This plugin performs multiple vulnerability detections on the zabbix system, including authentication bypass, CVE-2016-10134 SQL injection vulnerability, and default weak password issues.",
+  "updated_at": 1742999598,
+  "uuid": "b7d46069-9dbf-4c6f-8430-d8b57af72c13"
+}

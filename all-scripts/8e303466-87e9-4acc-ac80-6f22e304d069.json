@@ -1,0 +1,11 @@
+{
+  "app": "天地伟业",
+  "reason": "",
+  "seo": "天地伟业,CVE_2017_15236,漏洞检测,身份伪造,配置错误",
+  "seo_en": "Tiandy,CVE_2017_15236,vulnerability detection,identity forgery,configuration error",
+  "success": true,
+  "summary": "该插件用于检测天地伟业设备是否存在CVE_2017_15236漏洞，这是一种由于配置错误导致的身份伪造漏洞。",
+  "summary_en": "This plugin is used to detect whether Tiandy devices have the CVE_2017_15236 vulnerability, which is an identity forgery vulnerability caused by configuration errors.",
+  "updated_at": 1742999585,
+  "uuid": "8e303466-87e9-4acc-ac80-6f22e304d069"
+}

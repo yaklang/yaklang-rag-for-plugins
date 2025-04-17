@@ -1,0 +1,11 @@
+{
+  "app": "Seeyon A8+系统",
+  "reason": "",
+  "seo": "seeyon,默认口令漏洞,弱口令检测,A8+企业版",
+  "seo_en": "seeyon,default password vulnerability,weak password detection,A8+ Enterprise Edition",
+  "success": true,
+  "summary": "该插件用于检测Seeyon A8+系统的默认口令漏洞，尝试使用两个常见弱密码（seeyon123456和123456）登录系统，判断是否存在安全风险。",
+  "summary_en": "This plugin is used to detect the default password vulnerability in Seeyon A8+ system. It attempts to log in to the system with two common weak passwords (seeyon123456 and 123456) to determine if there is a security risk.",
+  "updated_at": 1742999586,
+  "uuid": "0508375f-f1f9-49d9-9ef8-63fd8f388bbf"
+}

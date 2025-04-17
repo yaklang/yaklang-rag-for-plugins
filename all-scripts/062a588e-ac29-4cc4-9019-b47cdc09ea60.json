@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "批量IP归属地查询,IP查询,归属地查询",
+  "seo_en": "Batch IP location query,IP query,Location query",
+  "success": true,
+  "summary": "该插件用于批量查询IP地址的归属地信息，帮助用户了解IP的地理位置。",
+  "summary_en": "This plugin is used to batch query the location information of IP addresses, helping users understand the geographical location of IPs.",
+  "updated_at": 1742999569,
+  "uuid": "062a588e-ac29-4cc4-9019-b47cdc09ea60"
+}

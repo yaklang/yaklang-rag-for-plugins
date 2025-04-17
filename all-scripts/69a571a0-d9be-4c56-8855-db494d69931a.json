@@ -1,0 +1,11 @@
+{
+  "app": "D-Link",
+  "reason": "",
+  "seo": "D-Link,敏感信息泄露,CVE-2024-3274,MAC地址泄露,固件升级",
+  "seo_en": "D-Link,sensitive information leak,CVE-2024-3274,MAC address leak,firmware upgrade",
+  "success": true,
+  "summary": "该插件用于检测D-Link设备是否存在通过特定请求获取设备MAC地址等敏感信息的漏洞，并提供相应的解决方案。",
+  "summary_en": "This plugin is used to detect whether D-Link devices have the vulnerability of obtaining sensitive information such as device MAC address through specific requests, and provides corresponding solutions.",
+  "updated_at": 1742999580,
+  "uuid": "69a571a0-d9be-4c56-8855-db494d69931a"
+}

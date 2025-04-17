@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SSRF,漏洞检测,HTTP请求,路径,BODY",
+  "seo_en": "SSRF, vulnerability detection, HTTP request, path, body",
+  "success": true,
+  "summary": "该插件用于检测服务器端请求伪造（SSRF）漏洞，特别是出现在HTTP请求的路径和Body部分的漏洞，并通过公网DNSLOG服务验证是否存在风险。",
+  "summary_en": "This plugin is used to detect Server-Side Request Forgery (SSRF) vulnerabilities, especially those occurring in the path and Body of HTTP requests, and verifies potential risks using a public DNSLOG service.",
+  "updated_at": 1742999568,
+  "uuid": "7be2a12b-4c6e-4683-b6ac-469249fc3096"
+}

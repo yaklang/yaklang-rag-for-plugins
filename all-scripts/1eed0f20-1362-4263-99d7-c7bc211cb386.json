@@ -1,0 +1,11 @@
+{
+  "app": "ZoneMinder",
+  "reason": "",
+  "seo": "ZoneMinder,SQL注入漏洞,管理员密码,服务器权限",
+  "seo_en": "ZoneMinder,SQL Injection Vulnerability,admin password,server permission",
+  "success": true,
+  "summary": "检测ZoneMinder应用的index.php接口是否存在SQL注入漏洞，该漏洞可能允许攻击者获取数据库信息（如管理员密码、用户数据）并进一步获取服务器系统权限。",
+  "summary_en": "Detect SQL injection vulnerabilities in the index.php interface of ZoneMinder. This vulnerability may allow attackers to obtain database information (such as admin passwords, user data) and further gain server system permissions.",
+  "updated_at": 1742999568,
+  "uuid": "1eed0f20-1362-4263-99d7-c7bc211cb386"
+}

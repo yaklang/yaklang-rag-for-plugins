@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "百度权重查询,爱站API,域名权重,PC端权重,手机端权重",
+  "seo_en": "Baidu weight query,Aizhan API,domain weight,PC weight,mobile weight",
+  "success": true,
+  "summary": "该插件用于查询域名在百度搜索引擎中的权重，包括PC端和手机端的权重，并通过爱站API实现批量查询功能。",
+  "summary_en": "This plugin is used to query the weight of a domain in the Baidu search engine, including weights for both PC and mobile ends, and implements batch query functionality through the Aizhan API.",
+  "updated_at": 1742999585,
+  "uuid": "d6b41b36-5203-448f-8e93-ffcdc5ff28fc"
+}

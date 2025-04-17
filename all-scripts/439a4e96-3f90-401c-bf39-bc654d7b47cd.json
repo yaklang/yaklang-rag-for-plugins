@@ -1,0 +1,11 @@
+{
+  "app": "海康威视iSecure Center综合安防管理平台",
+  "reason": "",
+  "seo": "海康威视, iSecure Center, 任意文件上传, 综合安防管理平台",
+  "seo_en": "Hikvision, iSecure Center, Arbitrary File Upload, Integrated Security Management Platform",
+  "success": true,
+  "summary": "检测海康威视iSecure Center综合安防管理平台是否存在任意文件上传漏洞，通过上传恶意文件和验证响应来确认漏洞存在。",
+  "summary_en": "Detect arbitrary file upload vulnerabilities in Hikvision iSecure Center Integrated Security Management Platform by uploading malicious files and verifying the response.",
+  "updated_at": 1742999577,
+  "uuid": "439a4e96-3f90-401c-bf39-bc654d7b47cd"
+}

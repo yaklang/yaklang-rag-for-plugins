@@ -1,0 +1,11 @@
+{
+  "app": "Grafana",
+  "reason": "",
+  "seo": "Grafana,漏洞检测,CVE-2021-43798,未授权文件读取",
+  "seo_en": "Grafana,vulnerability detection,CVE-2021-43798,unauthorized file read",
+  "success": true,
+  "summary": "该插件用于检测Grafana是否存在CVE-2021-43798未授权任意文件读取漏洞。",
+  "summary_en": "This plugin is used to detect whether there is a CVE-2021-43798 unauthorized arbitrary file read vulnerability in Grafana.",
+  "updated_at": 1742999599,
+  "uuid": "2f3b849d-5315-409f-986e-2a436ed971a0"
+}

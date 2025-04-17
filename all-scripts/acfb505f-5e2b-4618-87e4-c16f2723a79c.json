@@ -1,0 +1,11 @@
+{
+  "app": "Flink web管理平台",
+  "reason": "",
+  "seo": "Flink,实时流计算,权限绕过漏洞,新增用户接口",
+  "seo_en": "Flink,streaming computation,permission bypass vulnerability,user addition API",
+  "success": true,
+  "summary": "检测Flink web管理平台是否存在权限绕过漏洞，该漏洞允许攻击者通过新增用户的接口添加任意用户。",
+  "summary_en": "Detect whether there is a permission bypass vulnerability in the Flink web management platform, which allows attackers to add any user through the user addition API.",
+  "updated_at": 1742999580,
+  "uuid": "acfb505f-5e2b-4618-87e4-c16f2723a79c"
+}

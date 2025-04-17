@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "空间引擎,FOFA,Hunter,Shodan,Zoomeye,Quake",
+  "seo_en": "space engine,FOFA,Hunter,Shodan,Zoomeye,Quake",
+  "success": true,
+  "summary": "集成多个空间搜索引擎的查询功能，用于获取目标资产的相关信息，例如地址、域名、地理位置等",
+  "summary_en": "Integrates query functions of multiple space search engines to obtain relevant information about target assets, such as addresses, domains, geographic locations, etc.",
+  "updated_at": 1742999586,
+  "uuid": "1ea49d5e-9600-4cb9-9aab-1a8c3142f46d"
+}

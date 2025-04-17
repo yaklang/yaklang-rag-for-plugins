@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Goby DnsLog, 插件, DNS检测, 漏洞扫描",
+  "seo_en": "Goby DnsLog, plugin, DNS detection, vulnerability scanning",
+  "success": true,
+  "summary": "该插件通过Goby DnsLog进行DNS检测，生成唯一的DNS域名并获取解析记录，用于发现可能的漏洞或风险。",
+  "summary_en": "This plugin uses Goby DnsLog for DNS detection, generating unique DNS domains and retrieving resolution records to identify potential vulnerabilities or risks.",
+  "updated_at": 1742999583,
+  "uuid": "2d1c0305-3bbd-4a55-bc77-65e327c958e0"
+}

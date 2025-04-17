@@ -1,0 +1,11 @@
+{
+  "app": "RaidenMAILD",
+  "reason": "",
+  "seo": "RaidenMAILD邮件服务器,路径遍历漏洞,插件,扫描,检测",
+  "seo_en": "RaidenMAILD mail server,path traversal vulnerability,plugin,scan,detection",
+  "success": true,
+  "summary": "该插件用于检测RaidenMAILD邮件服务器是否存在路径遍历漏洞，通过发送特定请求检查返回结果来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the RaidenMAILD mail server has a path traversal vulnerability by sending a specific request and checking the response to confirm the existence of the vulnerability.",
+  "updated_at": 1742999575,
+  "uuid": "64a532a2-cb42-488b-9e0a-2d014e027665"
+}

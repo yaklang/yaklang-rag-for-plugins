@@ -1,0 +1,11 @@
+{
+  "app": "muhttpd",
+  "reason": "",
+  "seo": "muhttpd,CVE-2022-31793,目录遍历漏洞,LFI,高危漏洞",
+  "seo_en": "muhttpd,CVE-2022-31793,Directory Traversal,LFI,High Risk Vulnerability",
+  "success": true,
+  "summary": "该插件用于检测muhttpd应用是否存在CVE-2022-31793目录遍历漏洞（LFI），通过发送特定请求尝试读取系统文件/etc/passwd来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the muhttpd application has the CVE-2022-31793 directory traversal vulnerability (LFI). It verifies the existence of the vulnerability by sending a specific request to attempt reading the system file /etc/passwd.",
+  "updated_at": 1742999601,
+  "uuid": "ae5336c7-ad81-4f09-9835-073859908196"
+}

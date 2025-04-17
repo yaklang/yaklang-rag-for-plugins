@@ -1,0 +1,11 @@
+{
+  "app": "TamronOS IPTV系统",
+  "reason": "",
+  "seo": "tamronos iptv rce漏洞,前台命令执行漏洞,TamronOS IPTV系统",
+  "seo_en": "tamronos iptv rce vulnerability,front command execution vulnerability,TamronOS IPTV system",
+  "success": true,
+  "summary": "该插件用于检测TamronOS IPTV系统中的前台命令执行漏洞，通过发送特定的HTTP请求来验证是否存在漏洞并返回相关信息。",
+  "summary_en": "This plugin is used to detect the front command execution vulnerability in the TamronOS IPTV system. It verifies the existence of the vulnerability by sending specific HTTP requests and returns related information.",
+  "updated_at": 1742999590,
+  "uuid": "80ccfd88-d6ce-4620-bdc1-de80a4087253"
+}

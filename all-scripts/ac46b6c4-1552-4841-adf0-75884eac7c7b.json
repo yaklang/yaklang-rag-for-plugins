@@ -1,0 +1,11 @@
+{
+  "app": "广联达OA",
+  "reason": "",
+  "seo": "广联达OA,XML实体注入,漏洞检测,ArchiveWebService",
+  "seo_en": "Glenlink OA, XML entity injection, vulnerability detection, ArchiveWebService",
+  "success": true,
+  "summary": "该插件用于检测广联达OA系统的ArchiveWebService接口是否存在XML实体注入漏洞，通过构造特定的XML请求来验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the ArchiveWebService interface of Glenlink OA system has XML entity injection vulnerabilities by constructing specific XML requests to verify the existence of vulnerabilities.",
+  "updated_at": 1742999573,
+  "uuid": "ac46b6c4-1552-4841-adf0-75884eac7c7b"
+}

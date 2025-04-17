@@ -1,0 +1,11 @@
+{
+  "app": "F5 BIG-IP",
+  "reason": "",
+  "seo": "F5 BIG-IP,CVE-2022-1388,命令执行漏洞,指纹识别,漏洞检测",
+  "seo_en": "F5 BIG-IP,CVE-2022-1388,Command Execution Vulnerability,fingerprint identification,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测F5 BIG-IP设备是否存在CVE-2022-1388命令执行漏洞，并通过特定的指纹识别规则确认目标设备类型",
+  "summary_en": "This plugin is used to detect whether the F5 BIG-IP device has the CVE-2022-1388 command execution vulnerability and confirms the device type through specific fingerprint identification rules",
+  "updated_at": 1742999597,
+  "uuid": "34114eff-65fd-4fd2-81cb-83e88eaa016b"
+}

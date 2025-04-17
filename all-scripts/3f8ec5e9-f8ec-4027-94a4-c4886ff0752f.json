@@ -1,0 +1,11 @@
+{
+  "app": "飞企互联-FE企业运营管理平台",
+  "reason": "",
+  "seo": "飞企互联,FE企业运营管理平台,登录绕过,漏洞检测",
+  "seo_en": "Flychery,FE Enterprise Operation Management Platform,login bypass,vulnerability detection",
+  "success": true,
+  "summary": "该插件旨在检测飞企互联-FE企业运营管理平台是否存在登录绕过漏洞，通过特定路径和参数尝试访问受保护的资源。",
+  "summary_en": "This plugin is designed to detect whether the Flychery-FE Enterprise Operation Management Platform has a login bypass vulnerability, attempting to access protected resources through specific paths and parameters.",
+  "updated_at": 1742999581,
+  "uuid": "3f8ec5e9-f8ec-4027-94a4-c4886ff0752f"
+}

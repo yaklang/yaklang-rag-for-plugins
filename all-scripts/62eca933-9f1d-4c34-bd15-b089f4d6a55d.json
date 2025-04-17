@@ -1,0 +1,11 @@
+{
+  "app": "Weblogic",
+  "reason": "",
+  "seo": "Weblogic,漏洞检测,CVE-2020-14883,远程代码执行",
+  "seo_en": "Weblogic,vulnerability detection,CVE-2020-14883,RCE",
+  "success": true,
+  "summary": "该插件用于检测Weblogic服务器是否存在CVE-2020-14883漏洞，即Weblogic Console HTTP协议远程代码执行漏洞。",
+  "summary_en": "This plugin is used to detect whether the Weblogic server has the CVE-2020-14883 vulnerability, which is a Remote Code Execution vulnerability in the Weblogic Console HTTP protocol.",
+  "updated_at": 1742999602,
+  "uuid": "62eca933-9f1d-4c34-bd15-b089f4d6a55d"
+}

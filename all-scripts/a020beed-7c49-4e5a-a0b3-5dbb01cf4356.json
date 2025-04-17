@@ -1,0 +1,11 @@
+{
+  "app": "ThinkPHP5",
+  "reason": "",
+  "seo": "ThinkPHP5,控制器,RCE漏洞,远程代码执行",
+  "seo_en": "ThinkPHP5,Controller,RCE Vulnerability,Remote Code Execution",
+  "success": true,
+  "summary": "该插件用于检测ThinkPHP5框架中的控制器远程代码执行（RCE）漏洞，通过发送特定的HTTP请求来验证目标系统是否存在此漏洞。",
+  "summary_en": "This plugin is used to detect the Remote Code Execution (RCE) vulnerability in the ThinkPHP5 framework's controller by sending specific HTTP requests to check if the target system is vulnerable.",
+  "updated_at": 1742999590,
+  "uuid": "a020beed-7c49-4e5a-a0b3-5dbb01cf4356"
+}

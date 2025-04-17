@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "域名白名单,转发流量,被动扫描器",
+  "seo_en": "domain whitelist,traffic forwarding,passive scanner",
+  "success": true,
+  "summary": "该插件基于域名白名单将流量转发到被动扫描器进行分析，同时支持代理配置和流量镜像功能。",
+  "summary_en": "This plugin forwards traffic based on a domain whitelist to a passive scanner for analysis, with support for proxy configuration and traffic mirroring features.",
+  "updated_at": 1742999570,
+  "uuid": "6fd4b8ad-83d6-4947-bd45-e0db32a663b2"
+}

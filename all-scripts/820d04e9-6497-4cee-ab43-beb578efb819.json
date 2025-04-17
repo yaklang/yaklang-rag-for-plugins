@@ -1,0 +1,11 @@
+{
+  "app": "Gateone",
+  "reason": "",
+  "seo": "Gateone,任意文件读取漏洞,CVE-2020-35736,漏洞检测",
+  "seo_en": "Gateone,Arbitrary File Read Vulnerability,CVE-2020-35736,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Gateone应用是否存在CVE-2020-35736任意文件读取漏洞，通过构造特定请求检测是否能够成功读取系统文件。",
+  "summary_en": "This plugin is used to detect whether the Gateone application has the CVE-2020-35736 arbitrary file read vulnerability by constructing specific requests to check if system files can be successfully read.",
+  "updated_at": 1742999597,
+  "uuid": "820d04e9-6497-4cee-ab43-beb578efb819"
+}

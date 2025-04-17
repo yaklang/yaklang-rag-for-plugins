@@ -1,0 +1,11 @@
+{
+  "app": "Artica Pandora FMS",
+  "reason": "",
+  "seo": "Artica Pandora FMS,信息泄漏,未授权访问,漏洞检测",
+  "seo_en": "Artica Pandora FMS,information leakage,unauthorized access,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Artica Pandora FMS 7.42及之前版本中的信息泄漏漏洞，攻击者可利用该漏洞读取包含用户名、用户ID、私人消息和时间戳的聊天记录。",
+  "summary_en": "This plugin is used to detect the information leakage vulnerability in Artica Pandora FMS version 7.42 and earlier. Attackers can exploit this vulnerability to read chat records containing usernames, user IDs, private messages, and timestamps.",
+  "updated_at": 1742999587,
+  "uuid": "90171286-d821-4c69-b686-5a45b568e390"
+}

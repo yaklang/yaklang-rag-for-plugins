@@ -1,0 +1,11 @@
+{
+  "app": "Palo Alto Networks PAN-OS",
+  "reason": "",
+  "seo": "Palo Alto Networks,PAN-OS,身份验证绕过漏洞,CVE-2025-0108",
+  "seo_en": "Palo Alto Networks,PAN-OS,Authentication Bypass Vulnerability,CVE-2025-0108",
+  "success": true,
+  "summary": "检测Palo Alto Networks PAN-OS系统中由于Nginx/Apache路径处理差异导致的身份验证绕过漏洞，该漏洞可能导致敏感数据泄露或系统被接管。",
+  "summary_en": "Detect the authentication bypass vulnerability in Palo Alto Networks PAN-OS due to differences in Nginx/Apache path handling. This vulnerability may lead to sensitive data leakage or system takeover.",
+  "updated_at": 1742999568,
+  "uuid": "1fff697c-a307-4946-8800-e17cb07828dd"
+}

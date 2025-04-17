@@ -1,0 +1,11 @@
+{
+  "app": "Flink",
+  "reason": "",
+  "seo": "Flink,漏洞检测,CVE-2020-17519,任意文件读取,高危漏洞",
+  "seo_en": "Flink,vulnerability detection,CVE-2020-17519,arbitrary file read,high-risk vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Flink-jobmanager是否存在CVE-2020-17519任意文件读取漏洞，通过构造特定请求判断目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the Flink-jobmanager has the CVE-2020-17519 arbitrary file read vulnerability. It determines if the target system is affected by constructing specific requests.",
+  "updated_at": 1742999597,
+  "uuid": "ebb53cd8-29ab-4029-97b0-cef1a3d96031"
+}

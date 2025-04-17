@@ -1,0 +1,11 @@
+{
+  "app": "Netgear WN604无线路由器",
+  "reason": "",
+  "seo": "Netgear WN604,无线路由器,siteSurvey.php,未授权访问漏洞",
+  "seo_en": "Netgear WN604,wireless router,siteSurvey.php,unauthorized access vulnerability",
+  "success": true,
+  "summary": "检测Netgear WN604无线路由器的siteSurvey.php是否存在未授权访问漏洞",
+  "summary_en": "Detect whether the siteSurvey.php of Netgear WN604 wireless router has unauthorized access vulnerability",
+  "updated_at": 1742999571,
+  "uuid": "f80a7350-d388-4288-b3d3-75dfd806783e"
+}

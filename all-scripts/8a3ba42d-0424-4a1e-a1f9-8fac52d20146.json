@@ -1,0 +1,11 @@
+{
+  "app": "Ruby On Rails",
+  "reason": "",
+  "seo": "Ruby On Rails,任意文件读取漏洞,CVE-2018-3760,漏洞检测",
+  "seo_en": "Ruby On Rails,Arbitrary File Read Vulnerability,CVE-2018-3760,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Ruby On Rails应用是否存在CVE-2018-3760任意文件读取漏洞，通过构造特定请求尝试读取系统文件/etc/passwd来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Ruby On Rails application has the CVE-2018-3760 arbitrary file read vulnerability. It constructs specific requests to attempt reading the system file /etc/passwd to confirm the existence of the vulnerability.",
+  "updated_at": 1742999597,
+  "uuid": "8a3ba42d-0424-4a1e-a1f9-8fac52d20146"
+}

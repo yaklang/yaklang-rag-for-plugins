@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "爬虫,目录扫描,敏感信息提取,漏洞检测",
+  "seo_en": "crawler,directory scan,sensitive information extraction,vulnerability detection",
+  "success": true,
+  "summary": "该插件通过爬虫扫描目标网站的目录，提取可能存在的敏感信息（如身份证、手机号、邮箱、IP、操作系统路径等），并检测潜在的漏洞。",
+  "summary_en": "This plugin scans the directories of target websites using a crawler to extract potential sensitive information (such as ID cards, phone numbers, emails, IPs, operating system paths, etc.) and detects possible vulnerabilities.",
+  "updated_at": 1742999575,
+  "uuid": "d400bbd2-70e1-437e-b6d0-02888b739718"
+}

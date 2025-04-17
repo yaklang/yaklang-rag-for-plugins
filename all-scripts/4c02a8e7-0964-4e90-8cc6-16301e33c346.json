@@ -1,0 +1,11 @@
+{
+  "app": "万户OA",
+  "reason": "",
+  "seo": "万户OA,SQL注入漏洞,showResult.action,后台漏洞",
+  "seo_en": "Whu OA,SQL injection vulnerability,showResult.action,backend vulnerability",
+  "success": true,
+  "summary": "该插件用于检测万户OA系统中showResult.action接口的SQL注入漏洞，攻击者可能通过此漏洞获取数据库敏感信息。",
+  "summary_en": "This plugin is used to detect SQL injection vulnerabilities in the showResult.action interface of Whu OA system. Attackers may obtain sensitive database information through this vulnerability.",
+  "updated_at": 1742999593,
+  "uuid": "4c02a8e7-0964-4e90-8cc6-16301e33c346"
+}

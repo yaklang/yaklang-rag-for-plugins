@@ -1,0 +1,11 @@
+{
+  "app": "华磊科技物流系统",
+  "reason": "",
+  "seo": "华磊科技,物流,sql注入,漏洞,订单跟踪号",
+  "seo_en": "Hualei Technology, logistics, sql injection, vulnerability, order tracking number",
+  "success": true,
+  "summary": "检测华磊科技物流系统的getOrderTrackingNumber功能是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the getOrderTrackingNumber function of Hualei Technology Logistics System",
+  "updated_at": 1742999569,
+  "uuid": "74903fb8-8420-4ed6-8390-a16ac82b0374"
+}

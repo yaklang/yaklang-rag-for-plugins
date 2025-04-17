@@ -1,0 +1,11 @@
+{
+  "app": "用友畅捷通-TPlus系统",
+  "reason": "",
+  "seo": "用友畅捷通,TPlus系统,ajaxpro,ssrf漏洞",
+  "seo_en": "Yonyou TPlus,ajaxpro,ssrf vulnerability",
+  "success": true,
+  "summary": "检测用友畅捷通-TPlus系统接口是否存在ajaxpro ssrf漏洞，通过发送特定POST请求判断是否有漏洞并输出相关信息。",
+  "summary_en": "Detect whether there is an ajaxpro ssrf vulnerability in the Yonyou TPlus system interface. Determine the presence of vulnerabilities by sending a specific POST request and output relevant information.",
+  "updated_at": 1742999570,
+  "uuid": "92e33aa7-113c-4ed9-af3a-fe85027ccdbe"
+}

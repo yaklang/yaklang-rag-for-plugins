@@ -1,0 +1,11 @@
+{
+  "app": "Elasticsearch",
+  "reason": "",
+  "seo": "Elasticsearch,远程代码执行漏洞,CVE-2014-3120,检测插件",
+  "seo_en": "Elasticsearch,RCE vulnerability,CVE-2014-3120,detection plugin",
+  "success": true,
+  "summary": "该插件用于检测Elasticsearch是否存在CVE-2014-3120远程代码执行漏洞，通过构造特定请求并分析响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether Elasticsearch has the CVE-2014-3120 RCE vulnerability by constructing specific requests and analyzing responses to confirm the existence of the vulnerability.",
+  "updated_at": 1742999602,
+  "uuid": "e8518ead-d759-4789-9531-73cb88c4eda7"
+}

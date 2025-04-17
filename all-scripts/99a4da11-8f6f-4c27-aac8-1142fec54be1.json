@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "MS17-010,永恒之蓝,漏洞检测,RCE,DOUBLEPULSAR",
+  "seo_en": "MS17-010,EternalBlue,vulnerability detection,RCE,DOUBLEPULSAR",
+  "success": true,
+  "summary": "该插件用于检测目标是否存在MS17-010永恒之蓝漏洞，包括RCE风险和DOUBLEPULSAR SMB后门植入情况。",
+  "summary_en": "This plugin is used to detect whether the target has the MS17-010 EternalBlue vulnerability, including RCE risks and DOUBLEPULSAR SMB backdoor implantation.",
+  "updated_at": 1742999604,
+  "uuid": "99a4da11-8f6f-4c27-aac8-1142fec54be1"
+}

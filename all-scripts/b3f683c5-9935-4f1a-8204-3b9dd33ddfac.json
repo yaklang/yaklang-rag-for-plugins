@@ -1,0 +1,11 @@
+{
+  "app": "致远OA",
+  "reason": "",
+  "seo": "致远OA,任意文件上传漏洞,ajax.do,检测插件",
+  "seo_en": "ZY OA, arbitrary file upload vulnerability, ajax.do, detection plugin",
+  "success": true,
+  "summary": "该插件用于检测致远OA系统中的ajax.do任意文件上传漏洞，通过发送特定请求判断是否存在漏洞并输出结果。",
+  "summary_en": "This plugin is used to detect the arbitrary file upload vulnerability in the ajax.do of ZY OA system. It determines whether the vulnerability exists and outputs the result by sending specific requests.",
+  "updated_at": 1742999601,
+  "uuid": "b3f683c5-9935-4f1a-8204-3b9dd33ddfac"
+}

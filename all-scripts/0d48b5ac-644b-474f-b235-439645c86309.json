@@ -1,0 +1,11 @@
+{
+  "app": "大华-智慧园区综合管理平台",
+  "reason": "",
+  "seo": "大华,智慧园区,远程命令执行,sendFaceInfo",
+  "seo_en": "Dahua,Smart Park,Remote Command Execution,sendFaceInfo",
+  "success": true,
+  "summary": "检测大华-智慧园区综合管理平台的wpms-sendFaceInfo接口是否存在远程命令执行漏洞",
+  "summary_en": "Detect remote command execution vulnerability in the wpms-sendFaceInfo interface of Dahua Smart Park Management Platform",
+  "updated_at": 1742999582,
+  "uuid": "0d48b5ac-644b-474f-b235-439645c86309"
+}

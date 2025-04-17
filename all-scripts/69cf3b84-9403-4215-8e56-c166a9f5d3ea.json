@@ -1,0 +1,11 @@
+{
+  "app": "jeecg-boot",
+  "reason": "",
+  "seo": "jeecg-boot,未授权SQL注入漏洞,CVE-2023-1454,sql注入,远程攻击",
+  "seo_en": "jeecg-boot,unauthorized SQL injection vulnerability,CVE-2023-1454,SQL injection,remote attack",
+  "success": true,
+  "summary": "该插件旨在检测 jeecg-boot 3.5.0 中的未授权SQL注入漏洞（CVE-2023-1454），通过向 /jmreport/qurestSql 发送构造的 POST 请求，验证是否存在 sql 注入风险。",
+  "summary_en": "This plugin is designed to detect an unauthorized SQL injection vulnerability (CVE-2023-1454) in jeecg-boot 3.5.0. It sends a crafted POST request to /jmreport/qurestSql to verify the existence of SQL injection risks.",
+  "updated_at": 1742999585,
+  "uuid": "69cf3b84-9403-4215-8e56-c166a9f5d3ea"
+}

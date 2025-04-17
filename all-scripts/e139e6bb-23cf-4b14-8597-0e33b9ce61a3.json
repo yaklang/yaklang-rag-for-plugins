@@ -1,0 +1,11 @@
+{
+  "app": "Huawei Home Gateway HG659",
+  "reason": "",
+  "seo": "华为,任意文件读取,漏洞检测,huawei-home-gateway-hg659-fileread",
+  "seo_en": "Huawei,file read vulnerability,vulnerability detection,huawei-home-gateway-hg659-fileread",
+  "success": true,
+  "summary": "该插件旨在检测华为家庭网关HG659设备是否存在任意文件读取漏洞，通过构造特定请求检查是否能够成功读取系统敏感文件（如/etc/passwd）来确认漏洞存在。",
+  "summary_en": "This plugin is designed to detect the arbitrary file read vulnerability in Huawei Home Gateway HG659 devices by constructing specific requests to check if sensitive system files (such as /etc/passwd) can be successfully read to confirm the existence of the vulnerability.",
+  "updated_at": 1742999597,
+  "uuid": "e139e6bb-23cf-4b14-8597-0e33b9ce61a3"
+}

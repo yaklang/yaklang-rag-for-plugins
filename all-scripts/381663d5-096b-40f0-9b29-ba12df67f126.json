@@ -1,0 +1,11 @@
+{
+  "app": "Node-RED",
+  "reason": "",
+  "seo": "Node-RED,任意文件读取漏洞,路径遍历,settings.js,安全检测",
+  "seo_en": "Node-RED,Arbitrary File Read Vulnerability,Path Traversal,settings.js,Security Testing",
+  "success": true,
+  "summary": "该插件用于检测Node-RED的ui_base.js文件是否存在任意文件读取漏洞，通过构造特定payload来验证是否能够读取服务器上的敏感文件（如/etc/passwd），并输出漏洞检测结果。",
+  "summary_en": "This plugin is used to detect whether there is an arbitrary file read vulnerability in the ui_base.js file of Node-RED. It constructs a specific payload to verify whether it can read sensitive files on the server (such as /etc/passwd) and outputs the vulnerability detection results.",
+  "updated_at": 1742999596,
+  "uuid": "381663d5-096b-40f0-9b29-ba12df67f126"
+}

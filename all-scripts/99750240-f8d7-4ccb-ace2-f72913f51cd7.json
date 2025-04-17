@@ -1,0 +1,11 @@
+{
+  "app": "金蝶OA",
+  "reason": "",
+  "seo": "金蝶OA,目录遍历,漏洞检测,安全测试",
+  "seo_en": "Kingdee OA,directory traversal,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测金蝶OA系统中的目录遍历漏洞，通过发送特定请求来判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect directory traversal vulnerabilities in the Kingdee OA system by sending specific requests to determine if a vulnerability exists.",
+  "updated_at": 1742999597,
+  "uuid": "99750240-f8d7-4ccb-ace2-f72913f51cd7"
+}

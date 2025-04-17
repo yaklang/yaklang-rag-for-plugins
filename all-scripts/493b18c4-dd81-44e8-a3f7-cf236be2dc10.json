@@ -1,0 +1,11 @@
+{
+  "app": "用友NC系统",
+  "reason": "",
+  "seo": "用友NC,文件上传漏洞,任意文件上传,用友NC6.5,FileReceiveServlet",
+  "seo_en": "Yonyou NC,file upload vulnerability,arbitrary file upload,Yonyou NC6.5,FileReceiveServlet",
+  "success": true,
+  "summary": "该插件用于检测用友NC系统中的FileReceiveServlet接口是否存在任意文件上传漏洞，攻击者可能利用此漏洞上传恶意文件并执行代码。",
+  "summary_en": "This plugin is used to detect whether the FileReceiveServlet interface in Yonyou NC system has arbitrary file upload vulnerability. Attackers may exploit this vulnerability to upload malicious files and execute code.",
+  "updated_at": 1742999581,
+  "uuid": "493b18c4-dd81-44e8-a3f7-cf236be2dc10"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "用友U8 Cloud",
+  "reason": "",
+  "seo": "用友U8,SQL注入漏洞,MeasureQueryFrameAction,高危漏洞",
+  "seo_en": "Yonyou U8,SQL Injection Vulnerability,MeasureQueryFrameAction,High-risk Vulnerability",
+  "success": true,
+  "summary": "检测用友U8 Cloud的MeasureQueryFrameAction是否存在SQL注入漏洞，通过发送特定HTTP请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the MeasureQueryFrameAction of Yonyou U8 Cloud by sending a specific HTTP request and measuring the response time to determine if the vulnerability exists.",
+  "updated_at": 1742999572,
+  "uuid": "6c89ab5c-5bfc-4c2d-b475-0a2bc8435a5a"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "海康威视iSecure Center综合安防管理平台",
+  "reason": "",
+  "seo": "海康威视,综合安防管理平台,config.properties,信息泄漏",
+  "seo_en": "Hikvision,iSecure Center,config.properties,information leakage",
+  "success": true,
+  "summary": "检测海康威视iSecure Center综合安防管理平台是否存在config.properties文件的信息泄漏漏洞",
+  "summary_en": "Detect whether the Hikvision iSecure Center integrated security management platform has a config.properties information leakage vulnerability",
+  "updated_at": 1742999577,
+  "uuid": "881179ab-199a-40fb-bb54-cb197e803686"
+}

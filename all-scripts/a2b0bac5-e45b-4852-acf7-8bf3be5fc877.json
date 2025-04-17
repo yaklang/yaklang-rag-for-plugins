@@ -1,0 +1,11 @@
+{
+  "app": "DocCMS",
+  "reason": "",
+  "seo": "DocCMS,SQL注入漏洞,keyword参数,高危漏洞",
+  "seo_en": "DocCMS,SQL injection vulnerability,keyword parameter,high-risk vulnerability",
+  "success": true,
+  "summary": "检测DocCMS系统是否存在keyword参数的SQL注入漏洞，通过构造特定请求验证漏洞是否存在。",
+  "summary_en": "Detect whether there is a SQL injection vulnerability in the keyword parameter of the DocCMS system by constructing specific requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999586,
+  "uuid": "a2b0bac5-e45b-4852-acf7-8bf3be5fc877"
+}

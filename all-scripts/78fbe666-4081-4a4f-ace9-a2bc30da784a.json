@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "base64编码,不可见字符,字符串处理",
+  "seo_en": "base64 encoding,invisible characters,string processing",
+  "success": true,
+  "summary": "该插件用于将不可见字符进行base64编码，主要用于字符串处理和转换。",
+  "summary_en": "This plugin is used to encode invisible characters with base64, mainly for string processing and conversion.",
+  "updated_at": 1742999570,
+  "uuid": "78fbe666-4081-4a4f-ace9-a2bc30da784a"
+}

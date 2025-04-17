@@ -1,0 +1,11 @@
+{
+  "app": "泛微E-Office",
+  "reason": "",
+  "seo": "泛微E-Office,文件上传漏洞,CNVD-2021-49104,漏洞检测",
+  "seo_en": "Fanwei E-Office,file upload vulnerability,CNVD-2021-49104,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测泛微E-Office系统是否存在CNVD-2021-49104文件上传漏洞，通过模拟上传恶意文件并验证服务器响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Fanwei E-Office system has the CNVD-2021-49104 file upload vulnerability. It confirms the existence of the vulnerability by simulating the upload of a malicious file and verifying the server's response.",
+  "updated_at": 1742999599,
+  "uuid": "4033fd40-4f48-4fbf-a65d-a79732738c44"
+}

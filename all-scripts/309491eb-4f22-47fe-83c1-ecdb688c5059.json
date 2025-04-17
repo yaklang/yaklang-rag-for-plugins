@@ -1,0 +1,11 @@
+{
+  "app": "DotNetNuke",
+  "reason": "",
+  "seo": "DotNetNuke,SSRF,CVE-2017-0929,漏洞检测",
+  "seo_en": "DotNetNuke,SSRF,CVE-2017-0929,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测DotNetNuke系统中的ImageHandler SSRF（CVE-2017-0929）漏洞，通过构造特定的URL请求，验证是否存在服务器端请求伪造问题。",
+  "summary_en": "This plugin is used to detect the ImageHandler SSRF (CVE-2017-0929) vulnerability in the DotNetNuke system. It constructs specific URL requests to verify whether there is a server-side request forgery issue.",
+  "updated_at": 1742999588,
+  "uuid": "309491eb-4f22-47fe-83c1-ecdb688c5059"
+}

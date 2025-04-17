@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Ceye,DNSLog,API_TOKEN,ROOT_DNS,插件",
+  "seo_en": "Ceye,DNSLog,API_TOKEN,ROOT_DNS,plugin",
+  "success": true,
+  "summary": "该插件通过Ceye DNSLog模块，利用API token和根域名进行DNS记录查询，检测是否存在相关DNS请求记录，用于发现可能的漏洞利用行为或安全事件。",
+  "summary_en": "This plugin uses the Ceye DNSLog module to query DNS records with an API token and root domain, detecting related DNS request records to identify potential vulnerability exploitation or security incidents.",
+  "updated_at": 1742999583,
+  "uuid": "1dbd93a8-9b90-4d7c-bcc4-d180205dd103"
+}

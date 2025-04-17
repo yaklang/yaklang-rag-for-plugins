@@ -1,0 +1,11 @@
+{
+  "app": "宏景系统",
+  "reason": "",
+  "seo": "宏景,sql注入,漏洞检测,安全测试",
+  "seo_en": "Hongjing,SQL injection,vulnerability detection,security testing",
+  "success": true,
+  "summary": "该插件用于检测宏景系统的pos_dept_post接口是否存在延迟型SQL注入漏洞，通过发送特定构造的POST请求并检测响应时间来判断漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is a time-delay SQL injection vulnerability in the pos_dept_post interface of Hongjing system. It determines the existence of the vulnerability by sending specially crafted POST requests and checking the response time.",
+  "updated_at": 1742999577,
+  "uuid": "1c7ac8df-b5c0-4fda-80ba-bf351813443a"
+}

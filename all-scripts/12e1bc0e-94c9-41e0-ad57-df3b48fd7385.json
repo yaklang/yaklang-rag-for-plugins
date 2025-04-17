@@ -1,0 +1,11 @@
+{
+  "app": "网康下一代防火墙",
+  "reason": "",
+  "seo": "网康,防火墙,任意文件读取漏洞,被动检测",
+  "seo_en": "Netentsec Firewall, Arbitrary File Read Vulnerability, Passive Detection",
+  "success": true,
+  "summary": "该插件用于检测网康下一代防火墙的后台任意文件读取漏洞，通过构造特定请求并分析响应内容来判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the arbitrary file read vulnerability in Netentsec Next-Generation Firewall by constructing specific requests and analyzing the response content.",
+  "updated_at": 1742999599,
+  "uuid": "12e1bc0e-94c9-41e0-ad57-df3b48fd7385"
+}

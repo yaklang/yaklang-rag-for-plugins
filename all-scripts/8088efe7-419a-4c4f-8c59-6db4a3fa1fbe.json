@@ -1,0 +1,11 @@
+{
+  "app": "videoiq摄像头",
+  "reason": "",
+  "seo": "videoiq摄像头,目录遍历漏洞,高危,路径遍历,信息窃取",
+  "seo_en": "videoiq camera,directory traversal vulnerability,high risk,path traversal,information theft",
+  "success": true,
+  "summary": "该插件用于检测videoiq摄像头是否存在目录遍历漏洞，通过构造特定请求尝试读取系统敏感文件/etc/passwd，如果匹配到相关内容，则说明存在漏洞。",
+  "summary_en": "This plugin is used to detect whether the videoiq camera has a directory traversal vulnerability. It attempts to read the sensitive system file /etc/passwd by constructing a specific request. If relevant content is matched, it indicates that there is a vulnerability.",
+  "updated_at": 1742999585,
+  "uuid": "8088efe7-419a-4c4f-8c59-6db4a3fa1fbe"
+}

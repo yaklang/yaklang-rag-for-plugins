@@ -1,0 +1,11 @@
+{
+  "app": "用友GRP-U8",
+  "reason": "",
+  "seo": "用友,GRP-U8,SQL注入,远程命令执行,漏洞检测",
+  "seo_en": "Yonyou,GRP-U8,SQL injection,RCE,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测用友GRP-U8系统是否存在SQL注入到远程命令执行的漏洞，通过发送特定构造的HTTP请求并验证响应来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Yonyou GRP-U8 system has a vulnerability from SQL injection to remote command execution. It confirms the existence of the vulnerability by sending specially crafted HTTP requests and verifying the response.",
+  "updated_at": 1742999589,
+  "uuid": "ce23a973-b0d7-4728-8d70-6e9d071cf944"
+}

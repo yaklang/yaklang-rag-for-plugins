@@ -1,0 +1,11 @@
+{
+  "app": "方天云智慧平台系统",
+  "reason": "",
+  "seo": "方天云智慧平台系统,GetCustomerLinkman,SQL注入,漏洞检测",
+  "seo_en": "Fangtianyun Smart Platform System,GetCustomerLinkman,SQL Injection,Vulnerability Detection",
+  "success": true,
+  "summary": "检测方天云智慧平台系统中GetCustomerLinkman接口是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the GetCustomerLinkman interface of the Fangtianyun Smart Platform System",
+  "updated_at": 1742999570,
+  "uuid": "49059f4e-9a2f-46b5-86d0-d1de33d2d7c3"
+}

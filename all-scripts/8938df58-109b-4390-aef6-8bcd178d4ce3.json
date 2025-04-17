@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Struts2,CVE-2017-5638,S2-045,远程代码执行漏洞",
+  "seo_en": "Struts2,CVE-2017-5638,S2-045,RCE vulnerability",
+  "success": true,
+  "summary": "该插件用于检测Struts2_CVE-2017-5638_S2-045远程代码执行漏洞，通过发送特定构造的HTTP请求包来判断目标是否存在漏洞",
+  "summary_en": "This plugin is used to detect the Struts2_CVE-2017-5638_S2-045 RCE vulnerability by sending specially crafted HTTP request packets to determine if the target is vulnerable",
+  "updated_at": 1742999597,
+  "uuid": "8938df58-109b-4390-aef6-8bcd178d4ce3"
+}

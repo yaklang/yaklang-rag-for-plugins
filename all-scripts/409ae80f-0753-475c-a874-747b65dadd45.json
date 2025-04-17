@@ -1,0 +1,11 @@
+{
+  "app": "ActiveMQ",
+  "reason": "",
+  "seo": "ActiveMQ,默认密码,漏洞检测,未授权访问",
+  "seo_en": "ActiveMQ,default password,vulnerability detection,unauthorized access",
+  "success": true,
+  "summary": "该插件用于检查ActiveMQ是否存在使用默认密码（admin:admin）登录的漏洞，并识别ActiveMQ指纹。",
+  "summary_en": "This plugin checks if ActiveMQ is vulnerable to login with default credentials (admin:admin) and identifies the ActiveMQ fingerprint.",
+  "updated_at": 1742999602,
+  "uuid": "409ae80f-0753-475c-a874-747b65dadd45"
+}

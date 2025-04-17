@@ -1,0 +1,11 @@
+{
+  "app": "用友U8-Cloud系统",
+  "reason": "",
+  "seo": "用友U8-Cloud,SQL注入漏洞,BusinessRefAction",
+  "seo_en": "Yonyou U8-Cloud,SQL injection vulnerability,BusinessRefAction",
+  "success": true,
+  "summary": "检测用友U8-Cloud系统BusinessRefAction是否存在SQL注入漏洞",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in the BusinessRefAction of Yonyou U8-Cloud system",
+  "updated_at": 1742999569,
+  "uuid": "e0610d87-f5fe-4c82-9d36-f46f642fd351"
+}

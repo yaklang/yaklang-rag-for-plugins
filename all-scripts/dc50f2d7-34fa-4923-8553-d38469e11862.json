@@ -1,0 +1,11 @@
+{
+  "app": "CIRCONTROL CirCarLife停车场自动化管理系统",
+  "reason": "",
+  "seo": "CirCarlife Scada信息泄露漏洞,CNVD-2018-19569,西班牙Circontrol公司,停车场自动化管理",
+  "seo_en": "CirCarlife Scada Information Disclosure Vulnerability,CNVD-2018-19569,Circontrol,car park automation management",
+  "success": true,
+  "summary": "检测CIRCONTROL CirCarLife系统是否存在信息泄露漏洞（CNVD-2018-19569），通过发送特定请求检查返回内容是否包含敏感信息。",
+  "summary_en": "Detect whether the CIRCONTROL CirCarLife system has an information disclosure vulnerability (CNVD-2018-19569) by sending specific requests and checking if the response contains sensitive information.",
+  "updated_at": 1742999588,
+  "uuid": "dc50f2d7-34fa-4923-8553-d38469e11862"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "反defang,IP还原,URL还原,威胁情报处理",
+  "seo_en": "anti-defang, IP restoration, URL restoration, threat intelligence processing",
+  "success": true,
+  "summary": "该插件用于将威胁情报中被defang的IP和URL还原为原始格式，例如将127[.]0[.]0[.]1还原为127.0.0.1。",
+  "summary_en": "This plugin is used to restore defanged IPs and URLs in threat intelligence to their original format, e.g., restoring 127[.]0[.]0[.]1 to 127.0.0.1.",
+  "updated_at": 1742999604,
+  "uuid": "d9e14abf-3449-4f85-affe-f8a0f78eb7d1"
+}

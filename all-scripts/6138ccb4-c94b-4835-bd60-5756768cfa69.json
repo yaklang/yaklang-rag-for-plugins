@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "开放URL重定向漏洞,检测,meta,js,location",
+  "seo_en": "Open URL Redirect Vulnerability,detection,meta,js,location",
+  "success": true,
+  "summary": "该插件用于检测Web应用中的开放URL重定向漏洞，通过检查meta标签、JavaScript代码和HTTP响应头中的内容来发现潜在的安全问题。",
+  "summary_en": "This plugin is used to detect open URL redirection vulnerabilities in web applications by checking meta tags, JavaScript code, and HTTP response headers for potential security issues.",
+  "updated_at": 1740203645,
+  "uuid": "6138ccb4-c94b-4835-bd60-5756768cfa69"
+}

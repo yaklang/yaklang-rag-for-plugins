@@ -1,0 +1,11 @@
+{
+  "app": "科荣AIO管理系统",
+  "reason": "",
+  "seo": "科荣AIO,SQL注入漏洞,moffice接口",
+  "seo_en": "KerongAIO,SQL injection vulnerability,moffice interface",
+  "success": true,
+  "summary": "检测科荣AIO管理系统的moffice接口是否存在SQL注入漏洞，通过构造特定的HTTP请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect SQL injection vulnerabilities in the moffice interface of the KerongAIO management system by constructing specific HTTP requests and measuring response times to determine if the vulnerability exists.",
+  "updated_at": 1742999571,
+  "uuid": "49494eb6-f256-4713-98f9-c20e330ce126"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "AnalyticsCloud",
+  "reason": "",
+  "seo": "分析云,任意文件读取,漏洞检测",
+  "seo_en": "AnalyticsCloud,Arbitrary File Read,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测AnalyticsCloud分析云是否存在任意文件读取漏洞，通过发送特定请求判断是否可以读取系统文件。",
+  "summary_en": "This plugin is used to detect whether AnalyticsCloud has arbitrary file read vulnerability by sending specific requests to determine if system files can be read.",
+  "updated_at": 1742999572,
+  "uuid": "3cc47cb6-cfa1-44bb-80dc-a903e3d23f8d"
+}

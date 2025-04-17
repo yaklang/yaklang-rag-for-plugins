@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Java Debug,远程调试接口,远程代码执行漏洞,端口扫描",
+  "seo_en": "Java Debug,remote debugging interface,RCE vulnerability,port scanning",
+  "success": true,
+  "summary": "该插件用于检测Java Debug远程调试接口是否存在远程代码执行漏洞，通过端口扫描和握手验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect if the Java Debug remote debugging interface has a Remote Code Execution vulnerability. It performs port scanning and handshake verification to check if the target system is affected.",
+  "updated_at": 1742999588,
+  "uuid": "aae13420-5243-44a5-bfd8-c3600dd7154f"
+}

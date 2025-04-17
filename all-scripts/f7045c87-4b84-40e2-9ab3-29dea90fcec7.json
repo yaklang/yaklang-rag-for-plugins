@@ -1,0 +1,11 @@
+{
+  "app": "maccmsv10",
+  "reason": "",
+  "seo": "maccmsv10,backdoor,漏洞,检测,插件",
+  "seo_en": "maccmsv10,backdoor,vulnerability,detection,plugin",
+  "success": true,
+  "summary": "该插件用于检测maccmsv10是否存在后门漏洞，通过发送特定请求判断目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect if maccmsv10 has a backdoor vulnerability by sending specific requests to determine if the target system is affected.",
+  "updated_at": 1742999592,
+  "uuid": "f7045c87-4b84-40e2-9ab3-29dea90fcec7"
+}

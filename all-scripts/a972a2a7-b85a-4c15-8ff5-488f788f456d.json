@@ -1,0 +1,11 @@
+{
+  "app": "hikvision",
+  "reason": "",
+  "seo": "海康威视,信息泄露漏洞,指纹识别,漏洞检测",
+  "seo_en": "Hikvision, information leakage vulnerability, fingerprint identification, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测海康威视设备的信息泄露漏洞，通过发送特定请求判断是否存在用户信息泄露问题，并进行指纹识别确认目标设备。",
+  "summary_en": "This plugin is used to detect information leakage vulnerabilities in Hikvision devices by sending specific requests to determine if there is a user information leakage issue and performing fingerprint identification to confirm the target device.",
+  "updated_at": 1742999598,
+  "uuid": "a972a2a7-b85a-4c15-8ff5-488f788f456d"
+}

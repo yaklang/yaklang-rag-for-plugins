@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "shiro,指纹识别,漏洞检测,rememberMe,反序列化",
+  "seo_en": "shiro,fingerprint identification,vulnerability detection,rememberMe,deserialization",
+  "success": true,
+  "summary": "该插件用于识别shiro框架的指纹，并检测是否存在shiro默认密钥相关的反序列化漏洞（CVE-2016-4437）。通过构造恶意rememberMe值发送到目标服务器，触发Java反序列化漏洞以实现远程代码执行（RCE）并探测可能的利用链。",
+  "summary_en": "This plugin is used to identify the shiro framework fingerprint and detect shiro default key-related deserialization vulnerabilities (CVE-2016-4437). By constructing a malicious rememberMe value sent to the target server, it triggers Java deserialization vulnerabilities to achieve remote code execution (RCE) and probe possible exploitation chains.",
+  "updated_at": 1742999568,
+  "uuid": "2785aa04-5ea3-43de-a201-c125fa40ec8c"
+}

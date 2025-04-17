@@ -1,0 +1,11 @@
+{
+  "app": "Saber企业级开发平台",
+  "reason": "",
+  "seo": "Saber企业级开发平台,SQL注入,api-list",
+  "seo_en": "Saber enterprise platform,SQL injection,api-list",
+  "success": true,
+  "summary": "检测Saber企业级开发平台是否存在SQL注入漏洞，通过/api/blade-log/api/list接口进行测试",
+  "summary_en": "Detect SQL injection vulnerabilities in the Saber enterprise platform by testing the /api/blade-log/api/list interface",
+  "updated_at": 1742999579,
+  "uuid": "91081310-a3f3-490a-9ef9-5370aabe08a5"
+}

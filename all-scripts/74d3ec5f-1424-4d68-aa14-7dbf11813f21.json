@@ -1,0 +1,11 @@
+{
+  "app": "MESOS",
+  "reason": "",
+  "seo": "MESOS,未授权访问,漏洞检测,端口扫描",
+  "seo_en": "MESOS, unauthorized access, vulnerability detection, port scanning",
+  "success": true,
+  "summary": "该插件用于检测MESOS页面是否存在未授权访问漏洞，通过访问特定路径并检查返回的敏感信息来确认漏洞存在。",
+  "summary_en": "This plugin is used to detect whether there is an unauthorized access vulnerability in the MESOS page. It confirms the existence of the vulnerability by accessing a specific path and checking for returned sensitive information.",
+  "updated_at": 1742999588,
+  "uuid": "74d3ec5f-1424-4d68-aa14-7dbf11813f21"
+}

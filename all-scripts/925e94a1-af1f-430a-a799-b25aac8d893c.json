@@ -1,0 +1,11 @@
+{
+  "app": "瑞斯康达多业务智能网关",
+  "reason": "",
+  "seo": "瑞斯康达,远程命令执行漏洞,智能网关,list_base_config",
+  "seo_en": "Raisecom,multi-service intelligent gateway,remote command execution vulnerability,list_base_config",
+  "success": true,
+  "summary": "检测瑞斯康达多业务智能网关是否存在list_base_config远程命令执行漏洞",
+  "summary_en": "Detect whether the Raisecom multi-service intelligent gateway has a remote command execution vulnerability in list_base_config",
+  "updated_at": 1742999570,
+  "uuid": "925e94a1-af1f-430a-a799-b25aac8d893c"
+}

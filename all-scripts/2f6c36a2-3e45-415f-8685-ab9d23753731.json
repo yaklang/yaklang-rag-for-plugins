@@ -1,0 +1,11 @@
+{
+  "app": "SonicWall SMA1000",
+  "reason": "",
+  "seo": "SonicWall, SMA1000, LFI, 文件读取漏洞, CVE-2023-0126",
+  "seo_en": "SonicWall, SMA1000, LFI, file read vulnerability, CVE-2023-0126",
+  "success": true,
+  "summary": "检测 SonicWall SMA1000 设备是否存在LFI（任意文件读取）漏洞，利用该漏洞可读取系统敏感文件如 /etc/passwd。",
+  "summary_en": "Detect whether the SonicWall SMA1000 device has an LFI (Local File Inclusion) vulnerability, which can be used to read system sensitive files such as /etc/passwd.",
+  "updated_at": 1742999583,
+  "uuid": "2f6c36a2-3e45-415f-8685-ab9d23753731"
+}

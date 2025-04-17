@@ -1,0 +1,11 @@
+{
+  "app": "宏景ehr系统",
+  "reason": "",
+  "seo": "宏景ehr,sql注入,report_org_collect_tree.jsp,漏洞检测",
+  "seo_en": "Hongjing ehr, SQL injection, report_org_collect_tree.jsp, vulnerability detection",
+  "success": true,
+  "summary": "检测宏景ehr系统的report_org_collect_tree.jsp文件是否存在SQL注入漏洞，通过延迟时间判断是否成功注入。",
+  "summary_en": "Detect SQL injection vulnerabilities in the report_org_collect_tree.jsp file of the Hongjing ehr system, and determine whether the injection is successful by delay time.",
+  "updated_at": 1742999580,
+  "uuid": "b180f5e5-e6dc-4ed1-b926-a7d444aab409"
+}

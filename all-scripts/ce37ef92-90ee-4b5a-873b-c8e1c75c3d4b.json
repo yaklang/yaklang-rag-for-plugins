@@ -1,0 +1,11 @@
+{
+  "app": "WordPress",
+  "reason": "",
+  "seo": "posimyth, the_plus_addons_for_elementor, 开放重定向, URL跳转, WordPress插件漏洞",
+  "seo_en": "posimyth, the_plus_addons_for_elementor, Open Redirect, URL Redirection, WordPress plugin vulnerability",
+  "success": true,
+  "summary": "检测The Plus Addons for Elementor Page Builder WordPress插件是否存在开放重定向漏洞，该漏洞允许攻击者通过构造特定URL将用户重定向至未授权站点。",
+  "summary_en": "Detect whether The Plus Addons for Elementor Page Builder WordPress plugin has an Open Redirect vulnerability, which allows attackers to redirect users to unauthorized sites via crafted URLs.",
+  "updated_at": 1742999588,
+  "uuid": "ce37ef92-90ee-4b5a-873b-c8e1c75c3d4b"
+}

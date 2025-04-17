@@ -1,0 +1,11 @@
+{
+  "app": "Glassfish",
+  "reason": "",
+  "seo": "Glassfish,任意文件读取漏洞,CVE-2017-1000028,漏洞检测",
+  "seo_en": "Glassfish,Arbitrary File Read Vulnerability,CVE-2017-1000028,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Glassfish服务器是否存在CVE-2017-1000028任意文件读取漏洞，通过发送特定请求判断是否可以成功读取目标文件。",
+  "summary_en": "This plugin is used to detect whether the Glassfish server has the CVE-2017-1000028 arbitrary file read vulnerability by sending specific requests to determine if the target file can be successfully read.",
+  "updated_at": 1742999597,
+  "uuid": "fc35385c-9566-4089-b1d8-d6135d18c4aa"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "主动指纹探测,插件,指纹识别,网络安全,漏洞检测",
+  "seo_en": "fingerprint detection,plugin,fingerprint identification,network security,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于主动探测目标系统的指纹信息，通过关键词匹配和图标哈希值比对，识别出目标可能使用的技术栈或设备类型，帮助发现潜在的安全风险。",
+  "summary_en": "This plugin is used for active fingerprint detection of the target system. By matching keywords and comparing icon hash values, it identifies the possible technology stack or device types used by the target, helping to discover potential security risks.",
+  "updated_at": 1742999604,
+  "uuid": "5ff80944-f2bd-4943-8823-8e83fd554998"
+}

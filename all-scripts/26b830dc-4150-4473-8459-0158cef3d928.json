@@ -1,0 +1,11 @@
+{
+  "app": "WordPress",
+  "reason": "",
+  "seo": "WordPress, 插件, Rocklobster Contact Form 7, 任意文件上传漏洞, CVE-2020-35489",
+  "seo_en": "WordPress, plugin, Rocklobster Contact Form 7, arbitrary file upload vulnerability, CVE-2020-35489",
+  "success": true,
+  "summary": "检测WordPress插件Rocklobster Contact Form 7版本低于5.3.2的任意文件上传漏洞，攻击者可利用此漏洞绕过文件类型限制上传任意文件。",
+  "summary_en": "Detect the arbitrary file upload vulnerability in WordPress plugin Rocklobster Contact Form 7 with versions lower than 5.3.2. Attackers can exploit this vulnerability to bypass file type restrictions and upload any file.",
+  "updated_at": 1742999587,
+  "uuid": "26b830dc-4150-4473-8459-0158cef3d928"
+}

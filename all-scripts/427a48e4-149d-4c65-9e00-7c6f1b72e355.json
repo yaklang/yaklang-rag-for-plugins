@@ -1,0 +1,11 @@
+{
+  "app": "用友NC系统",
+  "reason": "",
+  "seo": "用友NC,任意文件上传,漏洞检测",
+  "seo_en": "Yonyou NC, arbitrary file upload, vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测用友NC系统的任意文件上传漏洞，通过构造特定的HTTP请求来验证是否存在该漏洞。",
+  "summary_en": "This plugin is used to detect the arbitrary file upload vulnerability in Yonyou NC system by constructing specific HTTP requests to verify the existence of the vulnerability.",
+  "updated_at": 1742999581,
+  "uuid": "427a48e4-149d-4c65-9e00-7c6f1b72e355"
+}

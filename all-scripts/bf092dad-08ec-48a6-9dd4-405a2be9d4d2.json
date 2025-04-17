@@ -1,0 +1,11 @@
+{
+  "app": "泛微e-cology系统",
+  "reason": "",
+  "seo": "泛微,e-cology,SQL注入,漏洞检测",
+  "seo_en": "Weaver,e-cology,SQL injection,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测泛微e-cology系统的getLabelByModule接口是否存在SQL注入漏洞。",
+  "summary_en": "This plugin is used to detect whether there is an SQL injection vulnerability in the getLabelByModule interface of the Weaver e-cology system.",
+  "updated_at": 1742999580,
+  "uuid": "bf092dad-08ec-48a6-9dd4-405a2be9d4d2"
+}

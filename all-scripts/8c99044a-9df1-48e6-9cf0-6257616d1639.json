@@ -1,0 +1,11 @@
+{
+  "app": "GLPI",
+  "reason": "",
+  "seo": "glpi-project,barcode,路径遍历,漏洞检测",
+  "seo_en": "glpi-project,barcode,path traversal,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测GLPI系统的barcode插件是否存在路径遍历漏洞，通过发送特定请求检查是否能读取到系统敏感文件。",
+  "summary_en": "This plugin is used to detect whether the barcode plugin in the GLPI system has a path traversal vulnerability by sending specific requests to check if it can access system sensitive files.",
+  "updated_at": 1742999587,
+  "uuid": "8c99044a-9df1-48e6-9cf0-6257616d1639"
+}

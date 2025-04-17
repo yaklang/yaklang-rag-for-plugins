@@ -1,0 +1,11 @@
+{
+  "app": "pbootcms",
+  "reason": "",
+  "seo": "pbootcms数据库文件下载漏洞,在线检测,漏洞插件",
+  "seo_en": "pbootcms database file download vulnerability, online detection, vulnerability plugin",
+  "success": true,
+  "summary": "该插件用于检测pbootcms是否存在数据库文件直接下载的漏洞，通过访问特定路径判断是否可以获取到SQLite数据库文件。",
+  "summary_en": "This plugin is used to detect whether pbootcms has a vulnerability of direct database file download, by accessing a specific path to determine if the SQLite database file can be obtained.",
+  "updated_at": 1742999592,
+  "uuid": "a8089cbd-1bf4-4da3-9ecd-3c23a91e6f89"
+}

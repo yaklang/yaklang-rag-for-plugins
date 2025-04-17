@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA, 文件包含漏洞, 漏洞检测, 网络安全",
+  "seo_en": "Tongda OA, File Inclusion Vulnerability, Vulnerability Detection, Network Security",
+  "success": true,
+  "summary": "该插件用于检测通达OA V2013版本中的文件包含漏洞，通过构造特定请求来验证是否存在高危漏洞风险。",
+  "summary_en": "This plugin is used to detect the file inclusion vulnerability in Tongda OA V2013. It constructs specific requests to verify whether there is a high-risk vulnerability.",
+  "updated_at": 1742999596,
+  "uuid": "ecb99449-ed0f-4b78-8fd8-f613a74b0e81"
+}

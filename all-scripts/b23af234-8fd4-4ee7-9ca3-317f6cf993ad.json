@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "IP反查域名,插件,域名查询,历史记录",
+  "seo_en": "Reverse IP lookup,plugin,domain query,history records",
+  "success": true,
+  "summary": "该插件用于通过IP地址反查关联的域名以及其历史记录，帮助用户了解IP地址曾绑定过的域名信息。",
+  "summary_en": "This plugin is used to reverse lookup associated domains and their history records by IP address, helping users understand the domain information previously bound to the IP address.",
+  "updated_at": 1742999588,
+  "uuid": "b23af234-8fd4-4ee7-9ca3-317f6cf993ad"
+}

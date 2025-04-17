@@ -1,0 +1,11 @@
+{
+  "app": "金慧综合管理信息系统",
+  "reason": "",
+  "seo": "金慧综合管理信息系统,SQL注入漏洞,LoginBegin.aspx",
+  "seo_en": "Jinhui Integrated Management Information System,SQL injection vulnerability,LoginBegin.aspx",
+  "success": true,
+  "summary": "检测金慧综合管理信息系统LoginBegin.aspx是否存在SQL注入漏洞",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in the LoginBegin.aspx of Jinhui Integrated Management Information System",
+  "updated_at": 1742999571,
+  "uuid": "1f159810-393e-4ca6-80c7-001624bf369c"
+}

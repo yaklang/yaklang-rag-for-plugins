@@ -1,0 +1,11 @@
+{
+  "app": "华天动力OA",
+  "reason": "",
+  "seo": "华天动力OA,任意文件读取漏洞,downloadWpsFile",
+  "seo_en": "Huatian Power OA, Arbitrary File Read Vulnerability, downloadWpsFile",
+  "success": true,
+  "summary": "检测华天动力OA系统中是否存在downloadWpsFile任意文件读取漏洞",
+  "summary_en": "Detect the arbitrary file read vulnerability in Huatian Power OA system's downloadWpsFile feature",
+  "updated_at": 1742999572,
+  "uuid": "13c7c4c5-533a-4c63-a52e-ffcea1b7f7c8"
+}

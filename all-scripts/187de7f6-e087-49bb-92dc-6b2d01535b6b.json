@@ -1,0 +1,11 @@
+{
+  "app": "致远OA系统",
+  "reason": "",
+  "seo": "seeyon oa,cookie泄露漏洞,致远OA系统",
+  "seo_en": "seeyon oa,cookie leak vulnerability,YZSoft Corporation",
+  "success": true,
+  "summary": "该插件用于检测致远OA系统是否存在Cookie泄露漏洞，通过发送特定请求检查响应中是否包含敏感信息来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the Seeyon OA system has a cookie leakage vulnerability, by sending specific requests and checking the response for sensitive information to confirm the existence of the vulnerability.",
+  "updated_at": 1742999591,
+  "uuid": "187de7f6-e087-49bb-92dc-6b2d01535b6b"
+}

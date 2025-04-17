@@ -1,0 +1,11 @@
+{
+  "app": "大华",
+  "reason": "",
+  "seo": "大华,CVE_2019_3948,漏洞检测,信息泄露",
+  "seo_en": "Dahua,CVE_2019_3948,vulnerability detection,information leakage",
+  "success": true,
+  "summary": "该插件用于检测大华设备是否存在CVE-2019-3948漏洞，通过利用该漏洞获取设备的软件版本信息，可能导致信息泄露。",
+  "summary_en": "This plugin is used to detect whether Dahua devices have the CVE-2019-3948 vulnerability. By exploiting this vulnerability, the software version information of the device can be obtained, which may lead to information leakage.",
+  "updated_at": 1742999585,
+  "uuid": "225b86ae-dcc9-41a9-ac69-781bde683e59"
+}

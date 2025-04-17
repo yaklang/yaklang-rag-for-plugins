@@ -1,0 +1,11 @@
+{
+  "app": "Alibaba Nacos",
+  "reason": "",
+  "seo": "Alibaba Nacos,derby,未授权访问,漏洞检测",
+  "seo_en": "Alibaba Nacos,derby,unauthorized access,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测Alibaba Nacos的derby数据库是否存在未授权访问漏洞，通过发送特定请求尝试创建用户并验证漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether the derby database of Alibaba Nacos has unauthorized access vulnerabilities. It attempts to create a user by sending specific requests and verifies the existence of the vulnerability.",
+  "updated_at": 1742999598,
+  "uuid": "7216cb4e-c032-4490-9754-ca346191091a"
+}

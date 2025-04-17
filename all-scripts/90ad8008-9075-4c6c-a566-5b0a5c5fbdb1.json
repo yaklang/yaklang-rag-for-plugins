@@ -1,0 +1,11 @@
+{
+  "app": "Resin",
+  "reason": "",
+  "seo": "Resin,漏洞,CNNVD-200705-315,目录遍历",
+  "seo_en": "Resin,vulnerability,CNNVD-200705-315,directory traversal",
+  "success": true,
+  "summary": "检测Resin应用是否存在CNNVD-200705-315漏洞，该漏洞可能导致目录遍历问题。",
+  "summary_en": "Detect whether the Resin application has the CNNVD-200705-315 vulnerability, which may lead to directory traversal issues.",
+  "updated_at": 1742999591,
+  "uuid": "90ad8008-9075-4c6c-a566-5b0a5c5fbdb1"
+}

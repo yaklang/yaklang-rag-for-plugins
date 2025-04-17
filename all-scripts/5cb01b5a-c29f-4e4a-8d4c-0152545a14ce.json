@@ -1,0 +1,11 @@
+{
+  "app": "SpringMVC",
+  "reason": "",
+  "seo": "SpringMVC,漏洞检测,反射型文件下载,CVE-2020-5398",
+  "seo_en": "SpringMVC,vulnerability detection,reflected file download,CVE-2020-5398",
+  "success": true,
+  "summary": "该插件用于检测SpringMVC应用是否存在CVE-2020-5398反射型文件下载漏洞，可能引发信息泄露问题。",
+  "summary_en": "This plugin is used to detect whether the SpringMVC application has the CVE-2020-5398 reflected file download vulnerability, which may cause information leakage issues.",
+  "updated_at": 1742999602,
+  "uuid": "5cb01b5a-c29f-4e4a-8d4c-0152545a14ce"
+}

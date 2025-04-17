@@ -1,0 +1,11 @@
+{
+  "app": "任我行CRM系统",
+  "reason": "",
+  "seo": "任我行CRM系统,Sql注入漏洞,SmsDataList接口,高危漏洞",
+  "seo_en": "Renwoxing CRM system,SQL injection vulnerability,SmsDataList interface,high-risk vulnerability",
+  "success": true,
+  "summary": "检测任我行CRM系统SmsDataList接口是否存在SQL注入漏洞，该漏洞可能导致敏感数据泄露或被恶意利用。",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in the SmsDataList interface of Renwoxing CRM system. This vulnerability may lead to sensitive data leakage or malicious exploitation.",
+  "updated_at": 1742999569,
+  "uuid": "273b4fd4-4e41-45d8-bd9f-a5c72611a141"
+}

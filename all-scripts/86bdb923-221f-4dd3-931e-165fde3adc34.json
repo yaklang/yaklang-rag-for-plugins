@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "冰蝎4,流量解密工具,aes_with_magic,加密流量,解密插件",
+  "seo_en": "BingSc4,Traffic decryption tool,aes_with_magic,encrypted traffic,decryption plugin",
+  "success": true,
+  "summary": "该插件用于解密冰蝎4的aes_with_magic加密流量，后续将支持更多加密方式和功能扩展。",
+  "summary_en": "This plugin is used to decrypt the aes_with_magic encrypted traffic of BingSc4, and will support more encryption methods and functional extensions in the future.",
+  "updated_at": 1742999573,
+  "uuid": "86bdb923-221f-4dd3-931e-165fde3adc34"
+}

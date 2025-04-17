@@ -1,0 +1,11 @@
+{
+  "app": "万户OA",
+  "reason": "",
+  "seo": "万户OA,XXE注入漏洞,TeleConferenceService,漏洞检测",
+  "seo_en": "Wuhan OA,XXE Injection Vulnerability,TeleConferenceService,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测万户OA TeleConferenceService接口是否存在XXE注入漏洞，通过构造特定请求来验证漏洞是否存在，并利用DNSLog进行结果验证。",
+  "summary_en": "This plugin is used to detect whether there is an XXE injection vulnerability in the TeleConferenceService interface of Wuhan OA. It constructs specific requests to verify the existence of the vulnerability and uses DNSLog for result verification.",
+  "updated_at": 1742999595,
+  "uuid": "1fe9c570-43e0-4cb8-b24f-6f5a8d1a960a"
+}

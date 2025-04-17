@@ -1,0 +1,11 @@
+{
+  "app": "SaltStack",
+  "reason": "",
+  "seo": "Saltstack SSH Client,Salt API,命令执行漏洞,高危",
+  "seo_en": "Saltstack SSH Client,Salt API,Command Execution Vulnerability,Critical",
+  "success": true,
+  "summary": "该插件用于检测Saltstack SSH Client Salt API是否存在命令执行漏洞，通过发送特定payload触发DNSLog来确认漏洞是否存在。",
+  "summary_en": "This plugin is used to detect whether there is a command execution vulnerability in Saltstack SSH Client Salt API, and confirms the existence of the vulnerability by triggering DNSLog with a specific payload.",
+  "updated_at": 1742999591,
+  "uuid": "d4fbcc54-36c4-4ae1-a207-a60fd1a3fd3f"
+}

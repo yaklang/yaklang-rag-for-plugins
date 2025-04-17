@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "修改HTTP请求,Header,Cookie,GetParams,PostParams",
+  "seo_en": "Modify HTTP request,Header,Cookie,GetParams,PostParams",
+  "success": true,
+  "summary": "该插件允许用户通过设置前提条件（URL关键字）来修改、增加或删除HTTP请求的Header、Cookie、GetParams和PostParams。",
+  "summary_en": "This plugin allows users to modify, add or delete the Header, Cookie, GetParams, and PostParams of an HTTP request by setting a prerequisite (URL keyword).",
+  "updated_at": 1740203647,
+  "uuid": "1dfe4d80-bd43-4a08-a2f8-e1d540f6f4b3"
+}

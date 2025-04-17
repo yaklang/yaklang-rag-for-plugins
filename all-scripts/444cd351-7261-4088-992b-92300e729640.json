@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "被动扫描,Swagger,API文档,未授权访问,漏洞检测",
+  "seo_en": "passive scanning,Swagger,API documentation,unauthorized access,vulnerability detection",
+  "success": true,
+  "summary": "该插件通过被动扫描的方式，提取URL中的路径并结合字典进行扫描，检测是否存在Swagger API文档或UI界面的泄露，帮助发现未授权访问的漏洞。",
+  "summary_en": "This plugin performs passive scanning by extracting paths from URLs and combining them with dictionaries to detect leaks of Swagger API documentation or UI interfaces, helping to identify unauthorized access vulnerabilities.",
+  "updated_at": 1742999583,
+  "uuid": "444cd351-7261-4088-992b-92300e729640"
+}

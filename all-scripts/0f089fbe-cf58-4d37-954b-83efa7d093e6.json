@@ -1,0 +1,11 @@
+{
+  "app": "畅捷通-TPlus",
+  "reason": "",
+  "seo": "用友,畅捷通T+,SQL注入,漏洞检测",
+  "seo_en": "Yonyou,Chanjet T+,SQL Injection,Vulnerability Detection",
+  "success": true,
+  "summary": "检测用友-畅捷通T+系统的InitServerInfo接口是否存在SQL注入漏洞",
+  "summary_en": "Detect SQL injection vulnerabilities in the InitServerInfo interface of Yonyou-Chanjet T+ system",
+  "updated_at": 1742999580,
+  "uuid": "0f089fbe-cf58-4d37-954b-83efa7d093e6"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "致远OA A8",
+  "reason": "",
+  "seo": "致远OA,信息泄露,status.jsp,漏洞检测",
+  "seo_en": "ZY OA,information leakage,status.jsp,vulnerability detection",
+  "success": true,
+  "summary": "该插件用于检测致远OA A8系统中status.jsp文件的信息泄露漏洞，通过发送特定请求获取敏感信息。",
+  "summary_en": "This plugin is used to detect information leakage vulnerabilities in the status.jsp file of ZY OA A8 system by sending specific requests to obtain sensitive information.",
+  "updated_at": 1742999601,
+  "uuid": "48a8deb7-0497-409f-a2c7-704ef6d3cf3d"
+}

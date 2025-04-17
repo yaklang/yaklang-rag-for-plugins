@@ -1,0 +1,11 @@
+{
+  "app": "Spring Data Rest",
+  "reason": "",
+  "seo": "Spring Data Rest,远程命令执行,CVE-2017-8046,漏洞检测",
+  "seo_en": "Spring Data Rest,Remote Command Execution,CVE-2017-8046,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测Spring Data Rest应用是否存在CVE-2017-8046远程命令执行漏洞，通过发送特定的HTTP请求来验证目标系统是否受影响。",
+  "summary_en": "This plugin is used to detect whether the Spring Data Rest application has CVE-2017-8046 Remote Command Execution vulnerability by sending specific HTTP requests to verify if the target system is affected.",
+  "updated_at": 1742999602,
+  "uuid": "19584629-4991-496b-8f17-c0487b25144e"
+}

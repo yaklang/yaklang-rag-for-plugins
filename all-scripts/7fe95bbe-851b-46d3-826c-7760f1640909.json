@@ -1,0 +1,11 @@
+{
+  "app": "FineReport",
+  "reason": "",
+  "seo": "帆软报表,任意文件读取漏洞,CNVD-2018-04757,漏洞检测,指纹识别",
+  "seo_en": "FineReport,file read vulnerability,CNVD-2018-04757,vulnerability detection,fingerprint identification",
+  "success": true,
+  "summary": "该插件用于检测帆软报表 V8 系统是否存在任意文件读取漏洞（CNVD-2018-04757），并进行指纹识别和漏洞验证。",
+  "summary_en": "This plugin is used to detect whether the FineReport V8 system has arbitrary file reading vulnerability (CNVD-2018-04757), and perform fingerprint identification and vulnerability verification.",
+  "updated_at": 1742999593,
+  "uuid": "7fe95bbe-851b-46d3-826c-7760f1640909"
+}

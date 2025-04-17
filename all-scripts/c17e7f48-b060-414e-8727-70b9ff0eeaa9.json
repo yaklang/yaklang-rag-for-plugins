@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "Defang,IP,URL,编码解码,字符串处理",
+  "seo_en": "Defang,IP,URL,codec,string processing",
+  "success": true,
+  "summary": "该插件用于将IP或URL中的点替换为[.]，以防止恶意链接被直接解析或访问。",
+  "summary_en": "This plugin is used to replace dots in IP or URL with [.], to prevent malicious links from being directly parsed or accessed.",
+  "updated_at": 1742999604,
+  "uuid": "c17e7f48-b060-414e-8727-70b9ff0eeaa9"
+}

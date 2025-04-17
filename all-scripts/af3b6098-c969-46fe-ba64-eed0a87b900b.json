@@ -1,0 +1,11 @@
+{
+  "app": "Alibaba AnyProxy",
+  "reason": "",
+  "seo": "Alibaba AnyProxy,任意文件读取漏洞,高危,fetchBody",
+  "seo_en": "Alibaba AnyProxy,Arbitrary File Read Vulnerability,High Risk,fetchBody",
+  "success": true,
+  "summary": "此插件用于检测Alibaba AnyProxy低版本中存在的任意文件读取漏洞，攻击者可能通过该漏洞获取服务器敏感信息。",
+  "summary_en": "This plugin is used to detect the arbitrary file read vulnerability in the lower versions of Alibaba AnyProxy. Attackers may obtain sensitive server information through this vulnerability.",
+  "updated_at": 1742999593,
+  "uuid": "af3b6098-c969-46fe-ba64-eed0a87b900b"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "同享TXEHR V15人力管理管理平台",
+  "reason": "",
+  "seo": "同享TXEHR,任意文件下载漏洞,V15人力管理平台",
+  "seo_en": "TXEHR,Arbitrary File Download Vulnerability,Human Resource Management Platform",
+  "success": true,
+  "summary": "检测同享TXEHR V15人力管理平台是否存在DownloadFile任意文件下载漏洞，通过发送特定POST请求尝试读取web.config文件内容来确认漏洞是否存在。",
+  "summary_en": "Detect whether the TXEHR V15 Human Resource Management Platform has the DownloadFile arbitrary file download vulnerability. It confirms the existence of the vulnerability by sending a specific POST request to attempt reading the web.config file content.",
+  "updated_at": 1742999572,
+  "uuid": "7d0644a5-4d16-40b2-aa64-d8f73d7547c0"
+}

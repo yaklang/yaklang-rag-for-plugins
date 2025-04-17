@@ -1,0 +1,11 @@
+{
+  "app": "通达OA",
+  "reason": "",
+  "seo": "通达OA,2011-2013,后台Getshell,漏洞检测",
+  "seo_en": "Tongda OA,2011-2013,Backdoor,Shell,Vulnerability Detection",
+  "success": true,
+  "summary": "该插件用于检测通达OA 2011-2013版本是否存在后台Getshell漏洞，通过构造特定请求验证系统是否可被利用上传恶意文件。",
+  "summary_en": "This plugin is used to detect whether the Tongda OA 2011-2013 version has a backdoor shell vulnerability, and verifies whether the system can be exploited to upload malicious files through constructed requests.",
+  "updated_at": 1742999595,
+  "uuid": "56b6be11-6729-44ba-b136-46f1ecff5a57"
+}

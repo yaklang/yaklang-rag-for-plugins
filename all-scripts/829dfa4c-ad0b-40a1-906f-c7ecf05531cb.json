@@ -1,0 +1,11 @@
+{
+  "app": "Drupal",
+  "reason": "",
+  "seo": "Drupal,漏洞检测,CVE-2014-3704,CVE-2019-6340,批量检测",
+  "seo_en": "Drupal,vulnerability detection,CVE-2014-3704,CVE-2019-6340,batch detection",
+  "success": true,
+  "summary": "该插件用于批量检测 Drupal 系统中的 CVE-2014-3704 和 CVE-2019-6340 漏洞，分别为 SQL 注入和远程代码执行漏洞。",
+  "summary_en": "This plugin is used for batch detection of CVE-2014-3704 and CVE-2019-6340 vulnerabilities in the Drupal system, which are SQL injection and remote code execution vulnerabilities respectively.",
+  "updated_at": 1742999598,
+  "uuid": "829dfa4c-ad0b-40a1-906f-c7ecf05531cb"
+}

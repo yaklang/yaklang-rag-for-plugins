@@ -1,0 +1,11 @@
+{
+  "app": "网课交单平台",
+  "reason": "",
+  "seo": "网课交单平台,SQL注入漏洞,epay.php",
+  "seo_en": "Online Course Submission Platform,SQL Injection Vulnerability,epay.php",
+  "success": true,
+  "summary": "检测网课交单平台epay.php是否存在SQL注入漏洞，通过发送特定的HTTP请求并测量响应时间来判断漏洞是否存在。",
+  "summary_en": "Detect whether there is an SQL injection vulnerability in the epay.php of the online course submission platform. Determine the existence of the vulnerability by sending a specific HTTP request and measuring the response time.",
+  "updated_at": 1742999571,
+  "uuid": "61a45975-364f-4742-ab98-a397fe77436d"
+}

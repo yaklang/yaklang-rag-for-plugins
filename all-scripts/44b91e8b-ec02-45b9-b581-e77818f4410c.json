@@ -1,0 +1,11 @@
+{
+  "app": "创客零售商城系统",
+  "reason": "",
+  "seo": "创客零售商城系统,文件上传漏洞,高危漏洞,安全检测",
+  "seo_en": "Chuangke Retail Mall System,file upload vulnerability,high-risk vulnerability,security detection",
+  "success": true,
+  "summary": "该插件用于检测创客零售商城系统是否存在文件上传漏洞，通过发送特定的POST请求检查是否能够成功上传恶意文件并获取返回路径。",
+  "summary_en": "This plugin is used to detect whether the Chuangke Retail Mall System has a file upload vulnerability by sending a specific POST request to check if malicious files can be uploaded successfully and obtain the return path.",
+  "updated_at": 1742999571,
+  "uuid": "44b91e8b-ec02-45b9-b581-e77818f4410c"
+}

@@ -1,0 +1,11 @@
+{
+  "app": "Gitblit",
+  "reason": "",
+  "seo": "CVE-2022-31268, Gitblit, 文件包含检测, 漏洞扫描",
+  "seo_en": "CVE-2022-31268, Gitblit, File Inclusion Detection, Vulnerability Scanning",
+  "success": true,
+  "summary": "该插件用于检测Gitblit 1.9.3版本中的文件包含漏洞（CVE-2022-31268），通过访问特定路径判断是否存在漏洞。",
+  "summary_en": "This plugin is used to detect the file inclusion vulnerability (CVE-2022-31268) in Gitblit version 1.9.3 by accessing a specific path to determine if the vulnerability exists.",
+  "updated_at": 1742999593,
+  "uuid": "0c395fd0-c332-4ec3-90bc-73d52fc3784b"
+}

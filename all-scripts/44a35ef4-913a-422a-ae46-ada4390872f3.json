@@ -1,0 +1,11 @@
+{
+  "app": "*",
+  "reason": "",
+  "seo": "SEO,权重信息,备案信息,子域名",
+  "seo_en": "SEO, weight information, filing information, subdomain",
+  "success": true,
+  "summary": "该插件通过域名进行批量SEO综合查询，包括权重信息、备案信息和子域名信息，帮助用户了解目标域名的SEO状况。",
+  "summary_en": "This plugin performs batch SEO comprehensive queries via domain names, including weight information, filing information, and subdomain information, helping users understand the SEO status of target domains.",
+  "updated_at": 1742999592,
+  "uuid": "44a35ef4-913a-422a-ae46-ada4390872f3"
+}

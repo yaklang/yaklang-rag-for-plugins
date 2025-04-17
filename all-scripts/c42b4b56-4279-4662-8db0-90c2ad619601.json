@@ -1,0 +1,11 @@
+{
+  "app": "WordPress",
+  "reason": "",
+  "seo": "WordPress,Bricks Builder,RCE漏洞,CVE-2024-25600,未授权远程代码执行",
+  "seo_en": "WordPress,Bricks Builder,RCE vulnerability,CVE-2024-25600,Unauthenticated Remote Code Execution",
+  "success": true,
+  "summary": "此插件用于检测WordPress的Bricks Builder主题是否存在未授权远程代码执行（RCE）漏洞，攻击者可利用该漏洞执行任意命令并控制服务器。",
+  "summary_en": "This plugin is used to detect unauthenticated remote code execution (RCE) vulnerabilities in the Bricks Builder theme for WordPress. Attackers can exploit this vulnerability to execute arbitrary commands and take over the server.",
+  "updated_at": 1742999581,
+  "uuid": "c42b4b56-4279-4662-8db0-90c2ad619601"
+}
