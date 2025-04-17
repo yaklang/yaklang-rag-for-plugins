@@ -1,0 +1,50 @@
+name: Ragsync Verification
+
+on:
+  workflow_dispatch:  # 允许手动触发工作流
+  schedule:
+    - cron: '0 0,12 * * *'  # 每天 UTC 0点和12点执行（即北京时间8点和20点）
+  push:
+    branches: [ main ]
+    paths:
+      - 'ragsync-output/**'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'ragsync-output/**'
+
+jobs:
+  check-ragsync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Download Ragsync binary
+        run: |
+          wget https://oss-qn.yaklang.com/ragsync/v1.0.8/ragsync_linux_amd64 -O ragsync
+          chmod +x ragsync
+
+      - name: Verify Ragsync command
+        run: |
+          ./ragsync sync -h
+
+      - name: Load Ragsync Config
+        run: |
+          mkdir -p ~/.ragsync
+          echo "${{ secrets.YAKLNAG_RAG_FOR_PLUGINS_RAGSYNC_CONFIG }}" | base64 -d > ~/.ragsync/yaklang-plugins.ragsync.yaml
+          echo "Config loaded to ~/.ragsync/yaklang-plugins.ragsync.yaml"
+
+      - name: Validate Ragsync Config
+        run: |
+          ./ragsync -c ~/.ragsync/yaklang-plugins.ragsync.yaml validate
+          if [ $? -ne 0 ]; then
+            echo "Ragsync config validation failed"
+            exit 1
+          fi
+          echo "Ragsync config validation passed"
+
+      - name: Run Ragsync
+        run: |
+          ./ragsync -c ~/.ragsync/yaklang-plugins.ragsync.yaml sync --exclude _category_ --dir ragsync-output --exclude-dir _category_
