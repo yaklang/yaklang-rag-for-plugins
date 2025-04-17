@@ -47,4 +47,4 @@ jobs:
 
       - name: Run Ragsync
         run: |
-          ./ragsync -c ~/.ragsync/yaklang-plugins.ragsync.yaml sync --exclude _category_ --dir ragsync-output --exclude-dir _category_
+          ./ragsync -c ~/.ragsync/yaklang-plugins.ragsync.yaml sync --dir ragsync-output
